@@ -1,4 +1,4 @@
-== CdR UTN-FRC ==
+= CdR UTN-FRC =
 
 Descripción del Club:
 

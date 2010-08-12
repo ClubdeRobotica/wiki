@@ -1,1 +1,1 @@
-<<qwebirc(server="freenode",channels="#cdr-utnfrc")>>
+<<qwebirc(server="freenode",channels="#cdr-utnfrc",nick="gicWebIRC.")>>

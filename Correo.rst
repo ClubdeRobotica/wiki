@@ -4,7 +4,7 @@
 
 Siempre que se envía un email a "Club de Robótica UTN-FRC" <cdr (e t) usla (d ot) org (otro d ot) ar>, lo están recibiendo más de 80 personas. Por lo tanto, cada vez que se envía (o contesta) un email a la lista hay que ser muy cuidadoso.
 
-Cuál es la metodología que "recomendamos":
+Cuál es la metodología que 'recomendamos':
 
  1. Si ya hay un asunto, o hilo, que trata el tema de su interés, entonces hay que seguir ese hilo y NO crear uno nuevo. Tratando de responder sobre el último mensaje enviado.
 

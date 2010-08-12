@@ -3,4 +3,4 @@
  * claudiojpaz
  * marcoar
  * DiegoGonzalez
- * Juan González
+ * JuanGonzalez

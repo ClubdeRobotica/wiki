@@ -1,3 +1,4 @@
+{{LogoProyectos-CdR.png}}
 La sección ''Proyectos'' del CdR está dividida en dos sub-secciones:
  * [[ProyectosInstitucionales|Proyectos Institucionales]]
  * [[ProyectosIndependientes|Proyectos Independientes]]

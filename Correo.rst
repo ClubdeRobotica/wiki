@@ -1,6 +1,6 @@
 = Uso de la lista de correo =
 
-== Cómo utilizar la lista de correo: ==
+Cómo utilizar la lista de correo:
 
 Siempre que se envía un email a "Club de Robótica UTN-FRC" <cdr (e t) usla (d ot) org (otro d ot) ar>, lo están recibiendo más de 80 personas. Por lo tanto, cada vez que se envía (o contesta) un email a la lista hay que ser muy cuidadoso.
 

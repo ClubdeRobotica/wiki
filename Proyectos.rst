@@ -12,7 +12,8 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 Durante el transcurso del año 2010 esta metodología sera tan flexible como se requiera, a fin de poder comenzar a trabajar en los proyectos sin tantas etapas previas.
 
-
-[[Financiamiento|Financiamiento]]
+[[ModalidadTrabajo|Modalidad de trabajo]]
 
 [[Implementacion|Implementación]]
+
+[[Financiamiento|Financiamiento]]

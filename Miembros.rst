@@ -58,4 +58,8 @@ Una vez superada la etapa de iniciación pasan a formar parte del CdR como miemb
 7º Pasan a formar parte de la comisión directiva y/o a dirigir proyectos y/o cumplir el rol de asesores/tutores si así lo desean.
 
 
-Viel Spass!
+[[Actividades|Actividades]]
+
+[[Reuniones|Reuniones semanales]]
+
+[[CicloFormacion|Ciclo de formación]]

@@ -1,15 +1,49 @@
-Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReuniones2011|año 2011]] -> [[MinutasReuniones2012|año 2012]] -> [[MinutasReuniones2013|año 2013]]
+== Reuniones semanales ==
 
-== Reuniones semanales 2015 ==
+Reunión semanal del CdR:
 
- {{{#!wiki note
+--->Dónde:     Laboratorio de Técnicas Digitales UTN-FRC
 
-''' Proyectos: [[RSL]] y [[SUMO]] '''
+--->Cuándo:   Todos los lunes de 18:15hs a 20:15hs
 
- Laboratorio Central de Electrónica (Anexo) / Todos los '''Lunes''' desde las 16:00hs hasta las 20:00hs y '''Miércoles''' desde las 16:00hs hasta las 18:00hs
+Objetivo de las reuniones: Trabajar en las actividades programadas.
 
-''' Ciclo de formación: [[TallerDeProgramacion|Taller de Programación]]'''
+Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el Proyecto Robot Seguidor de Línea[1]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
 
- Laboratorio de Técnicas Digitales / Miércoles de 16:30hs a 18:30hs
+* Estamos planeando cerca del mes de Octubre un gran encuentro anual: feria, demostración, competencia. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
-}}}
+[1] https://sites.google.com/site/picdrutnfrc/proyecto-robot-seguidor-de-linea
+
+Próxima reunión:
+
+* Lunes 23 de Agosto, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+Histórico de reuniones:
+
+1º Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
+
+    - fecha:    jueves 8 de Abril de 2010,
+    - hora:     15hs, (con réplica a las 19hs para quienes no pudieron asistir)
+    - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
+
+1º Reunión de la Comisión Directiva: Organización interna.
+
+    - fecha:    lunes 26 de Abril de 2010,
+    - hora:     18hs,
+    - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central).
+
+2º Reunión grupal del CdR: Elección de los proyectos y conformación de los grupos.
+
+    - fecha:    jueves 13 de Mayo de 2010,
+    - hora:     15hs, (con réplica a las 19hs para quienes no pudieron asistir)
+    - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
+
+31/05/2010 Reunión semanal del CdR: Presentación de la Red de Trabajo Online para los miembros del CdR.
+
+07/06/2010 Reunión semanal del CdR: Prácticas con SVN. Proyecto VRTD.
+
+14/06/2010 Reunión semanal del CdR: Se trabajó con el servidor SVN. Se comentaron tareas relacionadas al Proy. VRTD. Algunos miembros comentaron/mostraron proyectos anteriores en los que han trabajado. Charlamos sobre tareas pendientes del club.
+
+02/08/2010 Reunión semanal del CdR: Se trabajó en la programación del segundo semestre.
+
+09/08/2010 Reunión semanal del CdR: Se distribuyeron las tareas referentes a infraestructura.

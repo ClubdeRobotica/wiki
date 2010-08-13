@@ -18,4 +18,4 @@ e-mail: < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
 
 e-mail: < hernaninformatica (a t) gmail (d ot) com>
 
-'''Bienvenida la primer comisión del club!'''
+'''Bienvenida la primera comisión del club!'''

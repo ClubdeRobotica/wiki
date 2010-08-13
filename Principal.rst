@@ -1,9 +1,16 @@
-= CdR UTN-FRC =
+= Bienvenida =
 
-Descripción del Club:
+Amigos, compañeros y colegas:
 
-El Club de Robótica es un emprendimiento extracurricular en etapa de formación, llevado a cabo por estudiantes de la UTN-FRC, orientado al diseño y construcción de plataformas robóticas móviles. Pueden acceder alumnos que se encuentren en cualquier etapa de la carrera, de cualquiera de las ingenierías. Desde ya, todo profesional que desee acercarse para compartir su experiencia y conocimientos, está invitado.
+Cual sopa primitiva de Alexander Oparín, el naciente Club de Robótica de la UTN-FRC pretende ser un medio destacado por su calidad humana, rico en elementos y dispositivos compuestos como transistores, cristales, micro controladores, sensores, código, motores, engranajes, plásticos y metales, fuentes de energía, y quien diría que en algún momento hasta hélices, tal que su justa proporción y adecuada combinación expuesta a descargas eléctricas, genere ese emocionante olor a colector quemado, y tan preciado incremento de la cantidad de movimiento de esa nueva creación!
 
-En relación directa con la carrera de Ing. Electrónica, el CdR busca introducir a los alumnos de los primeros años a la ingeniería de aplicación (y así mejorar el nivel de los estudiantes que entran a 3er año y comienzan sus actividades de laboratorio), y brindar apoyo a los estudiantes de los cursos superiores que deseen realizar proyectos integradores en el área de la robótica.
+Saludos!
 
-También busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área.
+Marco Alvarez Reyna
+
+UTN-FRC
+
+Córdoba, 11/03/2010 
+
+
+[[Descripcion|Descripción del club]]

@@ -30,3 +30,5 @@ UTN-FRC
 [[Galeria|Galería de imágenes]]
 
 [[Agradecimientos|Agradecimientos]]
+
+[[Contacto|Contacto]]

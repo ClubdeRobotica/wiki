@@ -1,42 +1,20 @@
-= Ciclo de formación =
+== Ciclo de formación ==
 
-Robot: ''Máquina o ingenio electrónico programable, capaz de manipular objetos y realizar operaciones antes reservadas sólo a las personas.''
+Robot. Máquina o ingenio electrónico programable, capaz de manipular objetos y realizar operaciones antes reservadas solo a las personas. Controlada por pingüinos.
 
-Como parte del ciclo de formación continua de los miembros del CdR tenemos planeado un ciclo de [[cdt|charlas de divulgación tecnológica]] (los temas se proponen en cada reunión) y la participación en charlas, seminarios y conferencias organizadas por terceros.
-
-== Actividades ==
-
-'''Realizadas:'''
-
-   1. Visita al CIII UTN-FRC. Charla sobre Robótica y SL.
-   1. Participación en el SFD/iFest 2010
-   1. Charlas de Divulgación Tecnológica: motores cc, puente h, pwm, fuentes conmutadas, sistemas energéticos, micro controladores PIC, modelos matemáticos de robots.
-
-'''Realizados:'''
-
-    [[Intro_Lab-Electr|CBE]]
-
-'''Próximamente:'''
-
-   1. Microcontroladores. Introducción a la tecnología ARM;
-   1. "Tecnología Bipolar";
-   1. “Tecnología MOS”;
-
-'''Temas propuestos:'''
+Temas propuestos:
 
    1. Iniciación al diseño electrónico con SL; KiCad
-   1. “Software Libre” y “Propiedad Intelectual”
-   1. “GNU/Linux”
-   1. “Desarrollo en Linux”
-   1. “Filosofía para la programación de software: Paradigmas de la programación”
-   1. "Sistemas embebidos con uProc. ARM"
-   1. "Linux en tiempo real, parche RTAI"
-   1. “Casos de Falla en sistemas embebidos”
-   1. “Robótica en la industria automotriz”
-   1. “Robótica y control: Estado del arte en Argentina”
-   1. “Vinculación Academia-Industria-Estado”
-   1. "Ingeniería de Software"
+   2. “Software Libre” y “Propiedad Intelectual”
+   3. “GNU/Linux”
+   4. “Desarrollo en Linux”
+   5. “Filosofía para la programación de software: Paradigmas de la programación”
+   6. "Sistemas embebidos con uProc. ARM"
+   7. “Casos de Falla en sistemas embebidos”
+   8. “Tecnología MOS”
+   9. “Robótica en la industria automotriz”
+  10. “Robótica y control: Estado del arte en Argentina”
+  11. “Vinculación Academia-Industria-Estado”
+  12. "Linux en tiempo real, parche RTAI"
 
-Se buscan disertantes! Si te animás a dar una charla, ponete en [[Contacto|contacto]] con el CdR para coordinar.
-
-[[cdt|Charlas de Divulgación Tecnológica]] | [[PlanificacionReuniones|Planificación Reuniones]] | [[cdt|Minutas reuniones]] | [[LinksInteres|Links de interés]]
+Cuatro de las charlas ya tienen disertante!

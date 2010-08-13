@@ -1,4 +1,7 @@
 = Bienvenida =
+
+Editores de la nueva wiki del CdR: La wiki es un reflejo de la info documentada en el servidor SVN del club, por favor si realizan cambios en el contenido durante la migración, actualicen su estado en el servidor. Gracias.
+
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Logo-CdR.jpg||width=200}} ||
 Amigos, compañeros y colegas:
 

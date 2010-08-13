@@ -18,3 +18,5 @@ UTN-FRC
 [[EstructuraOrganica|Estructura Orgánica]]
 
 [[ComisionDirectiva|Comisión Directiva 2010]]
+
+[[Objetivos|Objetivos]]

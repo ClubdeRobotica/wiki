@@ -15,6 +15,8 @@ UTN-FRC
 
 [[Descripcion|Descripción del club]]
 
+[[Miembros|Miembros]]
+
 [[EstructuraOrganica|Estructura Orgánica]]
 
 [[ComisionDirectiva|Comisión Directiva 2010]]

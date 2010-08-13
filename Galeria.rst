@@ -1,3 +1,3 @@
 == Galería de imágenes ==
 
-{{attachment:AfichePromocion-CdR.jpg}}
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:AfichePromocion-CdR.jpg||width=500}} ||

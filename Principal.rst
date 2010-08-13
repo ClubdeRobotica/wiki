@@ -7,6 +7,3 @@ El Club de Robótica es un emprendimiento extracurricular en etapa de formación
 En relación directa con la carrera de Ing. Electrónica, el CdR busca introducir a los alumnos de los primeros años a la ingeniería de aplicación (y así mejorar el nivel de los estudiantes que entran a 3er año y comienzan sus actividades de laboratorio), y brindar apoyo a los estudiantes de los cursos superiores que deseen realizar proyectos integradores en el área de la robótica.
 
 También busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área.
-
-
-[[Bienvenida|Bienvenida]]

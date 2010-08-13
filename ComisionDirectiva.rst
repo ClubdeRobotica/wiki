@@ -1,29 +1,21 @@
-Histórico: [[ComisionDirectiva2010|Comisión Directiva 2010]] -> [[ComisionDirectiva2011|Comisión Directiva 2011]] -> [[ComisionDirectiva2012|Comisión Directiva 2012]]
+== Comisión Directiva 2010 ==
+'''Dirección''': Marco Alvarez Reyna
 
-== Comisión Directiva 2013 ==
+e-mail: < direccion (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
 
-'''Dirección'''
-
- * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
-
-'''Tesorería'''
-
- * Luis Vazquez <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
-
-'''Coordinación'''
-
- * Hernán Paez hernaninformatica@gmail.com
-
- * Nicolás Ignacio <<MailTo(nnico AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
-
- * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com)>>
-
- * Germán Ontivero gerbonti377@gmail.com
-
- * Franco Becutti franco_becu@hotmail.com 
+'''Coordinación General''': Gustavo Martinez Spessot
 
 
-Los roles de Coordinación General y Relaciones Institucionales irán rotando entre los miembros de la comisión (por actividad).
+e-mail: < coordinacion (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
+
+'''Relaciones Institucionales''': Frank D. Schefer
 
 
-'''Bienvenidos!'''
+e-mail: < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
+
+'''Vocal''': Heran Paez
+
+
+e-mail: < hernaninformatica (a t) gmail (d ot) com>
+
+'''Bienvenida la primer comisión del club!'''

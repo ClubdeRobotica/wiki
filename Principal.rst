@@ -25,6 +25,8 @@ UTN-FRC
 
 [[Objetivos|Objetivos]]
 
-[[Agradecimientos|Agradecimientos]]
-
 [[PreguntasFrecuentes|Preguntas frecuentes]]
+
+[[Galeria|Galería de imágenes]]
+
+[[Agradecimientos|Agradecimientos]]

@@ -13,22 +13,13 @@ UTN-FRC
 ''Córdoba, 11/03/2010'' 
 
 
-[[Descripcion|Descripción del club]]
-
-[[Miembros|Miembros]]
-
-[[EstructuraOrganica|Estructura Orgánica]]
-
-[[ComisionDirectiva|Comisión Directiva 2010]]
-
-[[Mision|Misión]]
-
-[[Objetivos|Objetivos]]
-
-[[PreguntasFrecuentes|Preguntas frecuentes]]
-
-[[Galeria|Galería de imágenes]]
-
-[[Agradecimientos|Agradecimientos]]
-
-[[Contacto|Contacto]]
+[[Descripcion|Descripción del club]]*
+[[Miembros|Miembros]]*
+[[EstructuraOrganica|Estructura Orgánica]]*
+[[ComisionDirectiva|Comisión Directiva 2010]]*
+[[Mision|Misión]]*
+[[Objetivos|Objetivos]]*
+[[PreguntasFrecuentes|Preguntas frecuentes]]*
+[[Galeria|Galería de imágenes]]*
+[[Agradecimientos|Agradecimientos]]*
+[[Contacto|Contacto]]*

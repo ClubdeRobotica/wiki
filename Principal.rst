@@ -14,3 +14,5 @@ UTN-FRC
 
 
 [[Descripcion|Descripción del club]]
+
+[[EstructuraOrganica|Estructura Orgánica]]

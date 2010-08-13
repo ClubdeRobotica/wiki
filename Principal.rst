@@ -19,6 +19,8 @@ UTN-FRC
 
 [[ComisionDirectiva|Comisión Directiva 2010]]
 
+[[Mision|Misión]]
+
 [[Objetivos|Objetivos]]
 
 [[Agradecimientos|Agradecimientos]]

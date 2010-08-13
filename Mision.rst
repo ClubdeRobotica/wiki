@@ -1,6 +1,6 @@
 == Misión ==
 
-Se busca que los miembros evolucionen gradualmente hacia estructuras de pensamiento e implementaciones más complejas partiendo de estructuras simples, tanto mentales como sintéticas, inmersos en un medio integrador y multidisciplinario.
+Se busca que los miembros evolucionen gradualmente hacia estructuras de pensamiento e implementaciones más complejas partiendo de estructuras simples, tanto mentales como sintéticas inmersos en un medio integrador y multidisciplinario.
 
 En relación directa con la carrera de Ing. Electrónica, el CdR busca introducir a los estudiantes de los primeros años a la ingeniería de aplicación, y ayudar a los alumnos de los cursos superiores con sus proyectos integradores y finales.
 
@@ -18,4 +18,4 @@ Asimismo se pretende promover:
 
 El CdR puede ser desde un lugar de encuentro y satisfacción para el hobbysta, hasta un ámbito de desarrollo para poder insertarse posteriormente, con más experiencia y conocimientos en algún grupo o centro de investigación formal, o quizás definir una especialidad como profesionales.
 
-Si sos parte de la UTN-FRC y querés participar del CdR envía un e-mail a la dirección de [[Contacto|contacto]] presentándote.
+Si sos parte de la UTN-FRC y querés participar del CdR envía un e-mail a la dirección de contacto presentándote.

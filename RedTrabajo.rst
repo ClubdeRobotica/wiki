@@ -32,9 +32,9 @@ La dirección del servidor SVN es: svn://cdrutnfrc.homelinux.org/CdR
 
 Desde Linux:
 
- 1. Instalar un cliente[3] “subversion” (SVN) apto para su distribución de Linux. Puede ser “kdesvn” si utilizan el escritorio KDE (también qsvn o simplemente usarlo por línea de comando)
- 1. Verificar que el puerto que utiliza SVN esté abierto en el contrafuegos. SVN utiliza normalmente el puerto 3690.
- 1. Abrir una consola (por ejemplo: “konsole”) y crear una carpeta en nuestro directorio de trabajo llamada “Proyectos”, y dentro de ella otra carpeta llamada “CdR”.
+ * Instalar un cliente[3] “subversion” (SVN) apto para su distribución de Linux. Puede ser “kdesvn” si utilizan el escritorio KDE (también qsvn o simplemente usarlo por línea de comando)
+ * Verificar que el puerto que utiliza SVN esté abierto en el contrafuegos. SVN utiliza normalmente el puerto 3690.
+ * Abrir una consola (por ejemplo: “konsole”) y crear una carpeta en nuestro directorio de trabajo llamada “Proyectos”, y dentro de ella otra carpeta llamada “CdR”.
 {{{
 usr@linux:~>mkdir Proyectos
 
@@ -42,12 +42,12 @@ usr@linux:~>cd Proyectos
 
 usr@linux:~/Proyectos>mkdir CdR
 }}}
- 3. Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
+ * Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 {{{
 usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR”
 }}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
- 4. Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
+ * Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
 {{{
 usr@linux:~/Proyectos/CdR>svn commit -m “comentario enriquecedor sobre lo que se modificó de no más de un renglón”
 }}}
@@ -85,12 +85,12 @@ up=update; → ci=commi; (+bloqueo/desbloqueo)
 
 Si por algún motivo no recuerdan si han hecho un commit anteriormente y no sabes el estado de tu copia de trabajo, ejecuten [ svn status ] y les indicará que cambios en su copia local se han producido (no así los cambios en el server)
 
-¿Cómo conectarse el servidor del CdR?
+=== ¿Cómo conectarse el servidor del CdR? ===
 
 Desde Linux:
 
- 1. Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con el grupo de SLUC[1])
- 1. Desde cualquier consola mediante el comando “ssh”, por ejemplo:
+ * Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con el grupo de SLUC[1])
+ * Desde cualquier consola mediante el comando ''ssh'', por ejemplo:
 {{{
 usr@linux:~>ssh -p puerto usr@cdrutnfrc.homelinux.org
 }}}

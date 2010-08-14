@@ -28,7 +28,7 @@ Para bajar una copia del Proyecto CdR completo no hace falta autentificación. P
 
 La dirección del servidor SVN es: svn://cdrutnfrc.homelinux.org/CdR
 
-¿Cómo bajar una copia del Proyecto CdR?
+=== ¿Cómo bajar una copia del Proyecto CdR? ===
 
 Desde Linux:
 
@@ -45,7 +45,8 @@ usr@linux:~/Proyectos>mkdir CdR
  1. Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 {{{
 usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR”
-}}} Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
+}}}
+Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
  1. Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
 {{{
 usr@linux:~/Proyectos/CdR>svn commit -m “comentario enriquecedor sobre lo que se modificó de no más de un renglón”
@@ -88,13 +89,12 @@ Si por algún motivo no recuerdan si han hecho un commit anteriormente y no sabe
 
 Desde Linux:
 
-1º Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con el grupo de SLUC[1])
-
-2º Desde cualquier consola mediante el comando “ssh”, por ejemplo:
-
+ 1. Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con el grupo de SLUC[1])
+ 1. Desde cualquier consola mediante el comando “ssh”, por ejemplo:
+{{{
 usr@linux:~>ssh -p puerto usr@cdrutnfrc.homelinux.org
-
-* El servidor les preguntará su psw.
+}}}
+El servidor les preguntará su psw.
 
 Pónganse en contacto para obtener el nombre de usuario, contraseña y número de puerto (se cambió el puerto por defecto por razones de seguridad)
 

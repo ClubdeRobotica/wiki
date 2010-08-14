@@ -12,11 +12,11 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 Durante el transcurso del año 2010 esta metodología sera tan flexible como se requiera, a fin de poder comenzar a trabajar en los proyectos sin tantas etapas previas.
 
-[[ModalidadTrabajo|Modalidad de trabajo]]
-
-[[Implementacion|Implementación]]
-
+[[ModalidadTrabajo|Modalidad de trabajo]] |
+[[Implementacion|Implementación]] |
 [[Financiamiento]]
+
+''Resumen de los proyectos:''
 
 === Proyectos Institucionales ===
 '''P#1 MiniLab'''
@@ -83,7 +83,7 @@ Una vez que un proyecto se selecciona de la base de datos pasa a la zona de proy
 
 Un pequeño ejemplo lo que podría ser este proyecto es esta misma página.
 
-==== __Propuestas__ ====
+==== Propuestas de proyecto: ====
 === Proyectos Independientes ===
 '''P#5 Lego Robot'''
 
@@ -108,7 +108,6 @@ En condiciones similares a la propuesta del P#2, contamos con un brazo robótico
 
 
 ''' P#8 Proyecto M-Touch '''
-||<#00ff00>''Proyecto Activo'' ||
 
 
 
@@ -131,7 +130,7 @@ Vehículo no tripulado acuático, submarino, tele operado, autónomo. Para inspe
 === ¿Cómo proponer un proyecto? ===
 Todo aquel que haya trabajado, que este trabajando actualmente, o que tenga una propuesta de proyecto en el área de robótica, está invitado a acercarse al CdR para compartirla y analizar su viabilidad.
 
-Para poder elevar un proyecto como propuesta, deben enviar un informe por e-mail a: clubrobotica (dot) utnfrc (at) gmail (dot) com, con: la propuesta de proyecto con aplicación u objetivos, descripción y funcionamiento básico, estado de avance (todo como máximo media página A4 de texto) y una foto o gráfico de no mas de 200kB adjunta al e-mail. Si desean que su nombre salga publicado relacionado al proyecto aclárenlo. Si quien propone ya pertenece a la lista de correo del CdR, puede generar un nuevo hilo colocando en el asunto el “Propuesta de proyecto: <título>”, con los  ítems anteriormente descriptos y comenzar un debate con los miembros del CdR para ir redondeando el proyecto (y de paso buscar adeptos) Una vez que se llega a una versión mínima de la idea del proyecto, con acuerdo de quienes lo propusieron, se sube el proyecto a la página Web pública del CdR (a la base de datos de proyectos) para su promoción y búsqueda de interesados. Cuando el proyecto alcance cierta masa crítica (adeptos, recursos materiales, asesor, etc..) se decidirá su lanzamiento e .[[Implementacion|implementación]].
+Para poder elevar un proyecto como propuesta, deben enviar un informe por e-mail a: clubrobotica (dot) utnfrc (at) gmail (dot) com, con: la propuesta de proyecto con aplicación u objetivos, descripción y funcionamiento básico, estado de avance (todo como máximo media página A4 de texto) y una foto o gráfico de no mas de 200kB adjunta al e-mail. Si desean que su nombre salga publicado relacionado al proyecto aclárenlo. Si quien propone ya pertenece a la lista de correo del CdR, puede generar un nuevo hilo colocando en el asunto el “Propuesta de proyecto: <título>”, con los  ítems anteriormente descriptos y comenzar un debate con los miembros del CdR para ir redondeando el proyecto (y de paso buscar adeptos) Una vez que se llega a una versión mínima de la idea del proyecto, con acuerdo de quienes lo propusieron, se sube el proyecto a la página Web pública del CdR (a la base de datos de proyectos) para su promoción y búsqueda de interesados. Cuando el proyecto alcance cierta masa crítica (adeptos, recursos materiales, asesor, etc..) se decidirá su lanzamiento e [[Implementacion|implementación]].
 
 
 

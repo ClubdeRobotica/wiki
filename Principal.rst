@@ -8,8 +8,6 @@ Saludos!
 
 Marco Alvarez Reyna
 
-UTN-FRC
-
 ''Córdoba, 11/03/2010'' 
 
 ''Editores de la nueva '''wiki''' del CdR: La vieja web del club es un reflejo de la info documentada en el servidor SVN del CdR, por favor si realizan cambios en el contenido durante la migración a la nueva wiki, actualicen su estado en el servidor. Gracias.''

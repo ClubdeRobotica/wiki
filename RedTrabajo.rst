@@ -43,13 +43,11 @@ usr@linux:~>cd Proyectos
 usr@linux:~/Proyectos>mkdir CdR
 }}}
  1. Hacer un primer “checkout” del proyecto.
-
 Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 {{{
 usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR”
 }}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
-
  1. Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
 {{{
 usr@linux:~/Proyectos/CdR>svn commit -m “comentario enriquecedor sobre lo que se modificó de no más de un renglón”

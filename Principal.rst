@@ -21,4 +21,4 @@ Marco Alvarez Reyna
 [[PreguntasFrecuentes|Preguntas frecuentes]] |
 [[Galeria|Galería de imágenes]] |
 [[Agradecimientos|Agradecimientos]] |
-[[Contacto|Contacto]] |
+[[Contacto|Contacto]]

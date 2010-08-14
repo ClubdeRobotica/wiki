@@ -65,36 +65,43 @@ Desde Win$:
 
 * Si están trabajando en un proyecto y no tienen autentificación en el servidor hagan el pedido por email (si no, no podrán guardar los cambios en el servidor SVN)
 
-Procedimiento básico para trabajar con el SVN:
+=== Procedimiento básico para trabajar con el SVN: ===
 
-SVN puede hacer bien su tarea con archivos de texto plano (típico .txt) Si no lo son la cosa se complica. Es el caso de los archivos ODT y otros relacionados a Openoffice. Éstos poseen formato XML comprimido, y SVN los trata como si fueran archivos binarios ya que no puede leer en su interior.
+SVN puede hacer bien su tarea con archivos de texto plano (típico .txt) Si no lo son la cosa se complica. Es el caso de los archivos ODT y otros relacionados a OpenOffice. Éstos poseen formato XML comprimido, y SVN los trata como si fueran archivos binarios ya que no puede leer en su interior.
 
 Por lo tanto, no es posible hacer la operación de mezcla o fusión automáticamente cuando dos personas modificaron el mismo archivo al mismo tiempo y hay que hacerlo a mano. Para prevenir mayores inconvenientes en esta situación se recomienda el siguiente procedimiento a la hora de comenzar a trabajar:
 
 up=update; → ci=commi; (+bloqueo/desbloqueo)
 
-   1.
+ * Al inicio del momento/día de trabajo SIEMPRE hacer un 
+{{{
+svn up
+}}}
+para actualizar la copia de trabajo local;
+ * Luego de haber trabajado sobre la copia local siempre hacer un
+{{{
+svn ci -m "comentario enriquecedor"
+}}}
+para subir la copia local al servidor (por ejemplo al final del día/momento de trabajo). En lo posible no hay que dejar pasar mucho tiempo sin hacer un commit para evitar luego mayores problemas en la fusión de la información.
 
-      Al inicio del momento/día de trabajo SIEMPRE hacer un [ svn up ] para actualizar la copia de trabajo local;
-   2.
+ * Una opción complementaria al punto 1 y 2 es la de bloquear el archivo que se va a editar en el servidor (esto se puede hacer con kdesvn, qsvn o TortoiseSVN), trabajar sobre él, hacer un commit e inmediatamente después sacarle el bloqueo para que otro usuario pueda modificarlo.
 
-      Luego de haber trabajado sobre la copia local siempre hacer un [ svn ci -m "comentario enriquecedor" ] para subir la copia local al servidor (por ejemplo al final del día/momento de trabajo). En lo posible no hay que dejar pasar mucho tiempo sin hacer un commit para evitar luego mayores problemas en la fusión de la información.
-   3.
-
-      Una opción complementaria al punto 1 y 2 es la de bloquear el archivo que se va a editar en el servidor (esto se puede hacer con kdesvn, qsvn o TortoiseSVN), trabajar sobre él, hacer un commit e inmediatamente después sacarle el bloqueo para que otro usuario pueda modificarlo.
-
-Si por algún motivo no recuerdan si han hecho un commit anteriormente y no sabes el estado de tu copia de trabajo, ejecuten [ svn status ] y les indicará que cambios en su copia local se han producido (no así los cambios en el server)
+Si por algún motivo no recuerdan si han hecho un commit anteriormente y no sabes el estado de tu copia de trabajo, ejecuten
+{{{
+svn status
+}}}
+y les indicará que cambios en su copia local se han producido (no así los cambios en el server)
 
 === ¿Cómo conectarse el servidor del CdR? ===
 
 Desde Linux:
 
- * Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con el grupo de SLUC[1])
+ * Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con [[http://sluc.org.ar|SLUC]])
  * Desde cualquier consola mediante el comando ''ssh'', por ejemplo:
 {{{
 usr@linux:~>ssh -p puerto usr@cdrutnfrc.homelinux.org
 }}}
-El servidor les preguntará su psw.
+El servidor les preguntará su ''psw''.
 
 Pónganse en contacto para obtener el nombre de usuario, contraseña y número de puerto (se cambió el puerto por defecto por razones de seguridad)
 
@@ -113,7 +120,7 @@ Para loguearse el servidor les pedirá el nombre de usuario y la contraseña.
 Pónganse en contacto para obtener el nombre de usuario, contraseña y número de puerto (se cambió el puerto por defecto por razones de seguridad)
 
 
-En la www se puede encontrara mucha y muy buena información referida a “subversion” y “ssh”. Este tutorial sólo pretende ser una pequeña guía de introducción.
+En la www se puede encontrara mucha y muy buena información referida a ''subversion'' y ''ssh''. Este tutorial sólo pretende ser una pequeña guía de introducción.
 
 Éxitos!
 

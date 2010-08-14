@@ -2,18 +2,11 @@
 
 La Red de Trabajo para los miembro del CdR está compuesta por:
 
-    *
+ * Los sitios web: principal y de proyectos.
+ * La lista de correo, e-mails de la comisión y encargados de proyectos.
+ * El Servidor del CdR con los servicios SVN, SSH (y HTTP)
 
-      Los sitios web: principal y de proyectos.
-    *
-
-      La lista de correo, e-mails de la comisión y encargados de proyectos.
-    *
-
-      El Servidor del CdR con los servicios SVN, SSH (y HTTP)
-
-
-Servidor del CdR
+=== Servidor del CdR ===
 
 El servidor prestará los servicios SSH y SVN. Se podrá acceder por SSH para hacer ensayos en Linux (compilar, correr programas); Éste alojará también un servidor SVN para copias de seguridad de los archivos del CdR (código y documentación) y control de versiones[0][5]. Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
 
@@ -21,16 +14,14 @@ Dirección del servidor: http://cdrutnfrc.homelinux.org/ El mismo se encuentra e
 
 Horarios en los que se encontrará online el servidor:
 
-    *
-
-      Todos los días de 17hs a 24hs
+ * Todos los días de 17hs a 24hs
 
 Todos los servicios ya están en marcha.
 
 Para comprobar la disponibilidad del servidor ejecutar en una consola:
-
-“ping cdrutnfrc.homelinux.org”
-
+{{{
+ping cdrutnfrc.homelinux.org
+}}}
 Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del CdR.
 
 Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado en el servidor con nombre de usuario y contraseña.
@@ -41,30 +32,28 @@ La dirección del servidor SVN es: svn://cdrutnfrc.homelinux.org/CdR
 
 Desde Linux:
 
-1º Instalar un cliente[3] “subversion” (SVN) apto para su distribución de Linux. Puede ser “kdesvn” si utilizan el escritorio KDE (también qsvn o simplemente usarlo por línea de comando)
-
-2º Verificar que el puerto que utiliza SVN esté abierto en el contrafuegos. SVN utiliza normalmente el puerto 3690.
-
-3º Abrir una consola (por ejemplo: “konsole”) y crear una carpeta en nuestro directorio de trabajo llamada “Proyectos”, y dentro de ella otra carpeta llamada “CdR”.
-
+ 1. Instalar un cliente[3] “subversion” (SVN) apto para su distribución de Linux. Puede ser “kdesvn” si utilizan el escritorio KDE (también qsvn o simplemente usarlo por línea de comando)
+ 1. Verificar que el puerto que utiliza SVN esté abierto en el contrafuegos. SVN utiliza normalmente el puerto 3690.
+ 1. Abrir una consola (por ejemplo: “konsole”) y crear una carpeta en nuestro directorio de trabajo llamada “Proyectos”, y dentro de ella otra carpeta llamada “CdR”.
+{{{
 usr@linux:~>mkdir Proyectos
 
 usr@linux:~>cd Proyectos
 
 usr@linux:~/Proyectos>mkdir CdR
-
-4º Hacer un primer “checkout” del proyecto.
+}}}
+ 1. Hacer un primer “checkout” del proyecto.
 
 Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
-
+{{{
 usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR”
-
+}}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
 
-5º Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
-
+ 1. Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
+{{{
 usr@linux:~/Proyectos/CdR>svn commit -m “comentario enriquecedor sobre lo que se modificó de no más de un renglón”
-
+}}}
 El servidor les preguntará por su nombre de usuario y contraseña. No olvidar los comentarios sobre que se edito!
 
 Desde Win$:

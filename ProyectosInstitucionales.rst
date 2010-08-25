@@ -1,10 +1,19 @@
 == Proyectos Institucionales ==
-Los ''Proyectos Institucionales'' son parte de la iniciación de los miembros ingresantes al CdR. Éstos son dirigidos y coordinados mayoritariamente por la comisión directiva del club, con la colaboración de delegados, y tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inician en la electrónica y la robótica. 
 
-[[MiniLab|Proyecto MiniLab]]
+Los ''Proyectos Institucionales'' son parte del camino de iniciación de los miembros del CdR. Éstos proyectos son dirigidos y coordinados mayoritariamente por la comisión directiva del club (con la colaboración de delegados). Se inician cada año. Los miembros pueden unirse en cualquier momento durante el transcurso del ciclo, pero se recomienda que se unan al comenzar el semestre. Tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inician en la electrónica y la robótica. Hay que tener en cuenta que muchos de los miembros del CdR no pertenecen a electrónica. Asimismo, muchos de los miembros de electrónica de los primeros años tienen relativamente poca experiencia en electrónica aplicada.
 
-[[VRTD|VRTD - Robot con tracción diferencial]]
+Propuestas de proyectos y sus responsables:
 
-[[RSL| Robot Seguidor de Línea]]
+[[MiniLab|Proyecto MiniLab]]: Frank Schefer
 
-[[BancoDatos|Banco de datos]]
+[[VRTD|VRTD - Robot con tracción diferencial]]: Marco Alvarez Reyna
+
+[[RSL| Robot Seguidor de Línea]]: Gustavo M. Spessot
+
+[[BancoDatos|Banco de datos]]: Hernán Paez
+
+
+
+¿Cómo participar?
+
+Si te interesa alguno de los proyectos y quieras participar, escribí a la dirección de contacto del club comentándonos, o escribí directamente al responsable del proyecto en cuestión (las direcciones están publicadas). A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

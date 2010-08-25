@@ -40,3 +40,9 @@ los datos recibidos. Hay que diseñar un protocolo, portable, escalable, reutili
 leds y en el display, las salidas solamente en el display)
  
 * La idea sería poder intervenir un sistema de control de un robót en cualquiera de sus etapas, ya sea para monitoreo o para suplantación de señales, para poder modificar o verificar las condiciones de funcionamiento, etc...
+
+
+
+¿Cómo participar?
+
+Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

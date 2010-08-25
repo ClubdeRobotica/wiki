@@ -12,12 +12,6 @@ Durante el transcurso del año 2010 esta metodología sera tan flexible como se 
 [[Implementacion|Implementación]] |
 [[Financiamiento]]
 
-'''Fotos de la plataforma:  '''
-||<tablewidth="100%" tablestyle="text-align: left;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD.jpg||width="200"}} ||
-||<tablewidth="100%" tablestyle="text-align: left;"50%  style="border: medium none ; text-align: center;"> {{attachment:VRTD1.jpg||width="200"}} ||
-||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD2.jpg||width="200"}} ||
-||<tablewidth="100%" tablestyle="text-align: left;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD3.jpg||width="200"}} ||
-
 '''P#3 Robot Seguidor de Línea'''
 ||<#00ff00>''Proyecto Activo'' ||
 

@@ -6,58 +6,17 @@ La sección ''Proyectos'' del CdR está dividida en dos sub-secciones:
  * [[ProyectosInstitucionales|Proyectos Institucionales]]
  * [[ProyectosIndependientes|Proyectos Independientes]]
 
-Los ''Proyectos Institucionales'' son parte de la iniciación de los miembros ingresantes al CdR. Éstos son dirigidos y coordinados mayoritariamente por la comisión directiva del club, con la colaboración de delegados, y tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inician en la electrónica y la robótica.
-
-Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y llevados adelante, tanto en su dirección, coordinación y ejecución por miembros del CdR, bajo el esquema propuesto.
-
 Durante el transcurso del año 2010 esta metodología sera tan flexible como se requiera, a fin de poder comenzar a trabajar en los proyectos sin tantas etapas previas.
 
 [[ModalidadTrabajo|Modalidad de trabajo]] |
 [[Implementacion|Implementación]] |
 [[Financiamiento]]
 
-''Resumen de los proyectos:''
-
-=== Proyectos Institucionales ===
-'''P#1 MiniLab'''
-||<#00ff00>''Proyecto Activo'' ||
-
-
-
-
-Construcción del MiniLab. Para ingresantes al CdR, alumnos de los primeros años de Ing. Electrónica y todo estudiante de otra especialidad que lo desee. Ideal para comenzar a desarrollar proyectos e introducirse a la electrónica. Podría acompañarse con la construcción de una fuente de laboratorio y un curso básico de electrónica, soldadura, etc... Se haría en el primer semestre para que luego puedan continuar con el curso de Introducción a Laboratorio brindado por la CEE. Cumplimentada estas dos etapas (MiniLab+Fuente;Curso de la CEE) estarían en condiciones de tomar al año siguiente un proyecto propio. Durante esta primer etapa de formación los ingresantes trabajarían en conjunto con desarrolladores de los años superiores o proyectos ya avanzados introduciéndose a las técnicas de la robótica.
-
-Nota: De todas maneras, si un grupo de los primeros años se siente en condiciones de afrontar un proyecto, sin haber transitado esta etapa de iniciación, puede hacerlo.
-
-'''P#2 VRTD - Robot con tracción diferencial'''
-||<#00ff00>''Proyecto Activo'' ||
-
-
-
-
-Como punto de partida contamos con una plataforma lista para usar desde el punto de vista mecánico. Es un robot con orugas de 25x35x~20cm, tracción diferencial, caja con dos relaciones (H/L), construido en duraluminio T-6 y poliamida 6. Apto para maltrato y experimentación. También cuenta con un cabezal móvil con dos grados de libertad (azimut y elevación) dotado de motores de paso y reductores, con su respectiva etapa de potencia e interfaz. En términos generales hay que implementar el sistema de baterías, el gestor de energía y servicios, drivers de potencia, la UCP y Control, sensorística, sistema de comunicaciones y transmisión de datos y visualización (interfaz humana). También contamos con un pequeño stock de electrónica (uControladores varios 16F,18F, Kit PicStart Plus, placas de prueba, sensores de temperatura, amp. op., acelerómetros, GPS y drivers de potencia) como para largar sin una gran inversión. En este punto el capital humano es lo prioritario. En función de su aplicación (a definir) hay que bautizarlo! Y trazar las líneas de desarrollo.
-
- . '''Fase 1:''' Comando a distancia. Se implementaría una CPU esclava montada sobre el VRTD, en este caso podría ser una placa con PIC que ya fue desarrollada por un miembro de la CEE, con puerto serial y ADC, que reciba ordenes de una CPU maestra remota por medio de un vínculo cableado. '''Fase 2:''' Control autónomo. Algunas ideas para implementar en esta fase, propuestas por otro miembro de la CEE:
-  1. Utilizar la placa con DSPIC diseñada para Técnicas Digitales 3 como unidad central de proceso: la cooperativa fabrica el programador.
-  1. Utilizar la nueva placa con núcleo ARM diseñada para Técnicas Digitales 2 como unidad central de proceso: hay buena experiencia de aplicación en robótica en el CIII.
- '''Fase 3:''' Control autónomo. Telemetría. Sería posible la reprogramación a distancia y la lectura de datos de los sensores. Habría que implementar un lazo de comunicación bidireccional inalámbrico.
-
-'''Propuesta de aplicación:'''
-
- * Utilizarlo en apoyo a la Cátedra de Informática 2 para que los alumnos realicen algún práctico extracurricular de programación en C/C++.
-
- * Plataforma sobre la cual alumnos de la cátedra de Sistemas de Control puedan implementar algún algoritmo para el control sobre los motores.
-
- * También podría ser utilizado por la cátedra de Técnicas Digitales 3.
-
 '''Fotos de la plataforma:  '''
 ||<tablewidth="100%" tablestyle="text-align: left;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD.jpg||width="200"}} ||
 ||<tablewidth="100%" tablestyle="text-align: left;"50%  style="border: medium none ; text-align: center;"> {{attachment:VRTD1.jpg||width="200"}} ||
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD2.jpg||width="200"}} ||
 ||<tablewidth="100%" tablestyle="text-align: left;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD3.jpg||width="200"}} ||
-
-
-
 
 '''P#3 Robot Seguidor de Línea'''
 ||<#00ff00>''Proyecto Activo'' ||

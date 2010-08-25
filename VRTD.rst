@@ -17,3 +17,10 @@ Propuesta de aplicación:
     * Utilizarlo en apoyo a la Cátedra de Informática 2 para que los alumnos realicen algún práctico extracurricular de programación en C/C++.
     * Plataforma sobre la cual alumnos de la cátedra de Sistemas de Control puedan implementar algún algoritmo para el control sobre los motores.
     * También podría ser utilizado por la cátedra de Técnicas Digitales 3. 
+
+
+'''Fotos de la plataforma:  '''
+||<tablewidth="100%" tablestyle="text-align: left;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD.jpg||width="200"}} ||
+||<tablewidth="100%" tablestyle="text-align: left;"50%  style="border: medium none ; text-align: center;"> {{attachment:VRTD1.jpg||width="200"}} ||
+||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD2.jpg||width="200"}} ||
+||<tablewidth="100%" tablestyle="text-align: left;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD3.jpg||width="200"}} ||

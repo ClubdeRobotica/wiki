@@ -4,22 +4,23 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 Propuestas de proyectos y sus responsables:
 
-* Patrocinados por el CdR (buscan coordinador y grupo de trabajo para independizarse):
 
-[[Lego|Lego Robot: CdR]]
+* Patrocinados por el CdR (buscan coordinador y grupo de trabajo para independizarse!):
 
-[[VANT|Vehículo Aéreo no Tripulado (VANT): CdR]]
+[[Lego|Lego Robot]]: CdR
 
-[[PortadorArticulado|Portador Articulado: CdR]]
+[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: CdR
+
+[[PortadorArticulado|Portador Articulado]]: CdR
 
 
 * Independientes:
 
-[[MTouch|Proyecto M-Touch (SCTI): Martín Exequiel Rosas]]
+[[MTouch|Proyecto M-Touch (SCTI)]]: Martín Exequiel Rosas
 
-[[LITO|Proyecto LITO: Martín Exequiel Rosas]]
+[[LITO|Proyecto LITO]]: Martín Exequiel Rosas
 
-[[VSANT|Proyecto Acua(ro)Bot (VSANT): Jorge Montaño]]
+[[VSANT|Proyecto Acua(ro)Bot (VSANT)]]: Jorge Montaño
 
 
 

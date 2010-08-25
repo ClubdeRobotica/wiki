@@ -9,6 +9,7 @@ Introducción y objetivos:
 
 Primer proyecto de robótica de los miembros del CdR. Aprovechando la experiencia y conocimientos capitalizados en el desarrollo del P201003-002, los miembros del CdR se dividirán en grupos de trabajo para conformar cada uno un Robot Seguidor de Línea, en vistas de realizar una demostración y competencia al finalizar el ciclo. Se trazarían líneas generales de desarrollo y luego cada grupo las implementaría bajo su criterio y posibilidades, con el asesoramiento del CdR. Una alternativa para homogeneizar la plataforma y poder centralizarse en el desarrollo electrónico (por lo menos hasta que se conforme una sección de mecánica) es adquirir vehículos comerciales, y adaptarlos para que nos sean de utilidad.
 
+
 Un ejemplo de robots seguidores de línea del CdR de la FIUBA: http://www.sase.com.ar/workshop
 
 Este es otro ejemplo de seguidor de linea http://www.x-robotics.com el cual es un circuito analógico y sera nuestro punto de partida.

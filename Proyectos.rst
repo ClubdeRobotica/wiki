@@ -1,4 +1,4 @@
-||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:SeccionProyectos-CdR.jpg}} ||
+||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:SeccionProyectos-CdR.jpg||width=300}} ||
 
 La sección ''Proyectos'' del CdR está dividida en dos sub-secciones:
 

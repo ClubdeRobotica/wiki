@@ -8,10 +8,6 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 
 También busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área. 
 
-Atención!!
-
-
-''Editores de la nueva '''wiki''' del CdR: La vieja web del club es un reflejo de la info documentada en el servidor SVN del CdR, por favor si realizan cambios en el contenido durante la migración a la nueva wiki, actualicen su estado en el servidor. Gracias.''
 
 [[Bienvenida|Bienvenida]] |
 [[Miembros|Miembros]] |

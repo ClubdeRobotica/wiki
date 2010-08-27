@@ -9,7 +9,7 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 También busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área. 
 
 
-[[Bienvenida|Bienvenida]] |
+[[Bienvenida|Palabras de bienvenida]] |
 [[Miembros|Miembros]] |
 [[EstructuraOrganica|Estructura Orgánica]] |
 [[ComisionDirectiva|Comisión Directiva 2010]] |

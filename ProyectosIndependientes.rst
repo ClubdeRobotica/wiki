@@ -9,12 +9,12 @@ Propuestas de proyectos y sus responsables:
 
 [[Lego|Lego Robot]]: CdR
 
-[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
-
 [[PortadorArticulado|Portador Articulado]]: CdR
 
 
 * Independientes:
+
+[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
 [[MTouch|Proyecto M-Touch (SCTI)]]: Martín Exequiel Rosas
 

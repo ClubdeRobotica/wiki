@@ -16,7 +16,7 @@ Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad
 
 Próxima reunión:
 
-* Lunes 23 de Agosto, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 30 de Agosto, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 Histórico de reuniones:
 
@@ -47,3 +47,5 @@ Histórico de reuniones:
 02/08/2010 Reunión semanal del CdR: Se trabajó en la programación del segundo semestre.
 
 09/08/2010 Reunión semanal del CdR: Se distribuyeron las tareas referentes a infraestructura.
+
+23/08/2010 Reunión semanal del CdR: Charlamos sobre la implementación de la tesorería y el estado de avance de los proyectos.

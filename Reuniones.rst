@@ -12,9 +12,9 @@ Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad
 
 * Estamos planeando cerca del mes de Octubre un gran encuentro anual: feria, demostración, competencia. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
-[1] https://sites.google.com/site/picdrutnfrc/proyecto-robot-seguidor-de-linea
+[1] http://cdr.usla.org.ar/RSL
 
-Próxima reunión:
+'''''Próxima reunión:'''''
 
 * Lunes 30 de Agosto, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 

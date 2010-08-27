@@ -104,6 +104,10 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 * Li-Ión (polímero): alta densidad de energía vs peso, excelente para aeronáutica
 
+'''Definiciones lenguaje aeronáutico:'''
+
+http://www.md80.com.ar/definicion_perf.html
+
 '''Algunos diagramas:'''
 
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant.jpg||width="400"}} ||

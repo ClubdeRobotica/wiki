@@ -18,6 +18,10 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 * Modelo de elevación (topografía/orografía) de la NASA
 
+* Caracterización de los sistemas/subsistemas tanto eléctricos como mecánicos (motor)
+
+* Normativa: No hay una regulación clara en Argentina sobre VANTS, sobretodo debido a la dificultad en la definición sobre que es un VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
+
 '''Áreas de vacancia en el mercado argentino referente a VATN`s:'''
 
 - despegue autónomo
@@ -60,6 +64,13 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 - velocidad de viento soportado
 
+- correción de la geometría de las fotos para poder formar un mosaico coherente y de buena calidad, este proceso es muy caro
+
+- el autopiloto comercial no es capaz de tomar acciones de emergencia en función de parámetros externos (fuera de pérdida total de motor, pérdida de GPS, o pérdida de comunicacion con la BT) y es necesaria la intervención del operador del VANT para tomar acciones preventivas/correctivas.
+
+- implementación de planes de emergencia totalmente autónomos en función de todas las situaciones principales de falla
+
+
 '''Precios:'''
 
 * Autopiloto completo (Piccolo II más periféricos + software): U$S22.000 + 60% importación Arg.
@@ -79,6 +90,12 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 * Video: 1.4GHz analógico
 
 * Módem satelital Iridium http://www.iridium.com/
+
+'''Alcance de las comunicaciones:'''
+
+* Con antenas omnidireccionales: 7km (distancia segura)
+* Con antenas direccionales: 40km (se sigue al VANT)
+
 
 '''Tipos de vuelo:'''
 
@@ -103,6 +120,13 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 '''Baterías utilizadas en VANT`s:'''
 
 * Li-Ión (polímero): alta densidad de energía vs peso, excelente para aeronáutica
+
+'''Techo de vuelo:'''
+
+* Altura de vuelo para sacar fotografías: 1.200m
+
+-> De 300m a 1200m de altura hace falta un permiso especial de vuelo
+-> por debajo de los 300m el vuelo es libre (no interfiere con rutas comerciales)
 
 '''Definiciones lenguaje aeronáutico:'''
 

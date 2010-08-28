@@ -22,6 +22,14 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 * Normativa: No hay una regulación clara en Argentina sobre VANTS, sobretodo debido a la dificultad en la definición sobre que es un VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
 
+'''Planificación de la misión y operación:'''
+
+* En función del operador de carga paga;
+
+* En función del operador del VANT (metereología).
+
+->Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso. Es clave la negociación!
+
 '''Áreas de vacancia en el mercado argentino referente a VATN`s:'''
 
 - despegue autónomo

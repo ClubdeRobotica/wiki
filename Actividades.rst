@@ -15,3 +15,8 @@ Año 2010:
   11. Lanzamiento de las reuniones semanales: 27 de Mayo!!!
   12. Presentación del Proyecto CdR al Departamento de Ing. Electrónica, al Laboratorio de Técnicas Digitales y al Laboratorio de Comunicaciones: durante el mes de Mayo.
   13. Presentación del Proyecto CdR ante el Consejo Departamental: 8 de Junio.
+
+
+[[Reuniones|Reuniones semanales]] | 
+[[CicloFormacion|Ciclo de formación]] |
+[[Festejo6meses|Festejo 6 meses/100 adhrentes]]

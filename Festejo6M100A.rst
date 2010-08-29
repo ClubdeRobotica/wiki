@@ -2,7 +2,7 @@
 
 Lugar: Quincho UTN-FRC;
 
-Fecha: Sábado 11 de Septiembre de 2010;
+Fecha: Sábado 11 de Septiembre de 2010 [la fecha queda condicionada a la disponibilidad del lugar que aún no ha sido confirmado]
 
 Horario: de 10hs a 16hs.
 
@@ -24,14 +24,14 @@ A continuación se describen las tareas relacionadas a la organización del fest
 
 
 === Partido ===
--> Hay que reservar la cancha de futbol. Encargado:? 
+-> Hay que reservar la cancha de futbol. Conseguir una o dos pelotas para el partido. Encargado: '''Marcos Ciceri'''
 
 === Quincho ===
--> Hay que pedir/reservar el quincho: Encargado:? 
+-> Hay que pedir/reservar el quincho. Conseguir las llaves o hablar con el encargado para que abra el sábado por la mañana. Encargado: '''Germán Ontivero'''
 
 
 === Almuerzo ===
--> Hay que organizar el almuerzo (si va a ser un almuerzo a la canasta, si vamos a hacer un asado: en tal caso hay que confirmar y juntar $, encargarse de las compras, etc...) Encargado/s:? 
+-> Hay que organizar el almuerzo (si va a ser un almuerzo a la canasta o si vamos a hacer un asado: en tal caso hay que confirmar y juntar $, encargarse de las compras, etc...) Encargado/s: '''Walter Salinas''' 
 
 
 === Demo ===
@@ -39,4 +39,11 @@ A continuación se describen las tareas relacionadas a la organización del fest
 
 
 === Disfusión ===
--> Difusión del festejo. Hay que prepara un email para difusión e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...) Encargado:?
+-> Disfusión del festejo. Hay que prepara un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...) Encargado:?
+
+
+==== Se han ofrecido para colaborar: ====
+
+* Federico Bonino
+
+* ...

@@ -134,6 +134,7 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 * Altura de vuelo para sacar fotografías: 1.200m
 
 -> De 300m a 1200m de altura hace falta un permiso especial de vuelo del ente regulador
+
 -> por debajo de los 300m el vuelo es libre (no interfiere con rutas comerciales)
 
 '''Definiciones lenguaje aeronáutico:'''

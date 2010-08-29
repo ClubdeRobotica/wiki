@@ -19,4 +19,4 @@ Año 2010:
 
 [[Reuniones|Reuniones semanales]] | 
 [[CicloFormacion|Ciclo de formación]] |
-[[Festejo6meses|Festejo 6 meses/100 adhrentes]]
+[[Festejo6M100A|Festejo 6 meses/100 adhrentes!]]

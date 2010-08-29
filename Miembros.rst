@@ -50,8 +50,3 @@ C- Pueden comenzar un nuevo proyecto, ya sea una idea pre existente tomada de la
 
 
 7º Pasan a formar parte de la comisión directiva y/o a dirigir proyectos y/o cumplir el rol de asesores/tutores si así lo desean.
-
-
-[[Actividades|Actividades]] | 
-[[Reuniones|Reuniones semanales]] | 
-[[CicloFormacion|Ciclo de formación]]

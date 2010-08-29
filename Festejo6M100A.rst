@@ -20,7 +20,7 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 
 == Organización 6M100A ==
 
-A continuación se describen las tareas relacionadas a la organización del festejo, quienes son sus responsables y el estado de avance.
+A continuación se describen las tareas relacionadas a la organización del festejo, quienes son sus responsables y el estado de avance. '''''Si alguien quiere colaborar anótese en la tarea!!!''''' Y póngase en contacto con quienes ya están anotados. Gracias.
 
 
 === Partido ===

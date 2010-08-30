@@ -4,7 +4,7 @@ Responsable del proyecto: Frank Schefer <institucionales (d ot) cdr (d ot) utnfr
 
 Los documentos principales de este proyecto se encuentran en el [[http://cdrutnfrc.homelinux.org/|servidor del club]], aquí sólo se presenta un pequeño resumen:
 
-Introducción y objetivos:
+'''Introducción y objetivos:'''
 
     Construcción del MiniLab y una fuente básica de laboratorio (tensión fija, 5v y 12v CC). Para ingresantes al CdR, alumnos de los primeros años de Ing. Electrónica y todo estudiante de otra especialidad que lo desee.
 
@@ -14,7 +14,7 @@ Introducción y objetivos:
 
 Nota: De todas maneras, si un grupo de los primeros años se siente en condiciones de afrontar un proyecto, sin haber transitado esta etapa de iniciación, puede hacerlo.
 
-Descripción general:
+'''Descripción general:'''
 
     Este emprendimiento consiste en construir el MiniLab, es parte de la currícula obligatoria de 3er año de Ing. Electrónica para Técnicas Digitales 1. La idea es realizarlo por cuenta propia en el marco del CdR, adquiriendo así una pequeña experiencia en electrónica (para algunos la primera), aprendiendo a soldar, a distinguir componentes, interpretar sus valores, y si se quiere, aprender a diseñar los PCB (placas de circuitos impresos).
 
@@ -28,7 +28,7 @@ Descripción general:
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
 
-Ley de Ohm:
+'''Ley de Ohm:'''
 
 Dentro del marco teórico de la electrotecnia y la electrónica, la Ley de Ohm cumple un rol básico que permite la creación de circuitos eléctricos/electrónicos para la implementacion en un proyecto técnico-tecnológico.
 
@@ -55,6 +55,6 @@ De la misma puede obtenerse, por despeje de términos las formulas de V e R
 
 
 
-¿Cómo participar?
+'''¿Cómo participar?'''
 
 Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

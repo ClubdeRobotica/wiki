@@ -2,6 +2,8 @@
 
 Responsable del proyecto: Frank Schefer <institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 
+Los documentos principales de este proyecto se encuentran en el [[http://cdrutnfrc.homelinux.org/|servidor del club]], aquí sólo se presenta un pequeño resumen:
+
 Introducción y objetivos:
 
     Construcción del MiniLab y una fuente básica de laboratorio (tensión fija, 5v y 12v CC). Para ingresantes al CdR, alumnos de los primeros años de Ing. Electrónica y todo estudiante de otra especialidad que lo desee.

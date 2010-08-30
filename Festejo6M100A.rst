@@ -24,10 +24,10 @@ A continuación se describen las tareas relacionadas a la organización del fest
 
 
 === Partido ===
--> Hay que reservar la cancha de futbol. Conseguir una o dos pelotas para el partido. Encargado: '''Marcos Ciceri'''
+-> Hay que reservar la cancha de futbol. Conseguir una o dos pelotas para el partido. Armar los equipos. Encargado/s: '''Marcos Ciceri'''
 
 === Quincho ===
--> Hay que pedir/reservar el quincho. Conseguir las llaves o hablar con el encargado para que abra el sábado por la mañana. Encargado: '''Germán Ontivero'''
+-> Hay que pedir/reservar el quincho. Conseguir las llaves o hablar con el encargado para que abra el sábado por la mañana. Encargado/s: '''Germán Ontivero'''
 
 
 === Almuerzo ===

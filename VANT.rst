@@ -125,6 +125,10 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 * CloudCap Tech. Piccolo II http://www.cloudcaptech.com/piccolo_II.shtm
 
+'''Sensor de orientación a modo de ejemplo:'''
+
+* CG Robotics http://www.chrobotics.com/index.php?main_page=index
+
 '''Baterías utilizadas en VANT`s:'''
 
 * Li-Ión (polímero): alta densidad de energía vs peso, excelente para aeronáutica

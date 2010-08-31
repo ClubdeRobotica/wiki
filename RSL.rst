@@ -17,7 +17,7 @@ Este es otro ejemplo de seguidor de linea http://www.x-robotics.com el cual es u
 
 Descripción general:
 
-Fase 1. Basados en un circuito electrónico, se construirá el seguidor de línea. Se analizará la construcción mecánica, el ensamblado de partes, materiales que puedan ser usados como chasis. Se harán pruebas y se tratará de mejorar el circuito básico.
+'''Fase 1'''. Basados en un circuito electrónico, se construirá el seguidor de línea. Se analizará la construcción mecánica, el ensamblado de partes, materiales que puedan ser usados como chasis. Se harán pruebas y se tratará de mejorar el circuito básico.
 
 Fase 2. Se agregará el uso de PIC, introduciendo a los desarrolladores en la programación de microcontroladores.
 

@@ -5,16 +5,15 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 Propuestas de proyectos y sus responsables:
 
 
-* Patrocinados por el CdR (buscan coordinador y grupo de trabajo para independizarse!):
+* Patrocinados por el CdR (buscan coordinador y/o grupo de trabajo para independizarse!):
 
 [[Lego|Lego Robot]]: CdR
 
 [[PortadorArticulado|Portador Articulado]]: CdR
 
+[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
 * Independientes:
-
-[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
 [[MTouch|Proyecto M-Touch (SCTI)]]: Martín Exequiel Rosas
 

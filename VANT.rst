@@ -157,6 +157,10 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 === Links de interés: ===
 
+'''Lista de correo del CdR:''' (hace falta subscribirse a la lista para poder recibir/enviar correos)
+
+https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
+
 '''Definiciones lenguaje aeronáutico:'''
 
 http://www.md80.com.ar/definicion_perf.html

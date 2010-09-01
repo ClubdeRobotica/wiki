@@ -1,6 +1,6 @@
 == P201004-006: Proyecto VANT ==
 
-Responsable del proyecto: Marco Alvarez Reyna <marcoalrey (a t) gmail (d ot) com>
+Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 '''Introducción y objetivos:'''
 
@@ -20,17 +20,23 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 * Caracterización de los sistemas/subsistemas tanto eléctricos como mecánicos (motor)
 
-* Normativa: No hay una regulación clara en Argentina sobre VANTS, sobretodo debido a la dificultad en la definición sobre que es un VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
+* Normativa: No hay una regulación clara en Argentina sobre VANTs, sobretodo debido a la dificultad en la definición sobre que es un 
+VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
 
-'''Planificación de la misión y operación:'''
+* Para la planificación de la misión y operación:
 
-* En función del operador de carga paga;
+->En función del operador de carga paga;
 
-* En función del operador del VANT (metereología).
+->En función del operador del VANT (metereología).
 
-->Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso. Es clave la negociación!
+Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso. Es clave la negociación!
 
-'''Áreas de vacancia en el mercado argentino referente a VATN`s:'''
+* Plan de negocios
+
+* Inversionistas
+
+
+'''Áreas de vacancia en el mercado argentino referente a VATN`s:''' (análisis de mercado)
 
 - despegue autónomo
 
@@ -85,7 +91,7 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 * SBC (computadora a bordo, o computadora de carga paga): U$S1.200 + 60% importación Arg.
 
-'''Desarrollos en marcha actualmente:'''
+'''Desarrollos en marcha actualmente en Argentina:'''
 
 * generador eléctrico
 

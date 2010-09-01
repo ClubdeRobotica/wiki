@@ -172,6 +172,10 @@ http://es.wikipedia.org/wiki/Ingenieria_de_software
 http://es.wikipedia.org/wiki/Calidad_de_software
 
 
-¿Cómo participar?
+'''Agradecimientos:'''
+
+Logo: J.A.S.
+
+'''¿Cómo participar?'''
 
 Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

@@ -147,15 +147,20 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 -> por debajo de los 300m el vuelo es libre (no interfiere con rutas comerciales)
 
-'''Definiciones lenguaje aeronáutico:'''
-
-http://www.md80.com.ar/definicion_perf.html
-
-'''Algunos diagramas:'''
+'''Algunos diagramas de aviónica:''' (desarrollos del CdR)
 
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant.jpg||width="400"}} ||
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant1.jpg||width="400"}} ||
 
+=== Links de interés: ===
+
+'''Definiciones lenguaje aeronáutico:'''
+
+http://www.md80.com.ar/definicion_perf.html
+
+'''Tecnología de software:'''
+
+http://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_software
 
 
 ¿Cómo participar?

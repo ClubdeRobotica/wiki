@@ -161,6 +161,10 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
+'''Servidor SVN del CdR:'''
+
+http://cdrutnfrc.homelinux.org/
+
 '''Definiciones lenguaje aeronáutico:'''
 
 http://www.md80.com.ar/definicion_perf.html

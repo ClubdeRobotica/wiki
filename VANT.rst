@@ -151,9 +151,9 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 '''Algunos diagramas de aviónica:''' (desarrollos del CdR)
 
-||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant.jpg||width="400"}} ||
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant1.jpg||width="400"}} ||
-||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VANT-Software-Diagrama-Modulos.jpg||width="200"}} ||
+||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VANT-Software-Diagrama-Modulos.jpg||width="400"}} ||
 
 === Links de interés: ===
 

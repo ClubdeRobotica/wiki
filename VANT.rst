@@ -160,7 +160,13 @@ http://www.md80.com.ar/definicion_perf.html
 
 '''Tecnología de software:'''
 
-http://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_software
+http://es.wikipedia.org/wiki/Patron_de_diseno
+
+http://es.wikipedia.org/wiki/Lenguaje_Unificado_de_Modelado
+
+http://es.wikipedia.org/wiki/Ingenieria_de_software
+
+http://es.wikipedia.org/wiki/Calidad_de_software
 
 
 ¿Cómo participar?

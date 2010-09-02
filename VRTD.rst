@@ -1,5 +1,5 @@
 == P201003-002: Vehículo Robotizado con Tracción Diferencial - VRTD ==
-Responsable del proyecto: Marco Alvarez Reyna <direccion (d ot) cdr (d ot) utnfrc (e t) gmail (d ot) com>
+Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 Introducción y objetivos:
 

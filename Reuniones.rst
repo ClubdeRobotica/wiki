@@ -16,7 +16,14 @@ Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad
 
 '''''Próxima reunión:'''''
 
-* Lunes 30 de Agosto, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 06 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+Temario tentativo:
+
+1- Ampliación del modelo matemático del triciclo; Ezeq. Manoukian, Gustavo Santos.
+2- Etapa energética en sist. robotizados; Gaspar Santamarina.
+3- Ampliación de la aplicación de PWM al control de driver de potencia para motores de CC; Guillermo Gómez.
+4- Demo con los circuitos de potencia del VRTD (PWM y llave H, motores); Marco Alvarez Reyna, Martín Ez. Molina
 
 Histórico de reuniones:
 
@@ -49,3 +56,5 @@ Histórico de reuniones:
 09/08/2010 Reunión semanal del CdR: Se distribuyeron las tareas referentes a infraestructura.
 
 23/08/2010 Reunión semanal del CdR: Charlamos sobre la implementación de la tesorería y el estado de avance de los proyectos.
+
+30/08/2010 Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo motor CC, llave H, PWM, modelos robóts móviles.

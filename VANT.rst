@@ -25,6 +25,8 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 * Normativa: No hay una regulación clara en Argentina sobre VANTs, sobretodo debido a la dificultad en la definición sobre que es un 
 VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
 
+* Norma MIL-1553 / RS422
+
 * Para la planificación de la misión y operación:
 
 ->En función del operador de carga paga;

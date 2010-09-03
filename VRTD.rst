@@ -45,10 +45,10 @@ Propuesta de aplicación:
  . o Utilizarlo como un robot entrenador. Para que los miembros ingresantes al club se introduzcan a la electrónica y la robótica. Se podría implementar un seminario. o Utilizarlo en apoyo a la Cátedra de Informática 2 para que los alumnos realicen algún práctico extracurricular de programación en C/C++. o Plataforma sobre la cual alumnos de la cátedra de Sistemas de Control puedan implementar algún algoritmo para el control sobre los motores. o También podría ser utilizado por la cátedra de Técnicas Digitales 3 para implementar algún algoritmo para el procesamiento de señales.
 
 '''Fotos de la plataforma:'''
-||<tablewidth="100%" tablestyle="text-align: left"100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD.jpg||width="200"}} ||
-||<50%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD1.jpg||width="200"}} ||
-||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD2.jpg||width="200"}} ||
-||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD3.jpg||width="200"}} ||
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD.jpg||width="400"}} ||
+||<50%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD1.jpg||width="400"}} ||
+||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD2.jpg||width="400"}} ||
+||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD3.jpg||width="400"}} ||
 
 
 

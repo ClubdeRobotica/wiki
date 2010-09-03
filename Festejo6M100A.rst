@@ -2,7 +2,7 @@
 
 Lugar: Nueva área de trabajo del LCE UTN-FRC;
 
-Fecha: Sábado 11 de Septiembre de 2010 [fecha tentativa]
+Fecha: Sábado ?? de Septiembre de 2010 [fecha a definir]
 
 Horario: de 10hs a 13:30hs.
 

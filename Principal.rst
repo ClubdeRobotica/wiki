@@ -19,4 +19,5 @@ También busca integrar a estudiantes de otras especialidades que quieran introd
 [[PreguntasFrecuentes|Preguntas frecuentes]] |
 [[Galeria|Galería de imágenes]] |
 [[Agradecimientos|Agradecimientos]] |
-[[Contacto|Contacto]]
+[[Contacto|Contacto]] |
+[[Novedades|Novedades!]]

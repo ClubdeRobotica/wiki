@@ -8,11 +8,10 @@ Reunión semanal del CdR:
 
 Objetivo de las reuniones: Trabajar en las actividades programadas.
 
-Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el Proyecto Robot Seguidor de Línea[1]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
+Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el [[RSL|Proyecto Robot Seguidor de Línea]]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
 
 * Estamos planeando cerca del mes de Octubre un gran encuentro anual: feria, demostración, competencia. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
-[1] http://cdr.usla.org.ar/RSL
 
 '''''Próxima reunión:'''''
 

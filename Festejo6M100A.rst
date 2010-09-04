@@ -33,6 +33,7 @@ A continuación se describen las tareas relacionadas a la organización del fest
 === Demo ===
 -> Para la demo seguramente necesitaremos acceso a energía eléctrica, internet, una o dos PC/Notebook, y un cañón (del Depto. de Electrónica?). Encargado/s: '''Marcos Ciceri'''
 
+-> Cada grupo que esté desarrollando un proyecto, o quienes hayan presentado una propuesta de proyecto, deberían confeccionar un póster donde se plasme la idea principal: título, una/dos imágenes/gráficos, un poco de texto con la explicación, dirección web del proyecto y algún email contacto.
 
 === Almuerzo ===
 -> Hay que organizar el almuerzo a la canasta (o empanadas, pizza, hay que comprar bebidas, etc...) Encargado/s: '''Walter Salinas''' 

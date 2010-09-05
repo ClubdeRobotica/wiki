@@ -45,6 +45,5 @@ A continuación se describen las tareas relacionadas a la organización del fest
 
 ==== Se han ofrecido para colaborar: ====
 
-* Federico Bonino
-
-* ...
+ * Federico Bonino
+ * ...

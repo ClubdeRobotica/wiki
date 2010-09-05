@@ -18,3 +18,18 @@ Cuál es la metodología que '''recomendamos''':
 Por que esta mecánica!? Para conservar el orden y la claridad de la información presentada en la lista.
 
 Esperamos esta info les sea de utilidad!
+
+
+'''NOTA:'''
+
+Perdón por las molestias causadas por la "lluvia" de emails! Las listas suelen causar este tipo de molestias cuando la configuración local o de la lista no son las adecuadas.
+
+Si aún te interesa recibir info hay un par de opciones para hacerlo de más ameno:
+
+-una de ellas es que mandes todo el correo que recibas de la dirección de la lista a una carpeta en particular y no moleste en la bandeja de entrada, o que los agrupes por asunto y solo se ve un mail.
+
+- la otra es configurar tu subscripción a la lista para que te llegue como "máximo" un mail por día (contiene las cabeceras de los mails y después podes entrar a la lista a leer el que te interese) esto lo podés hacer enttrando en "Suscriptores de CdR" acá:
+
+https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
+
+Si no tenes un pass para loguearte tenes que ponerte en contacto con el administrador de la lista para que te comente como recuperarlo.

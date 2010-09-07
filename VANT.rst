@@ -89,7 +89,7 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 - implementación de planes de emergencia totalmente autónomos en función de todas las situaciones principales de falla
 
 
-'''Precios:'''
+'''Precios de los pilotos comerciales:'''
 
 * Autopiloto completo (Piccolo II más periféricos + software): U$S22.000 + 60% importación Arg.
 
@@ -122,6 +122,7 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 * asistido
 
 * autónomo
+
 
 '''Autopilotos Open Source:''' (aprox. U$S500)
 

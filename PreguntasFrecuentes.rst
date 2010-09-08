@@ -6,7 +6,7 @@ R: El Club de Robótica es un emprendimiento extracurricular, orientado al dise�
 
 ¿Cómo se hace uno miembro del CdR?
 
-R: Hay que solicitar la participación en el grupo “clubrobotica-utnfrc” de Google Groups, junto a una pequeña presentación personal, ya sea directamente a través de los mecanismos ofrecidos por Google Groups, o solicitándolo a la dirección de contacto. Una vez aceptado en el grupo “clubrobotica-utnfrc” se es parte del CdR.
+R: Hay que solicitar la participación en el CdR mediante una pequeña [[Miembros|presentación personal]], solicitándolo a la [[Contacto|dirección de contacto]].
 
 ¿Quiénes pueden ingresar como miembros?
 
@@ -22,7 +22,7 @@ R: Las formas de participar pueden ser como: Desarrolladores; Consejeros y/o Tut
 
 ¿Posee el CdR un sitio Web público?
 
-R: Si. Sitio Web del proyecto: http://sites.google.com/site/clubderoboticautnfrc/
+R: Si. Sitio Web del proyecto: http://cdr.usla.org.ar/
 
 ¿Posee el CdR una dirección de e-mail de contacto?
 
@@ -30,7 +30,7 @@ R: Si. La dirección de e-mail es: clubrobotica (d ot) utnfrc (at) gmail (d ot) 
 
 ¿Cuál es el medio de comunicación del CdR?
 
-R: La lista de correo en Google Groups: http://groups.google.com.ar/group/clubrobotica-utnfrc/
+R: La lista de correo en USLA: https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
 ¿El CdR realiza reuniones?
 
@@ -46,16 +46,16 @@ R: Si. Hay planeado un Ciclo de Formación continua, abierto a toda la comunidad
 
 ¿Existen actualmente propuestas de proyectos?
 
-R: Si. Están publicadas en la Web del CdR.
+R: Si. Están publicadas en la wiki del CdR.
 
 ¿Se pueden proponer proyectos?
 
-R: Si. Los mecanismos están descriptos al final de la sección “Proyectos” del sitio Web público del CdR.
+R: Si. Los mecanismos están descriptos al final de la sección “Proyectos” de la wiki CdR.
 
 ¿El CdR posee apoyo institucional de la UTN-FRC?
 
 R: Si. También cuenta con apoyo de la CEE.
 
-¿Cómo se accede a la página del grupo de google del CdR?
+¿Cómo se accede a la lista de correo en USLA?
 
-R: Para acceder a la página simplemente hay que loguearse al webmail de gmail, en la pestaña "Mas" seleccionar "Grupos" y luego clic sobre "clubrobotica-utnfrc". O accediendo directamente a la dirección: http://groups.google.com.ar/group/clubrobotica-utnfrc y cliquear en “Acceder”, ingresando sus datos.
+R: Para acceder: https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr ingresando sus datos (CORREO Y PASS, si no lo tienen pueden solicitar restitución al administrador de la lista)

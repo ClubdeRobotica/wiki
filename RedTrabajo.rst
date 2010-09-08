@@ -2,7 +2,7 @@
 
 La Red de Trabajo para los miembro del CdR está compuesta por:
 
- * Los sitios web: principal y de proyectos.
+ * La wiki del CdR [principal y de proyectos].
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
  * El Servidor del CdR con los servicios SVN, SSH (y HTTP)
 

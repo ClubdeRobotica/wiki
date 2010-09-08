@@ -15,7 +15,7 @@ Propuesta de estructura orgánica:
           * Área de Relaciones Institucionales + Vocal:
                 o Rol: Buscar acciones eficientes según los deseos y necesidades de los miembros, tendientes a optimizar las relaciones inter e intra institucionales.
           * Tesorería:
-                o Rol: Administrar los fondos del CdR. Éste rol se delegó a la CEE. 
+                o Rol: Administrar los fondos del CdR. 
           * Cada miembro de la comisión directiva puede a su vez delegar parte de sus responsabilidades a miembros del CdR si lo cree necesario y conveniente, bajo el compromiso de supervisar su actividad (para garantizar su ejecución). Se busca, una vez consolidado el CdR, llegar a un modelo de organización horizontal.
    4. Colaboradores externos: Se contempla invitar a profesionales de otras instituciones dentro del plan de formación continua de los miembros del CdR y su entorno de cooperación. Se considera también dentro de este grupo a las empresas e instituciones ajenas a la UTN-FRC que deseen proponer proyectos y hacer donaciones al CdR.
 

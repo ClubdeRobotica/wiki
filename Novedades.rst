@@ -1,4 +1,6 @@
 ------------------------------------------------------------------------
+---> '''[[VisitaCIII|Visita]] al CIII UTN-FRC''' ''06/09/2010''
+------------------------------------------------------------------------
 ---> '''Llegamos a la [[http://cdrutnfrc.homelinux.org/|revisión]] número 100 del Proyecto CdR!''' ''02/09/2010''
 
 
@@ -18,3 +20,4 @@ completado de las reuniones de los Jueves
 ---> '''Inauguración del nuevo dominio, wiki y [[https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr|lista de correo]]''' ''25/08/2010''
 ------------------------------------------------------------------------
 ---> '''Comenzamos con la organización de la demo y festejo [[Festejo6M100A|6M100A]]''' ''23/08/2010''
+------------------------------------------------------------------------

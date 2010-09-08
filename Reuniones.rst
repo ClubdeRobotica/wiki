@@ -13,12 +13,7 @@ Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad
 * Estamos planeando cerca del mes de Octubre un gran encuentro anual: feria, demostración, competencia. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
 
-'''''Próximas reuniónes:'''''
-
-* Lunes 06 de Septiembre, 18:15hs, CIII, Ed. Salcedo, UTN-FRC
-
-- Visita al CIII
-
+'''''Próxima reunión:'''''
 
 * Lunes 13 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
@@ -71,3 +66,5 @@ Temario tentativo:
 23/08/2010 Reunión semanal del CdR: Charlamos sobre la implementación de la tesorería y el estado de avance de los proyectos.
 
 30/08/2010 Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo motor CC, llave H, PWM, modelos robóts móviles.
+
+06/09/2010 Reunión semanal del CdR: Visita al Centro de Investigación de Informática para la Ingeniería  / CIII UTN-FRC.

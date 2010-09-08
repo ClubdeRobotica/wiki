@@ -1,10 +1,20 @@
 == Ciclo de formación ==
 
-Robot. Máquina o ingenio electrónico programable, capaz de manipular objetos y realizar operaciones antes reservadas solo a las personas. Controlada por pingüinos.
+'''''Robot''''' Máquina o ingenio electrónico programable, capaz de manipular objetos y realizar operaciones antes reservadas solo a las personas.
+
+Como parte del ciclo de formación continua de los miembros del CdR tenemos planeado un ciclo de charlas de divulgación tecnológica (los temas se proponen en cada reunión) y la participación en charlas, seminarios y conferencias organizadas por terceros.
+
+Realizadas:
+
+   1. Visita al CIII UTN-FRC. Charla sobre Robótica y SL.
+
+En marcha:
+
+   1. Charlas de Divulgación Tecnológica: '''''motores cc, puente h, pwm, modelos robots'''''
 
 Temas propuestos:
 
-   1. Charlas de Divulgación Tecnológica: '''''en marcha'''''
+   1. Microcontroladores. Introducción a la tecnología ARM Y PIC;
    1. Iniciación al diseño electrónico con SL; KiCad
    1. “Software Libre” y “Propiedad Intelectual”
    1. “GNU/Linux”

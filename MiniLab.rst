@@ -2,6 +2,8 @@
 
 Responsable del proyecto: Frank Schefer <institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 
+--->eMail [[LanzamientoProyML|Lanzamiento Proy. ML]]
+
 Los documentos principales de este proyecto se encuentran en el [[http://cdrutnfrc.homelinux.org/|servidor del club]], aquí sólo se presenta un pequeño resumen:
 
 '''Introducción y objetivos:'''

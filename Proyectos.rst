@@ -9,7 +9,8 @@ Durante el transcurso del año 2010 esta metodología sera tan flexible como se 
 
 [[ModalidadTrabajo|Modalidad de trabajo]] |
 [[Implementacion|Implementación]] |
-[[Financiamiento]]
+[[Financiamiento]] |
+[[CajaDeArena|Caja de Arena]]
 
 ==== Propuestas de proyecto: ====
 

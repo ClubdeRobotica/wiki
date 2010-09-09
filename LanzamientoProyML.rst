@@ -1,13 +1,3 @@
-== Afiches para difusión (opciones): ==
+Escribe acerca de LanzamientoProyML aquí.
 
-=== Opción 1 ===
-
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||
-
-=== Opción 2 ===
-
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op2.jpg||width=500}} ||
-
-=== Opción 3 ===
-
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op3-Color.png||width=800}} ||
+Frank! Preparate el mail para el lanzamiento del Proy. ML acá! Así lo corregimos entre todos.

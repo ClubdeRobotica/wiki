@@ -18,4 +18,4 @@ Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
 * Inauguración de nuestro espacio en el LTD (PC + armario)
 
-* ...
+* Análisis de aplicación de la licencia [[http://www.gnu.org/licenses/gpl-3.0-standalone.html|GPLv3]] para los desarrollos del CdR.

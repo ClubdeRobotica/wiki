@@ -13,9 +13,9 @@ e-mail: < coordinacion (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 
 e-mail: < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
 
-'''Vocal''': Heran Paez
+'''Vocal''': VACANTE (convocatoria abierta)
 
 
-e-mail: < hernaninformatica (a t) gmail (d ot) com>
+e-mail: 
 
 '''Bienvenida la primera comisión del club!'''

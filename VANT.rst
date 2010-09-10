@@ -160,13 +160,17 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 === Links de interés: ===
 
+'''Experimento: Laboratorio Virtual CdR:''' (para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo)
+
+http://cdrutnfrc.homelinux.org/index-cam.html
+
 '''Lista de correo del CdR:''' (hace falta subscribirse a la lista para poder recibir/enviar correos)
 
 https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
-'''Servidor SVN del CdR:'''
+'''Servidor SVN del CdR:''' (accediendo a la rama troncal)
 
-http://cdrutnfrc.homelinux.org/
+svn://cdrutnfrc.homelinux.org/CdR/trunk
 
 '''Definiciones lenguaje aeronáutico:'''
 

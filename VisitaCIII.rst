@@ -4,8 +4,8 @@
 
 El CIII:
 
- 1. Pone a disposición del CdR tanto sus desarrollos de software como de hardware para que los miembros del club utilicen en sus propios desarrollos;
- 1. Está planeando desarrollar un robót modular, a escala del RoMAA, para poner a disposición del alumnado en vistas de realizar una competencia.
+ 1. Pone a disposición del CdR sus desarrollos teóricos tanto en materia de software como de hardware para que los miembros del club (re)utilicen en sus propios desarrollos;
+ 1. Está planeando desarrollar un robót modular, a escala del RoMAA, que pueda ser reproducido en serie y a bajo costo, para poner a disposición del alumnado en vistas de realizar una competencia.
  1. Nos invita a dotar de sensorística y algorítmos inteligentes a nuestros desarrollos y a participar de competencias.
 
 

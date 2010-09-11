@@ -2,7 +2,11 @@
 
 Responsable del proyecto: Frank Schefer <institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 
---->eMail [[LanzamientoProyML|Lanzamiento Proy. ML]]
+Reunión Proy. ML: [propuesta]
+
+--->Dónde: Laboratorio de Técnicas Digitales UTN-FRC
+
+--->Cuándo: Todos los lunes de 18:15hs a 20:15hs 
 
 Los documentos principales de este proyecto se encuentran en el [[http://cdrutnfrc.homelinux.org/|servidor del club]], aquí sólo se presenta un pequeño resumen:
 
@@ -55,7 +59,7 @@ I = V / R
 
 De la misma puede obtenerse, por despeje de términos las formulas de V e R
 
-
+--->eMail [[LanzamientoProyML|Lanzamiento Proy. ML]]
 
 '''¿Cómo participar?'''
 

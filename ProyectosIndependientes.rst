@@ -6,8 +6,6 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 * En la incubadora:
 
-||<tablewidth="100%" style="border: medium none;"> {{attachment:huevo-CdR.jpg||width=200}}||
-
 [[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
 * Patrocinados por el CdR:

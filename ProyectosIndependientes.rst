@@ -4,14 +4,17 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 Propuestas de proyectos y sus responsables:
 
+* En la incubadora:
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:huevo-CdR.jpg||width=100}} ||
+
+[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
 * Patrocinados por el CdR (buscan coordinador y/o grupo de trabajo para independizarse!):
 
 [[Lego|Lego Robot]]: CdR
 
 [[PortadorArticulado|Portador Articulado]]: CdR
-
-[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
 * Independientes:
 

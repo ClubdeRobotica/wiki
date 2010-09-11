@@ -2,15 +2,15 @@
 
 Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y llevados adelante, tanto en su dirección, coordinación y ejecución por miembros del CdR, bajo el esquema propuesto. Éstos pueden iniciarse en cualquier momento del año, preferentemente durante el primer semestre.
 
-Propuestas de proyectos y sus responsables:
+'''Propuestas de proyectos y sus responsables:''' ''(buscan coordinador y/o grupo de trabajo para independizarse!)''
 
 * En la incubadora:
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:huevo-CdR.jpg||width=100}} ||
+||<tablewidth="100%" style="border: medium none;"> {{attachment:huevo-CdR.jpg||width=200}}||
 
 [[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
-* Patrocinados por el CdR (buscan coordinador y/o grupo de trabajo para independizarse!):
+* Patrocinados por el CdR:
 
 [[Lego|Lego Robot]]: CdR
 

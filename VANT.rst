@@ -10,42 +10,25 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 '''Claves para el desarrollo:'''
 {{{
-> Sistemas estocásticos
-
+> Sistemas Estocásticos
 > Filtro de Kalman
-
-> Control moderno
+> Teoría de Control Moderna
 }}}
 
-* Sistemas redundantes de energía y procesamiento
-
-* Carcasa, contenedor, sistema anti bibraciones
-
-* Simulación. Hardware-in-the-Loop (HIL)
-
+{{{
 * Modelo matemático: Red de vórtices; Derivativa; CFD
-
-* Modelo de elevación (topografía/orografía) de la NASA
-
 * Caracterización de los sistemas/subsistemas tanto eléctricos como mecánicos (motor)
+* Modelo de elevación (topografía/orografía) de la NASA
+* Simulación: Hardware-in-the-Loop (HIL)
+* Carcasa, contenedor, sistema anti bibraciones
+* Sistemas redundantes de energía y procesamiento
+}}}
 
-* Normativa: No hay una regulación clara en Argentina sobre VANTs, sobretodo debido a la dificultad en la definición sobre que es un 
-VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
-
-* Norma MIL-1553 / RS422
-
-* Para la planificación de la misión y operación:
-
-->En función del operador de carga paga;
-
-->En función del operador del VANT (metereología).
-
-Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso. Es clave la negociación!
-
-* Plan de negocios
-
-* Inversionistas
-
+{{{
+-> Estudio de mercado
+-> Plan de negocios
+-> Inversionistas
+}}}
 
 '''Áreas de vacancia en el mercado argentino referente a VATN`s:''' (análisis de mercado)
 
@@ -95,6 +78,21 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 - implementación de planes de emergencia totalmente autónomos en función de todas las situaciones principales de falla
 
+
+'''Normativa:'''
+
+No hay una regulación clara en Argentina sobre VANTs, sobretodo debido a la dificultad en la definición sobre que es un 
+VANT. Se siguen en general las normas FAR21 y FAR23. Hay un grupo de normas internacionales de ejemplo que son las JARUS.
+
+Para los canales de comunicaciones se utilizan las normas MIL-1553 / RS422
+
+'''Planificación de la misión y operación:'''
+
+->En función del operador de carga paga;
+
+->En función del operador del VANT (metereología).
+
+Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso. Es clave la negociación!
 
 '''Precios de los pilotos comerciales:'''
 

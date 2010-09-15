@@ -4,16 +4,16 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[MiniLab|Proyecto MiniLab]]: Frank Schefer
+[[MiniLab| Proyecto MiniLab]]: Frank Schefer
 
-[[VRTD|VRTD - Robot con tracción diferencial]]: Marco Alvarez Reyna
+[[VRTD| Robot con tracción diferencial]]: Marco Alvarez Reyna
 
 [[RSL| Robot Seguidor de Línea]]: Gustavo M. Spessot
 
-[[BancoDatos|Banco de datos]]: Hernán Paez
+[[BancoDatos| Banco de datos]]: CdR
 
 
 
-¿Cómo participar?
+'''¿Cómo participar?'''
 
 Si te interesa alguno de los proyectos y quieras participar, escribí a la dirección de contacto del club comentándonos, o escribí directamente al responsable del proyecto en cuestión (las direcciones están publicadas). A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

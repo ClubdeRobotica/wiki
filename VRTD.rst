@@ -8,14 +8,14 @@ Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 '''Desarrolladores:''' (quienes ya estén vinculados a una tarea y no figuren en la lista anotense!)
 
  * Martín Ezequiel Molina -> Driver de potencia motores;
- * Luis Vázquez -> Placa Control V1.1: Software; Plan de negocios;
- * Martín Exequiel Rosas -> Placa Control V1.1: Hardware;
- * Jorge Montaño -> Sistema Energético;
- * Gaspar Santamarina  -> Sistema Energético;
+ * Luis Vázquez -> Placa control V1.1: Software; Plan de negocios;
+ * Martín Exequiel Rosas -> Placa control V1.1: Hardware;
+ * Jorge Montaño -> Sistema energético;
+ * Gaspar Santamarina  -> Sistema energético;
 
 '''Adherentes:'''
 
- * Jeremías Palacios: Placa Control V1.0
+ * Jeremías Palacios: Placa control V1.0
  * Cristhian Mauricio Blas -> Cargador de baterías;
 
 '''Introducción y objetivos:'''
@@ -119,28 +119,22 @@ Cómo saben, el CdR adhiere al movimiento de SL, utiliza la plataforma GNU/Linux
  * gspiceui: GUI for the Spice Simulators ngspice and gnucap.
  * ng-spice-rework: Mixed-level, Mixed-signal Circuit Simulator Based on spice.
  * gwave2: Waveform Viewer for Spice and Gnucap Simulations.
-
- * '''emacs:''' editor de texto, para edición de código.
+ * '''emacs:''' editor de texto, para codificación.
  * '''doxigen:''' generación de documentación.
- * doxywizard: generación automática del arch de conf.
+ * doxywizard: generación automática del arch. de conf. para doxygen.
  * doxygate: DoxyGate is Doxygen GUI Frontend written in Qt.
-
- * '''subversion:''' servicios subversion.
- * kdesvn: cliente svn (qsvn, rapidsvn, etc...)
-
+ * '''subversion:''' servidor/cliente SVN para control de revisiones de documentación.
+ * kdesvn: cliente SVN (también: qsvn, rapidsvn, etc...)
  * jmeld: visual diff.
-
- * gtkterm: termina serial para linux.
-
+ * gtkterm: termina serial para Linux.
  * '''gnuplot:''' ploteo de series de datos.
  * plotutils: GNU Plotting Utilities.
  * kmplot: ploteo de func matemáticas.
- * '''octave:''' matemática (matlab)
- * qoctave: octave en qt.
+ * '''octave:''' matemática (like matlab)
+ * qoctave: octave en Qt.
  * R: estadística.
-
  * pcb: pcb.
- * planner: planeamiento, projects.
+ * planner: planeamiento de proyectos.
  * '''qucs:''' simulación de circuitos electrónicos.
  * xv: visor múltiple de imágenes.
  * geda: edición de circ. y creación de netlist, y pcb.

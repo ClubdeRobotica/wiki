@@ -29,3 +29,5 @@ Temas propuestos:
    1. "Linux en tiempo real, parche RTAI"
 
 Cuatro de las charlas ya tienen disertante!
+
+[[LinksInteres|Links de interés]]

@@ -15,17 +15,15 @@ Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad
 
 '''''Próxima reunión:'''''
 
-* Lunes 13 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 20 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 Temario tentativo:
 
-1. Ampliación del modelo matemático del triciclo; Ezeq. Manoukian, Gustavo Santos.
+1. Ampliación del modelo matemático del triciclo (cinemático inverso); Ezeq. Manoukian, Gustavo Santos.
 
-2. Etapa energética en sist. robotizados; Gaspar Santamarina.
+2. Etapa energética en sist. robotizados - Gestión de energía; Gaspar Santamarina, Ezequiel Molina.
 
-3. Ampliación de la aplicación de PWM al control de driver de potencia para motores de CC; Guillermo Gómez.
-
-4. Demo con los circuitos de potencia del VRTD (PWM y llave H, motores); Marco Alvarez Reyna, Martín Ez. Molina
+3. Ampliación de aplicaciones de PWM - Fuentes conmutadas; Guillermo Gómez.
 
 '''Histórico de reuniones:'''
 
@@ -68,3 +66,15 @@ Temario tentativo:
 30/08/2010 Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo motor CC, llave H, PWM, modelos robóts móviles.
 
 06/09/2010 Reunión semanal del CdR: Visita al Centro de Investigación de Informática para la Ingeniería  / CIII UTN-FRC.
+
+13/09/2010 * Lunes 13 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+Temario tentativo:
+
+1. Ampliación del modelo matemático del triciclo; Ezeq. Manoukian, Gustavo Santos.
+
+2. Etapa energética en sist. robotizados; Gaspar Santamarina.
+
+3. Ampliación de la aplicación de PWM al control de driver de potencia para motores de CC; Guillermo Gómez.
+
+4. Demo con los circuitos de potencia del VRTD (PWM y llave H, motores); Marco Alvarez Reyna, Martín Ez. Molina

@@ -27,6 +27,13 @@ Fase 6. Mejoras continuas, tanto funcionales, de rendimiento, mecánicas, y elec
 
 Todas las fases vendrán acompañadas con mejoras en la tecnología de los materiales, información y ayuda por parte del CdR, aumento de experiencia práctica y conocimiento teórico.
 
-¿Cómo participar?
+=== Links de interés: ===
+
+'''ROBOTGROUP'''
+
+http://www.robotgroup.com.ar/web/
+
+
+==== ¿Cómo participar? ====
 
 Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

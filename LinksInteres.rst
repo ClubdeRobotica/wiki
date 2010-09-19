@@ -1,3 +1,6 @@
+Modelo de wiki a seguir:
+http://wiki.debian.org/
+
 Cooperativa de Estudiantes de Electrónica UTN-FRC - CEE
 http://www.organizaciones.frc.utn.edu.ar/cee/
 

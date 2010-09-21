@@ -167,15 +167,15 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 '''Comunicación con el GPS:'''
 
-Software disponible en el Servidor SVN del CdR en el directorio:
+Software disponible en el Servidor SVN del CdR, en el directorio:
 
 {{{
-svn://cdrutnfrc.homelinux.org/CdR/trunk/CdR/Proyectos/VANT/software/gps
+svn://cdrutnfrc.homelinux.org/CdR/trunk/Proyectos/VANT/software/gps
 }}}
 
-=== Links de interés: ===
 
-'''Experimento: Laboratorio Virtual CdR:''' (para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo)
+'''Laboratorio Virtual:''' (para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo)
+
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 
 http://cdrutnfrc.homelinux.org/index-cam.html
@@ -183,6 +183,8 @@ http://cdrutnfrc.homelinux.org/index-cam.html
 ''Tips:''
 * Modelo del canal de comunicaciones (delays)
 * Calidad del servicio (continuidad)
+
+=== Links de interés: ===
 
 '''Lista de correo del CdR:''' (hace falta subscribirse a la lista para poder recibir/enviar correos)
 

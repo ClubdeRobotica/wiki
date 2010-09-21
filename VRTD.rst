@@ -12,11 +12,12 @@ Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
  * Martín Exequiel Rosas -> Placa control V1.1: Hardware;
  * Jorge Montaño -> Sistema energético;
  * Gaspar Santamarina  -> Sistema energético;
+ * Guillermo Gómez -> Sistema energético;
 
 '''Adherentes:'''
 
  * Jeremías Palacios: Placa control V1.0
- * Cristhian Mauricio Blas -> Cargador de baterías;
+ * Cristhian Mauricio Blas -> (SE):Cargador de baterías;
 
 '''Introducción y objetivos:'''
 

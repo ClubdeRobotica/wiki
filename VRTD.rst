@@ -13,6 +13,7 @@ Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
  * Jorge Montaño -> Sistema energético;
  * Gaspar Santamarina  -> Sistema energético;
  * Guillermo Gómez -> Sistema energético;
+ * Javier Gohlke -> Coordinador Sistema energético;
 
 '''Adherentes:'''
 

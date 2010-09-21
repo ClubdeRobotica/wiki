@@ -157,11 +157,21 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 -> por debajo de los 300m el vuelo es libre (no interfiere con rutas comerciales)
 
-'''Algunos diagramas de aviónica:''' (desarrollos del CdR)
+=== Desarrollos del CdR ===
+
+'''Diagramas de aviónica:'''
 
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant1.jpg||width="400"}} ||
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant.jpg||width="400"}} ||
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VANT-Software-Diagrama-Modulos.jpg||width="400"}} ||
+
+'''Comunicación con el GPS:'''
+
+Software disponible en el Servidor SVN del CdR en el directorio:
+
+{{{
+svn://cdrutnfrc.homelinux.org/CdR/trunk/CdR/Proyectos/VANT/software/gps
+}}}
 
 === Links de interés: ===
 

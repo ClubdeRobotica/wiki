@@ -2,9 +2,9 @@
 
 Reunión semanal del CdR:
 
---->Dónde:     Laboratorio de Técnicas Digitales UTN-FRC
+---> Dónde:     Laboratorio de Técnicas Digitales UTN-FRC
 
---->Cuándo:   Todos los lunes de 18:15hs a 20:15hs
+---> Cuándo:   Todos los lunes de 18:15hs a 20:15hs
 
 Objetivo de las reuniones: Trabajar en las actividades programadas.
 
@@ -15,19 +15,24 @@ Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad
 
 '''''Próxima reunión:'''''
 
-* Lunes 20 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 27 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 Temario tentativo:
 
-1. Ampliación del modelo matemático del triciclo (cinemático inverso); Ezeq. Manoukian, Gustavo Santos.
+1. Simulación de los modelos cinemáticos con GNU/Octave: Ezequiel Manoukian, Gustavo Santos.
 
-2. Etapa energética en sist. robotizados - Gestión de energía; Gaspar Santamarina, Ezequiel Molina.
+2. Ampliación de fuentes conmutadas - Fuete Buck: circuito, gráfico, ecuaciones; Guillermo Gómez.
 
-3. Ampliación de aplicaciones de PWM - Fuentes conmutadas; Guillermo Gómez.
+3. Amp0liación sistemas energéticos; Javier Gohlke.
+
+Temas pendientes:
+
+X. Introducción a microcontroladores: ARM, PIC.
+
 
 '''Histórico de reuniones:'''
 
-1º Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
+'''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
 
     - fecha:    jueves 8 de Abril de 2010,
 
@@ -35,7 +40,7 @@ Temario tentativo:
 
     - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
 
-1º Reunión de la Comisión Directiva: Organización interna.
+'''1º''' Reunión de la Comisión Directiva: Organización interna.
 
     - fecha:    lunes 26 de Abril de 2010,
 
@@ -43,7 +48,7 @@ Temario tentativo:
 
     - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central).
 
-2º Reunión grupal del CdR: Elección de los proyectos y conformación de los grupos.
+'''2º''' Reunión grupal del CdR: Elección de los proyectos y conformación de los grupos.
 
     - fecha:    jueves 13 de Mayo de 2010,
 
@@ -51,25 +56,25 @@ Temario tentativo:
 
     - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
 
-31/05/2010 Reunión semanal del CdR: Presentación de la Red de Trabajo Online para los miembros del CdR.
+'''31/05/2010''' Reunión semanal del CdR: Presentación de la Red de Trabajo Online para los miembros del CdR.
 
-07/06/2010 Reunión semanal del CdR: Prácticas con SVN. Proyecto VRTD.
+'''07/06/2010''' Reunión semanal del CdR: Prácticas con SVN. Proyecto VRTD.
 
-14/06/2010 Reunión semanal del CdR: Se trabajó con el servidor SVN. Se comentaron tareas relacionadas al Proy. VRTD. Algunos miembros comentaron/mostraron proyectos anteriores en los que han trabajado. Charlamos sobre tareas pendientes del club.
+'''14/06/2010''' Reunión semanal del CdR: Se trabajó con el servidor SVN. Se comentaron tareas relacionadas al Proy. VRTD. Algunos miembros comentaron/mostraron proyectos anteriores en los que han trabajado. Charlamos sobre tareas pendientes del club.
 
-02/08/2010 Reunión semanal del CdR: Se trabajó en la programación del segundo semestre.
+'''02/08/2010''' Reunión semanal del CdR: Se trabajó en la programación del segundo semestre.
 
-09/08/2010 Reunión semanal del CdR: Se distribuyeron las tareas referentes a infraestructura.
+'''09/08/2010''' Reunión semanal del CdR: Se distribuyeron las tareas referentes a infraestructura.
 
-23/08/2010 Reunión semanal del CdR: Charlamos sobre la implementación de la tesorería y el estado de avance de los proyectos.
+'''23/08/2010''' Reunión semanal del CdR: Charlamos sobre la implementación de la tesorería y el estado de avance de los proyectos.
 
-30/08/2010 Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo motor CC, llave H, PWM, modelos robóts móviles.
+'''30/08/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo motor CC, llave H, PWM, modelos robóts móviles.
 
-06/09/2010 Reunión semanal del CdR: Visita al Centro de Investigación de Informática para la Ingeniería  / CIII UTN-FRC.
+'''06/09/2010''' Reunión semanal del CdR: Visita al Centro de Investigación de Informática para la Ingeniería  / CIII UTN-FRC.
 
-13/09/2010 * Lunes 13 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''13/09/2010''' * Lunes 13 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
-Temario tentativo:
+Temario:
 
 1. Ampliación del modelo matemático del triciclo; Ezeq. Manoukian, Gustavo Santos.
 
@@ -78,3 +83,22 @@ Temario tentativo:
 3. Ampliación de la aplicación de PWM al control de driver de potencia para motores de CC; Guillermo Gómez.
 
 4. Demo con los circuitos de potencia del VRTD (PWM y llave H, motores); Marco Alvarez Reyna, Martín Ez. Molina
+
+
+'''20/09/2010''' * Lunes 20 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+Temario:
+
+1. Ampliación del modelo matemático del triciclo - Cinemática inversa; Ezeq. Manoukian, Gustavo Santos.
+
+2. Ampliación de aplicaciones de PWM - Fuentes conmutadas; Guillermo Gómez.
+
+3. Etapa energética en sist. robotizados - Gestión de energía; Marco Alvarez Reyna.
+
+4. charla sobre el lab virtual
+
+Terminadas las charlas, acordamos los temas para el próximo lunes y luego se expuso el proyecto "Laboratorio Virtual", su implementación y alcance. También conversamos sobre los cargos de tesorero y vocal, y se asignaron los cargos. Armamos el puesto de trabajo con las PCs del club. 
+
+Duración: de 18:15 a 21:15hs
+
+Asistieron 12 miembros aprox.

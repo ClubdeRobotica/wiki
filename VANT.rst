@@ -166,8 +166,13 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 === Links de interés: ===
 
 '''Experimento: Laboratorio Virtual CdR:''' (para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo)
+Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 
 http://cdrutnfrc.homelinux.org/index-cam.html
+
+''Tips:''
+* Modelo del canal de comunicaciones (delays)
+* Calidad del servicio (continuidad)
 
 '''Lista de correo del CdR:''' (hace falta subscribirse a la lista para poder recibir/enviar correos)
 

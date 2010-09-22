@@ -167,9 +167,9 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 
 
 '''Proyecto [[LabRemoto|Laboratorio Remoto]]:'''
-
+{{{
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
-
+}}}
 Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. Actualmente contamos con una WebCam y un GPS en línea. Próximamente agregaremos actuadores.
 
 
@@ -178,7 +178,7 @@ Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiem
 Software disponible en el Servidor SVN del CdR:
 
 {{{
-svn://cdrutnfrc.homelinux.org/CdR/trunk/Proyectos/VANT/software/gps
+svn://cdrutnfrc.homelinux.org/CdR/trunk/Proyectos/
 }}}
 
 

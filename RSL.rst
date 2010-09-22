@@ -29,11 +29,11 @@ Todas las fases vendrán acompañadas con mejoras en la tecnología de los mater
 
 === Links de interés: ===
 
-'''ROBOTGROUP'''
-
 http://www.robotgroup.com.ar/web/
 
 http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
+
+http://www.iearobotics.com/
 
 ==== ¿Cómo participar? ====
 

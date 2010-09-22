@@ -165,20 +165,22 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant.jpg||width="400"}} ||
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VANT-Software-Diagrama-Modulos.jpg||width="400"}} ||
 
-'''Comunicación con GPS:'''
-
-Software disponible en el Servidor SVN del CdR, en el directorio:
-
-{{{
-svn://cdrutnfrc.homelinux.org/CdR/trunk/Proyectos/VANT/software/gps
-}}}
-
 
 '''Proyecto [[LabRemoto|Laboratorio Remoto]]:'''
 
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 
 Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. Actualmente contamos con una WebCam y un GPS en línea. Próximamente agregaremos actuadores.
+
+
+'''Comunicación con GPS:'''
+
+Software disponible en el Servidor SVN del CdR:
+
+{{{
+svn://cdrutnfrc.homelinux.org/CdR/trunk/Proyectos/VANT/software/gps
+}}}
+
 
 === Links de interés: ===
 

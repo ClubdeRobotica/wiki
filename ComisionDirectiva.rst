@@ -13,6 +13,6 @@ e-mail: < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
 
 '''Vocal''': Gustavo Javier Santos
 
-e-mail: gustavo2189@hotmail.com
+e-mail:
 
 '''Bienvenida la primera comisión del club!'''

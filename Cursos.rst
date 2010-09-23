@@ -1,5 +1,5 @@
-[[RedTrabajo|Red de trabajo LISTA+SVN+WIKI]]
+[[RedTrabajo|Red de trabajo para los miembros del CdR]]
 
-[[Correo|Como Usar la Lista de Correo]]
+[[Correo|¿Cómo usar la lista de correo?]]
 
-[[ChatIRC|Chat del Club]]
+[[ChatIRC|Chat del CdR en IRC]]

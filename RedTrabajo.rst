@@ -1,22 +1,23 @@
-== Red de trabajo y Servidor SVN ==
+== Red de Trabajo para los Miembros del CdR UTN-FRC ==
 
-La Red de Trabajo para los miembro del CdR está compuesta por:
+La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
 
- * La wiki del CdR [principal y de proyectos].
+ * La wiki del CdR.
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
- * El Servidor del CdR con los servicios SVN, SSH (y HTTP)
+ * El Servidor SVN del CdR.
+ * El acceso por SSH y HTTP al Laboratorio Remoto.
 
 === Servidor del CdR ===
 
-El servidor prestará los servicios SSH y SVN. Se podrá acceder por SSH para hacer ensayos en Linux (compilar, correr programas); Éste alojará también un servidor SVN para copias de seguridad de los archivos del CdR (código y documentación) y control de versiones[0][5]. Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
+El servidor prestará los servicios SVN, SSH y HTTP. Éste alojará un servidor SVN para versionado (control de versiones[0][5]) y copias de seguridad de los archivos del CdR (código y documentación). Se podrá acceder por SSH para hacer ensayos en Linux (hacer prácticas con el SVN, compilar, correr programas, utilizar el laboratorio remoto, etc...)
+
+Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
 
 Dirección del servidor: http://cdrutnfrc.homelinux.org/ El mismo se encuentra en servicio continuo, pero sólo se garantiza la integridad del servicio en los horarios citados a continuación:
 
-Horarios en los que se encontrará online el servidor:
-
  * Todos los días de 17hs a 24hs
 
-Todos los servicios ya están en marcha.
+Actualmente todos los servicios están en marcha. Si por algún motivo no está en línea o falla alguno de los servicios, por favor comuníquelo a la brevedad!
 
 Para comprobar la disponibilidad del servidor ejecutar en una consola:
 {{{
@@ -44,7 +45,7 @@ usr@linux:~/Proyectos>mkdir CdR
 }}}
  * Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 {{{
-usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR”
+usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR
 }}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
  * Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
@@ -55,13 +56,13 @@ El servidor les preguntará por su nombre de usuario y contraseña. No olvidar l
 
 Desde Win$:
 
-1º Instalar TortoiseSVN[4]
+1º Instalar TortoiseSVN[4] y Firefox (versión >= 3.6.10)
 
 2º Ingresar en un explorador web (por ejemplo firefox) la dirección: “svn://cdrutnfrc.homelinux.org/CdR” y el mismo preguntará por una aplicación. Allí mismo seleccionan TortoiseSVN y dan entrar.
 
-3º Aparecerá un árbol de directorios. Parados en el directorio “trunk”, con el botón derecho del mause seleccionan “checkout”. Les preguntará la ubicación donde bajarlo. Seleccionen la carpeta CdR (en el directorio donde quieran trabajar) y aceptar. De esta manera obtienen una copa del proyecto para trabajar. La descarga puede tardar varios minutos.
+3º Aparecerá un árbol de directorios. Parados en el directorio “trunk”, con el botón derecho del mause seleccionan “checkout”. Les preguntará la ubicación donde bajarlo. Seleccionen la carpeta CdR (en el directorio donde quieran trabajar) y aceptar. De esta manera obtienen una copa del proyecto para trabajar. La descarga puede tardar varios minutos (aprox. 30 min. para el primer CO, luego para actualizar o confirmar, los tiempos son mucho menores)
 
-4º Como norma general, antes de comenzar a trabajar hacer un “svn update”. Luego de que han terminado de trabajar (modificación o generación de código o documentación) hacen “checkin”: Esta operación guarda en el servidor de versiones una copia de su proyecto. Normalmente se hace un “checkin” o “commit” al finalizar el día o luego de algún cambio muy importante en el proyecto. Siempre hay que agregar un comentario sobre lo que se modifico antes de confirmar un“commit”.
+4º Como norma general, antes de comenzar a trabajar hacer un “svn update”. Luego de que han terminado de trabajar (modificación o generación de código o documentación) hacen “checkin”: Esta operación guarda en el servidor de versiones una copia de su proyecto. Normalmente se hace un “checkin” o “commit” al finalizar el día o luego de algún cambio muy importante en el proyecto. Siempre hay que agregar un comentario sobre lo que se modifico cuando se hace un “commit”.
 
 * Si están trabajando en un proyecto y no tienen autentificación en el servidor hagan el pedido por email (si no, no podrán guardar los cambios en el servidor SVN)
 
@@ -71,7 +72,11 @@ SVN puede hacer bien su tarea con archivos de texto plano (típico .txt) Si no l
 
 Por lo tanto, no es posible hacer la operación de mezcla o fusión automáticamente cuando dos personas modificaron el mismo archivo al mismo tiempo y hay que hacerlo a mano. Para prevenir mayores inconvenientes en esta situación se recomienda el siguiente procedimiento a la hora de comenzar a trabajar:
 
+{{{
 up=update; → ci=commi; (+bloqueo/desbloqueo)
+}}}
+
+'''Descripción:'''
 
  * Al inicio del momento/día de trabajo SIEMPRE hacer un 
 {{{

@@ -1,5 +1,5 @@
 '''Germán Ontivero'''
 
-'''Contacto:''' ''gerbonti377@cdr.usla.org.ar''
+'''Contacto:''' ''gerbonti377@gmail.com''
 
-''Participando actualmente en el'' '''[[RSL|Proyecto Robot Seguidor de Línea]]''' ''con el grupo'' '''[[Atila]]'''
+''Participando actualmente en el '''Proyecto Robot Seguidor de Línea'''

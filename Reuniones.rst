@@ -2,11 +2,11 @@
 
 Reunión semanal del CdR:
 
----> Dónde:     Laboratorio de Técnicas Digitales UTN-FRC
+---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC
 
----> Cuándo:   Todos los lunes de 18:15hs a 20:15hs
+---> Cuándo: Todos los lunes de 18:15hs a 20:15hs
 
-Objetivo de las reuniones: Trabajar en las actividades programadas.
+Objetivo de las reuniones: Trabajar en las actividades programadas -> Ciclo de formación, coordinación proyectos, infraestructura.
 
 Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el [[RSL|Proyecto Robot Seguidor de Línea]]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
 
@@ -21,9 +21,10 @@ Temario tentativo:
 
 1. Simulación de los modelos cinemáticos con GNU/Octave: Ezequiel Manoukian, Gustavo Santos.
 
-2. Ampliación de fuentes conmutadas - Fuete Buck: circuito, gráfico, ecuaciones; Guillermo Gómez.
+2. Sistemas energéticos: Gestión de energía en sist. robotizados; Javier Gohlke.
 
-3. Amp0liación sistemas energéticos; Javier Gohlke.
+3. Sistemas energéticos: Fuentes conmutadas - Fuete Buck: circuito, gráfico, ecuaciones; Guillermo Gómez.
+
 
 Temas pendientes:
 
@@ -72,33 +73,6 @@ X. Introducción a microcontroladores: ARM, PIC.
 
 '''06/09/2010''' Reunión semanal del CdR: Visita al Centro de Investigación de Informática para la Ingeniería  / CIII UTN-FRC.
 
-'''13/09/2010''' * Lunes 13 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''13/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo matemático RSL, etapa energética en sist. robotizados, aplicación de PWM al control de driver de potencia para motores de CC, demo con los circuitos de potencia del VRTD (PWM y llave H, motores)
 
-Temario:
-
-1. Ampliación del modelo matemático del triciclo; Ezeq. Manoukian, Gustavo Santos.
-
-2. Etapa energética en sist. robotizados; Gaspar Santamarina.
-
-3. Ampliación de la aplicación de PWM al control de driver de potencia para motores de CC; Guillermo Gómez.
-
-4. Demo con los circuitos de potencia del VRTD (PWM y llave H, motores); Marco Alvarez Reyna, Martín Ez. Molina
-
-
-'''20/09/2010''' * Lunes 20 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
-
-Temario:
-
-1. Ampliación del modelo matemático del triciclo - Cinemática inversa; Ezeq. Manoukian, Gustavo Santos.
-
-2. Ampliación de aplicaciones de PWM - Fuentes conmutadas; Guillermo Gómez.
-
-3. Etapa energética en sist. robotizados - Gestión de energía; Marco Alvarez Reyna.
-
-4. charla sobre el lab virtual
-
-Terminadas las charlas, acordamos los temas para el próximo lunes y luego se expuso el proyecto "Laboratorio Virtual", su implementación y alcance. También conversamos sobre los cargos de tesorero y vocal, y se asignaron los cargos. Armamos el puesto de trabajo con las PCs del club. 
-
-Duración: de 18:15 a 21:15hs
-
-Asistieron 12 miembros aprox.
+'''20/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica. Ampliación del modelo matemático RSL, cinemática inversa. Ampliación de aplicaciones de PWM, fuentes conmutadas. Etapa energética en sist. robotizados, gestión de energía; Charla sobre el Proyecto Laboratorio Remoto. Reunión con los futuros tesorer@ y vocal. Armamos el puesto de trabajo con las PCs del club.

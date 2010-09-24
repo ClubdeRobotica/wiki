@@ -1,5 +1,11 @@
 == Laboratorio Remoto ==
 
+Coordinador: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+
+Administrador: CdR <<MailTo( CdR@CdR )>>
+
+'''Introducción:'''
+
 El ''Laboratorio Remoto'' es un emprendimiento enmarcado en el ''Proyecto VANT''. El objetivo de este emprendimiento es comenzar a hacer experiencia en telemetría y teleoperación.
 
 '''Configuarión actual del Laboratorio Remoto:'''

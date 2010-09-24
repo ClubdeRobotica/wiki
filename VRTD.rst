@@ -1,9 +1,7 @@
 == P201003-002: Vehículo Robotizado con Tracción Diferencial - VRTD ==
 (Inicialmente denominado: Auto(ro)Bot, luego: AutoRoBot, ahora VRTD)
 
-'''Responsable del proyecto:'''
-
-Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 '''Desarrolladores:''' (quienes ya estén vinculados a una tarea y no figuren en la lista anotense!)
 

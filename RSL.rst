@@ -1,7 +1,6 @@
-== 201003-003 Robot Seguidor de Línea ==
-Table of contents:
-<<TableOfContents()>>
+~+'''201003-003 Robot Seguidor de Línea '''+~
 
+Table of contents: <<TableOfContents()>>
 
 = Equipo =
 == Responsable del proyecto: ==

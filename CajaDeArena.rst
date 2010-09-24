@@ -2,7 +2,7 @@ Este es un espacio común de aprendizaje, para que quienes se inician en la edic
 
 Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
-* '''''Llamado público''''' a cubrir el cargo de '''''VOCAL'''''.
+* '''''Llamado público''''' a cubrir el cargo de '''''VOCAL''''', finaliza el 27/09/2010.
 
 * Se eliminará la lista de correo alojada en los servidores de Google.
 
@@ -11,8 +11,6 @@ Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 * Reestructuración general del repositorio. Generación de repositorios individuales por proyecto.
 
 * Se mudarán los repositorios a los servidores de USLA.
-
-* Estamos en vista de crear dos nuevas áreas dentro del CdR: Área Deportes y Aŕea Tutorías.
 
 * Nueva convocatoria a participar de los proyectos del CdR.
 

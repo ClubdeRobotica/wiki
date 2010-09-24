@@ -27,6 +27,16 @@ Disponible en el Servidor SVN del CdR (/>CdR/Proyectos/VANT/software/gps). Debe 
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Modelo-LabRemoto.jpg||width=500}} ||
 
+== Tareas ==
+
+ * Ya tenemos un servidor andando y hay que levantar un servidor de backup (al estilo hot-plug), por si se cae el principal. Hay que clonar todos los servicios.
+
+ * Hay que realizar varias tareas relacionadas a la integridad del servicio y conservación de los datos.
+
+ * Levantar nuevos servicios: implicaría algo de programación html básica, un poco de c++ y quizás algo de python.
+
+Tips: GNU/Linux. Apache2, Subversion, servidores...
+        
 === Links de interés: ===
 
 http://lab.dia.uned.es/rlab/

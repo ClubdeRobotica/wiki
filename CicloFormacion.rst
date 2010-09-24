@@ -7,6 +7,7 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 '''Realizadas:'''
 
    1. Visita al CIII UTN-FRC. Charla sobre Robótica y SL.
+   1. Participación en el SFD/iFest 2010
 
 '''En marcha:'''
 

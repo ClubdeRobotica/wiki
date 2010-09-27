@@ -1,6 +1,6 @@
 ~+'''201003-003 Robot Seguidor de Línea '''+~
 
-Table of contents: <<TableOfContents()>>
+<<TableOfContents()>>
 
 = Equipo =
 == Responsable del proyecto ==

@@ -3,15 +3,15 @@
 Table of contents: <<TableOfContents()>>
 
 = Equipo =
-== Responsable del proyecto: ==
+== Responsable del proyecto ==
 Gustavo Martinez Spessot < coordinacion.cdr.utnfrc@gmail.com >
 
-== Delegados: ==
+== Delegados ==
  * Marcos Ciceri
 
  * Germán Ontivero
 
-== Desarrolladores: ==
+== Desarrolladores ==
  * Adrián Guaymás
  * Alejandro Sosa
  * Alfredo Solis
@@ -25,7 +25,7 @@ Gustavo Martinez Spessot < coordinacion.cdr.utnfrc@gmail.com >
 
 ''<agregarse usando el link editar>''
 
-= Introducción y objetivos: =
+= Introducción y objetivos =
 ----
 Primer proyecto de robótica de los miembros del CdR. Aprovechando la experiencia y conocimientos capitalizados en el desarrollo del P201003-002, los miembros del CdR se dividirán en grupos de trabajo para conformar cada uno un Robot Seguidor de Línea, en vistas de realizar una demostración y competencia al finalizar el ciclo. Se trazarían líneas generales de desarrollo y luego cada grupo las implementaría bajo su criterio y posibilidades, con el asesoramiento del CdR. Una alternativa para homogeneizar la plataforma y poder centralizarse en el desarrollo electrónico (por lo menos hasta que se conforme una sección de mecánica) es adquirir vehículos comerciales, y adaptarlos para que nos sean de utilidad. Una vez reocrridas todas las fases del proyecto, se pretende que todos tengan una base en electrónica analógica y digital con conocimientos en tipo de microcontroladores.
 
@@ -33,7 +33,10 @@ Un ejemplo de robots seguidores de línea del CdR de la FIUBA: http://www.sase.c
 
 Este es otro ejemplo de seguidor de linea http://www.x-robotics.com el cual es un circuito analógico y sera nuestro punto de partida.
 
-= Descripción general: =
+== Estado del Proyecto ==
+Actualmente nos encontramos cerrando el Circuito II  de la Fase I, paralelamente se está intentando desarrollando un pequeño  manual de programaciópn de PICs en lenguaje C para iniciar la Fase II
+
+= Descripción general =
 ----
 Fase 1. Basados en un circuito electrónico, se construirá el seguidor de línea. Se analizará la construcción mecánica, el ensamblado de partes, materiales que puedan ser usados como chasis. Se harán pruebas y se tratará de mejorar el circuito básico. El resultado final de esta fase será la realización de un modelo mecánico sólido que funcione con cualquier circuito de las fases posteriores.
 
@@ -51,7 +54,11 @@ Todas las fases vendrán acompañadas con mejoras en la tecnología de los mater
 
 = Fase 1 =
 ----
-Se está usando el circuito presentado por la página www.x-robotics.com como punto de partida, el mismo es un circuito analógico simple que nos servirá para afinar la parte mecánica (si se logra un vehículo que funcione con este circuito, probablemente sea muy fácil adaptarlo a circuitos mas complejos que usen microcontroladores)
+== Circuito I ==
+Usando un circuito presentado por la página www.x-robotics.com como punto de partida, el mismo es un circuito analógico muy simple que nos servirá para afinar la parte mecánica (si se logra un vehículo que funcione con este circuito, probablemente sea muy fácil adaptarlo a circuitos mas complejos que usen microcontroladores). El funcionamiento de este circuito es muy simple ya que todos los transistores aparecen funcionando como llaves al igual que el fototransistor del CNY70, que al detectar una superficie reflejante desactiva uno de los motores para que el vehículo doble en dirección contraria.
+
+== Circuito II ==
+Navegando un poco por internet nos encontramos con otro circuito, que si bien utiliza casi los mismos componentes, esta configurado para tener una especie de memoria, es decir que cuando el vehículo se sale por completo de la línea negra el RSL recuerda cual fue el primer sensor en detectar pisar sobre blanco y mantiene al vehículo doblando en la dirección contraria.
 
 = Anexos =
 ----

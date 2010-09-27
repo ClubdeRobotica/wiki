@@ -63,10 +63,13 @@ Navegando un poco por internet nos encontramos con otro circuito, que si bien ut
 = Anexos =
 ----
 == Links de interés: ==
-http://www.robotgroup.com.ar/web/
+Robogroup empresa dedicada a la robótica educativa
+http://www.robotgroup.com.ar/web/  
 
+Manueles útiles:
 http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
 
+Wiki de un grupo similar al CdR
 http://www.iearobotics.com/
 
 == ¿Cómo participar? ==

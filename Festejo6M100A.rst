@@ -3,12 +3,12 @@ NOTA: para poder editar esta y cualquier otra página tienen que crearse un usua
 == Organización de la demo y festejo de los 6 meses del CdR ==
 Lugar: Nueva área de trabajo del LCE UTN-FRC [tentativo]
 
-Fecha: Sábado ?? de ?? de 2010 [a definir]
+Fecha: X ?? de ?? de 2010 [a definir]
 
 Horario: [a definir]
 
 === ¿Que queremos festejar? ===
-Que nos hemos conformado como club, que estamos trabajando activamente en dos proyectos y que hay un tercero listo para su lanzamiento, que hemos avanzado mucho en infraestructura y en relación con la UTN-FRC, que el 11 de Septiembre cumpliremos 6 meses y que pronto llegaremos los 100 adherentes!
+Que nos hemos conformado como club, que estamos trabajando activamente en dos proyectos y que hay un tercero listo para su lanzamiento, que hemos avanzado mucho en infraestructura y en relación con la UTN-FRC, que el 11 de Septiembre cumplimos 6 meses y que llegaremos los 100 adherentes!
 
 == Programa ==
 

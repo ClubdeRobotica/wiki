@@ -1,6 +1,6 @@
 == Reuniones semanales ==
 
-Reunión semanal del CdR:
+'''Reunión semanal del CdR:'''
 
 ---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC
 
@@ -10,28 +10,27 @@ Objetivo de las reuniones: Trabajar en las actividades programadas -> Ciclo de f
 
 Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el [[RSL|Proyecto Robot Seguidor de Línea]]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
 
-* Estamos planeando cerca del mes de Octubre un gran encuentro anual: feria, demostración, competencia. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
+Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración, posters. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
 
 '''''Próxima reunión:'''''
 
-* Lunes 27 de Septiembre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 04 de Octubre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
-Temario tentativo:
+'''Temario tentativo:'''
 
-1. Simulación de los modelos cinemáticos con GNU/Octave: Ezequiel Manoukian, Gustavo Santos.
+1. Simulación del modelo cinemático del RSL con GNU/Octave (continuación) / Ezequiel Manoukian, Gustavo Santos.
 
-2. Sistemas energéticos: Gestión de energía en sist. robotizados; Javier Gohlke.
+2. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación) / Javier Gohlke; Fuentes conmutadas (continuación) / Guillermo Gómez.
 
-3. Sistemas energéticos: Fuentes conmutadas - Fuete Buck: circuito, gráfico, ecuaciones; Guillermo Gómez.
+3. Introducción a micro controladores PIC / Germán Ontivero, Gustavo Spessot.
+
+'''Temas pendientes:''' (se busca disertante!)
+
+X. Introducción a microcontroladores: ARM.
 
 
-Temas pendientes:
-
-X. Introducción a microcontroladores: ARM, PIC.
-
-
-'''Histórico de reuniones:'''
+=== Histórico de reuniones: ===
 
 '''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
 
@@ -75,4 +74,6 @@ X. Introducción a microcontroladores: ARM, PIC.
 
 '''13/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica. Modelo matemático RSL, etapa energética en sist. robotizados, aplicación de PWM al control de driver de potencia para motores de CC, demo con los circuitos de potencia del VRTD (PWM y llave H, motores)
 
-'''20/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica. Ampliación del modelo matemático RSL, cinemática inversa. Ampliación de aplicaciones de PWM, fuentes conmutadas. Etapa energética en sist. robotizados, gestión de energía; Charla sobre el Proyecto Laboratorio Remoto. Reunión con los futuros tesorer@ y vocal. Armamos el puesto de trabajo con las PCs del club.
+'''20/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Ampliación del modelo matemático RSL, cinemática inversa. Ampliación de aplicaciones de PWM, fuentes conmutadas. Etapa energética en sist. robotizados, gestión de energía; Charla sobre el Proyecto Laboratorio Remoto. Reunión con los futuros tesorer@ y vocal. Armamos el puesto de trabajo con las PCs del club.
+
+'''27/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Introducción a GNU/Octave. Aplicaciones de PWM (continuación): Fuentes conmutada Buck. Reunión con la nueva tesorera. Seguimiento de proyectos y tareas pendientes.

@@ -5,18 +5,20 @@ Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr D
 
 '''Desarrolladores:''' (quienes ya estén vinculados a una tarea y no figuren en la lista anotense!)
 
- * Martín Ezequiel Molina -> Driver de potencia motores;
- * Luis Vázquez -> Placa control V1.1: Software; Plan de negocios;
+ * Luis Vázquez -> Placa control V1.1: Software;
  * Martín Exequiel Rosas -> Placa control V1.1: Hardware;
- * Jorge Montaño -> Sistema energético;
- * Gaspar Santamarina  -> Sistema energético;
- * Guillermo Gómez -> Sistema energético;
- * Javier Gohlke -> Coordinador Sistema energético;
+ * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores; Sistema energético (fase 1);
+
+ * Javier Gohlke <javiergohlke@gmail.com> -> COORDINADOR Sistema energético;
+ * Guillermo Gómez <guillegomez35@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
+ * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
+ * Gaspar Santamarina <gaspa.92@gmail.com> -> Sistema energético;
+ * Jorge Montaño <jorge_jiv@hotmail.com> -> Sistema energético; 
 
 '''Adherentes:'''
 
  * Jeremías Palacios: Placa control V1.0
- * Cristhian Mauricio Blas -> (SE):Cargador de baterías;
+ * Cristhian Mauricio Blas <mauricio_blas@hotmail.com> -> Sistema energético: Cargador de baterías;
 
 '''Introducción y objetivos:'''
 

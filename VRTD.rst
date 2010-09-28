@@ -1,14 +1,20 @@
 == P201003-002: Vehículo Robotizado con Tracción Diferencial - VRTD ==
 (Inicialmente denominado: Auto(ro)Bot, luego: AutoRoBot, ahora VRTD)
 
-Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+'''Responsable del proyecto:'''
+
+ * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 '''Desarrolladores:''' (quienes ya estén vinculados a una tarea y no figuren en la lista anotense!)
 
+---> Placa de control:
  * Luis Vázquez -> Placa control V1.1: Software;
  * Martín Exequiel Rosas -> Placa control V1.1: Hardware;
+
+---> Driver de potencia:
  * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores; Sistema energético (fase 1);
 
+---> Sistema energético:
  * Javier Gohlke <javiergohlke@gmail.com> -> COORDINADOR Sistema energético;
  * Guillermo Gómez <guillegomez35@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
@@ -26,15 +32,15 @@ Como punto de partida contamos con una plataforma lista para usar desde el punto
 
 '''Descripción general:'''
 
-''-> Fase 1:'' Comando a distancia. Se implementaría una CPU esclava montada sobre el Auto(ro)Bot, en este caso podría ser una placa con PIC que ya fue desarrollada por un miembro de la CEE, con puerto serial, ADC, 2 salidas PWM y un puerto digital de salida, que reciba ordenes de una CPU remota por medio de un vínculo cableado. El sistema energético estará montado directamente sobre la plataforma.
+'''''-> Fase 1:''''' Comando a distancia. Se implementaría una CPU esclava montada sobre el Auto(ro)Bot, en este caso podría ser una placa con PIC que ya fue desarrollada por un miembro de la CEE, con puerto serial, ADC, 2 salidas PWM y un puerto digital de salida, que reciba ordenes de una CPU remota por medio de un vínculo cableado. El sistema energético estará montado directamente sobre la plataforma.
 
-''-> Fase 2:'' Control autónomo. Algunas ideas para implementar en esta fase, propuestas por un compañero de la CEE:
+'''''-> Fase 2:''''' Control autónomo. Algunas ideas para implementar en esta fase, propuestas por un compañero de la CEE:
 
   * Utilizar la placa con DSPIC diseñada para Técnicas Digitales como unidad central de proceso: la cooperativa fabrica el programador.
 
   * Utilizar la nueva placa con núcleo ARM diseñada para Técnicas Digitales 2 como unidad central de proceso: hay buena experiencia de aplicación en robótica en el CIII.
 
-''->Fase 3:'' Control autónomo. Telemetría. Sería posible la reprogramación a distancia y la lectura remota de los sensores. Habría que implementar un lazo de comunicación bidireccional inalámbrico.
+'''''->Fase 3:''''' Control autónomo. Telemetría. Sería posible la reprogramación a distancia y la lectura remota de los sensores. Habría que implementar un lazo de comunicación bidireccional inalámbrico.
 
 '''Hoja de ruta:'''
 
@@ -50,7 +56,7 @@ Como punto de partida contamos con una plataforma lista para usar desde el punto
  1. Analizar la bibliografía disponible;
  1. Análisis de tiempos;
  1. Perspectivas/Estimaciones;
- 1. -> DESARROLLO <-
+ 1. -> DESARROLLO <- '''EN MARCHA'''
  1. Manual de usuario.
  1. Futuras mejoras.
  1. Aplicación comercial;

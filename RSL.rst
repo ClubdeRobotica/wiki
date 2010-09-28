@@ -13,8 +13,6 @@ Gustavo Martinez Spessot < coordinacion.cdr.utnfrc@gmail.com >
 
 <agregarse usando el link editar>
 
-
-
 = Introducción y objetivos =
 ----
 Primer proyecto de robótica de los miembros del CdR. Aprovechando la experiencia y conocimientos capitalizados en el desarrollo del P201003-002, los miembros del CdR se dividirán en grupos de trabajo para conformar cada uno un Robot Seguidor de Línea, en vistas de realizar una demostración y competencia al finalizar el ciclo. Se trazarían líneas generales de desarrollo y luego cada grupo las implementaría bajo su criterio y posibilidades, con el asesoramiento del CdR. Una alternativa para homogeneizar la plataforma y poder centralizarse en el desarrollo electrónico (por lo menos hasta que se conforme una sección de mecánica) es adquirir vehículos comerciales, y adaptarlos para que nos sean de utilidad. Una vez reocrridas todas las fases del proyecto, se pretende que todos tengan una base en electrónica analógica y digital con conocimientos en tipo de microcontroladores.
@@ -24,7 +22,7 @@ Un ejemplo de robots seguidores de línea del CdR de la FIUBA: http://www.sase.c
 Este es otro ejemplo de seguidor de linea http://www.x-robotics.com el cual es un circuito analógico y sera nuestro punto de partida.
 
 == Estado del Proyecto ==
-Actualmente nos encontramos cerrando el Circuito II  de la Fase I, paralelamente se está intentando desarrollando un pequeño  manual de programaciópn de PICs en lenguaje C para iniciar la Fase II
+Actualmente nos encontramos cerrando el Circuito II  de la Fase I, paralelamente se está desarrollando un pequeño  manual de programación de PICs en lenguaje C para iniciar la Fase II
 
 = Descripción general =
 ----

@@ -57,20 +57,33 @@ Todas las fases vendrán acompañadas con mejoras en la tecnología de los mater
 == Circuito I ==
 Usando un circuito presentado por la página www.x-robotics.com como punto de partida, el mismo es un circuito analógico muy simple que nos servirá para afinar la parte mecánica (si se logra un vehículo que funcione con este circuito, probablemente sea muy fácil adaptarlo a circuitos mas complejos que usen microcontroladores). El funcionamiento de este circuito es muy simple ya que todos los transistores aparecen funcionando como llaves al igual que el fototransistor del CNY70, que al detectar una superficie reflejante desactiva uno de los motores para que el vehículo doble en dirección contraria.
 
+El circuito es el que se presenta en la figura y se necesita uno como estos para cada motor, teniendo siempre en cuenta que el sensor CNY70 que se ubique a la derecha controlará el motor izquierdo y viceversa.
+
+{{attachment:Circuito1.jpg}}
+
+Como se vé el circuito es muy simple y no ofrece muchas posibilidades a la hora de variar por ejemplo la sensibilidad del sensor o la velocidad del motor, es por eso que surgió la necesidad de hacerle ciertas modificaciones para facilitar un poco el desarrollo mecánico.
+
 == Circuito II ==
-Navegando un poco por internet nos encontramos con otro circuito, que si bien utiliza casi los mismos componentes, esta configurado para tener una especie de memoria, es decir que cuando el vehículo se sale por completo de la línea negra el RSL recuerda cual fue el primer sensor en detectar pisar sobre blanco y mantiene al vehículo doblando en la dirección contraria.
+Navegando un poco por internet nos encontramos con otro circuito, que si bien utiliza casi los mismos componentes, esta configurado para tener una especie de memoria, es decir que cuando el vehículo se sale por completo de la línea negra el RSL recuerda cual fue el primer sensor en detectar pisar sobre blanco y mantiene al vehículo doblando en la dirección contraria.El circuito es el que se muestra en la figura y se ve que es tan sencillo como el primero pero mucho mas potente:
+
+{{attachment:Circuito2.gif}}
+
+VR1 y VR2 son potenciómetros lineales que se usan para variar la velocidad del motor,
+
+Q6 y Q3 pueden ser los mismos BD140 que se usaron para el primer circuito, los demás pueden ser transistores BC557
+
+R1 y R3 serán resistencias de 100 K.
+
+Esta configuración fue simulada y funciona correctamente, tanto la memoria como la regulación de velocidad de los motores
 
 = Anexos =
 ----
 == Links de interés: ==
-Robogroup empresa dedicada a la robótica educativa
-http://www.robotgroup.com.ar/web/  
+Robogroup empresa dedicada a la robótica educativa http://www.robotgroup.com.ar/web/
 
-Manueles útiles:
-http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
+Manueles útiles: http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
 
-Wiki de un grupo similar al CdR
-http://www.iearobotics.com/
+Wiki de un grupo similar al CdR http://www.iearobotics.com/
 
 == ¿Cómo participar? ==
 Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. También podés acercarte los días jueves de 16 a 19 hs al Laboratorio Central de Electrónica y hablar con nosotros personalmente. Esperamos tu participación!

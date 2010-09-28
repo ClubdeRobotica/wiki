@@ -1,18 +1,26 @@
 == Comisión Directiva 2010 ==
-'''Dirección''': Marco Alvarez Reyna
+'''Dirección'''
 
-e-mail: <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+ * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
-'''Coordinación General''': Gustavo Martinez Spessot
+'''Tesorería'''
 
-e-mail: < coordinacion (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
+ * Johana Alejandra Aybar <you_1802@hotmail.com>
 
-'''Relaciones Institucionales''': Frank D. Schefer
+'''Coordinación General'''
 
-e-mail: < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
+ * Gustavo Martinez Spessot < coordinacion (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 
-'''Vocal''': Gustavo Javier Santos
+'''Relaciones Institucionales'''
 
-e-mail:
+Responsable:
 
-'''Bienvenida la primera comisión del club!'''
+ * Frank D. Schefer < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
+
+Vocales: 
+
+ * Gustavo Javier Santos <gustavo2189@hotmail.com>
+
+ * Ezequiel Manoukian <eze_iacc@hotmail.com>
+
+'''Bienvenidos!!!'''

@@ -1,6 +1,6 @@
 == P201003-001 Proyecto MiniLab ==
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:folletov2.0.jpg||width=250}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:folletov2.0.jpg||width=500}} ||
 
 Responsable del proyecto: Frank Schefer <institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 

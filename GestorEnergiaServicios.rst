@@ -18,7 +18,9 @@ Batería/s + fuente conmutada (driver potencia, interfaces), fuente lineal (uCon
 
  * fuente primaria (entrada): 12[V], ~7Ah
  * fuente secundaria #1 (salida): 5[V] @ pot>10[W] (Imáx>2[A]) PENDIENTE
- * fuente secundaria #2 (salida): 9[V] @ pot>30[W] (Imáx>3,33[A]) PENDIENTE
+ * fuente secundaria #2 (salida): características pendientes, depende del tipo de driver de potencia que utilicemos para los motores en estas fases. PENDIENTE
+
+Común a todas las fases: Diseñar los conductores/conectores para que soporten 4[A]@5[V] y 6[A]@~12[V]
 
 '''Tips para el diseño:'''
 

@@ -35,34 +35,3 @@ Nota: De todas maneras, si un grupo de los primeros años se siente en condicion
     Cabe aclarar que el CdR simplemente los incentiva a construirlo. El MiniLab se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB.
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
-
-'''Ley de Ohm:'''
-
-Dentro del marco teórico de la electrotecnia y la electrónica, la Ley de Ohm cumple un rol básico que permite la creación de circuitos eléctricos/electrónicos para la implementacion en un proyecto técnico-tecnológico.
-
-Antes de definir la ley de Ohm debemos mencionar los parámetros intervinientes en la misma y sus correspondientes unidades de medida utilizadas.
-
-La diferencial de potencial es una magnitud física que se representa como DDP, E o V, que provoca que en un conductor eléctrico los electrones se muevan desde un extremo al otro, generando un flujo denominado “flujo de corriente eléctrica”. Se dice que este flujo circula del borne o polo positivo (+) al negativo (-). Esto se debe a que en la zona positiva los electrones libres fluyen hacia la negativa, por lo tanto hay mayor concentración de electrones en está zona, recibe el nombre de negativa ya que los electrones tiene su carga definido como negativo. El polo positivo carece de electrones libres, definiéndose como positivo por la carga del pronto. La diferencia de potencial se mide en Volt o Voltios simbolizado con al letra (V.).
-
-La intensidad de la corriente eléctrica; se define como la cantidad de electrones que fluyen en un conductor por unidad de tiempo. Es decir que si no existe diferencia de potencial no existe flujo de electrones y la Intensidad es nula o cero. La intensidad se representa con la letra “I”, su unidad de medida es el Amper o Amperios y se simboliza con la letra [A] .
-
-La resistencia eléctrica es la propiedad que caracteriza a los materiales por ofrecer mayor o menor oposición a la circulación del flujo de electrones o intensidad de corriente a través de un conductor, se representa con la letra R. Todos los materiales poseen resistencia, pero en diferente grado, por ejemplo los metales posen un bajo valor de resistividad (poca oposición) permitiendo una circulación mayor,.Estos materiales reciben el nombre de “conductores”, entre ellos podemos mencionar: cobre, aluminio, plata y el oro. Mientras que los materiales que posen un alto indice de resistividad se denominan malos conductores o “aislantes.”, entre ellos podemos mencionar el plástico, la ebonita, el caucho, el aceite, etc. , Su unidad es el Ohm u Ohmios, representándose con la letra del alfabeto griego [Ω]
-
-La Ley de Ohm se define como:
-
-"La Intensidad de la corriente eléctrica ( I ) que circula por un circuito eléctrico es directamente proporcional a la diferencia de potencial aplicada ( V ) e inversamente proporcional a la Resistencia ( R ) del mismo"
-
-Expresado matemáticamente esto es:                                                                                    
-I = V / R
-
-    *      I = Intensidad en Amper (A)
-    *      V = Diferencia de potencial en Voltios (V)
-    *      R = Resistencia en Ohmios (Ω).
-
-De la misma puede obtenerse, por despeje de términos las formulas de V e R
-
---->eMail [[LanzamientoProyML|Lanzamiento Proy. ML]]
-
-'''¿Cómo participar?'''
-
-Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

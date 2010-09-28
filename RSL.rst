@@ -78,7 +78,7 @@ Esta configuración fue simulada y funciona correctamente, tanto la memoria como
 
 = Anexos =
 ----
-== Links de interés: ==
+== Links de interés ==
 Robogroup empresa dedicada a la robótica educativa http://www.robotgroup.com.ar/web/
 
 Manueles útiles: http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
@@ -86,4 +86,7 @@ Manueles útiles: http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/te
 Wiki de un grupo similar al CdR http://www.iearobotics.com/
 
 == ¿Cómo participar? ==
-Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. También podés acercarte los días jueves de 16 a 19 hs al Laboratorio Central de Electrónica y hablar con nosotros personalmente. Esperamos tu participación!
+{{{#!wiki note
+Si te interesa el proyecto y querés participar, '''escribí a la dirección de contacto del club o directamente al responsable directo del proyecto'''. A la brevedad nos pondremos en contacto informándote de los pormenores.
+También podés acercarte los días '''jueves de 16 a 19 hs al Laboratorio Central de Electrónica''' y hablar con nosotros personalmente. Esperamos tu participación!
+}}}

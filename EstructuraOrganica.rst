@@ -21,3 +21,7 @@ Propuesta de estructura orgánica:
    4. Colaboradores externos: Se contempla invitar a profesionales de otras instituciones dentro del plan de formación continua de los miembros del CdR y su entorno de cooperación. Se considera también dentro de este grupo a las empresas e instituciones ajenas a la UTN-FRC que deseen proponer proyectos y hacer donaciones al CdR.
 
 * Los puntos 1,2 y 3 pueden combinarse.
+
+[[ComisionDirectiva|Comisión Directiva 2010]] |
+[[Miembros|Miembros]] |
+[[PreguntasFrecuentes|Preguntas frecuentes]]

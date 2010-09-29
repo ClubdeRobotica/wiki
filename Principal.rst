@@ -10,15 +10,7 @@ También busca integrar a estudiantes de otras especialidades que quieran introd
 
 
 [[Bienvenida|Palabras de bienvenida]] |
-[[Actividades|Actividades]] |
-[[Miembros|Miembros]] |
 [[EstructuraOrganica|Estructura Orgánica]] |
-[[ComisionDirectiva|Comisión Directiva 2010]] |
-[[Mision|Misión]] |
-[[Objetivos|Objetivos]] |
-[[PreguntasFrecuentes|Preguntas frecuentes]] |
-[[Galeria|Galería de imágenes]] |
-[[LinksInteres|Links de Interés]] |
-[[Agradecimientos|Agradecimientos]] |
+[[Actividades|Actividades]] |
 [[Contacto|Contacto]] |
-[[Novedades|Novedades!]]
+[[Novedades|Novedades]]

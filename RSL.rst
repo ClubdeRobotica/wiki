@@ -69,7 +69,7 @@ Esta configuración fue simulada y funciona correctamente, tanto la memoria como
 == Links de interés ==
 Robogroup empresa dedicada a la robótica educativa http://www.robotgroup.com.ar/web/
 
-Manueles útiles: http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
+Manuales útiles: http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
 
 Wiki de un grupo similar al CdR http://www.iearobotics.com/
 

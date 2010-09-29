@@ -12,4 +12,7 @@ Marco Alvarez Reyna
 
 ''Córdoba, 11/03/2010'' 
 
-[[Origen|Orígenes]]
+[[Origen|Orígenes]] | 
+[[Mision|Misión]] | 
+[[Objetivos|Objetivos]] | 
+[[Agradecimientos|Agradecimientos]]

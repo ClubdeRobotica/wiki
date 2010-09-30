@@ -127,11 +127,12 @@ Control autónomo. Telemetría. Sería posible la reprogramación a distancia y 
  1. Desarrollo del material de curso y búsqueda de bibliografía avanzada.
 
 == Fotos de la plataforma ==
+----
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD.jpg||width="400"}} ||
 ||<50%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD1.jpg||width="400"}} ||
 ||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD2.jpg||width="400"}} ||
 ||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD3.jpg||width="400"}} ||
-
+----
 = Herramientas de Software =
 Para los desarrolladores:
 

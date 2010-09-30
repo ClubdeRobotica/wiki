@@ -11,7 +11,6 @@ Gustavo Martinez Spessot < coordinacion.cdr.utnfrc@gmail.com >
 
  * Germán Ontivero
 
-<agregarse usando el link editar>
 
 = Introducción y objetivos =
 ----

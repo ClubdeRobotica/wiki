@@ -20,6 +20,7 @@
  * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Gaspar Santamarina <gaspa.92@gmail.com> -> Sistema energético;
  * Jorge Montaño <jorge_jiv@hotmail.com> -> Sistema energético; 
+ * Ezequiel Molina <martinezequielmolina@gmail.com> -> Sistema energético;
 
 '''Adherentes:'''
 

@@ -1,20 +1,25 @@
-== P201003-002: Vehículo Robotizado con Tracción Diferencial - VRTD ==
-(Inicialmente denominado: Auto(ro)Bot, luego: AutoRoBot, ahora VRTD)
+~+'''P201003-002: Vehículo Robotizado con Tracción Diferencial - VRTD'''+~
 
-'''Responsable del proyecto:'''
+(Inicialmente denominado Auto(ro)Bot, luego AutoRoBot, ahora VRTD)
+
+<<TableOfContents()>>
+
+= Equipo =
+
+== Responsable del proyecto ==
 
  * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
-'''Desarrolladores:''' (quienes ya estén vinculados a una tarea y no figuren en la lista anotense!)
+== Desarrolladores ==
 
----> Placa de control:
- * Luis Vázquez -> Placa control V1.1: Software;
- * Martín Exequiel Rosas -> Placa control V1.1: Hardware;
+=== Placa de control ===
+ * Luis Vázquez <luigi.utn@gmail.com> -> Placa control V1.1: Software;
+ * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;
 
----> Driver de potencia:
- * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores; Sistema energético (fase 1);
+=== Driver de potencia ===
+ * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores (fase 1);
 
----> Sistema energético:
+=== Sistema energético ===
  * Javier Gohlke <javiergohlke@gmail.com> -> COORDINADOR Sistema energético;
  * Guillermo Gómez <guillegomez35@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
@@ -22,35 +27,38 @@
  * Jorge Montaño <jorge_jiv@hotmail.com> -> Sistema energético; 
  * Ezequiel Molina <martinezequielmolina@gmail.com> -> Sistema energético;
 
-'''Adherentes:'''
-
- * Jeremías Palacios: Placa control V1.0
+== Adherentes ==
+ * Jeremías Palacios <palacios.jeremias@gmail.com> -> Placa control V1.0: Hardware && Software;
  * Cristhian Mauricio Blas <mauricio_blas@hotmail.com> -> Sistema energético: Cargador de baterías;
 
-'''Introducción y objetivos:'''
+{{{#!wiki note
+Quienes ya estén vinculados a una tarea y no figuren en la lista anotense! Para poder editar la wiki tienen que crearse un usuario y contraseña, y pedir ser agregados al grupo de editores.
+}}}
+
+= Introducción y objetivos =
 
 Como punto de partida contamos con una plataforma lista para usar desde el punto de vista mecánico. Es un robot con orugas de 25x35x~20cm, tracción diferencial, caja con dos relaciones (H/L), construido en [[http://www.worldlingo.com/ma/enwiki/en/Duralumin/1|duraluminio]] T-6 y poliamida 6. Apto para maltrato y experimentación. También cuenta con un cabezal móvil con dos grados de libertad (azimut y elevación) dotado de motores de paso y reductores, con su respectiva etapa de potencia e interfaz. En términos generales hay que implementar el sistema de baterías, el gestor de energía y servicios, drivers de potencia, la UCP y Control, sensorística, sistema de comunicaciones y transmisión de datos y visualización (interfaz humana). También contamos con un pequeño stock de electrónica (uControladores varios 16F,18F, Kit PicStart Plus, placas de prueba, sensores de temperatura, amp. op., acelerómetros, GPS y drivers de potencia) como para largar sin una gran inversión. En este punto el capital humano es lo prioritario. En función de su aplicación (a definir) hay que bautizarlo! Y trazar las líneas de desarrollo.
 
-'''Descripción general:'''
+== Propuesta de aplicación ==
+{{{
+ 1. Utilizarlo como un robot entrenador. Para que los miembros ingresantes al club se introduzcan a la electrónica y la robótica. Se podría implementar un seminario.
 
-'''''-> Fase 1:''''' Comando a distancia. Se implementaría una CPU esclava montada sobre el Auto(ro)Bot, en este caso podría ser una placa con PIC que ya fue desarrollada por un miembro de la CEE, con puerto serial, ADC, 2 salidas PWM y un puerto digital de salida, que reciba ordenes de una CPU remota por medio de un vínculo cableado. El sistema energético estará montado directamente sobre la plataforma.
+ 2. Utilizarlo en apoyo a la Cátedra de Informática 2 para que los alumnos realicen algún práctico extracurricular de programación en C/C++.
 
-'''''-> Fase 2:''''' Control autónomo. Algunas ideas para implementar en esta fase, propuestas por un compañero de la CEE:
+ 3. Plataforma sobre la cual alumnos de la cátedra de Sistemas de Control puedan implementar algún algoritmo para el control sobre los motores.
 
-  * Utilizar la placa con DSPIC diseñada para Técnicas Digitales como unidad central de proceso: la cooperativa fabrica el programador.
+ 4. También podría ser utilizado por la cátedra de Técnicas Digitales 3 para implementar algún algoritmo para el procesamiento de señales.
+}}}
 
-  * Utilizar la nueva placa con núcleo ARM diseñada para Técnicas Digitales 2 como unidad central de proceso: hay buena experiencia de aplicación en robótica en el CIII.
+= Descripción general =
 
-'''''->Fase 3:''''' Control autónomo. Telemetría. Sería posible la reprogramación a distancia y la lectura remota de los sensores. Habría que implementar un lazo de comunicación bidireccional inalámbrico.
-
-'''Hoja de ruta:'''
-
+== Hoja de ruta ==
  1. Representación básica de la idea; '''TERMINADO'''
  1. Título del proyecto; '''TERMINADO'''
  1. Convocar y definir a los desarrolladores; '''EN MARCHA'''
  1. Definir los objetivos; '''TERMINADO'''
  1. Definir las fases (progresivas); '''TERMINADO'''
- 1. Establecer los requerimientos y especificaciones en función de los objetivos. '''EN MARCHA'''
+ 1. Establecer los requerimientos y especificaciones en función de los objetivos; '''EN MARCHA'''
  1. Diagramar las tareas; '''EN MARCHA'''
  1. Dividir las tareas según recursos; '''EN MARCHA'''
  1. Analizar las tecnologías de software y hardware involucradas; '''EN MARCHA'''
@@ -58,17 +66,35 @@ Como punto de partida contamos con una plataforma lista para usar desde el punto
  1. Análisis de tiempos;
  1. Perspectivas/Estimaciones;
  1. -> DESARROLLO <- '''EN MARCHA'''
- 1. Manual de usuario.
- 1. Futuras mejoras.
+ 1. Manual de usuario;
+ 1. Futuras mejoras;
+ 1. Análisis de mercadeo;
  1. Aplicación comercial;
  1. Plan de negocios;
- 1. Estrategias de marketing.
+ 1. Estrategias de marketing;
 
-Nota: normalmente los proyectos se comienzan por los últimos tres puntos, pero dadas las propuestas de aplicación pedagógicas del mismo las dejamos para analizar en instancias superiores.
+{{{#!wiki note
+Normalmente los proyectos se comienzan por los últimos puntos, pero dadas las propuestas de aplicación de índole pedagógicas del mismo, las dejamos para analizar en instancias posteriores.
+}}}
 
-'''''Tareas asignadas a cada fase:'''''
+== Alcance de cada fase ==
 
-''Fase 1:''
+=== Fase 1 ===
+Comando a distancia. Se implementaría una CPU esclava montada sobre el Auto(ro)Bot, en este caso podría ser una placa con PIC que ya fue desarrollada por un miembro de la CEE, con puerto serial, ADC, 2 salidas PWM y un puerto digital de salida, que reciba ordenes de una CPU remota por medio de un vínculo cableado. El sistema energético estará montado directamente sobre la plataforma.
+
+=== Fase 2 ===
+Control autónomo. Algunas ideas para implementar en esta fase, propuestas por un compañero de la CEE:
+
+  * Utilizar la placa con DSPIC diseñada para Técnicas Digitales como unidad central de proceso: la cooperativa fabrica el programador.
+
+  * Utilizar la nueva placa con núcleo ARM diseñada para Técnicas Digitales 2 como unidad central de proceso: hay buena experiencia de aplicación en robótica en el CIII.
+
+=== Fase 3 ===
+Control autónomo. Telemetría. Sería posible la reprogramación a distancia y la lectura remota de los sensores. Habría que implementar un lazo de comunicación bidireccional inalámbrico.
+
+== Tareas asignadas a cada fase ==
+
+=== Fase 1 ===
 
  1. Interfaz humana: (tarea distribuida) Indicadores luminosos a bordo del VRTD; Impresión en pantalla en el host remoto.
  1. [[GestorEnergiaServicios|Sistema energético]] básico: Diseñar el gestor de energía y servicios (cargador de baterías, protecciones, distribución de energía, reguladores); Indicadores y alarmas; Medir el VRTD para ver cual es la batería más grande que puede entrar (ya hablamos un poco del formato); Seleccionar y comprar las baterías en función de la calidad/precio; Diseñar la sujeción mecánica de las baterías.
@@ -80,7 +106,8 @@ Nota: normalmente los proyectos se comienzan por los últimos tres puntos, pero 
  1. Búsqueda de bibliografía y desarrollo del material del curso de robótica.
  1. Hacer Ing. Inversa sobre la plataforma y hacer el plano con software CAD, SL.
 
-''Fase 2:'' (completar)
+=== Fase 2 ===
+(completar)
 
  1. Interfaz humana. Indicadores.
  1. Analizar y corregir el corrimiento de las orugas (para mecánicos)
@@ -92,32 +119,20 @@ Nota: normalmente los proyectos se comienzan por los últimos tres puntos, pero 
  1. Diseñar la UCP. Algoritmo de control. WDT.
  1. Desarrollo del material de curso y búsqueda de bibliografía básica.
 
-''Fase 3:'' (completar)
+=== Fase 3 ===
+(completar)
 
  1. Interfaz humana. Indicadores.
  1. Implementación del control en una plataforma con tecnología ARM.
  1. Desarrollo del material de curso y búsqueda de bibliografía avanzada.
 
-
-'''Propuesta de aplicación:'''
-{{{
- 1. Utilizarlo como un robot entrenador. Para que los miembros ingresantes al club se introduzcan a la electrónica y la robótica. Se podría implementar un seminario.
-
- 2. Utilizarlo en apoyo a la Cátedra de Informática 2 para que los alumnos realicen algún práctico extracurricular de programación en C/C++.
-
- 3. Plataforma sobre la cual alumnos de la cátedra de Sistemas de Control puedan implementar algún algoritmo para el control sobre los motores.
-
- 4. También podría ser utilizado por la cátedra de Técnicas Digitales 3 para implementar algún algoritmo para el procesamiento de señales.
-}}}
-
-'''Fotos de la plataforma:'''
+== Fotos de la plataforma ==
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD.jpg||width="400"}} ||
 ||<50%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD1.jpg||width="400"}} ||
 ||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD2.jpg||width="400"}} ||
 ||<100%  style="border-right: medium none; border-top: medium none; border-left: medium none; border-bottom: medium none; text-align: center"> {{attachment:VRTD3.jpg||width="400"}} ||
 
-'''Herramientas de Software:'''
-
+= Herramientas de Software =
 Para los desarrolladores:
 
 Cómo saben, el CdR adhiere al movimiento de SL, utiliza la plataforma GNU/Linux y herramientas de desarrollo libres. La recomendación es comenzar a relacionarse con el SO Linux y el uso de herramientas libres. Aquí tienen una lista de los programas que muy posiblemente utilicemos en los desarrollos:
@@ -151,6 +166,5 @@ Cómo saben, el CdR adhiere al movimiento de SL, utiliza la plataforma GNU/Linux
 Si necesitan ayuda, contamos con 100% de apoyo de SLUC para todo lo que tenga que ver con SL. [[http://www.sluc.org.ar/|SLUC]] organiza reuniones periódicas para instalar Linux y estas herramientas. También dan soporte. Si alguien necesita ayuda póngase en contacto con ellos.
 
 
-'''¿Cómo participar?'''
-
+= ¿Cómo participar? =
 Si te interesa el proyecto y querés participar, escribí a la dirección de contacto del club o directamente al responsable directo del proyecto. A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

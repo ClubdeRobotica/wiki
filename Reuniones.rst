@@ -19,15 +19,15 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
 '''Temario tentativo:'''
 
-1. Simulación del modelo cinemático del RSL con GNU/Octave (continuación) / Ezequiel Manoukian, Gustavo Santos.
+1. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación): Javier Gohlke; Fuentes conmutadas (continuación): Guillermo Gómez.
 
-2. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación) / Javier Gohlke; Fuentes conmutadas (continuación) / Guillermo Gómez.
+2. Introducción a micro controladores PIC: Germán Ontivero, Gustavo Spessot.
 
-3. Introducción a micro controladores PIC / Germán Ontivero, Gustavo Spessot.
+'''Temas pendientes:'''
 
-'''Temas pendientes:''' (se busca disertante!)
+1. Simulación del modelo cinemático del RSL con GNU/Octave
 
-X. Introducción a microcontroladores: ARM.
+2. Introducción a microcontroladores: ARM
 
 
 === Histórico de reuniones: ===

@@ -6,7 +6,7 @@
 
 ---> Cuándo: Todos los lunes de 18:15hs a 20:15hs
 
-Objetivo de las reuniones: Trabajar en las actividades programadas -> Ciclo de formación, coordinación proyectos, infraestructura.
+Objetivo de las reuniones: Trabajar en las [[PlanificacionReuniones|actividades programadas]] -> Ciclo de formación, coordinación proyectos, infraestructura.
 
 Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el [[RSL|Proyecto Robot Seguidor de Línea]]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
 

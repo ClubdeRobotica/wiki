@@ -2,8 +2,6 @@ Este es un espacio común de aprendizaje, para que quienes se inician en la edic
 
 Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
-* '''''Llamado público''''' a cubrir el cargo de '''''VOCAL''''', finaliza el 27/09/2010.
-
 * Se eliminará la lista de correo alojada en los servidores de Google.
 
 * Se darán de bajas las direcciones de correo institucionales de gmail y se darán de alta en USLA.

@@ -17,8 +17,9 @@ Año 2010:
    1. Presentación del Proyecto CdR ante el Consejo Departamental; 8 de Junio.
    1. Implementación de la tesorería del club; 23 de Agosto.
    1. Visita a las instalaciones del [[http://ciii.frc.utn.edu.ar/|CIII UTN-FRC]]. Fotos del la visita [[VisitaCIII|acá]]; 6 de Septiembre.
-
+   1. Participación en el SFD/iFest 2010 UTN-FRC. 18 de Septiembre de 2010.
+   1. Llamado público para cubrir los cargos de VOCAL/es y TESORERO/a del CdR. Finalizó con tres designaciones. 27 de Septiembre de 2010.
 
 [[Reuniones|Reuniones semanales]] | 
 [[CicloFormacion|Ciclo de formación]] |
-[[Festejo6M100A|Festejo 6 meses/100 adhrentes!]]
+[[Festejo6M100A|Festejo 6 meses/100 adherentes]]

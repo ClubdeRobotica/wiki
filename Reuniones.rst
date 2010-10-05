@@ -15,7 +15,7 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
 '''''Próxima reunión:'''''
 
-* Lunes 04 de Octubre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 18 de Octubre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 '''Temario tentativo:'''
 
@@ -23,11 +23,11 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
 2. Introducción a micro controladores PIC: Germán Ontivero, Gustavo Spessot.
 
+3. Simulación del modelo cinemático del RSL con GNU/Octave
+
 '''Temas pendientes:'''
 
-1. Simulación del modelo cinemático del RSL con GNU/Octave
-
-2. Introducción a microcontroladores: ARM
+1. Introducción a microcontroladores: ARM
 
 
 === Histórico de reuniones: ===

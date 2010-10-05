@@ -77,3 +77,5 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 '''20/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Ampliación del modelo matemático RSL, cinemática inversa. Ampliación de aplicaciones de PWM, fuentes conmutadas. Etapa energética en sist. robotizados, gestión de energía; Charla sobre el Proyecto Laboratorio Remoto. Reunión con los futuros tesorer@ y vocal. Armamos el puesto de trabajo con las PCs del club.
 
 '''27/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Introducción a GNU/Octave. Aplicaciones de PWM (continuación): Fuentes conmutada Buck. Reunión con la nueva tesorera. Seguimiento de proyectos y tareas pendientes.
+
+'''04/10/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Introducción a la programación de PIC mediante lenguaje C: primeros programas y simulación, paso a paso para la grabación de PICs. Fuentes conmutadas (continuación) análisis y uso de circuitos integrados. Reunión con la comisión directiva.

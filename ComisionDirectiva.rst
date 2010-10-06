@@ -9,7 +9,7 @@
 
 '''Coordinación General'''
 
- * Gustavo Martinez Spessot < coordinacion (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
+ * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 '''Relaciones Institucionales'''
 

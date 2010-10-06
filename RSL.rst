@@ -4,7 +4,7 @@
 
 = Equipo =
 == Responsable del proyecto ==
-Gustavo Martinez Spessot < gdrake84@gmail.com >
+Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 == Delegados ==
  * Marcos Ciceri

@@ -2,6 +2,8 @@ Este es un espacio común de aprendizaje, para que quienes se inician en la edic
 
 Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
+* Utilización de < '''Software Libre''' > para los trabajos a desarrollar.
+
 * Se eliminará la lista de correo alojada en los servidores de Google.
 
 * Se darán de bajas las direcciones de correo institucionales de gmail y se darán de alta en USLA.

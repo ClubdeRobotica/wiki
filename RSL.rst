@@ -4,7 +4,7 @@
 
 = Equipo =
 == Responsable del proyecto ==
-Gustavo Martinez Spessot < coordinacion.cdr.utnfrc@gmail.com >
+Gustavo Martinez Spessot < gdrake84@gmail.com >
 
 == Delegados ==
  * Marcos Ciceri

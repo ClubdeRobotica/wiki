@@ -19,15 +19,20 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
 '''Temario tentativo:'''
 
-1. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación): Javier Gohlke; Fuentes conmutadas (continuación): Guillermo Gómez.
+ 1. Fuentes conmutadas (continuación): Guillermo Gómez.
 
-2. Introducción a micro controladores PIC: Germán Ontivero, Gustavo Spessot.
+ 1. Simulación del modelo cinemático del RSL (tracción diferencial) con GNU/Octave
 
-3. Simulación del modelo cinemático del RSL con GNU/Octave
+ 1. Introducción a micro controladores PIC, programación (continuación: uso de interrupciones y temporizadores, programa para control de motor de CC mediante PWM) + simulación + demostración sobre protoboard): Germán Ontivero, Gustavo Spessot.
+
+ 1. Demostración del seguidor de líneas funcionando
+
 
 '''Temas pendientes:'''
 
-1. Introducción a microcontroladores: ARM
+ 1. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación): Javier Gohlke; 
+
+ 1. Introducción a microcontroladores: ARM
 
 
 === Histórico de reuniones: ===
@@ -78,4 +83,4 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
 '''27/09/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Introducción a GNU/Octave. Aplicaciones de PWM (continuación): Fuentes conmutada Buck. Reunión con la nueva tesorera. Seguimiento de proyectos y tareas pendientes.
 
-'''04/10/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Introducción a la programación de PIC mediante lenguaje C: primeros programas y simulación, paso a paso para la grabación de PICs. Fuentes conmutadas (continuación) análisis y uso de circuitos integrados. Reunión con la comisión directiva.
+'''04/10/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Introducción a la programación de PIC mediante lenguaje C: primeros programas y simulación, paso a paso para la grabación de PICs. Fuentes conmutadas (continuación) análisis y uso de circuitos integrados. *Reunión con la comisión directiva: bienvenida a los nuevos miembros, estrategias de difusión, planificación del resto del 2010.

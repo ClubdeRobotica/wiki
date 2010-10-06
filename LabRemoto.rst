@@ -1,8 +1,6 @@
 == Laboratorio Remoto ==
 
-Administrador: CdR <<MailTo( CdR@CdR )>>
-
-Desarrolladores: CdR <<MailTo( CdR@CdR )>>
+Desarrollador: CdR <<MailTo( CdR@CdR )>>
 
 '''Introducción:'''
 

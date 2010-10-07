@@ -1,7 +1,10 @@
-== Gestor de Energía y Servicios ==
+= Gestor de Energía y Servicios =
 
-=== Sistema energético: ===
+== Sistema energético: ==
 
+=== Características ===
+
+Algunas de las cualidades que debería poseer serían: alto rendimiento, pequeño volumen, bajo peso, redundante, robusto, estabilidad térmica, gran rango de tensión de entrada, drift pequeño (variación de sus parámetros respecto de la temperatura), con protecciones y capacidad de reportar errores o situaciones límite, modular, baja radiación EMI.
 Requerimientos de diseño:
 
 ---> Fase 1:

@@ -1,6 +1,8 @@
 == Laboratorio Remoto ==
 
-Desarrollador: CdR <<MailTo( CdR@CdR )>>
+Desarrollador: Alejandro Cerutti
+
+Mail: <<MailTo( cerutti.alejandro@gmail.com )>>
 
 '''Introducción:'''
 

@@ -21,3 +21,5 @@ Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 user@linux:~>gpsmon cdrutnfrc.homelinux.org:2947
 }}}
 * Análisis de aplicación de la licencia [[http://www.gnu.org/licenses/gpl-3.0-standalone.html|GPLv3]] para los desarrollos del CdR.
+
+* Una sección dedicada a [[Infraestructura|infraestructura]] y tareas pendientes.

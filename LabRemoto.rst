@@ -1,8 +1,6 @@
 = Laboratorio Remoto =
 
-Desarrollador: Alejandro Cerutti
-
-eMail: <<MailTo( cerutti.alejandro@gmail.com )>>
+Desarrollador: Alejandro Cerutti <<MailTo( cerutti.alejandro@gmail.com )>>
 
 == Introducción ==
 
@@ -35,11 +33,11 @@ Disponible en el Servidor SVN del CdR (/>CdR/Proyectos/VANT/software/gps). Debe 
 
  * Hay que realizar varias tareas relacionadas a la integridad del servicio y conservación de los datos.
 
- * Seguridad.
+ * Trabajar en políticas y estrategias de seguridad en la red.
 
  * Levantar nuevos servicios: implicaría algo de programación html básica, C++, java y quizás algo de python. 
 
- * Hay que programar una aplicación Cliente/Servidor para publicar los datos y poder interactuar con la planta (telemetría y teleoperación). Tienen que ser necesariamente aplicaciones portables, escalables, reutilizables y bien documentadas. En un futuro (esperemos no muy lejano), la aplicación servidor tendría que poder correr embebida en una SBC con núcleo ARM (Linux ~2.6.32.x / Debian)
+ * Hay que programar una aplicación Cliente/Servidor para publicar los datos y poder interactuar con la planta (orientados a telemetría y teleoperación). Tienen que ser necesariamente aplicaciones portables, escalables, reutilizables y bien documentadas. En un futuro (esperemos no muy lejano), la aplicación servidor tendría que poder correr embebida en una SBC con núcleo ARM (Linux ~2.6.32.x / Debian)
 
  * Investigar cuán factible es integrar las OpenCV (intel) a este proyecto, en vistas de generar un entorno para competencia de robots.
 

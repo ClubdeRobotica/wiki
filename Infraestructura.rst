@@ -8,19 +8,11 @@
  1. Terminar de configurar las PCs del club en el LTD;
  1. Mudar el repositorio SVN al servidor de USLA;
 
-=== Software ===
-
- 1. Desarrollo de  la aplicación cliente/servidor para telemetría y teleoperación;
- 1. Reacondicionamiento de la clase "serialCom";
-
-
 {{{#!wiki note
 Si estás dispuesto a realizar alguna de estas tareas, por favor ponete en contacto con la comisión directiva!
 }}}
 
-
-
-=== Respecto de las tareas: ===
+=== Respecto de las tareas ===
 
 Para poder garantizar la ejecución de la tarea que estemos realizando, ya sea institucional, relacionada a infraestructura, proyectos, o del ciclo de formación, deberíamos de:
 

@@ -12,7 +12,7 @@ Propuesta de estructura orgánica:
                 o Rol: En términos generales el Director Técnico brindaría asesoramiento a nivel global en el área de robótica, que implica mecánica, electromecánica, electrónica y software. Establecería contactos dentro y fuera de la facultad y orientaría los desarrollos. El soporte en algún área fuera de su alcance podría ser realizado en conjunto con un especialista. Cumpliría en esta primer etapa el rol de tesorero.
           * Coordinación General:
                 o Rol: El Coordinador General sería el encargado de promover una fluida comunicación entre los miembros del CdR, coordinar las actividades internas y externas, llevar adelante las tratativas con la CEE y SLUC, y coordinar la resolución de conflictos. Difusión del CdR. Estaría también a cargo de mantener la lista de correo del CdR (hacer de moderador, re encaminar las charlas, etc…)
-          * Área de Relaciones Institucionales -> Vocales:
+          * Área de Relaciones Institucionales: Responsable + Vocales
                 o Rol: Buscar acciones eficientes según los deseos y necesidades de los miembros, tendientes a optimizar las relaciones inter e intra institucionales.
           * Tesorería:
                 o Rol: Administrar los fondos del CdR. Implementación conjunta entre el Tesorero y el Director del club.

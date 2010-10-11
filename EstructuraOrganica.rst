@@ -22,6 +22,11 @@ Propuesta de estructura orgánica:
 
 * Los puntos 1,2 y 3 pueden combinarse.
 
+{{{#!wiki note
+El documento maestro de esta sección se encuentra en el servidor SVN del CdR. Lo presentado aquí es sólo un resumen. Por favor no editar esta sección en la wiki.
+}}}
+
+
 [[ComisionDirectiva|Comisión Directiva 2010]] |
 [[Miembros|Miembros]] |
 [[PreguntasFrecuentes|Preguntas frecuentes]]

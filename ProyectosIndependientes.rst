@@ -1,20 +1,21 @@
-== Proyectos Independientes ==
+= Proyectos Independientes =
 
 Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y llevados adelante, tanto en su dirección, coordinación y ejecución por miembros del CdR, bajo el esquema propuesto. Éstos pueden iniciarse en cualquier momento del año, preferentemente durante el primer semestre.
 
-'''Propuestas de proyectos y sus responsables:''' ''(buscan coordinador y/o grupo de trabajo para independizarse!)''
+== Propuestas de proyectos y sus responsables ==
+(buscan coordinador y/o grupo de trabajo para independizarse!)
 
-* En la incubadora:
+=== En la incubadora ===
 
 [[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
 
-* Patrocinados por el CdR:
+=== Patrocinados por el CdR ===
 
 [[Lego|Lego Robot]]: CdR
 
 [[PortadorArticulado|Portador Articulado]]: CdR
 
-* Independientes:
+=== Independientes ===
 
 [[MTouch|Proyecto M-Touch (SCTI)]]: Martín Exequiel Rosas
 
@@ -23,7 +24,6 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 [[VSANT|Proyecto Acua(ro)Bot (VSANT)]]: Jorge Montaño
 
 
-
-¿Cómo participar?
+== ¿Cómo participar? ==
 
 Ya sea que te interese alguno de los proyectos y quieras participar, o que tengas una idea para proponer, escribí a la dirección de contacto del club comentándonos, o escribí directamente al responsable de dicho proyecto (las direcciones están publicadas). A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

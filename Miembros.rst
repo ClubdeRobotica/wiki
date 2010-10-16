@@ -7,12 +7,13 @@ Proceso de aceptación e iniciación como miembro del CdR:
 
 Para solicitar una membresía en el CdR deben escribir a la dirección de contacto con los siguientes datos:
 
-   1.      Nombre y apellido completo.
-   2.      Número de legajo de la UTN-FRC.
-   3.      Carrera/s en curso.
-   4.      Año en el que se encuentran.
-   5.      Si son técnicos, ya sea secundarios o universitarios, aclarando especialidad.
-   6.      Algunos comentarios personales (si se entienden con alguna tecnología, conocimientos, habilidades, etc...)
+ 1. Nombre y apellido completo.
+ 1. Número de legajo de la UTN-FRC.
+ 1. Carrera/s en curso.
+ 1. Año en el que se encuentran.
+ 1. Si son técnicos, ya sea secundarios o universitarios, aclarando especialidad.
+ 1. Algunos comentarios personales (si se entienden con alguna tecnología, conocimientos, habilidades, etc...)
+ 1. Dirección de correo electrónico y un teléfono de contacto. 
 
 
 2º Recepción; Reunión personal (acordada con los ingresantes); Presentación del CdR y los Proyectos; Recepción de ideas.

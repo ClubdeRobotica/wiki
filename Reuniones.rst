@@ -21,9 +21,9 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
  1. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación): Javier Gohlke; 
 
- 1. Introducción a micro controladores PIC, programación (continuación: uso de interrupciones y temporizadores, programa para control de motor de CC mediante PWM) + simulación + demostración sobre protoboard): Germán Ontivero, Gustavo Spessot.
+ 1. Introducción a micro controladores PIC, programación (continuación: uso de interrupciones y temporizadores, programa para control de motor de CC mediante PWM) + simulación + demostración sobre protoboard): Germán Ontivero, Gustavo Spessot, Marcos Ciceri.
 
- 1. Demostración del seguidor de línea: Germán Ontivero, Gustavo Spessot, Marcos Ciceri.
+ 1. Demostración de la Fase 1 del seguidor de línea: Germán Ontivero, Gustavo Spessot, Marcos Ciceri.
 
 
 '''Temas pendientes:'''

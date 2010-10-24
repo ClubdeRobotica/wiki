@@ -27,6 +27,4 @@ El documento maestro de esta sección se encuentra en el servidor SVN del CdR. L
 }}}
 
 
-[[ComisionDirectiva|Comisión Directiva 2010]] |
-[[Miembros|Miembros]] |
-[[PreguntasFrecuentes|Preguntas frecuentes]]
+[[ComisionDirectiva|Comisión Directiva 2010]]

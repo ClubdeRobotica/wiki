@@ -13,7 +13,7 @@
 == Desarrolladores ==
 
 === Placa de control ===
- * Luis Vázquez <luigi.utn@gmail.com> -> Placa control V1.1: Software;
+ * Luis Vazquez <luigi.utn@gmail.com> -> Placa control V1.1: Software;
  * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;
 
 === Driver de potencia ===

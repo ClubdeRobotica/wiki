@@ -1,6 +1,10 @@
 == Actividades ==
 
-Año 2010:
+[[CicloFormacion|Ciclo de formación]]
+
+[[Festejo6M100A|Festejo 6 meses/100 adherentes]]
+
+Histórico de Actividades Año 2010:
 
    1. SASE 2010, BsAs. Del 3 al 5 de Marzo. Participación en el Simposio Argentino de Sistemas Embebidos, organizado por la FIUBA. El Proyecto Club de Robótica UTN-FRC comenzó a gestarse en los pasillos de la FIUBA a causa del incentivo del simposio, necesidades concretas de nuestra facultad, y años de relación con el ámbito de la robótica. Videos de la competencia de robots: http://www.sase.com.ar/workshop
    1. Lanzamiento del sitio Web del CdR. 10 de Marzo.

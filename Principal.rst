@@ -11,7 +11,6 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 [[Bienvenida|Palabras de bienvenida]] |
 [[EstructuraOrganica|Estructura Orgánica]] |
 [[Miembros|Miembros]] |
-[[Reuniones|Reuniones]] |
-[[Novedades|Novedades]] |
 [[Actividades|Actividades]] |
+[[Novedades|Novedades]] |
 [[Contacto|Contacto]]

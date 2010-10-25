@@ -119,6 +119,9 @@ Ambos tiene que llegar a un acuerdo, normalmente es una solución de compromiso.
 * Con antenas omnidireccionales: 7km (distancia segura)
 * Con antenas direccionales: 40km (se sigue al VANT)
 
+'''Redes de datos:'''
+
+http://es.wikipedia.org/wiki/MIL-STD-1553
 
 '''Tipos de vuelo:'''
 

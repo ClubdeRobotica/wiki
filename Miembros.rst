@@ -3,9 +3,9 @@
 Proceso de aceptación e iniciación como miembro del CdR: 
 
 
-1º Aceptación como miembro, incorporación a la lista de correo.
+1º Aceptación como miembro, incorporación a la lista de correo, usuario wiki.
 
-Para solicitar una membresía en el CdR deben escribir a la dirección de contacto con los siguientes datos:
+Para solicitar una membresía en el CdR deben escribir a la [[Contacto|dirección de contacto]] con los siguientes datos:
 
  1. Nombre y apellido completo.
  1. Número de legajo de la UTN-FRC.

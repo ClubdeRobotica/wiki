@@ -4,6 +4,8 @@
 
 [[CicloFormacion|Ciclo de formación]]
 
+[[cdt|Minutas reuniones]]
+
 [[Festejo6M100A|Festejo 6 meses/100 adherentes]]
 
 Histórico de Actividades Año 2010:

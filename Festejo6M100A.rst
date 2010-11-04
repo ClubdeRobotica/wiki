@@ -36,7 +36,7 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 -> Hay que organizar la merienda. A la canasta! (mate, facturas, criollitos, gaseosa...). Encargado/s: '''Marco Alvarez Reyna'''
 
 == Difusión ==
--> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...) Encargado: '''Ezequiel Manoukian y Marco Alvarez Reyna'''
+-> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...) y hacer un [[folleto|folleto]]. Encargado: '''Ezequiel Manoukian y Marco Alvarez Reyna'''
 
 = Organización de la Reunión Social =
 Coordinador general: '''?'''

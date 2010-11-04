@@ -5,11 +5,9 @@ NOTA: Para poder editar esta y cualquier otra página tienen que crearse un usua
 <<TableOfContents()>>
 
 = Organización de la Jornada de Laboratorio =
-[[attachment:folleto]]
+Coordinador general:
 
-Coordinador general: '''?'''
-
-Lugar: Nueva área de trabajo del LCE UTN-FRC? o el LTD? [a definir]
+'''?'''Lugar: Nueva área de trabajo del LCE UTN-FRC? o el LTD? [a definir]
 
 Fecha: 8 de Noviembre de 2010 [a confirmar]
 

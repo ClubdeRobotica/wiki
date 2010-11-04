@@ -5,6 +5,7 @@ NOTA: Para poder editar esta y cualquier otra página tienen que crearse un usua
 <<TableOfContents()>>
 
 = Organización de la Jornada de Laboratorio =
+[[attachment:folleto]]
 
 Coordinador general: '''?'''
 
@@ -15,13 +16,11 @@ Fecha: 8 de Noviembre de 2010 [a confirmar]
 Horario: de 18:15hs a 20:15 [a confirmar]
 
 == Introducción ==
-
 ¿Que queremos festejar?
 
 Que nos hemos conformado como club, que estamos trabajando activamente en dos proyectos y que hay un tercero listo para su lanzamiento, que hemos avanzado mucho en infraestructura y en relación con la UTN-FRC, que el 11 de Septiembre cumplimos 6 meses y que hemos superado los 100 adherentes!
 
 === Programa preliminar ===
-
 -> Demo. Presentación de los proyectos activos. Pósters de las propuestas de proyecto.
 
 -> Disfusión del Proyecto MiniLab.
@@ -42,9 +41,7 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 == Difusión ==
 -> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...) Encargado: '''?'''
 
-
 = Organización de la Reunión Social =
-
 Coordinador general: '''?'''
 
 Lugar: [a definir]

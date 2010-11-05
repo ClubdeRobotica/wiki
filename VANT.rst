@@ -7,7 +7,7 @@ Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr D
 
 Nueva propuesta de logo:
 
-||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant-V2.0.png||width="250"}} ||
+||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant-V2.0.png||width="350"}} ||
 
 '''Introducción y objetivos:'''
 

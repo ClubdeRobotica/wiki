@@ -25,7 +25,7 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 * Caracterización de los sistemas/subsistemas tanto eléctricos como mecánicos (motor)
 * Modelo de elevación (topografía/orografía) de la NASA
 * Simulación: Hardware-in-the-Loop (HIL)
-* Carcasa, contenedor, sistema anti bibraciones
+* Carcasa, contenedor, sistema anti vibraciones
 * Sistemas redundantes de energía y procesamiento
 }}}
 

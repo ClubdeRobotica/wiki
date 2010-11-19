@@ -38,7 +38,7 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 == Difusión ==
 -> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...). Encargado: '''Ezequiel Manoukian y Marco Alvarez Reyna'''
 
-= Organización de la Reunión Social =
+= Reunión Social Recreativa =
 Coordinador general: '''?'''
 
 * Temario : ''' * * * Asado * * * '''
@@ -47,4 +47,6 @@ Coordinador general: '''?'''
 
 * Fecha: 20 de Noviembre de 2010 .
 
-* Horario: Al mediodía 
+* Horario: Al mediodía.
+
+-> ¿ Asador ? (encargado de hacer el asado )[  ...  ]

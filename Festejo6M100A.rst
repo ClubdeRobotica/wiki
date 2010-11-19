@@ -41,7 +41,7 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 = Organización de la Reunión Social =
 Coordinador general: '''?'''
 
-* Temario : == Asado ==
+* Temario : ''' * * * Asado * * * '''
 
 * Lugar: Consultar por la lista de correo .
 

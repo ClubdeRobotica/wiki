@@ -41,8 +41,10 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 = Organización de la Reunión Social =
 Coordinador general: '''?'''
 
-Lugar: [a definir]
+* Temario : == Asado ==
 
-Fecha: 20 de Noviembre de 2010 [a confirmar]
+* Lugar: Consultar por la lista de correo .
 
-Horario: ? [a definir]
+* Fecha: 20 de Noviembre de 2010 .
+
+* Horario: Al mediodía 

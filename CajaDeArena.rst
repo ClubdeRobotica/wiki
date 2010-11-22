@@ -30,4 +30,4 @@ user@linux:~>gpsmon cdrutnfrc.homelinux.org:2947
 
 * Una sección dedicada a las [[cdt|charlas de divulgación tecnológica]].
 
-* Recomiendo que visiten esta revista --->  http://www.neoteo.com/
+* Recomiendo que visiten esta '''revista''' --->  http://www.neoteo.com/

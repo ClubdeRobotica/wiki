@@ -13,21 +13,12 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 
 '''''Próxima reunión:'''''
 
-* Lunes 25 de Octubre, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Lunes 28 de Febrero de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 '''Temario tentativo:'''
 
- 1. Sistemas energéticos: Gestión de energía en sist. robotizados (continuación): Javier Gohlke;
+ 1. Programación del 2011
 
- 1. Introducción a micro controladores PIC, programación (continuación: uso de interrupciones y temporizadores, programa para control de motor de CC mediante PWM) + simulación + demostración sobre protoboard): Germán Ontivero, Gustavo Spessot, Marcos Ciceri.
-
- 1. Demostración de la Fase 1 del seguidor de línea: Germán Ontivero, Gustavo Spessot, Marcos Ciceri.
-
-'''Temas pendientes:'''
-
- 1. Simulación del modelo cinemático del RSL (tracción diferencial) con GNU/Octave.
-
- 1. Introducción a microcontroladores: ARM
 
 === Histórico de reuniones: ===
 '''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
@@ -69,3 +60,12 @@ Estamos planeando para el mes de Octubre un gran encuentro: feria, demostración
 '''18/10/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Fuentes conmutadas (continuación). Introducción a micro controladores PIC, programación (continuación: uso de interrupciones y temporizadores, programa para control de motor de CC mediante PWM) + simulación + demostración sobre protoboard).
 
 '''25/10/2010''' Reunión semanal del CdR: Charlas de divulgación tecnológica: Sistemas energéticos: Gestión de energía en sist. robotizados. Introducción a micro controladores PIC: Arquitectura del PIC 16F84A, Descripcion del Puerto B
+
+'''01/11/2010''' Reunión semanal del CdR: Preparación de la Demo del 08/11
+
+
+'''Temas pendientes:'''
+
+ 1. Simulación del modelo cinemático del RSL (tracción diferencial) con GNU/Octave.
+
+ 1. Introducción a microcontroladores: ARM

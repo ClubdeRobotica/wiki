@@ -8,6 +8,10 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 
 El CdR también busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área. 
 
+{{{#!wiki note
+Estamos mudando el servidor SVN actual a los servidores de USLA, probablemente el servicio presente inestabilidades durante la migración. Si encuentran algún problema persistente por favor comuníquenlo por email. Así mismo el Proy. Lab. Remoto no estará en línea permanentemente, se pondrá en marcha a petición.
+}}}
+
 [[Bienvenida|Palabras de bienvenida]] |
 [[EstructuraOrganica|Estructura Orgánica]] |
 [[Miembros|Miembros]] |

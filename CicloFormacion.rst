@@ -10,10 +10,11 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 
    1. Visita al CIII UTN-FRC. Charla sobre Robótica y SL.
    1. Participación en el SFD/iFest 2010
+   1. Charlas de Divulgación Tecnológica: motores cc, puente h, pwm, fuentes conmutadas, sistemas energéticos, micro controladores PIC, modelos matemáticos de robots.
 
 '''En marcha:'''
 
-   1. Charlas de Divulgación Tecnológica: motores cc, puente h, pwm, fuentes conmutadas, sistemas energéticos, micro controladores PIC, modelos matemáticos de robots.
+   1. No hay actividades de formación actualmente en marcha. Retomaremos en el 2011.
 
 '''Próximamente:'''
 

@@ -1,4 +1,6 @@
 ------------------------------------------------------------------------
+---> '''Se está moviendo el servidor SVN al Trac de USLA (http://trac.usla.org.ar/cdr ; http://trac.usla.org.ar/svn/cdr/)''' ''11/12/2010''
+------------------------------------------------------------------------
 ---> '''La lista de correo del CdR alcanzó los 100 Suscriptores!''' ''07/10/2010''
 ------------------------------------------------------------------------
 ---> '''Se programó el lanzamiento del Proyecto MiniLab para Marzo de 2011''' ''27/09/2010''

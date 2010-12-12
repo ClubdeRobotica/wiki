@@ -38,6 +38,6 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 
 * Temario : ''' * * * Asado * * * '''
 
-* Fecha: 20 de Noviembre de 2010 .
+* Fecha: 20 de Noviembre de 2010
 
 * Horario: Mediodía.

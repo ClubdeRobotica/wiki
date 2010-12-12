@@ -34,7 +34,7 @@ Una vez superada la etapa de iniciación pasan a formar parte del CdR como miemb
 
 P#1 : Proyecto MiniLab + Fuente(fija) + Curso básico de electrónica(uso de la ley de Ohm).
 
-P#2 : Seminario sobre electrónica y robótica con el Auto(ro)Bot.
+P#2 : Seminario sobre electrónica y robótica con el VRTD.
 
 P#3 : Proyecto Robot Seguidor de Línea
 

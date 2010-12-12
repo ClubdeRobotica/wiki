@@ -27,3 +27,5 @@ Histórico de Actividades Año 2010:
    1. Visita a las instalaciones del [[http://ciii.frc.utn.edu.ar/|CIII UTN-FRC]]. Fotos del la visita [[VisitaCIII|acá]]; 6 de Septiembre.
    1. Participación en el SFD/iFest 2010 UTN-FRC. 18 de Septiembre de 2010.
    1. Llamado público para cubrir los cargos de VOCAL/es y TESORERO/a del CdR. Finalizó con tres designaciones. 27 de Septiembre de 2010.
+   1. Demo: Presentación de los proyectos activos del CdR abierta a la comunidad. Pósters y charla de cierre del 2010.
+   1. Reunión social de despedida del 2010: Asado y pileteada!!!

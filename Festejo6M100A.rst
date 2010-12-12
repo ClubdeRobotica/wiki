@@ -1,7 +1,3 @@
-A continuación se describen las tareas relacionadas a la organización de la demo y reunión social, quienes son sus responsables y el estado de avance de las tareas. '''''Si alguien quiere colaborar anótese en la tarea / rol!!!''''' Y póngase en contacto con quienes ya están anotados para coordinar. Gracias.
-
-NOTA: Para poder editar esta y cualquier otra página tienen que crearse un usuario y contraseña (eso lo pueden hacer [[http://cdr.usla.org.ar/Principal?action=newaccount|acá]], y luego tienen que pedirle permiso de edición a [[claudiojpaz]], o a cualquier otro miembro que ya tenga permisos de edición)
-
 <<TableOfContents()>>
 
 = Organización de la Jornada de Laboratorio =
@@ -39,14 +35,9 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 -> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...). Encargado: '''Ezequiel Manoukian y Marco Alvarez Reyna'''
 
 = Reunión Social Recreativa =
-Coordinador general: '''?'''
 
 * Temario : ''' * * * Asado * * * '''
 
-* Lugar: Consultar por la lista de correo .
-
 * Fecha: 20 de Noviembre de 2010 .
 
-* Horario: Al mediodía.
-
--> ¿ Asador ? (encargado de hacer el asado )[  ...  ]
+* Horario: Mediodía.

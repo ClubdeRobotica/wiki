@@ -39,4 +39,4 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 
 Se buscan disertantes! Si te animás a dar una charla, ponete en [[Contacto|contacto]] con el CdR para coordinar.
 
-[[LinksInteres|Links de interés]]
+[[cdt|Minutas reuniones]] | [[LinksInteres|Links de interés]]

@@ -29,3 +29,5 @@ Foro con información relacionada al compilador SDCC
 http://pic-linux.foroactivo.net/sdcc-f1
 
 Revista http://www.neoteo.com/
+
+Una historia de [[NielsBohr|Niels Bohr]]

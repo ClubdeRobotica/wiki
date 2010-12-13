@@ -1,3 +1,3 @@
-prueba de edicion:
+prueba de edición:
 
-= Baterias =
+= Baterías =

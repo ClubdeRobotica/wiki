@@ -4,7 +4,7 @@
 
 [[CicloFormacion|Ciclo de formación]]
 
-[[cdt|Minutas reuniones]]
+[[Infraestructura|Trabajos de Infraestructura]]
 
 [[Festejo6M100A|Festejo 6 meses/100 adherentes]]
 

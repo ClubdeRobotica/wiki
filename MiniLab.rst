@@ -8,7 +8,7 @@ Reunión Proy. ML: [propuesta]
 
 --->Dónde: Laboratorio de Técnicas Digitales UTN-FRC
 
---->Cuándo: Todos los lunes de 18:15hs a 20:15hs 
+--->Cuándo: Todos los lunes de 18:15hs a 20:15hs, a partir de Marzo de 2011.
 
 Los documentos principales de este proyecto se encuentran en el [[http://cdrutnfrc.homelinux.org/|servidor del club]], aquí sólo se presenta un pequeño resumen:
 
@@ -35,3 +35,5 @@ Nota: De todas maneras, si un grupo de los primeros años se siente en condicion
     Cabe aclarar que el CdR simplemente los incentiva a construirlo. El MiniLab se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB.
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
+
+'''Email lanzamiento Proy. ML: [[LanzamientoProyML]]'''

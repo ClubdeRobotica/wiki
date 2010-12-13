@@ -27,4 +27,4 @@ El documento maestro de esta sección se encuentra en el servidor SVN del CdR. L
 }}}
 
 
-[[ComisionDirectiva|Comisión Directiva 2010]]
+[[ComisionDirectiva|Comisión Directiva 2010]] | [[Tesoreria|Tesorería]]

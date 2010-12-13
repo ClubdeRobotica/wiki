@@ -15,7 +15,7 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 
 '''Claves para el desarrollo:'''
 {{{
-> Sistemas Estocásticos
+> Sistemas Estocásticos y Fuzzi Logic
 > Filtro de Kalman
 > Teoría de Control Moderna
 }}}

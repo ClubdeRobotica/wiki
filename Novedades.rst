@@ -33,3 +33,7 @@ completado de las reuniones de los Jueves
 ---> '''Importación inicial del Proyecto CdR al sistema de control de cambios''' ''24/05/2010''
 
 ''r1'' | cdrutnfrc | 2010-05-24 21:47:23 -0300 (lun 24 de may de 2010) | 1 line
+
+{{{#!wiki note
+La información publicada en esta página debería ser un reflejo de lo publicado en la página [[Actividades]] (pasado) y en la página [[CajaDeArena]] (futuro).
+}}}

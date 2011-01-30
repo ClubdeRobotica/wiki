@@ -21,5 +21,6 @@ El hardware adquirido y desarrollado por los miembros le pertenece a ellos, salv
 
 [[ModalidadTrabajo|Modalidad de trabajo]] |
 [[Implementacion|Implementación]] |
-[[Financiamiento]] |
+[[Financiamiento|Financiamiento]] |
+[[RedTrabajo|Red de Trabajo]] |
 [[CajaDeArena|Caja de Arena]]

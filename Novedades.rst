@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------
----> '''Se está moviendo el servidor SVN al Trac de USLA (http://trac.usla.org.ar/cdr ; http://trac.usla.org.ar/svn/cdr/)''' ''11/12/2010''
+---> '''Se completó la migración del servidor SVN a los servidores de USLA''' ''27/01/2011''
+------------------------------------------------------------------------
+---> '''Se comenzó la migración del servidor SVN al Trac de USLA (http://trac.usla.org.ar/cdr ; http://trac.usla.org.ar/svn/cdr/)''' ''11/12/2010''
 ------------------------------------------------------------------------
 ---> '''La lista de correo del CdR alcanzó los 100 Suscriptores!''' ''07/10/2010''
 ------------------------------------------------------------------------
@@ -24,8 +26,10 @@ formato en el RSL
 
 completado de las reuniones de los Jueves
 ------------------------------------------------------------------------
-
 ---> '''Inauguración del nuevo dominio, wiki y [[https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr|lista de correo]]''' ''25/08/2010''
 ------------------------------------------------------------------------
 ---> '''Comenzamos con la organización de la demo y festejo [[Festejo6M100A|6M100A]]''' ''23/08/2010''
 ------------------------------------------------------------------------
+---> '''Importación inicial del Proyecto CdR al sistema de control de cambios''' ''24/05/2010''
+
+''r1'' | cdrutnfrc | 2010-05-24 21:47:23 -0300 (lun 24 de may de 2010) | 1 line

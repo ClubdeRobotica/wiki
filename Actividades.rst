@@ -1,14 +1,11 @@
 == Actividades ==
 
-[[Reuniones|Reuniones]]
-
-[[CicloFormacion|Ciclo de formación]]
-
-[[Infraestructura|Trabajos de Infraestructura]]
-
+[[Reuniones|Reuniones]] |
+[[CicloFormacion|Ciclo de formación]] |
+[[Infraestructura|Trabajos de Infraestructura]] |
 [[Festejo6M100A|Festejo 6 meses/100 adherentes]]
 
-Histórico de Actividades Año 2010:
+'''Histórico de Actividades Año 2010:'''
 
    1. SASE 2010, BsAs. Del 3 al 5 de Marzo. Participación en el Simposio Argentino de Sistemas Embebidos, organizado por la FIUBA. El Proyecto Club de Robótica UTN-FRC comenzó a gestarse en los pasillos de la FIUBA a causa del incentivo del simposio, necesidades concretas de nuestra facultad, y años de relación con el ámbito de la robótica. Videos de la competencia de robots: http://www.sase.com.ar/workshop
    1. Lanzamiento del sitio Web del CdR. 10 de Marzo.
@@ -20,6 +17,7 @@ Histórico de Actividades Año 2010:
    1. Primera reunión de la Comisión Directiva del CdR!; 26 de Abril.
    1. Actualización del estatuto del CdR, actualización del sitio Web, creación de la sección “Miembros”; 29 de Abril.
    1. Segunda reunión grupal del CdR; 13 de Mayo.
+   1. Incorporación del Proyecto CdR bajo Control de Cambios (SVN); 24 de Mayo.
    1. Lanzamiento de las reuniones semanales; 27 de Mayo!!!
    1. Presentación del Proyecto CdR al Departamento de Ing. Electrónica, al Laboratorio de Técnicas Digitales y al Laboratorio de Comunicaciones; durante el mes de Mayo.
    1. Presentación del Proyecto CdR ante el Consejo Departamental; 8 de Junio.
@@ -29,3 +27,7 @@ Histórico de Actividades Año 2010:
    1. Llamado público para cubrir los cargos de VOCAL/es y TESORERO/a del CdR. Finalizó con tres designaciones. 27 de Septiembre de 2010.
    1. Demo: Presentación de los proyectos activos del CdR abierta a la comunidad. Pósters y charla de cierre del 2010. 08 de Noviembre.
    1. Reunión social de despedida del 2010: Asado y pileteada!!! 20 de Noviembre.
+
+'''Histórico de Actividades Año 2011:'''
+
+   1. Migración del servidor SVN a los servidores de USLA; 27 de Enero.

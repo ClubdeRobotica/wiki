@@ -8,17 +8,17 @@ Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
 * Utilización de < '''Software Libre''' > para los trabajos a desarrollar.
 
-* Se darán de bajas las direcciones de correo institucionales de gmail y se darán de alta en USLA.
+* Se darán de bajas las direcciones de correo institucionales de gmail y se darán de alta en USLA (completado parcialmente!)
 
-* Reestructuración general del repositorio. Generación de repositorios individuales por proyecto.
+* Reestructuración general del repositorio. Generación de repositorios individuales por proyecto (completado parcialmente!)
 
-* Se mudarán los repositorios a los servidores de USLA.
+* Se mudarán los repositorios a los servidores de USLA (completado parcialmente!)
 
 * Nueva convocatoria a participar de los proyectos del CdR.
 
 * Inauguración de nuestro espacio en el LTD (PC + armario)
 
-* Laboratorio remoto. Acceso señal GPS (Trimble Lassen SK2), c/firefox (versión >= 3.6.8) [[http://cdrutnfrc.homelinux.org:2947/|acá]], o desde una consola de Linux mediante el programa "gpsmon":
+* Laboratorio remoto. Acceso señal GPS (Trimble Lassen SK2), c/firefox (versión >= 3.6.8) [[http://cdrutnfrc.homelinux.org:2947/|acá]], o desde una consola de Linux mediante el programa "gpsmon": (act. fuera de servicio)
 {{{
 user@linux:~>gpsmon cdrutnfrc.homelinux.org:2947
 }}}

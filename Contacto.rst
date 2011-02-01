@@ -2,7 +2,7 @@
 
 Canales de comunicación con el CdR:
 
-1º Cuando necesiten comunicarse por cuestiones personales con alguno de los miembros de la comisión directiva, refiéranse a sus respectivas direcciones de correo electrónico.
+1º Cuando necesiten comunicarse por cuestiones personales con alguno de los miembros de la [[ComisionDirectiva|comisión directiva]], refiéranse a sus respectivas direcciones de correo electrónico.
 
 2º Tanto para solicitar la participación como miembros en el CdR, como la inclusión en la lista de correo, o cuando necesiten comunicarse por cualquier tema referido al CdR, pero quizás NO de interés grupal (como por ejemplo coordinación de horarios, dudas muy puntuales, una primera propuesta de proyecto informal, consultas sobre los proyectos propuestos en la web, comentarios sobre el estatuto del CdR o la wiki, etc...) utilicen la dirección:
 
@@ -14,7 +14,7 @@ Para solicitar la participación es necesario escribir un correo electrónioco c
 
 "Club de Robótica UTN-FRC" <cdr@listas.usla.org.ar>
 
-La lista CdR en USLA será el medio de comunicación grupal para CdR.
+La lista CdR en USLA será el medio de comunicación grupal para CdR. Hay que adherirse a la [[https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr|lista de distribución de correo del CdR]] para poder enviar mensajes.
 
 4º Recientemente se habilitó un canal IRC:
 

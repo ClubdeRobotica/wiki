@@ -1,6 +1,6 @@
-= P201003-004: Base de datos de proyectos =
+= Base de datos de proyectos =
 
-Responsable del proyecto: Área de Relaciones Institucionales
+Responsable de la actualización de la base de datos: Área de Relaciones Institucionales.
 
 == Introducción y objetivos ==
 

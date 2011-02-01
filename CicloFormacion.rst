@@ -14,7 +14,7 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 
 '''En marcha:'''
 
-   1. No hay actividades de formación actualmente en marcha. Retomaremos en el 2011.
+    Actualmente no hay actividades de formación presenciales en marcha. Retomaremos a partir del 03/2011
 
 '''Próximamente:'''
 

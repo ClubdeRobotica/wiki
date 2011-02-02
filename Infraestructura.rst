@@ -6,7 +6,7 @@
  1. Laquear los estantes y el cajón del armario;
  1. Hacer el diseño y el ploteo para la tapa del armario;
  1. Terminar de configurar las PCs del club en el LTD;
- 1. Mudar el repositorio SVN al servidor de USLA;
+ 1. --(Mudar el repositorio SVN al servidor de USLA)--;
 
 {{{#!wiki note
 Si estás dispuesto a realizar alguna de estas tareas, por favor ponete en contacto con la comisión directiva!

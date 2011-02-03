@@ -10,7 +10,7 @@ Reunión Proy. ML: [propuesta]
 
 --->Cuándo: Todos los lunes de 18:15hs a 20:15hs, a partir de Marzo de 2011.
 
-Los documentos principales de este proyecto se encuentran en el [[http://cdrutnfrc.homelinux.org/|servidor del club]], aquí sólo se presenta un pequeño resumen:
+Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]], aquí sólo se presenta un pequeño resumen:
 
 '''Introducción y objetivos:'''
 

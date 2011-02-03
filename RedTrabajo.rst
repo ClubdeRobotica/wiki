@@ -6,29 +6,37 @@ La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
  * La wiki del CdR.
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
  * El Servidor SVN del CdR.
- * El acceso por SSH y HTTP al Laboratorio Remoto.
+ * El Servidor SSH y HTTP del Laboratorio Remoto.
 
-=== Servidor del CdR ===
-
-El servidor prestará los servicios SVN, SSH y HTTP. Éste alojará un servidor SVN para versionado (control de versiones[0][5]) y copias de seguridad de los archivos del CdR (código y documentación). Se podrá acceder por SSH para hacer ensayos en Linux (hacer prácticas con el SVN, compilar, correr programas, utilizar el laboratorio remoto, etc...)
-
-Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
-
-Dirección del servidor: http://cdrutnfrc.homelinux.org/ El mismo se encuentra en servicio continuo, pero sólo se garantiza la integridad del servicio en los horarios citados a continuación:
-
- * Todos los días de 17hs a 24hs
+=== Servidores del CdR ===
 
 Actualmente todos los servicios están en marcha. Si por algún motivo no está en línea o falla alguno de los servicios, por favor comuníquelo a la brevedad!
 
-Para comprobar la disponibilidad del servidor ejecutar en una consola:
+==== SVN: ====
+
+El servidor SVN se utiliza para versionado (control de versiones[0][5]) de los archivos del CdR: código y documentación.
+
+Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
+
+Para comprobar la disponibilidad del servidor SVN ejecutar en una consola:
+{{{
+ping trac.usla.org.ar
+}}}
+Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña.
+
+Dirección del servidor: http://trac.usla.org.ar/cdr/browser/trunk El mismo se encuentra en servicio continuo.
+
+==== SSH y HTTP ====
+
+Se podrá acceder al LabRemoto por SSH para hacer ensayos en Linux (hacer prácticas con el SVN, compilar, correr programas, utilizar el laboratorio remoto, etc...)
+
+Para comprobar la disponibilidad del servidor del LabRemoto ejecutar en una consola:
 {{{
 ping cdrutnfrc.homelinux.org
 }}}
-Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del CdR.
+Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del LabRemoto del CdR.
 
-Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado en el servidor con nombre de usuario y contraseña.
-
-La dirección del servidor SVN es: svn://cdrutnfrc.homelinux.org/CdR
+La dirección del LabRemoto es: http://cdrutnfrc.homelinux.org/LabRemoto/ *** El LabRemoto se encuentra actualmente offline *** 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 
@@ -46,7 +54,7 @@ usr@linux:~/Proyectos>mkdir CdR
 }}}
  * Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 {{{
-usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.homelinux.org/CdR/trunk ./CdR
+usr@linux:~/Proyectos>svn checkout http://trac.usla.org.ar/svn/cdr/trunk ./CdR
 }}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
  * Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
@@ -98,7 +106,7 @@ svn status
 }}}
 y les indicará que cambios en su copia local se han producido (no así los cambios en el server)
 
-=== ¿Cómo conectarse el servidor del CdR? ===
+=== ¿Cómo conectarse el servidor del LabRemoto del CdR? ===
 
 Desde Linux:
 

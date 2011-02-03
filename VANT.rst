@@ -214,6 +214,9 @@ http://es.wikipedia.org/wiki/Ingenieria_de_software
 
 http://es.wikipedia.org/wiki/Calidad_de_software
 
+'''FMEA'''
+
+http://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis
 
 '''Agradecimientos:'''
 

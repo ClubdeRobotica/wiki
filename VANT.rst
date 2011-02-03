@@ -186,7 +186,7 @@ Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiem
 Software disponible en el Servidor SVN del CdR:
 
 {{{
-svn://cdrutnfrc.homelinux.org/CdR/trunk/Proyectos/
+http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/
 }}}
 
 
@@ -198,7 +198,7 @@ https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
 '''Servidor SVN del CdR:''' (accediendo a la rama troncal)
 
-svn://cdrutnfrc.homelinux.org/CdR/trunk
+http://trac.usla.org.ar/svn/cdr/trunk/
 
 '''Definiciones lenguaje aeronáutico:'''
 

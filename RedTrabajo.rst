@@ -10,7 +10,7 @@ La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
 
 === Servidores del CdR ===
 
-Actualmente todos los servicios están en marcha. Si por algún motivo no está en línea o falla alguno de los servicios, por favor comuníquelo a la brevedad!
+Todos los servicios están en marcha. Si por algún motivo no está en línea o falla alguno de los servicios, por favor comuníquelo a la brevedad!
 
 ==== SVN: ====
 
@@ -24,7 +24,10 @@ ping trac.usla.org.ar
 }}}
 Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña.
 
-Dirección del servidor: http://trac.usla.org.ar/cdr/browser/trunk El mismo se encuentra en servicio continuo.
+Dirección del servidor para checkout: http://trac.usla.org.ar/svn/cdr/trunk/
+Para navegar por el repositorio: http://trac.usla.org.ar/cdr/browser/trunk/
+
+El mismo se encuentra en servicio continuo.
 
 ==== SSH y HTTP ====
 
@@ -67,9 +70,9 @@ Desde Win$:
 
 1º Instalar TortoiseSVN[4] y Firefox (versión >= 3.6.10)
 
-2º Ingresar en un explorador web (por ejemplo firefox) la dirección: “svn://cdrutnfrc.homelinux.org/CdR” y el mismo preguntará por una aplicación. Allí mismo seleccionan TortoiseSVN y dan entrar.
+2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: http://trac.usla.org.ar/svn/cdr/trunk/ y el directorio donde vamos a bajar la copia local (working copy)
 
-3º Aparecerá un árbol de directorios. Parados en el directorio “trunk”, con el botón derecho del mause seleccionan “checkout”. Les preguntará la ubicación donde bajarlo. Seleccionen la carpeta CdR (en el directorio donde quieran trabajar) y aceptar. De esta manera obtienen una copa del proyecto para trabajar. La descarga puede tardar varios minutos (aprox. 30 min. para el primer CO, luego para actualizar o confirmar, los tiempos son mucho menores)
+3º La descarga puede tardar varios minutos (aprox. 30 min. para el primer CO, luego para actualizar o confirmar, los tiempos son mucho menores)
 
 4º Como norma general, antes de comenzar a trabajar hacer un “svn update”. Luego de que han terminado de trabajar (modificación o generación de código o documentación) hacen “checkin”: Esta operación guarda en el servidor de versiones una copia de su proyecto. Normalmente se hace un “checkin” o “commit” al finalizar el día o luego de algún cambio muy importante en el proyecto. Siempre hay que agregar un comentario sobre lo que se modifico cuando se hace un “commit”.
 

@@ -18,4 +18,4 @@ Asimismo se pretende promover:
 
 El CdR puede ser desde un lugar de encuentro y satisfacción para el hobbysta, hasta un ámbito de desarrollo para poder insertarse posteriormente, con más experiencia y conocimientos en algún grupo o centro de investigación formal, o quizás definir una especialidad como profesionales.
 
-Si sos parte de la UTN-FRC y querés participar del CdR envía un e-mail a la dirección de contacto presentándote.
+Si sos parte de la UTN-FRC y querés participar del CdR envía un e-mail a la dirección de [[Contacto|contacto]] presentándote.

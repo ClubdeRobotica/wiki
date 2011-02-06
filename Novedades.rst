@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
----> '''Se completó la migración del servidor SVN a los servidores de USLA''' ''27/01/2011''
+---> '''Se completó la migración del servidor SVN a los [[http://trac.usla.org.ar/svn/cdr/trunk/|tracks de USLA]]''' ''27/01/2011''
 ------------------------------------------------------------------------
 ---> '''Se comenzó la migración del servidor SVN al Trac de USLA (http://trac.usla.org.ar/cdr ; http://trac.usla.org.ar/svn/cdr/)''' ''11/12/2010''
 ------------------------------------------------------------------------
@@ -9,7 +9,7 @@
 ------------------------------------------------------------------------
 ---> '''[[VisitaCIII|Visita]] al CIII UTN-FRC''' ''06/09/2010''
 ------------------------------------------------------------------------
----> '''Se eliminó la lista de correo alojada en los servidores de Google y nos mudamos a USLA''' ''05/09/2010''
+---> '''Se eliminó la lista de correo alojada en los servidores de Google y nos mudamos a las [[https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr|listas de USLA]]''' ''05/09/2010''
 ------------------------------------------------------------------------
 ---> '''Llegamos a la [[http://cdrutnfrc.homelinux.org/|revisión]] número 100 del Proyecto CdR!''' ''02/09/2010''
 

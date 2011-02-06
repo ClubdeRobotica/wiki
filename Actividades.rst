@@ -4,6 +4,10 @@
 [[CicloFormacion|Ciclo de formación]] |
 [[Infraestructura|Trabajos de Infraestructura]]
 
+'''Histórico de Actividades Año 2011:'''
+
+   1. Migración del servidor SVN a los servidores de USLA; 27 de Enero.
+
 '''Histórico de Actividades Año 2010:'''
 
    1. SASE 2010, BsAs. Del 3 al 5 de Marzo. Participación en el Simposio Argentino de Sistemas Embebidos, organizado por la FIUBA. El Proyecto Club de Robótica UTN-FRC comenzó a gestarse en los pasillos de la FIUBA a causa del incentivo del simposio, necesidades concretas de nuestra facultad, y años de relación con el ámbito de la robótica. Videos de la competencia de robots: http://www.sase.com.ar/workshop
@@ -26,7 +30,3 @@
    1. Llamado público para cubrir los cargos de VOCAL/es y TESORERO/a del CdR. Finalizó con tres designaciones. 27 de Septiembre de 2010.
    1. Demo: Presentación de los proyectos activos del CdR abierta a la comunidad. Pósters y charla de cierre del 2010 "[[Festejo6M100A]]". 08 de Noviembre.
    1. Reunión social de despedida del 2010: Asado y pileteada!!! 20 de Noviembre.
-
-'''Histórico de Actividades Año 2011:'''
-
-   1. Migración del servidor SVN a los servidores de USLA; 27 de Enero.

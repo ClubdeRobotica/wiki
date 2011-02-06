@@ -1,4 +1,4 @@
-Escribe acerca de Tesoreria aquí.
+''DOCUMENTO EN PREPARACION''
 
 '''Qué habría que hacer con la tesorería?'''
 

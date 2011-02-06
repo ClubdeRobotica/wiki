@@ -1,6 +1,10 @@
 == Objetivos ==
 
-Propuesta para el 2010:
+=== Propuesta para el 2011: ===
+
+   1. Estamos trabajando en la definición de los objetivos para el año 2011.
+
+=== Año 2010: ===
 
    1.      Conformación del sitio Web y la lista de correo. '''Concretado'''
    1.      Convocatoria 2010. '''Concretado'''

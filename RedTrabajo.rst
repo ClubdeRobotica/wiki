@@ -25,6 +25,7 @@ ping trac.usla.org.ar
 Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña.
 
 Dirección del servidor para checkout: http://trac.usla.org.ar/svn/cdr/trunk/
+
 Para navegar por el repositorio: http://trac.usla.org.ar/cdr/browser/trunk/
 
 El mismo se encuentra en servicio continuo.

@@ -9,7 +9,7 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 El CdR también busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área. 
 
 {{{#!wiki note
-Hemos migrado el servidor SVN al los tracks de USLA. Quienes tengan una copia local del proyecto en su máquina deberán bajar una nueva copia local configurando la [[http://trac.usla.org.ar/svn/cdr/trunk/|dirección del nuevo servidor SVN]]. Si encuentran algún problema persistente o inestabilidad por favor comuníquenlo por email. El Proy. Lab. Remoto no estará en línea permanentemente, se pondrá en marcha a petición.
+Hemos migrado el servidor SVN al los tracks de USLA. Quienes tengan una copia local del proyecto en su máquina deberán bajar una nueva copia de trabajo local configurando la [[http://trac.usla.org.ar/svn/cdr/trunk/|dirección del nuevo servidor SVN]]. Si encuentran algún problema persistente o inestabilidad por favor comuníquenlo por email. El Proy. Lab. Remoto no estará en línea permanentemente, se pondrá en marcha a petición.
 }}}
 
 [[Bienvenida|Palabras de bienvenida]] |

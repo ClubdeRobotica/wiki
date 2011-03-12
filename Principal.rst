@@ -1,6 +1,9 @@
 == Descripción ==
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:botito_pop.png||width=250}} ||
 
+{{{
+El día 11-03-2011 el CdR cumplió un año de vida!!!
+}}}
 
 El '''Club de Robótica''' es un emprendimiento extracurricular en formación, llevado a cabo por estudiantes de la '''UTN-FRC''', orientado al diseño y construcción de plataformas robóticas móviles. Pueden acceder alumnos que se encuentren en cualquier etapa de la carrera, de cualquiera de las ingenierías. Desde ya todo profesional que desee acercarse para compartir su experiencia y conocimientos está invitado.
 

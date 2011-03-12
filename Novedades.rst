@@ -1,4 +1,6 @@
 ------------------------------------------------------------------------
+---> '''El CdR cumplió un año de vida :D !!!''' ''11/03/2011''
+------------------------------------------------------------------------
 ---> '''Se completó la migración del servidor SVN a los [[http://trac.usla.org.ar/svn/cdr/trunk/|tracks de USLA]]''' ''27/01/2011''
 ------------------------------------------------------------------------
 ---> '''Se comenzó la migración del servidor SVN al Trac de USLA (http://trac.usla.org.ar/cdr ; http://trac.usla.org.ar/svn/cdr/)''' ''11/12/2010''

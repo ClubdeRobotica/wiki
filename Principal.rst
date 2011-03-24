@@ -20,4 +20,5 @@ Hemos migrado el servidor SVN al los tracks de USLA. Quienes tengan una copia lo
 [[Miembros|Miembros]] |
 [[Actividades|Actividades]] |
 [[Novedades|Novedades]] |
+[[Galeria|Galería de imágenes]] |
 [[Contacto|Contacto]]

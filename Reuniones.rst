@@ -3,24 +3,24 @@
 
 ---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC
 
----> Cuándo: Todos los lunes de 18:15hs a 20:15hs
+---> Cuándo: Todos los Miércoles de 15hs a 20hs (se juntan la reunión del lunes y la del jueves que hacíamos en el 2010 en un sólo día este año)
 
-Objetivo de las reuniones: Trabajar en las actividades programadas -> Ciclo de formación, coordinación proyectos, infraestructura.
-
-Para quienes no puedan asistir a la reunión de los lunes, existe la posibilidad de sumarse a las actividades del grupo que está desarrollando el [[RSL|Proyecto Robot Seguidor de Línea]]. Se juntan todos los jueves a las 16:00hs en el Laboratorio Central de Electrónica. Allí podrán trabajar en sus proyectos junto a los desarrolladores del Robot Seguidor de Línea y charlar sobre el club con el Coordinador General.
+Objetivo de las reuniones: Trabajar en las actividades programadas -> Ciclo de formación, coordinación proyectos, infraestructura. Implementación del Proyecto ML.
 
 Se planea para el mes de Octubre un gran encuentro: feria, demostración, posters. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
 '''''Próxima reunión:'''''
 
-* Lunes 28 de Febrero de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+* Miércoles 30 de Marzo de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 '''Temario tentativo:'''
 
- 1. Programación del 2011
+ 1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación de los nuevos responsables por tarea/proyecto.
 
 
-=== Histórico de reuniones: ===
+=== Histórico de reuniones año 2011: ===
+
+=== Histórico de reuniones año 2010: ===
 '''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
 
  . - fecha:    jueves 8 de Abril de 2010, - hora:     15hs, (con réplica a las 19hs para quienes no pudieron asistir) - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)

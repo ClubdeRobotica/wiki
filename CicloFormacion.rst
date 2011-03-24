@@ -2,7 +2,7 @@
 
 Robot: ''Máquina o ingenio electrónico programable, capaz de manipular objetos y realizar operaciones antes reservadas sólo a las personas.''
 
-Como parte del ciclo de formación continua de los miembros del CdR tenemos planeado un ciclo de charlas de divulgación tecnológica (los temas se proponen en cada reunión) y la participación en charlas, seminarios y conferencias organizadas por terceros.
+Como parte del ciclo de formación continua de los miembros del CdR tenemos planeado un ciclo de [[cdt|charlas de divulgación tecnológica]] (los temas se proponen en cada reunión) y la participación en charlas, seminarios y conferencias organizadas por terceros.
 
 == Actividades ==
 
@@ -39,4 +39,4 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 
 Se buscan disertantes! Si te animás a dar una charla, ponete en [[Contacto|contacto]] con el CdR para coordinar.
 
-[[PlanificacionReuniones|Planificación Reuniones]] | [[cdt|Minutas reuniones]] | [[LinksInteres|Links de interés]]
+[[cdt|Charlas de Divulgación Tecnológica]] | [[PlanificacionReuniones|Planificación Reuniones]] | [[cdt|Minutas reuniones]] | [[LinksInteres|Links de interés]]

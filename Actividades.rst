@@ -8,7 +8,7 @@
 
    1. Migración del servidor SVN a los servidores de USLA; 27 de Enero.
    1. Reuniones de organización y planeamiento del start-up del club para el 2011. 4/11 y 18 de Marzo.
-   1. Reunión social. 22 de Marzo.
+   1. Reunión social! 22 de Marzo.
 
 '''Histórico de Actividades Año 2010:'''
 

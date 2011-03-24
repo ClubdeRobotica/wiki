@@ -63,6 +63,10 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 '''01/11/2010''' Reunión semanal del CdR: Preparación de la Demo del 08/11
 
+'''08/11/2010''' Demo de Proyectos del CdR.
+
+'''20/11/2010''' Reunión social. ASADO Y PILETEADA para cerrar el 2010!
+
 
 '''Temas pendientes:'''
 

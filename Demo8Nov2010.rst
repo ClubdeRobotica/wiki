@@ -1,9 +1,5 @@
 === Fotos de la Demo de Proyectos del CdR el día 08/11/2010 ===
 
-==== Resumen de la Demo: ====
-
--- Completar! --
-
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0082.jpg||width=500}} ||
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0083.jpg||width=500}} ||
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0084.jpg||width=500}} ||
@@ -21,3 +17,10 @@
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0096.jpg||width=500}} ||
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0097.jpg||width=500}} ||
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0098.jpg||width=500}} ||
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0104.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0105.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0106.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0107.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0108.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Foto-0109.jpg||width=500}} ||

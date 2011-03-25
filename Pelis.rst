@@ -1,6 +1,6 @@
 Pelis!!!
 
-Si no es FLASHERA , no va en esta lista :), tiro la primera:
+Si no es FLASHERA , no va en esta lista :)
 
 
  * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy 
@@ -28,4 +28,4 @@ Si no es FLASHERA , no va en esta lista :), tiro la primera:
 
 
 
-Nota: Para poder editar la página tienen que [[http://cdr.usla.org.ar/Principal?action=newaccount|crearse un usuario]] ustedes mismo y después les damos permiso de edición (solicítenlo por email a [[claudiojpaz|Claudio]] explicitando su usuario)
+Nota: Para poder editar la página tienen que [[http://cdr.usla.org.ar/Principal?action=newaccount|crearse un usuario]] ustedes mismos y después se les da permiso de edición (solicítenlo por email a [[claudiojpaz|Claudio]] explicitando su usuario)

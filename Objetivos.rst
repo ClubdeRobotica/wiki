@@ -10,7 +10,9 @@ PRELIMINAR
    1.      Cooperar con SLUC en la formación de SysAdmins. '''En marcha'''
    1.      Establecer los nuevos integrantes de la comisión directiva.
    1.      Convocatoria 2011 (por proyecto).
-   1.      Definir los grupos de trabajo por tarea/proyecto.
+   1.      Definir los grupos de trabajo y responsables por tarea/proyecto. '''En marcha'''
+   1.      Lanzar el Proyecto ML.
+   1.      Re-Lanzamiento de los proyectos RSL y VRTD.
    1.      Organizar y lanzar el Ciclo de Formación 2011.
    1.      Definir y establecer la tesorería del club y terminar el armario.
    1.      Establecer un esquema de cooperación institucional con la CEE.

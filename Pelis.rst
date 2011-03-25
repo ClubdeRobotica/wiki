@@ -3,14 +3,17 @@ Pelis!!!
 Si no es FLASHERA , no va en esta lista :), tiro la primera:
 
 
- * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy
- * ...
+ * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy 
 
- * Llamada en espera ( Diego Peretti )
- *...
+ * Llamada en espera ( Diego Peretti ) 
 
  * El hombre de al lado ( Daniel Araoz )
- *...
+ 
+ * Mr Nobody
+
+ * Eterno resplandor de una mente sin recuerdos
+
+ 
 
  
 

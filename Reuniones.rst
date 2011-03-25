@@ -1,5 +1,7 @@
 [[MinutasReuniones|Minutas de reuniones institucionales del CdR]]
+
 == Reuniones semanales ==
+
 '''Reunión semanal del CdR (durante el cuatrimestre):'''
 
 ---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC
@@ -8,36 +10,47 @@
 
 Se planea para el mes de Octubre un gran encuentro: feria, demostración, posters. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
-'''''Próximas reuniones:'''''
+== Próximas reuniones: ==
 
-* Miércoles 30 de Marzo de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 30 de Marzo''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
  1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Discutir sobre la implementación del Proyecto ML, revisión de la bibliografía.
 
-* Miércoles 06 de Abril de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 06 de Abril''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
  1. Lanzamiento del Proyecto ML. Presentación de la Wiki y el nuevo SVN (track)
 
+'''* Miércoles 13 de Abril''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario tentativo:''
+
+ 1. Re-Lanzamiento de los Proyectos RSL y VRTD. Implementación del Proyecto ML.
+
+'''* Miércoles 20 de Abril''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario tentativo:''
+
+ 1. Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011.
 
 === Histórico de reuniones año 2011: ===
-'''1º''' Reuniones para la organización del año 2011.
+'''1º, 2º y 3º''' Reunión para la organización del año 2011.
 
- . - fecha:    3 reuniones durante Marzo de 2011 - lugar:     Laboratorio de Técnicas Digitales UTN-FRC (edificio central)
+ . - fecha:    04, 11 y 18 de Marzo de 2011, - hora:     19hs, - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
 
 === Histórico de reuniones año 2010: ===
 '''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
 
  . - fecha:    jueves 8 de Abril de 2010, - hora:     15hs, (con réplica a las 19hs para quienes no pudieron asistir) - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
 
-'''1º''' Reunión de la Comisión Directiva: Organización interna.
+'''2º''' Reunión de la Comisión Directiva: Organización interna.
 
  . - fecha:    lunes 26 de Abril de 2010, - hora:     18hs, - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central).
 
-'''2º''' Reunión grupal del CdR: Elección de los proyectos y conformación de los grupos.
+'''3º''' Reunión grupal del CdR: Elección de los proyectos y conformación de los grupos.
 
  . - fecha:    jueves 13 de Mayo de 2010, - hora:     15hs, (con réplica a las 19hs para quienes no pudieron asistir) - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
 

@@ -2,7 +2,7 @@
 
 === Propuesta para el 2011: ===
 
-PRELIMINAR
+PRELIMINAR (función de las [[MinutasReuniones|minutas de Marzo de 2011]] y de los [[Objetivos|objetivos del 2010]])
 
    1.      Migrar el servidor SVN al Track de USLA. '''Concretado'''
    1.      Establecer una línea temporal de actividades. '''En marcha'''

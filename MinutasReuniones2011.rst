@@ -1,6 +1,6 @@
 == Minutas de las reuniones realizadas en Marzo de 2011 ==
 
-=== -> En charlas del 04 y el 11 de Marzo surgieron estos temas (resumen): ===
+=== -> En las charlas del 04 y el 11 de Marzo surgieron estos temas (resumen): ===
 
  * Tesorería: cerrar las cuentas del 2010 / crear conciencia entre los socios / hacer un resumen para publicar los movimientos / utilizar los bonitos como medio de difusión.
 

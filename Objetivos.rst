@@ -2,7 +2,21 @@
 
 === Propuesta para el 2011: ===
 
-   1. Estamos trabajando en la definición de los objetivos para el año 2011.
+PRELIMINAR
+
+   1.      Migrar el servidor SVN al Track de USLA. '''Concretado'''
+   1.      Establecer una línea temporal de actividades. '''En marcha'''
+   1.      Establecer un nuevo horario para las reuniones semanales de los miembros activos del CdR. '''Concretado'''
+   1.      Cooperar con SLUC en la formación de SysAdmins. '''En marcha'''
+   1.      Establecer los nuevos integrantes de la comisión directiva.
+   1.      Convocatoria 2011 (por proyecto).
+   1.      Definir los grupos de trabajo por tarea/proyecto.
+   1.      Organizar y lanzar el Ciclo de Formación 2011.
+   1.      Definir y establecer la tesorería del club y terminar el armario.
+   1.      Establecer un esquema de cooperación institucional con la CEE.
+   1.      Establecer un vínculo formal con el Club de Robótica de la FIUBA.
+   1.      Hacer una pequeña demostración con las plataformas desarrolladas durante el año para los miembros del Club de Robótica y grupos relacionados.
+   1.      Discutir y establecer los objetivos a largo plazo: financiamiento, visitas a otros club de robótica, participación en competencias, transferencia tecnológica.
 
 === Año 2010: ===
 

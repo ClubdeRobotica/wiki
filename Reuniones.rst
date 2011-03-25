@@ -1,3 +1,4 @@
+[[MinutasReuniones|Minutas de reuniones institucionales del CdR]]
 == Reuniones semanales ==
 '''Reunión semanal del CdR (durante el cuatrimestre):'''
 

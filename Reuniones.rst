@@ -12,9 +12,15 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 * Miércoles 30 de Marzo de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
-'''Temario tentativo:'''
+''Temario tentativo:''
 
  1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Discutir sobre la implementación del Proyecto ML.
+
+* Miércoles 06 de Abril de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario tentativo:''
+
+ 1. Lanzamiento del Proyecto ML.
 
 
 === Histórico de reuniones año 2011: ===

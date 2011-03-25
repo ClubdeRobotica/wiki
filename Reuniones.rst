@@ -6,20 +6,21 @@
 
 ---> Cuándo: Todos los Miércoles de 15hs a 20hs (se juntan la reunión del lunes y la del jueves que hacíamos en el 2010 en un sólo día este año)
 
-Objetivo de las reuniones: Trabajar en las actividades programadas -> Ciclo de formación, coordinación proyectos, infraestructura. Implementación del Proyecto ML.
-
 Se planea para el mes de Octubre un gran encuentro: feria, demostración, posters. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
-'''''Próxima reunión:'''''
+'''''Próximas reuniones:'''''
 
 * Miércoles 30 de Marzo de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 '''Temario tentativo:'''
 
- 1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación de los nuevos responsables por tarea/proyecto.
+ 1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Discutir sobre la implementación del Proyecto ML.
 
 
 === Histórico de reuniones año 2011: ===
+'''1º''' Reuniones para la organización del año 2011.
+
+ . - fecha:    3 reuniones durante Marzo de 2011 - lugar:     Laboratorio de Técnicas Digitales UTN-FRC (edificio central)
 
 === Histórico de reuniones año 2010: ===
 '''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.

@@ -1,6 +1,6 @@
 Pelis!!!
 
-Si no es flaseha, no va en esta lista :), tiro la primera:
+Si no es FLASHERA , no va en esta lista :), tiro la primera:
 
 
  * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy

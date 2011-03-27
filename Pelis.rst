@@ -3,9 +3,9 @@ Pelis!!!
 Si no es FLASHERA , no va en esta lista :)
 
 
- * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy 
+ * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy)  
 
- * Llamada en espera ( Diego Peretti ) 
+ * Música en espera ( Diego Peretti ) 
 
  * El hombre de al lado ( Daniel Araoz )
  

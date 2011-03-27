@@ -10,4 +10,4 @@
 
 === Opción 3 ===
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op3.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op3-Color.png||width=800}} ||

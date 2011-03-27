@@ -16,7 +16,7 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Discutir sobre la implementación del Proyecto ML, revisión de la bibliografía.
+ 1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Organización de los grupos de trabajo. Discutir sobre el lanzamiento y la implementación del Proyecto ML (trazar hoja de ruta), revisión de la bibliografía.
 
 '''* Miércoles 06 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 

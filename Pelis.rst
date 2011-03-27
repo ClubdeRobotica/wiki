@@ -13,6 +13,8 @@ Si no es FLASHERA , no va en esta lista :)
 
  * Eterno resplandor de una mente sin recuerdos
 
+ * Esa maldita costilla 
+
  
 
  

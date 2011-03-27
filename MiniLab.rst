@@ -53,4 +53,4 @@ Cabe aclarar que el CdR simplemente los incentiva a construirlo. El MiniLab se v
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
 
-'''Email lanzamiento Proy. ML: [[LanzamientoProyML]]'''
+'''Gráfica para el lanzamiento y difusión del Proy. ML: [[LanzamientoProyML]]'''

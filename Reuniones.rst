@@ -12,25 +12,25 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 == Próximas reuniones: ==
 
-'''* Miércoles 30 de Marzo''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 30 de Marzo''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
  1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Discutir sobre la implementación del Proyecto ML, revisión de la bibliografía.
 
-'''* Miércoles 06 de Abril''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 06 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
  1. Lanzamiento del Proyecto ML. Presentación de la Wiki y el nuevo SVN (track)
 
-'''* Miércoles 13 de Abril''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 13 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
  1. Re-Lanzamiento de los Proyectos RSL y VRTD. Implementación del Proyecto ML.
 
-'''* Miércoles 20 de Abril''' de 2011, 15hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 20 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 

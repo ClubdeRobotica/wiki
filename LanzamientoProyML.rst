@@ -1,4 +1,4 @@
-== Afuches para difusión (opciones): ==
+== Afiches para difusión (opciones): ==
 
 === Opción 1 ===
 

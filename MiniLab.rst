@@ -7,7 +7,7 @@
  * Frank Schefer <institucionales.cdr.utnfrc@gmail.com>, <frankdschefer@gmail.com>
  * Guillermo Gómez <guillegomez35@gmail.com>
 
-=== Coordibador (provisorio) ===
+=== Coordinador (provisorio) ===
 
  * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 

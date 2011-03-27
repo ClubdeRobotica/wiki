@@ -1,16 +1,16 @@
 == P201003-001 Proyecto MiniLab ==
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:folletov2.0.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||
 
 Responsable del proyecto: Frank Schefer <institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com>
 
-Reunión Proy. ML: [propuesta]
+Reunión Proy. ML:
 
---->Dónde: Laboratorio de Técnicas Digitales UTN-FRC
+---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC (edificio central, planta baja)
 
---->Cuándo: Todos los lunes de 18:15hs a 20:15hs, a partir de Marzo de 2011.
+---> Cuándo: Todos los miércoles de 16hs a 20hs, a partir de Abril de 2011 (fecha tentativa de inicio: Miércoles 06 de Abril)
 
-Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]], aquí sólo se presenta un pequeño resumen:
+Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]]. Se presenta aquí un pequeño resumen:
 
 '''Introducción y objetivos:'''
 
@@ -18,9 +18,9 @@ Los documentos principales de este proyecto se encuentran en el [[http://trac.us
 
     Ideal para comenzar a desarrollar proyectos e introducirse a la electrónica. Implícitamente se brindaría un pequeño curso básico de electrónica (aplicación de las principales leyes, componentes, soldadura, etc.)
 
-    El MiniLab puede ser utilizado como un pequeño laboratorio de desarrollo.
+    El MiniLab puede ser utilizado como un pequeño laboratorio para desarrollo. Es requisito para la materia TD1 (3er año Ing. electrónica)
 
-Nota: De todas maneras, si un grupo de los primeros años se siente en condiciones de afrontar un proyecto, sin haber transitado esta etapa de iniciación, puede hacerlo.
+Nota: De todas maneras, si un grupo de los primeros años se siente en condiciones de afrontar un proyecto, sin haber transitado esta etapa de iniciación, puede hacerlo!
 
 '''Descripción general:'''
 
@@ -32,7 +32,7 @@ Nota: De todas maneras, si un grupo de los primeros años se siente en condicion
 
     Resumiendo, la idea el proyecto que se propone es realizar el MiniLab, que es una herramienta de trabajo muy útil que se usará posteriormente. Quiero recalcar el concepto de que es una herramienta para ser usada, ya que no deseamos hacer algo para gastar dinero y que sólo sirva para un curso introductorio. Este es el primer paso para lo que sigue, y lo que vendrá. Desarrollar nuestros propios proyectos de robótica con la ayuda de esta herramienta. Así que, ¡manos a la obra!
 
-    Cabe aclarar que el CdR simplemente los incentiva a construirlo. El MiniLab se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB.
+    Cabe aclarar que el CdR simplemente los incentiva a construirlo. El MiniLab se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB. Así mismo la CEE dicta un curso de Introducción al Laboratorio. El CdR pretende ser un complemento de estas actividades (sin costo alguno)
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
 

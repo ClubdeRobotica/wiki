@@ -41,7 +41,7 @@ Para quien haga de moderador: designar a alguien para que tome nota de todo lo q
 
 ''Temario tentativo:''
 
- 1. Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011.
+ 1. Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011 + Proyecto ML.
 
 === Histórico de reuniones año 2011: ===
 '''1º, 2º y 3º''' Reunión para la organización del año 2011.

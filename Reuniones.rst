@@ -19,12 +19,17 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
  1. Programación del 2011: propuesta de actividades y hoja de ruta: http://cdr.usla.org.ar/Objetivos http://cdr.usla.org.ar/CajaDeArena
  1. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club (hace falta un coordinador general para el club) y los proyectos (hace falta un coordinador para el Proy. ML). Organización de los grupos de trabajo. http://cdr.usla.org.ar/MinutasReuniones
  1. Discutir sobre el lanzamiento y la implementación del Proyecto ML (hablar con los expositores y trazar una hoja de ruta; hablar con quienes estén interesados en tomar el curso). Revisión de la bibliografía. http://cdr.usla.org.ar/MiniLab http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/
+ 1. Presentación de la Wiki y el nuevo SVN (track) http://cdr.usla.org.ar/ http://trac.usla.org.ar/cdr http://trac.usla.org.ar/svn/cdr/trunk/
+
+{{{#!wiki note
+Para quien haga de moderador: designar a alguien para que tome nota de todo lo que se hable y suba las [[MinutasReuniones|minutas]] a la wiki!
+}}}
 
 '''* Miércoles 06 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. Lanzamiento del Proyecto ML. Presentación de la Wiki y el nuevo SVN (track)
+ 1. Lanzamiento del Proyecto ML. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track)
 
 '''* Miércoles 13 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 

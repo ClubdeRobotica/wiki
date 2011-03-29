@@ -4,7 +4,7 @@ Este es un espacio común de aprendizaje, para que quienes se inician en la edic
 
 Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
-* Línea temporal (propuesta de actividades para el año 2011): Inicio actividades CdR 2011; Presentación del nuevo SVN (track) y Wiki; Presentación de los proyectos; Difusión proyecto ML; Lanzamiento del proyecto ML; Finalización armario CdR (LTD); Re-Lanzamiento de los proyectos RSL y VRTD; Organización de la tesorería; Establecimiento de los nuevos integrantes de la comisión directiva; Lanzamiento del ciclo de formación; Demo de proyectos; Cierre del año;
+* '''Línea temporal''' (propuesta de actividades para el año 2011): Inicio actividades CdR 2011; Presentación del nuevo SVN (track) y Wiki; Presentación de los proyectos; Difusión proyecto ML; Lanzamiento del proyecto ML; Actualización en la wiki de proyectos de los nuevos integrantes de los grupos de desarrollo y responsables; Finalización armario CdR (LTD); Re-Lanzamiento de los proyectos RSL y VRTD; Organización de la tesorería; Establecimiento de los nuevos integrantes de la comisión directiva; Lanzamiento del ciclo de formación; Participación institucional en un evento fuera de la UTN-FRC. Demo de proyectos; Cierre del año;
 
 *[[DifusionCorreoCdR|Armar un mail]] que comente a los miembros del club que tenemos disponible un gestor de correo electrónico, por parte de USLA. El cual tiene nuestro dominio, "@cdr.usla.org.ar". La finalidad es motivarlos a que adquieran sus propios correos. Es una buena manera de vincularnos y forma parte de la construcción de nuestra propia identidad (de alguna manera nos ayuda a identificarnos entre nosotros).
 
@@ -20,7 +20,7 @@ Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
 * Inauguración de nuestro espacio en el LTD (PC + armario)
 
-* Laboratorio remoto. Acceso señal GPS (Trimble Lassen SK2), c/firefox (versión >= 3.6.8) [[http://cdrutnfrc.homelinux.org:2947/|acá]], o desde una consola de Linux mediante el programa "gpsmon": (act. fuera de servicio)
+* Laboratorio remoto. Acceso señal GPS (Trimble Lassen SK2), c/firefox (versión >= 3.6.8) [[http://cdrutnfrc.homelinux.org:2947/|acá]], o desde una consola de Linux mediante el programa "gpsmon": (--->temporalmente fuera de servicio)
 {{{
 user@linux:~>gpsmon cdrutnfrc.homelinux.org:2947
 }}}

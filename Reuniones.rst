@@ -16,7 +16,9 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Programación del 2011. Propuesta de actividades y hoja de ruta. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club y los proyectos. Organización de los grupos de trabajo. Discutir sobre el lanzamiento y la implementación del Proyecto ML (trazar hoja de ruta), revisión de la bibliografía.
+ 1. Programación del 2011: propuesta de actividades y hoja de ruta: http://cdr.usla.org.ar/Objetivos http://cdr.usla.org.ar/CajaDeArena
+ 1. Presentación/proposición de los nuevos responsables por tarea/proyecto. Charlar sobre la coordinación del club (hace falta un coordinador general para el club) y los proyectos (hace falta un coordinador para el Proy. ML). Organización de los grupos de trabajo. http://cdr.usla.org.ar/MinutasReuniones
+ 1. Discutir sobre el lanzamiento y la implementación del Proyecto ML (hablar con los expositores y trazar una hoja de ruta; hablar con quienes estén interesados en tomar el curso). Revisión de la bibliografía. http://cdr.usla.org.ar/MiniLab http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/
 
 '''* Miércoles 06 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 

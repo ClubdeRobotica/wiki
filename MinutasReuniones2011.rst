@@ -4,6 +4,22 @@ Completar!!!
 
 == Minutas de las reuniones realizadas en Marzo de 2011 ==
 
+=== -> En la charla del 18 de Marzo se establecieron los siguientes perfiles (resumen): ===
+
+ * Gustavo Spessot: deja las tareas de coordinación en la comisión directiva para unirse al grupo de desarrollo del Proy. VRTD, en el área de potencia. Continúa con la coordinación del Proy. RSL. Horario disponible: miércoles tarde/noche.
+
+ * Juán Ignacio (nacho): se une al grupo de desarrollo del Proy. VRTD, área a confirmar. Horario disponible: miércoles a partir de las 18hs, viernes tarde/noche.
+
+ * Nicolás Ignacio: continúa como desarrollador en el Proy. RSL, también relacionado a las PC del club y sistemas Linux. Horario disponible: miércoles hasta las 18hs. PD: en el LCE dejaron una caja con HD y placas para el CdR. Fijate que se puede rescatar tanto para las PC como para los proyectos! (está en el pañol)
+
+ * Javier Gohlke: Continúa en el Proy. VRTD en el área de Sistemas Energéticos, encargado de la coordinación del grupo de desarrollo. También se vincula a tareas de coordinación (reuniones) según disponibilidad. Horario disponible: ???
+ 
+ * Germán Ontivero: planea mudarse al Proy. VRTD, posiblemente relacionado a la etapa de control (anteriormente en le Proy. RSL). Horario disponible: miércoles y jueves toda la tarde (tarde? de 13 a 18hs???)
+
+ * Gustavo Santos y Ezequiel Manoukian: ambos en la misma situación (hasta las manos!) Según disponibilidad colaborarán en tareas de coordinación general del club y aportarán a las charlas (Proy. ML junto a Ignacio y Nico) Horario disponible: antes de las 18hs
+
+ * Ignacio Bevacua y Nicolás Rey: ambos en una situación similar. Llevarán adelante las charlas (contenido) del Proy. ML y presentarán el Proyecto del Girasol Electrónico a los alumnos de los primeros años. Cubrirán un miércoles completo cada dos semanas: Nicolás por la tarde(15:30 a 18hs), Ignacio por la noche (18 a 20:30hs)
+
 === -> En las charlas del 04 y el 11 de Marzo surgieron estos temas (resumen): ===
 
  * Tesorería: cerrar las cuentas del 2010 / crear conciencia entre los socios / hacer un resumen para publicar los movimientos / utilizar los bonitos como medio de difusión.
@@ -30,24 +46,8 @@ Completar!!!
 
  * Por último charlamos sobre concentrar esfuerzos. Dividiendo a las tareas del club en dos grupos: Soporte Proyectos, y Soporte Institucional. Y dedicarnos todos a ir sacando una a una las tareas pendientes según prioridad, sin tanta paralelización.
 
-=== -> En la charla del 18 de Marzo se establecieron los siguientes perfiles (resumen): ===
 
- * Gustavo Spessot: deja las tareas de coordinación en la comisión directiva para unirse al grupo de desarrollo del Proy. VRTD, en el área de potencia. Continúa con la coordinación del Proy. RSL. Horario disponible: miércoles tarde/noche.
-
- * Juán Ignacio (nacho): se une al grupo de desarrollo del Proy. VRTD, área a confirmar. Horario disponible: miércoles a partir de las 18hs, viernes tarde/noche.
-
- * Nicolás Ignacio: continúa como desarrollador en el Proy. RSL, también relacionado a las PC del club y sistemas Linux. Horario disponible: miércoles hasta las 18hs. PD: en el LCE dejaron una caja con HD y placas para el CdR. Fijate que se puede rescatar tanto para las PC como para los proyectos! (está en el pañol)
-
- * Javier Gohlke: Continúa en el Proy. VRTD en el área de Sistemas Energéticos, encargado de la coordinación del grupo de desarrollo. También se vincula a tareas de coordinación (reuniones) según disponibilidad. Horario disponible: ???
- 
- * Germán Ontivero: planea mudarse al Proy. VRTD, posiblemente relacionado a la etapa de control (anteriormente en le Proy. RSL). Horario disponible: miércoles y jueves toda la tarde (tarde? de 13 a 18hs???)
-
- * Gustavo Santos y Ezequiel Manoukian: ambos en la misma situación (hasta las manos!) Según disponibilidad colaborarán en tareas de coordinación general del club y aportarán a las charlas (Proy. ML junto a Ignacio y Nico) Horario disponible: antes de las 18hs
-
- * Ignacio Bevacua y Nicolás Rey: ambos en una situación similar. Llevarán adelante las charlas (contenido) del Proy. ML y presentarán el Proyecto del Girasol Electrónico a los alumnos de los primeros años. Cubrirán un miércoles completo cada dos semanas: Nicolás por la tarde(15:30 a 18hs), Ignacio por la noche (18 a 20:30hs)
-
-
-==== Conclusiones: ====
+==== Conclusiones de las tres reuniones: ====
 
 ---> Proponemos como día oficial de juntada del CdR (todas las actividades) el día miércoles, de 15:30 a 20:30hs (dos comisiones), con la intención de darle la posibilidad de participar a la mayor cantidad de miembros. Más adelante podemos analizar la posibilidad de partir la reunión en dos días si vemos que nos es útil y posible. Lugar LTD o LCE. Resultó ser un día libre común a varios de los miembros activos del club.
 

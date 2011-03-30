@@ -1,4 +1,4 @@
-Por: '''Ignacio Bevacua'''
+Por: '''Ignacio Bevaqcua'''
 
 Programa de contenidos Curso minilab:
 

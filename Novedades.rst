@@ -1,4 +1,6 @@
 ------------------------------------------------------------------------
+---> '''Llamado público para cubrir el área de coordinación general del CdR (un responsable y dos vocales)''' ''29/03/2011''
+------------------------------------------------------------------------
 ---> '''El CdR cumplió un año de vida :D !!!''' ''11/03/2011''
 ------------------------------------------------------------------------
 ---> '''Se completó la migración del servidor SVN a los [[http://trac.usla.org.ar/svn/cdr/trunk/|tracks de USLA]]''' ''27/01/2011''

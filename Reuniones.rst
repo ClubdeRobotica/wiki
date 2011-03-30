@@ -12,7 +12,7 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 == Próximas reuniones: ==
 
-'''* Miércoles 30 de Marzo''' de 2011, 17:30hs (hasta las 20hs), Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 30 de Marzo''' de 2011, 16hs (hasta las 20hs), Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 

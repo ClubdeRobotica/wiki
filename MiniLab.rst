@@ -53,7 +53,7 @@ Los documentos principales de este proyecto se encuentran en el [[http://trac.us
     Resumiendo, la idea el proyecto que se propone es realizar el MiniLab, que es una herramienta de trabajo muy útil que se usará posteriormente. Quiero recalcar el concepto de que es una herramienta para ser usada, ya que no deseamos hacer algo para gastar dinero y que sólo sirva para un curso introductorio. Este es el primer paso para lo que sigue, y lo que vendrá. Desarrollar nuestros propios proyectos de robótica con la ayuda de esta herramienta. Así que, ¡manos a la obra!
 
 {{{#!wiki note
-Cabe aclarar que el CdR simplemente los incentiva a construirlo. El MiniLab se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB. Así mismo la CEE dicta un curso de Introducción al Laboratorio. El CdR pretende ser un complemento de estas actividades (sin costo alguno)
+Cabe aclarar que el CdR simplemente los incentiva a construir el MiniLab. Éste se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB. Así mismo la CEE dicta un curso de Introducción al Laboratorio. El CdR pretende ser un complemento de estas actividades (sin costo alguno)
 }}}
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385

@@ -1,5 +1,6 @@
-## page was renamed from MinutasReuniones
-== Minutas de la reunión del 30 de Marzo de 2011 ==
+== Histórico de reuniones CdR año 2011: ==
+
+=== Minutas de la reunión del 30 de Marzo de 2011 ===
 
 Nuevos perfiles (resumen):
 
@@ -23,9 +24,13 @@ Temas conversados (resumen):
  - Se hizo el pedido oficial de gabinete en el LTD para reservar el horario de los Miércoles de 16hs a 20hs para las reuniones regulares del club.
 
 
-== Minutas de las reuniones realizadas en Marzo de 2011 ==
+=== Minutas de las reuniones realizadas en Marzo de 2011 ===
 
-=== -> En la charla del 18 de Marzo se establecieron los siguientes perfiles (resumen): ===
+'''1º, 2º y 3º''' Reunión para la organización del año 2011.
+
+ . - fecha:    04, 11 y 18 de Marzo de 2011, - hora:     19hs, - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)
+
+==== -> En la charla del 18 de Marzo se establecieron los siguientes perfiles (resumen): ====
 
  * Gustavo Spessot: deja las tareas de coordinación en la comisión directiva para unirse al grupo de desarrollo del Proy. VRTD, en el área de potencia. Continúa con la coordinación del Proy. RSL. Horario disponible: miércoles tarde/noche.
 
@@ -41,7 +46,7 @@ Temas conversados (resumen):
 
  * Ignacio Bevacua y Nicolás Rey: ambos en una situación similar. Llevarán adelante las charlas (contenido) del Proy. ML y presentarán el Proyecto del Girasol Electrónico a los alumnos de los primeros años. Cubrirán un miércoles completo cada dos semanas: Nicolás por la tarde(15:30 a 18hs), Ignacio por la noche (18 a 20:30hs)
 
-=== -> En las charlas del 04 y el 11 de Marzo surgieron estos temas (resumen): ===
+==== -> En las charlas del 04 y el 11 de Marzo surgieron estos temas (resumen): ====
 
  * Tesorería: cerrar las cuentas del 2010 / crear conciencia entre los socios / hacer un resumen para publicar los movimientos / utilizar los bonitos como medio de difusión.
 

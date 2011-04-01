@@ -40,7 +40,7 @@ Temas conversados (resumen):
 
  * Nicolás Ignacio: continúa como desarrollador en el Proy. RSL, también relacionado a las PC del club y sistemas Linux. Horario disponible: miércoles hasta las 18hs. PD: en el LCE dejaron una caja con HD y placas para el CdR. Fijate que se puede rescatar tanto para las PC como para los proyectos! (está en el pañol)
 
- * Javier Gohlke: Continúa en el Proy. VRTD en el área de Sistemas Energéticos, encargado de la coordinación del grupo de desarrollo. También se vincula a tareas de coordinación (reuniones) según disponibilidad. Horario disponible: ???
+ * Javier Gohlke: continúa en el Proy. VRTD en el área de Sistemas Energéticos, encargado de la coordinación del grupo de desarrollo. También se vincula a tareas de coordinación (reuniones) según disponibilidad. Horario disponible: ???
  
  * Germán Ontivero: planea mudarse al Proy. VRTD, posiblemente relacionado a la etapa de control (anteriormente en le Proy. RSL). Horario disponible: miércoles y jueves toda la tarde (tarde? de 13 a 18hs???)
 

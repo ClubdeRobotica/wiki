@@ -7,11 +7,7 @@
  * Frank Schefer <frankdschefer@gmail.com>
  * Guillermo Gómez <guillegomez35@gmail.com>
 
-=== Coordinador (provisorio) ===
-
- * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
-
-=== Nuevos cordinadores ===
+=== Cordinadores ===
 
  * Martin Ezequiel Molina <martinezequielmolina@gmail.com>
  * Juan José Pautasso <juanchi_153@hotmail.com>
@@ -36,8 +32,7 @@
 
      - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto MiniLab''' (LTD 16hs/20hs); 
 
-
-Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]]. Se presenta aquí un pequeño resumen:
+Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. Se presenta aquí un pequeño resumen del proyecto:
 
 '''Introducción y objetivos:'''
 

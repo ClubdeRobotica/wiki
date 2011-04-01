@@ -1,3 +1,4 @@
+#acl All:none
 = Ahora son Jefes =
 
 Su primera tarea es darles permisos de edicion a los chicos que no lo tienen

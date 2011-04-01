@@ -70,6 +70,10 @@ Para inscribirse en el proyecto (para formar parte del grupo que 'tomara' las cl
 
  - Ezequiel Manoukian <eze_manoukian@hotmail.com>
 
+Si te interesa participar como expositor o ayudar en las clases de laboratorio, escribí a:
+
+ - Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+
 '''Gráfica para el lanzamiento y difusión del Proy. ML: [[LanzamientoProyML]]'''
 
 '''Programa preliminar del Proy. ML: [[MiniLabPrograma]]'''

@@ -16,16 +16,22 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Lanzamiento del Proyecto ML. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track)
+ 1. Pre-Lanzamiento del Proyecto ML. Reunión informativa para los interesados. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
 
 '''* Miércoles 13 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. Re-Lanzamiento de los Proyectos RSL y VRTD. Implementación del Proyecto ML.
+ 1. Lanzamiento del Proyecto ML.
 
 '''* Miércoles 20 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011 + Proyecto ML.
+ 1. Implementación del Proyecto ML; Re-Lanzamiento de los Proyectos RSL y VRTD.
+
+'''* Miércoles 27 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario tentativo:''
+
+ 1. Implementación del Proyecto ML; Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011.

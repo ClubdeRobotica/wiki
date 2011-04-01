@@ -2,6 +2,8 @@
 
 === Minutas de la reunión del 30 de Marzo de 2011 ===
 
+ * Miércoles 30 de Marzo de 2011, 16hs (hasta las 20hs), Laboratorio de Técnicas Digitales UTN-FRC
+
 Nuevos perfiles (resumen):
 
  * Martín Molina y Juán Pautasso: asumen la coordinación del Proyecto MiniLab. También se perfilan como expositores.

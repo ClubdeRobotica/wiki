@@ -2,9 +2,13 @@
 
 Nuevos perfiles (resumen):
 
- * Martín Molina y Juán Pautaso: asumen la coordinación del Proyecto MiniLab. También se perfilan como expositores.
+ * Martín Molina y Juán Pautasso: asumen la coordinación del Proyecto MiniLab. También se perfilan como expositores.
 
-Temas conversados:
+ * Mariano Alvarez: se une al club, bienvenido! Se suma al Proyecto RSL.
+
+ * Hernán Paez: se une al Proyecto MiniLab.
+
+Temas conversados (resumen):
 
  - Hasta que el Proyecto MiniLab esté en marcha, los proyectos RSL y VRTD quedan en segundo plano. Los desarrollos continúan pero a cargo de cada cual (en su entorno). Nos reuniremos, para irnos organizando, en paralelo a las reuniones del Proyecto MiniLab.
 
@@ -14,7 +18,8 @@ Temas conversados:
 
    - Miércoles 06 de Abril --> '''Reunión informativa''' (LTD 16hs/20hs);
 
-   - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto''' MiniLab (LTD 16hs/20hs);
+   - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto MiniLab''' (LTD 16hs/20hs);
+ - Se hizo el pedido oficial de gabinete en el LTD para reservar el horario de los Miércoles de 16hs a 20hs para las reuniones regulares del club.
 
 
 == Minutas de las reuniones realizadas en Marzo de 2011 ==

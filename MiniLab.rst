@@ -2,21 +2,26 @@
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||
 
-== Responsable del proyecto (bibliografía) ==
+== Responsables del proyecto y bibliografía ==
 
- * Frank Schefer <institucionales.cdr.utnfrc@gmail.com>, <frankdschefer@gmail.com>
+ * Frank Schefer <frankdschefer@gmail.com>
  * Guillermo Gómez <guillegomez35@gmail.com>
 
 === Coordinador (provisorio) ===
 
  * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
+=== Nuevos cordinadores ===
+
+ * Martin Ezequiel Molina <martinezequielmolina@gmail.com>
+ * Juan José Pautasso <juanchi_153@hotmail.com>
+
 === Expositores ===
 
  * Ignacio Bevacua <ignacio_bevi@hotmail.com>
  * Nicolas Rey <matrraca@gmail.com>
 
-=== Adherentes ===
+=== Adherentes (auxiliares) ===
 
  * Gustavo Javier Santos <gustavo2189@hotmail.com>
  * Ezequiel Manoukian <eze_manoukian@hotmail.com>
@@ -25,7 +30,12 @@
 
 ---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC (edificio central, planta baja)
 
----> Cuándo: Todos los miércoles de 16hs a 20hs, a partir de Abril de 2011 (fecha tentativa de inicio: Miércoles 06 de Abril)
+---> Cuándo: Todos los miércoles de 16hs a 20hs, a partir de Abril de 2011.
+     
+     - Miércoles 06 de Abril --> '''Reunión informativa''' (LTD 16hs/20hs);
+
+     - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto MiniLab''' (LTD 16hs/20hs); 
+
 
 Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]]. Se presenta aquí un pequeño resumen:
 

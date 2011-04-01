@@ -1,4 +1,4 @@
-=== Histórico de reuniones CdR año 2010: ===
+== Histórico de reuniones CdR año 2010: ==
 '''1º''' Reunión grupal del CdR: Presentación del Proyecto CdR UTN-FRC.
 
  . - fecha:    jueves 8 de Abril de 2010, - hora:     15hs, (con réplica a las 19hs para quienes no pudieron asistir) - lugar:     Laboratorio Central de Electrónica UTN-FRC (edificio central)

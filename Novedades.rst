@@ -1,4 +1,6 @@
 ------------------------------------------------------------------------
+---> '''Lanzamiento del Proyecto MiniLab!''' ''31/03/2011''
+------------------------------------------------------------------------
 ---> '''Llamado público para cubrir el área de coordinación general del CdR (un responsable y dos vocales) Notas en http://cdr.usla.org.ar/MinutasReuniones''' ''29/03/2011''
 ------------------------------------------------------------------------
 ---> '''El CdR cumplió un año de vida :D !!!''' ''11/03/2011''

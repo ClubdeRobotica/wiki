@@ -1,3 +1,4 @@
+## page was renamed from MinutasReuniones
 == Minutas de la reunión del 30 de Marzo de 2011 ==
 
 Nuevos perfiles (resumen):

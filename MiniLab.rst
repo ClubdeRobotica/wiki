@@ -2,7 +2,9 @@
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||
 
-== Responsables del proyecto y bibliografía ==
+== Responsables del proyecto ==
+
+=== Bibliografía ===
 
  * Frank Schefer <frankdschefer@gmail.com>
  * Guillermo Gómez <guillegomez35@gmail.com>
@@ -22,7 +24,7 @@
  * Gustavo Javier Santos <gustavo2189@hotmail.com>
  * Ezequiel Manoukian <eze_manoukian@hotmail.com>
 
-== Reunión Proy. ML: ==
+== Reuniones ==
 
 ---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC (edificio central, planta baja)
 
@@ -33,6 +35,8 @@
      - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto MiniLab''' (LTD 16hs/20hs); 
 
 Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. Se presenta aquí un pequeño resumen del proyecto:
+
+== Descripción ==
 
 '''Introducción y objetivos:'''
 
@@ -57,6 +61,14 @@ Cabe aclarar que el CdR simplemente los incentiva a construir el MiniLab. Éste 
 }}}
 
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
+
+== Inscripción ==
+
+Para inscribirse en el proyecto (para formar parte del grupo que 'tomara' las clases y 'construirá' su propio MiniLab) escribir a:
+
+ - Gustavo Javier Santos <gustavo2189@hotmail.com>
+
+ - Ezequiel Manoukian <eze_manoukian@hotmail.com>
 
 '''Gráfica para el lanzamiento y difusión del Proy. ML: [[LanzamientoProyML]]'''
 

@@ -1,7 +1,7 @@
 ##master-page:HomepageTemplate
 #format wiki
 #language en
-= Nicolás Ignacio =
+== Nicolás Ignacio ==
 === nnico ===
 Email: <<MailTo(nnico AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 

@@ -66,9 +66,9 @@ Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
 
 Para inscribirse en el proyecto (para formar parte del grupo que 'tomara' las clases y 'construirá' su propio MiniLab) escribir a:
 
- - Gustavo Javier Santos <gustavo2189@hotmail.com>
-
  - Ezequiel Manoukian <eze_manoukian@hotmail.com>
+
+ - Gustavo Javier Santos <gustavo2189@hotmail.com>
 
 Si te interesa participar como expositor o ayudar en las clases de laboratorio, escribí a:
 

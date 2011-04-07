@@ -30,6 +30,7 @@
 
 ---> Cuándo: Todos los miércoles de 16hs a 20hs, a partir de Abril de 2011.
      
+
      - Miércoles 06 de Abril --> '''Reunión informativa''' (LTD 16hs/20hs);
 
      - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto MiniLab''' (LTD 16hs/20hs); 

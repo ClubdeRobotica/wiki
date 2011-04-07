@@ -1,5 +1,18 @@
 == Histórico de reuniones CdR año 2011: ==
 
+=== Minutas de la reunión del 06 de Abril de 2011 ===
+
+ * Miércoles 06 de Abril de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+Perfiles (resumen):
+
+ * Luís Vázquez: continúa en el Protecto VRTD, relacionado a la placa de control (SW Pic en Linux). Horario disponible: miércoles por la tarde, de 18:30hs a 19:30hs.
+
+Temas (resumen):
+
+ - Pre-Lanzamiento del Proyecto ML. Reunión informativa para los interesados. Introducción a SL y presentación del CdR y SLUC.
+ - Discusión sobre la inclusión? de Facebook como herramienta de comunicación y/o difusión del club. Se propuso hacer una prueba piloto por proyectos. También se hablo de lanzar el proyecto RSL el miércoles 13/04.
+
 === Minutas de la reunión del 30 de Marzo de 2011 ===
 
  * Miércoles 30 de Marzo de 2011, 16hs (hasta las 20hs), Laboratorio de Técnicas Digitales UTN-FRC

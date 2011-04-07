@@ -6,7 +6,6 @@
  * JuanGonzalez
  * WalterSalinas
  * FrankDS
- * juanPautasso
  * NicolasAlberto
  * GermanOntivero
  * EzequielManoukian

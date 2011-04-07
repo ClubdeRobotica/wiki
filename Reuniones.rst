@@ -16,7 +16,7 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Lanzamiento del Proyecto ML.
+ 1. Lanzamiento del Proyecto ML. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
 
 '''* Miércoles 20 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 

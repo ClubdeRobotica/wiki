@@ -11,6 +11,7 @@
    1. Reunión social! 22 de Marzo.
    1. Llamado público para cubrir el área de coordinación general del CdR (un responsable y dos vocales). 29/03
    1. Lanzamiento del Proyecto MiniLab. 31/03
+   1. Reunión informativa del Proyecto MiniLab. 06/04
 
 '''Histórico de Actividades Año 2010:'''
 

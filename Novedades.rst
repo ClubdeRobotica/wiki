@@ -1,6 +1,6 @@
 ---> ''Próximo 9 de Abril '''*  Flisol 2011 *''' . Organiza SLUC. Información en [[http://sluc.org.ar/]]''
 ------------------------------------------------------------------------
----> '''Primer reunión informativa Proyecto MiniLab  ''06/04/2011''
+---> '''Primer reunión informativa Proyecto MiniLab'''  ''06/04/2011''
 ------------------------------------------------------------------------
 ---> '''Lanzamiento del Proyecto MiniLab!''' ''31/03/2011''
 ------------------------------------------------------------------------

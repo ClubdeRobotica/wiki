@@ -12,12 +12,6 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 == Próximas reuniones: ==
 
-'''* Miércoles 06 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
-
-''Temario tentativo:''
-
- 1. Pre-Lanzamiento del Proyecto ML. Reunión informativa para los interesados. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
-
 '''* Miércoles 13 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''

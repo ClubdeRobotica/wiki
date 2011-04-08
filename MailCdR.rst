@@ -1,7 +1,4 @@
-#acl EditorGroup:Read,write All:none
 Aca esta por ahora los que que quieren la dirección con dominio @cdr.usla.org.ar
 
-||'''Nombre'''||'''Apellido'''||'''UserID'''||'''Mail de contacto'''||
-||Ezequiel||Molina||ezemoli||martinezequielmolina@gmail.com||
-||Luis||Vazquez||luisvazquez||luigi.utn@gmail.com||
-||Leandro||Passetti||leandropassetti||leandropassetti@gmail.com||
+||<tablewidth="590px" tableheight="225px">'''Nombre'''||'''Apellido'''||'''userid'''||'''mail'''||
+||Lagarto||Juancho||lagartojauncho||lagarto@gmail.com||

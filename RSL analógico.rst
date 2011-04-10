@@ -1,8 +1,6 @@
 = Análisis y construcción del seguidor de líneas analógico (año 2010) =
 == Fase 1 ==
 === Circuito I ===
-{{attachment:Circuito1.jpg}}
-
 Usando un circuito presentado por la página www.x-robotics.com como punto de partida, el mismo es un circuito analógico muy simple que nos servirá para afinar la parte mecánica (si se logra un vehículo que funcione con este circuito, probablemente sea muy fácil adaptarlo a circuitos mas complejos que usen microcontroladores). El funcionamiento de este circuito es muy simple ya que todos los transistores aparecen funcionando como llaves al igual que el fototransistor del CNY70, que al detectar una superficie reflejante desactiva uno de los motores para que el vehículo doble en dirección contraria.
 
 El circuito es el que se presenta en la figura y se necesita uno como estos para cada motor, teniendo siempre en cuenta que el sensor CNY70 que se ubique a la derecha controlará el motor izquierdo y viceversa.

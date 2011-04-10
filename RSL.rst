@@ -12,20 +12,24 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
  * Germán Ontivero
 
 = Noticias importantes y actividades =
- . En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
+
+En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
 
 
- . Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
- .
- . Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
+Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
 
- .
 
- . Para trabajar con el servidor necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
- .
- . Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
- .
- . Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
+Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
+
+
+Para trabajar con el servidor necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
+
+
+Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
+
+Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
+
+
 
 = Introducción y objetivos =
 ----

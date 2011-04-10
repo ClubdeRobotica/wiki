@@ -14,6 +14,8 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 = Noticias importantes y actividades =
  . En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
  .
+ .
+ .
 
  . Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
  .

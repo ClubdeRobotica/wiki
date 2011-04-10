@@ -11,17 +11,20 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
  * Germán Ontivero
 
+= Noticias importantes y actividades =
+ . En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
+ Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
+ Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Cualquier duda para ingresar al servidor, acceder al link , o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server. Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
+ Actualmente '''necesitamos gente''' que sepa trabajar con '''''WikiSpaces''''' porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
 
 = Introducción y objetivos =
 ----
-Primer proyecto de robótica de los miembros del CdR. Aprovechando la experiencia y conocimientos capitalizados en el desarrollo del P201003-002, los miembros del CdR se dividirán en grupos de trabajo para conformar cada uno un Robot Seguidor de Línea, en vistas de realizar una demostración y competencia al finalizar el ciclo. Se trazarían líneas generales de desarrollo y luego cada grupo las implementaría bajo su criterio y posibilidades, con el asesoramiento del CdR. Una alternativa para homogeneizar la plataforma y poder centralizarse en el desarrollo electrónico (por lo menos hasta que se conforme una sección de mecánica) es adquirir vehículos comerciales, y adaptarlos para que nos sean de utilidad. Una vez reocrridas todas las fases del proyecto, se pretende que todos tengan una base en electrónica analógica y digital con conocimientos en tipo de microcontroladores.
+Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. Son muy usados en la industria donde se requieren robots que se muevan por lugares bien definidos y de forma repetida. Estos agilizan el transporte de material de un lugar a otro dentro de una fábrica o lugar de almacenamiento tipo stock. Son muy rápidos y se caracterizan por la precisión y por su rigurosidad en seguir el camino trazado por la línea previamente definida, son programables, y trabajando varios en conjunto, se comunican entre sí para no colisionar en los momentos que comparten el trazado. Hoy en día el depósito/extracción de cajas/objetos se ve completamente automatizado por estos sistemas móviles, que reciben constantemente información de los paquetes que existen en stock y los requeridos por la gente, que generalemente hace los pedidos cómodamente desde sus casas via web.
 
-Un ejemplo de robots seguidores de línea del CdR de la FIUBA: http://www.sase.com.ar/workshop
-
-Este es otro ejemplo de seguidor de linea http://www.x-robotics.com el cual es un circuito analógico y sera nuestro punto de partida.
+Así mismo existen competencias entre universidades, de seguidores de líneas, donde el objetivo es llegar lo más rápido a destino. En youtube pueden ver varios videos escribiendo en el buscador "seguidores de línea competencia" o también "line followers". Aquí algunos links:
 
 == Estado del Proyecto ==
-Actualmente nos encontramos cerrando el Circuito II  de la Fase I, paralelamente se está desarrollando un pequeño  manual de programación de PICs en lenguaje C para iniciar la Fase II
+Actualmente nos encontramos en el diseño y armado de un seguidor de líneas basado en PIC. Ya terminamos un informe que explica paso a paso como programar PICs desde cero, el cual se encuentra almacenado en el servidor a disposición de todo el club.
 
 = Descripción general =
 ----
@@ -62,18 +65,3 @@ Q6 y Q3 pueden ser los mismos BD140 que se usaron para el primer circuito, los d
 R1 y R3 serán resistencias de 100 K. Aconsejamos reemplazarlas por potenciómetros para '''variar la sensibilidad sensorial'''.
 
 Esta configuración fue simulada y funciona correctamente, tanto la memoria como la regulación de velocidad de los motores.
-
-= Anexos =
-----
-== Links de interés ==
-Robogroup empresa dedicada a la robótica educativa http://www.robotgroup.com.ar/web/
-
-Manuales útiles: http://www.iit.upcomillas.es/~alvaro/teaching/Clases/Robots/teoria/
-
-Wiki de un grupo similar al CdR http://www.iearobotics.com/
-
-== ¿Cómo participar? ==
-{{{#!wiki note
-Si te interesa el proyecto y querés participar, '''escribí a la dirección de contacto del club o directamente al responsable directo del proyecto'''. A la brevedad nos pondremos en contacto informándote de los pormenores.
-También podés acercarte los días '''jueves de 16 a 19 hs al Laboratorio Central de Electrónica''' y hablar con nosotros personalmente. Esperamos tu participación!
-}}}

@@ -13,11 +13,13 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 = Noticias importantes y actividades =
  . En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
+ .
 
- .. Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
+ . Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
  .
+ . Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
+
  .
- . Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link [[http://cdr.usla.org.ar/RedTrabajo]]  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
 
  . Para trabajar con el servidor necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
  .
@@ -27,9 +29,12 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 = Introducción y objetivos =
 ----
- . Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. Son muy usados en la industria donde se requieren robots que se muevan por lugares bien definidos y de forma repetida. Estos agilizan el transporte de material de un lugar a otro dentro de una fábrica o lugar de almacenamiento tipo stock. Son muy rápidos y se caracterizan por la precisión y por su rigurosidad en seguir el camino trazado por la línea previamente definida, son programables, y trabajando varios en conjunto, se comunican entre sí para no colisionar en los momentos que comparten el trazado. Hoy en día el depósito/extracción de cajas/objetos se ve completamente automatizado por estos sistemas móviles, que reciben constantemente información de los paquetes que existen en stock y los requeridos por la gente, que generalemente hace los pedidos cómodamente desde sus casas via web. 
+ . Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. Son muy usados en la industria donde se requieren robots que se muevan por lugares bien definidos y de forma repetida. Estos agilizan el transporte de material de un lugar a otro dentro de una fábrica o lugar de almacenamiento tipo stock. Son muy rápidos y se caracterizan por la precisión y por su rigurosidad en seguir el camino trazado por la línea previamente definida, son programables, y trabajando varios en conjunto, se comunican entre sí para no colisionar en los momentos que comparten el trazado. Hoy en día el depósito/extracción de cajas/objetos se ve completamente automatizado por estos sistemas móviles, que reciben constantemente información de los paquetes que existen en stock y los requeridos por la gente, que generalemente hace los pedidos cómodamente desde sus casas via web.
+ .
 
  . Así mismo existen competencias entre universidades, de seguidores de líneas, donde el objetivo es llegar lo más rápido a destino, o girar tantas vueltas como se pueda sin descarrilar. En youtube pueden ver varios videos escribiendo en el buscador "seguidores de línea" o también "line followers". Aquí algunos links:
+
+ .
 
 http://www.youtube.com/watch?v=H0rBGFp7y1o
 
@@ -40,6 +45,8 @@ http://www.youtube.com/watch?v=2agFiaqJX_4
 http://www.youtube.com/watch?v=S72ASR9mcCE&feature=related
 
 http://www.youtube.com/watch?v=4XiRxNkZleY
+
+
 
 = Estado del Proyecto =
  . Actualmente nos encontramos en el diseño y armado de un seguidor de líneas basado en PIC. Ya terminamos un informe que explica paso a paso como programar PICs desde cero, el cual se encuentra almacenado en el servidor a disposición de todo el club.

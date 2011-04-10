@@ -1,4 +1,5 @@
----> ''Próximo 9 de Abril '''*  Flisol 2011 *''' . Organiza SLUC. Información en [[http://sluc.org.ar/]]''
+------------------------------------------------------------------------
+---> '''Desde el 31 Marzo de 2011 adoptamos a [[http://pipio.usla.org.ar/|Pipio!]] (servicio de microblogueo)  '''  ''31/03/2011''
 ------------------------------------------------------------------------
 ---> '''Primer reunión informativa Proyecto MiniLab'''  ''06/04/2011''
 ------------------------------------------------------------------------

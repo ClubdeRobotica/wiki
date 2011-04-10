@@ -9,6 +9,8 @@ El circuito es el que se presenta en la figura y se necesita uno como estos para
 
 Como se vé el circuito es muy simple y no ofrece muchas posibilidades a la hora de variar por ejemplo la sensibilidad del sensor o la velocidad del motor, es por eso que surgió la necesidad de hacerle ciertas modificaciones para facilitar un poco el desarrollo mecánico.
 
+
+
 == Fase 2 ==
 === Circuito II ===
 Navegando un poco por internet caímos en la página __www.electronica2000.com__ y nos encontramos con otro circuito, que si bien utiliza casi los mismos componentes, esta configurado para tener una especie de "memoria", es decir que cuando el vehículo se sale por completo de la línea negra el RSL recuerda cual fue el primer sensor en detectar pisar sobre blanco y mantiene al vehículo doblando en la dirección contraria. El circuito lo modificamos para reutilizar los componentes del anterior y es el que se muestra en la figura, se ve que es tan sencillo como el primero pero un poco mas potente:

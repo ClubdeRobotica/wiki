@@ -24,6 +24,8 @@ Además existe un canal de comunicación que usamos la gente del CdR para postea
 
 Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
 
+Estamos debatiendo acerca de crear un facebook, puedes agregar tu opinión en este link [[Creación de un Faceb]]
+
 = Introducción y objetivos =
 ----
 Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. Son muy usados en la industria donde se requieren robots que se muevan por lugares bien definidos y de forma repetida. Estos agilizan el transporte de material de un lugar a otro dentro de una fábrica o lugar de almacenamiento tipo stock. Son muy rápidos y se caracterizan por la precisión y por su rigurosidad en seguir el camino trazado por la línea previamente definida, son programables, y trabajando varios en conjunto, se comunican entre sí para no colisionar en los momentos que comparten el trazado. Hoy en día el depósito/extracción de cajas/objetos se ve completamente automatizado por estos sistemas móviles, que reciben constantemente información de los paquetes que existen en stock y los requeridos por la gente, que generalemente hace los pedidos cómodamente desde sus casas via web.

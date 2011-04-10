@@ -24,7 +24,6 @@ Además existe un canal de comunicación que usamos la gente del CdR para postea
 
 Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
 
-Estamos debatiendo acerca de crear un facebook, puedes agregar tu opinión en este link [[Creación de un Faceb]]
 
 = Introducción y objetivos =
 ----

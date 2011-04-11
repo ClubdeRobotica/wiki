@@ -1,6 +1,8 @@
 = Grupo RSL =
 ----
-Aqui vamos a agregar nuestros intereses al formar parte de las actividades del RSL.
+Aqui vamos a agregar nuestros intereses al formar parte de las actividades del RSL. Agregué los mails para que todos estemos en contactos con todos.
+
+
 
 ==== Gustavo Spessot     gdrake84@gmail.com ====
 Me interesa aplicar electrónica en robótica, y la programación de microcontroladores. También estoy muy interesado en mejorar nuestro sector de la wiki del Club.

@@ -9,6 +9,8 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 {{{#!wiki note
 * Se lanzó el Proyecto MiniLab!!!
+
+http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab
 }}}
 
 [[Bienvenida|Palabras de bienvenida]] |

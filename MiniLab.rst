@@ -78,3 +78,9 @@ Si te interesa participar como expositor o ayudar en las clases de laboratorio, 
 '''Gráfica para el lanzamiento y difusión del Proy. ML: [[LanzamientoProyML]]'''
 
 '''Programa preliminar del Proy. ML: [[MiniLabPrograma]]'''
+
+=== Fotos de las placas del MiniLab ===
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:minilab11.jpg||width=500}} ||
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:minilab22.jpg||width=500}} ||

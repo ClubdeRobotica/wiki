@@ -14,7 +14,7 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 = Noticias importantes y actividades =
 En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
 
-Estamos por crear una''' lista de la gente que está interesada''',''' '''en donde cada uno aparecerá con los intereses que tiene al formar parte del grupo.
+Hay una [[lista]] de las personas q están interesadas en trabajar sobre RSLs. Les voy a pedir a esas personas que me manden por mail cuales son los intereses de cada uno, y las agregaré a esa lista. Gente nueva que quiera sumarse, también lo puede hacer enviando mail solicitando ser parte de nuestras actividades.
 
 Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
 
@@ -23,7 +23,6 @@ Para trabajar con el servidor necesitan bajar el TortoiseSVN. http://tortoisesvn
 Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias http://pipio.usla.org.ar/. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
 
 Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
-
 
 = Introducción y objetivos =
 ----

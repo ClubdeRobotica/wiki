@@ -1,3 +1,4 @@
+## page was renamed from lista
 = Grupo RSL =
 ----
 Aqui vamos a agregar nuestros intereses al formar parte de las actividades del RSL. Agregué los mails para que todos estemos en contactos con todos.

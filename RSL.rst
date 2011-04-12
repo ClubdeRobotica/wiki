@@ -14,7 +14,7 @@ Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 = Noticias importantes y actividades =
 En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
 
-Hay una [[lista]] de las personas q están interesadas en trabajar sobre RSLs. Les voy a pedir a esas personas que me manden por mail cuales son los intereses de cada uno, y las agregaré a esa lista. Gente nueva que quiera sumarse, también lo puede hacer enviando mail solicitando ser parte de nuestras actividades.
+Hay una [[Lista Grupo RSL]] de las personas q están interesadas en trabajar sobre RSLs. Les voy a pedir a esas personas que me manden por mail cuales son los intereses de cada uno, y las agregaré a esa lista. Gente nueva que quiera sumarse, también lo puede hacer enviando mail solicitando ser parte de nuestras actividades.
 
 Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
 

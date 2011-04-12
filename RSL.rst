@@ -16,13 +16,15 @@ En estos momentos el grupo RSL no inició actividades correspondientes al año 2
 
 Hay una [[Lista Grupo RSL]] de las personas q están interesadas en trabajar sobre RSLs. Les voy a pedir a esas personas que me manden por mail cuales son los intereses de cada uno, y las agregaré a esa lista. Gente nueva que quiera sumarse, también lo puede hacer enviando mail solicitando ser parte de nuestras actividades.
 
-Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. que se elaboraron en el transcurso del 2010. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
+Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
 
 Para trabajar con el servidor necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
 
 Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias http://pipio.usla.org.ar/. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
 
 Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
+
+Se les recuerda a la gente del CdR que pueden pedir una copia del '''DVD''' en donde juntamos información muy útil referida a robótica.
 
 = Introducción y objetivos =
 ----
@@ -41,8 +43,10 @@ http://www.youtube.com/watch?v=S72ASR9mcCE&feature=related
 http://www.youtube.com/watch?v=4XiRxNkZleY
 
 = Estado del Proyecto =
-Actualmente nos encontramos en el diseño y armado de un seguidor de líneas basado en PIC. Ya terminamos un informe que explica paso a paso como programar PICs desde cero, el cual se encuentra almacenado en el servidor a disposición de todo el club.
+Actualmente nos encontramos en el diseño y armado de un '''seguidor de líneas basado en PIC'''.
 
-El año pasado (2010) concluimos nuestras experiencias con un seguidor de líneas totalmente analógico. Paralelamente, se dieron clases, charlas, y explicaciones de cómo programar los microcontrolades en lenguaje C, se mostraron simulaciones y también el paso a paso de la programación de PICs. Aquí el link para que vean el añalisis y desarrollo que hicimos [[RSL analógico]]
+En el año 2010,  concluimos nuestras experiencias con un '''seguidor de líneas totalmente analógico'''. Paralelamente, se dieron clases, charlas, y explicaciones de cómo programar los microcontrolades en lenguaje C, se mostraron simulaciones y también el paso a paso de la programación de PICs. Aquí el link para que vean el añalisis y desarrollo que hicimos del [[RSL analógico]]. También terminamos el informe "'''Introducción a la  programación de microcontroladores en lenguaje C'''", con el cual se puede  empezar sin saber algo previamente. Con la idea de facilitar nuestras actividades referidas a robótica, confeccionamos un '''DVD''' donde pueden encontrar información muy útil que les puede servir como ayuda tanto para aprender como para elaborar proyectos.
+
+
 
 ----

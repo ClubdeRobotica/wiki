@@ -4,6 +4,8 @@ Este es un espacio común de aprendizaje, para que quienes se inician en la edic
 
 Hablando de lo que viene: (todos estos temas están abiertos a discusión)
 
+* Organizar algún tipo de bienvenida para los nuevos socios!!??
+
 * Charla general del club pendiente:
 
 ''Temario tentativo:''

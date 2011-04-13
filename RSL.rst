@@ -2,7 +2,7 @@
 
 <<TableOfContents()>>
 
-= Equipo =
+= Equipo de desarrollo =
 == Responsable del proyecto ==
 Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 

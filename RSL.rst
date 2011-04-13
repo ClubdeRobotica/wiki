@@ -57,6 +57,7 @@ Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio r
 Se pueden ver sus datos de funcionamiento en la [[http://www.micropik.com/pdf/cny70.pdf|hoja de datos]], sólo diremos que este sensor consta de un led infrarrojo y un fototransistor, cuando los polarizamos, la resistencia interna del transistor varía segun la superficie frente a él refleje o no la luz infrarroja emitida por el led. En nuestro caso, los valores o datos que vamos a obtener del transistor nos indicarán si el sensor se encuentra sobre una superficie blanca, o sobre la linea negra que debe seguir.
 
 El PCB que vamos a usar es el que se ve en la siguiente figura, es sólo a modo ilustrativo y se puede dibujar directamente sobre la placa, sólo hay que tener cuidado de que la distancia entre las caras externas de los sensores sea de 1,5 cm, para que no nos quede por afuera de la linea.
+Los valores de R1 y R2 son los mismos que las resistencias usadas en el RSL analógico, ya que esta parte del circuito no va a cambiar en ninguna de las fases del proyecto.
 
 {{attachment:CNY70PCB.jpg||height="236px",width="406px"}}
 

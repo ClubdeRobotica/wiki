@@ -47,6 +47,19 @@ Actualmente nos encontramos en el diseño y armado de un '''seguidor de líneas 
 
 En el año 2010,  concluimos nuestras experiencias con un '''seguidor de líneas totalmente analógico'''. Paralelamente, se dieron clases, charlas, y explicaciones de cómo programar los microcontrolades en lenguaje C, se mostraron simulaciones y también el paso a paso de la programación de PICs. Aquí el link para que vean el añalisis y desarrollo que hicimos del [[RSL analógico]]. También terminamos el informe "'''Introducción a la  programación de microcontroladores en lenguaje C'''", con el cual se puede  empezar sin saber algo previamente. Con la idea de facilitar nuestras actividades referidas a robótica, confeccionamos un '''DVD''' donde pueden encontrar información muy útil que les puede servir como ayuda tanto para aprender como para elaborar proyectos.
 
+= Desarrollo del Proyecto =
+== Hardware ==
+Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
 
+=== Sensores ===
+Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio ronda los $10 y su rendimiento es muy bueno para este tipo de robots. Estos tendran que ir en la parte inferior del movil, a una distancia maxima de 5 mm del piso (el sensor funciona a distancias mayores, pero nos estaríamos exponiendo a la interferencia por la luz infrarroja de cualquier otra fuente)
+
+Se pueden ver sus datos de funcionamiento en la [[http://www.micropik.com/pdf/cny70.pdf|hoja de datos]], sólo diremos que este sensor consta de un led infrarrojo y un fototransistor, cuando los polarizamos, la resistencia interna del transistor varía segun la superficie frente a él refleje o no la luz infrarroja emitida por el led. En nuestro caso, los valores o datos que vamos a obtener del transistor nos indicarán si el sensor se encuentra sobre una superficie blanca, o sobre la linea negra que debe seguir.
+
+El PCB que vamos a usar es el que se ve en la siguiente figura, es sólo a modo ilustrativo y se puede dibujar directamente sobre la placa, sólo hay que tener cuidado de que la distancia entre las caras externas de los sensores sea de 1,5 cm, para que no nos quede por afuera de la linea.
+
+{{attachment:CNY70PCB.jpg||height="236px",width="406px"}}
+
+Si alguien no tiene idea de hacer una plaqueta de circuito impreso y esta interesado en aprender, se puede poner en contacto con cualquiera de los responsables y hacemos una especie de tutorial, es bastante simple, pero nadie nace sabiendo y la idea del cdr es aprender
 
 ----

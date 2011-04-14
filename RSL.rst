@@ -26,6 +26,8 @@ Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tene
 
 Se les recuerda a la gente del CdR que pueden pedir una copia del '''DVD''' en donde juntamos información muy útil referida a robótica.
 
+Recomendamos ver los siguientes [[Links recomendados - RSL|links]] y bajar software libre para aprender, experimentar, investigar y realizar proyectos.
+
 = Introducción y objetivos =
 ----
 Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. Son muy usados en la industria donde se requieren robots que se muevan por lugares bien definidos y de forma repetida. Estos agilizan el transporte de material de un lugar a otro dentro de una fábrica o lugar de almacenamiento tipo stock. Son muy rápidos y se caracterizan por la precisión y por su rigurosidad en seguir el camino trazado por la línea previamente definida, son programables, y trabajando varios en conjunto, se comunican entre sí para no colisionar en los momentos que comparten el trazado. Hoy en día el depósito/extracción de cajas/objetos se ve completamente automatizado por estos sistemas móviles, que reciben constantemente información de los paquetes que existen en stock y los requeridos por la gente, que generalemente hace los pedidos cómodamente desde sus casas via web.
@@ -56,8 +58,7 @@ Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio r
 
 Se pueden ver sus datos de funcionamiento en la [[http://www.micropik.com/pdf/cny70.pdf|hoja de datos]], sólo diremos que este sensor consta de un led infrarrojo y un fototransistor, cuando los polarizamos, la resistencia interna del transistor varía segun la superficie frente a él refleje o no la luz infrarroja emitida por el led. En nuestro caso, los valores o datos que vamos a obtener del transistor nos indicarán si el sensor se encuentra sobre una superficie blanca, o sobre la linea negra que debe seguir.
 
-El PCB que vamos a usar es el que se ve en la siguiente figura, es sólo a modo ilustrativo y se puede dibujar directamente sobre la placa, sólo hay que tener cuidado de que la distancia entre las caras externas de los sensores sea de 1,5 cm, para que no nos quede por afuera de la linea.
-Los valores de R1 y R2 son los mismos que las resistencias usadas en el RSL analógico, ya que esta parte del circuito no va a cambiar en ninguna de las fases del proyecto.
+El PCB que vamos a usar es el que se ve en la siguiente figura, es sólo a modo ilustrativo y se puede dibujar directamente sobre la placa, sólo hay que tener cuidado de que la distancia entre las caras externas de los sensores sea de 1,5 cm, para que no nos quede por afuera de la linea. Los valores de R1 y R2 son los mismos que las resistencias usadas en el RSL analógico, ya que esta parte del circuito no va a cambiar en ninguna de las fases del proyecto.
 
 {{attachment:CNY70PCB.jpg||height="236px",width="406px"}}
 

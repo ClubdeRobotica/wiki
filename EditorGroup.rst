@@ -21,6 +21,6 @@
  * FacundoRivas
  * Ignacio
  * LucasYoaquino
- * JuanPautasso
+ * juanPautasso
  * matiasquadri
  * pablonicolasda

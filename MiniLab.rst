@@ -37,7 +37,7 @@
 
  * Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]] (para svn checkout), para navegar las fuentes hacer click [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|acá]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. 
 
-* Presentación: [[Presentación_MiniLab.ppt|Presentación_MiniLab.ppt]]
+* [[Presentación_MiniLab.ppt|Presentación_MiniLab.ppt]]
 
 Se presenta aquí un pequeño resumen del proyecto:
 

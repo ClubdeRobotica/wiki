@@ -35,6 +35,8 @@
 
      - Miércoles 13 de Abril --> '''Lanzamiento del Proyecto MiniLab''' (LTD 16hs/20hs); 
 
+     - A partir de Miércoles 20 de Abril --> '''Horario unificado''' (LTD todos los Miércoles de --> 17hs a 19hs <--); 
+
  * Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]] (para svn checkout), para navegar las fuentes hacer click [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|acá]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. 
 
 * [[attachment:Presentación_MiniLab.ppt]]

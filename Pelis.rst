@@ -17,8 +17,19 @@ Si no es FLASHERA , no va en esta lista :)
 
  * Esa maldita costilla (esto no es flashero)
 
- 
+ * Paprica
 
+ * Coraline (Henry Selick, stop motion)
+
+ * eXistenZ (David Cronenberg)
+
+ * Capitán Sky y el increíble mundo del mañana
+
+ * El increíble castillo vagabundo (Hayao Miyazaki)
+
+ * Fantastic Mr. Fox (stop motion)
+
+ * Nausicaa y el valle del viento (Hayao Miyazaki, 1982)
  
 
 

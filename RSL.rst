@@ -7,8 +7,6 @@
 Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 == Delegados ==
- * Marcos Ciceri
-
  * Germán Ontivero
 
 = Noticias importantes y actividades =

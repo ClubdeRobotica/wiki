@@ -5,7 +5,7 @@ Si no es FLASHERA , no va en esta lista :)
 
  * La Guía Del Viajero Intergaláctico (The Hitchhiker's Guide to the Galaxy)  
 
- * Música en espera ( Diego Peretti ) 
+ * Música en espera ( Diego Peretti ) (esto no es flashero tampoco) 
 
  * El hombre de al lado ( Daniel Araoz )
  
@@ -13,7 +13,9 @@ Si no es FLASHERA , no va en esta lista :)
 
  * Eterno resplandor de una mente sin recuerdos
 
- * Esa maldita costilla 
+ * INK
+
+ * Esa maldita costilla (esto no es flashero)
 
  
 

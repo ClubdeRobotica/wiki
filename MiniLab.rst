@@ -81,6 +81,8 @@ Si te interesa participar como expositor o ayudar en las clases de laboratorio, 
 
  - Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
+* La inscripción se encuentra abierta todo el año.
+
 '''Gráfica para el lanzamiento y difusión del Proy. ML: [[LanzamientoProyML]]'''
 
 '''Programa preliminar del Proy. ML: [[MiniLabPrograma]]'''

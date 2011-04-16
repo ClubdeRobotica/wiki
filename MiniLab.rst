@@ -55,13 +55,18 @@ Se presenta aquí un pequeño resumen del proyecto:
 
 '''Descripción general:'''
 
-    Este emprendimiento consiste en construir el MiniLab, es parte de la currícula obligatoria de 3er año de Ing. Electrónica para Técnicas Digitales 1. La idea es realizarlo por cuenta propia en el marco del CdR, adquiriendo así una pequeña experiencia en electrónica (para algunos la primera), aprendiendo a soldar, a distinguir componentes, interpretar sus valores, y si se quiere, aprender a diseñar los PCB (placas de circuitos impresos).
+    Este emprendimiento consiste en construir el MiniLab, es parte de la currícula obligatoria de 3er año de Ing. Electrónica para Técnicas Digitales 1. La idea es realizarlo por cuenta propia en el marco del CdR, adquiriendo así una pequeña experiencia en electrónica (para algunos la primera), aprendiendo a soldar, a distinguir componentes, interpretar sus valores, y si se quiere, aprender a diseñar los PCB (placas de circuitos impresos), mediante el uso de herramientas informáticas como por ejemplo '''Kicad''' .
 
     El fin de este proyecto consiste en adquirir conocimientos básicos de electrónica, tanto teóricos como prácticos, y armar una pequeño laboratorio sobre el cual construir y ensayar circuitos electrónicos. Aprenderemos como grupo, unos de otros. Si se quiere, se pueden formar grupos para trabajar mejor.
 
     El MiniLab es un pequeño laboratorio electrónico que consiste principalmente de dos placas en donde encontramos pulsadores con anti reboté, generador de señal de onda cuadrada variable en frecuencia, de 1 a 100Hz, pantalla de 4 dígitos, 8 LED indicadores de estado, entre algunas cosas. Éstas cualidades nos permiten, a la hora de desarrollar un nuevo proyecto, no perder tiempo desarrollando indicadores, pulsadores, o cálculos de frecuencias. Es una herramienta de trabajo muy interesante y práctica. En general, según experiencias de personas que ya lo han construido años anteriores, se utiliza el MiniLab para hacer trabajos para las materias de electrónica de 3ro a 5to año, tesis y proyectos propios, con muy buenos resultados.
 
     Resumiendo, la idea el proyecto que se propone es realizar el MiniLab, que es una herramienta de trabajo muy útil que se usará posteriormente. Quiero recalcar el concepto de que es una herramienta para ser usada, ya que no deseamos hacer algo para gastar dinero y que sólo sirva para un curso introductorio. Este es el primer paso para lo que sigue, y lo que vendrá. Desarrollar nuestros propios proyectos de robótica con la ayuda de esta herramienta. Así que, ¡manos a la obra!
+
+'''Herramientas recomendadas :'''
+  
+     *'''Kicad''' :  programa de código libre (GPL) para la creación de esquemas electrónicos y circuitos impresos. 
+   Referencia en la web : http://www.lis.inpg.fr/realise_au_lis/kicad/Kicad_files/LogicielKicad_es.htm
 
 {{{#!wiki note
 Cabe aclarar que el CdR simplemente los incentiva a construir el MiniLab. Éste se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB. Así mismo la CEE dicta un curso de Introducción al Laboratorio. El CdR pretende ser un complemento de estas actividades (sin costo alguno)

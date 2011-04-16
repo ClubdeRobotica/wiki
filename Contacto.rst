@@ -24,7 +24,7 @@ El canal esta alojado en el servidor de FreeNode: irc.freenode.net y se llama #C
 
 [2] http://es.wikipedia.org/wiki/Cliente_IRC
 
-5º Pipio!
+5º '''Pipio!'''
 
 Pipio es un servicio de microblogueo basada en la herramienta de software libre StatusNet tool. La adoptamos como una herramienta más de comunicación para el club. Para pode pipear, necesitan que alguien que ya tenga un usuario los invite. Esto se hace diréctamente desde la página de pipio.
 

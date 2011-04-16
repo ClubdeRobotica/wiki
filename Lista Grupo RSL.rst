@@ -5,13 +5,15 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''''Gustavo Spessot'''''      gdrake84@gmail.com
 
-Me interesa aplicar electrónica en robótica, y la programación de microcontroladores. También estoy muy interesado en mejorar nuestro sector de la wiki del Club.
+* Me interesa aplicar electrónica en robótica, y la programación de microcontroladores. También estoy muy interesado en mejorar nuestro   sector de la wiki del Club.
 
 '''''Germán Ontivero'''''     gerbonti377@gmail.com
 
 '''''Juan José Pautasso'''''  juanchi_153@hotmail.com
 
 '''''Ezequiel Molina     '''''martinezequielmolina@gmail.com
+
+* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre 
 
 '''''Mariano Alvarez'''''     marianoalvz@gmail.com
 

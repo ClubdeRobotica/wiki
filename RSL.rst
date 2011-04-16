@@ -18,7 +18,7 @@ Hay una [[Lista Grupo RSL]] de las personas q están interesadas en trabajar sob
 
 Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
 
-Para trabajar con el servidor necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
+Para trabajar con el servidor desde Windows, necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
 
 Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias http://pipio.usla.org.ar/. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
 

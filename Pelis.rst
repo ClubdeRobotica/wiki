@@ -30,6 +30,8 @@ Si no es FLASHERA , no va en esta lista :)
  * Fantastic Mr. Fox (stop motion)
 
  * Nausicaa y el valle del viento (Hayao Miyazaki, 1982)
+
+ * Laberinto (Labyrinth)
  
 
 

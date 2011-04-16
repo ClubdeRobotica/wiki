@@ -7,6 +7,12 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 
 El CdR también busca integrar a estudiantes de otras especialidades que quieran introducirse a la electrónica y poder aplicar sus conocimientos en ésta área. 
 
+
+
+== ¿Como participar? ==
+
+ En la sección  [[Contacto|Contacto]] se puede acceder a los distintos medios de comunicación con las personas del CdR. ''' Te esperamos '''
+
 {{{#!wiki note
 * Se lanzó el Proyecto MiniLab!!!
 

@@ -11,7 +11,7 @@ Interacción microcontroladores-humanos mediante la computadora http://processin
 === De uso general ===
 Procesador de texto, planilla de cálculo, diagramas de flujo, etc. http://www.openoffice.org/
 
-Para acceder al sevidor y poder bajar la data del club http://tortoisesvn.net/
+Para acceder al servidor y poder bajar la data del club http://tortoisesvn.net/
 
 == Sitios web de Robótica ==
 ----

@@ -28,7 +28,7 @@
 
 ---> Dónde:  Laboratorio de Técnicas Digitales UTN-FRC (edificio central, planta baja)
 
----> Cuándo: Todos los miércoles de 16hs a 20hs, a partir de Abril de 2011.
+---> Cuándo: Todos los miércoles de 17hs a 19hs, a partir de Abril de 2011.
      
 
      - Miércoles 06 de Abril --> '''Reunión informativa''' (LTD 16hs/20hs);

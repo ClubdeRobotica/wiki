@@ -2,4 +2,5 @@
 
 Dado a que relativamente hace poco nos mudamos de servidor, y no somos más administradores del sistema de control de cambios, estamos en busca del camino más simple y estándar para poder trabajar con el SVN:
 
- 1. 
+ 1. Crearse un usuario en "GOsa" https://gosa.usla.org.ar/ para poder autenticarse en los servicios de USLA
+ 2. 

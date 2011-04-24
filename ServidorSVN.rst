@@ -14,3 +14,9 @@ Dado a que relativamente hace poco nos mudamos de servidor, y no somos más admi
 
 
 Si llegamos a poder generar usuarios que puedan registrarse en GOsa, en teoría con a agregarlos al grupo "devel" en el "track" (eso ya lo tenemos aceitado) estaríamos hechos :)
+
+
+Canal de USLA en IRC:
+
+ * El canal esta alojado en el servidor de FreeNode: irc.freenode.net y se llama #USLA Pueden encontrar info sobre como conectarse aquí http://cdr.usla.org.ar/Contacto
+ * Si prefieren contactarse por mail con "TiN", "dererkazo" o "gacq", escriban por mail a <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>> solictandolo.

@@ -8,7 +8,7 @@ Estamos en busca del camino más simple y estándar para poder trabajar con el S
 ==== PRELIMINAR ====
 
  1. Crearse un usuario en http://drupal.usla.org.ar/user/register para poder autenticarse en "GOsa" https://gosa.usla.org.ar/ y así poder accceder a los servicios de USLA (en nuestro caso "TRACK" http://trac.usla.org.ar/) Por cualquier consulta acceder acá: http://trac.usla.org.ar/usla
- 1. Entrar al canal[1] de USLA en el IRC y contactarse con[2] "TiN", "dererkazo" o "gacq" para que le den los permisos en GOsa.
+ 1. Entrar al canal[1] de USLA en el IRC y contactarse con[2] "TiN", "dererkazo" o "gacq" para que le den los permisos en GOsa. Por lo pronto el sistema NO es autogestionado.
  1. La idea es poder autenticarse acá:  https://trac.usla.org.ar/cdr para así poder subir modificaciones al SVN.
  1. Ver: http://trac.usla.org.ar/meta-trac/wiki/Gu%C3%ADaParaOwners en "Roles y Permisos", el paso clave es "registrar un usuario", allí es donde debemos trabajar!
 

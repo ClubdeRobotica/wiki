@@ -1,4 +1,4 @@
-== Track SVN ==
+== Trac SVN ==
 
 
 === La idea de esta sección es escribir todos los pasos necesarios para que un miembro del CdR pueda subir al Servidor SVN las modificaciones hechas a los archivos de los proyectos ===

@@ -22,7 +22,7 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Implementación del Proyecto ML; Re-Lanzamiento de los Proyectos RSL y VRTD.
+ 1. Implementación del Proyecto ML; Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
 
 '''* Miércoles 27 de Abril''' de 2011, 17hs, Laboratorio de Técnicas Digitales UTN-FRC
 
@@ -34,4 +34,4 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Re-Lanzamiento del Proyecto VRTD; Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011!?
+ 1. Re-Lanzamiento del Proyecto VRTD; Implementación del Proyecto ML (continúan los cursos); Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011!?

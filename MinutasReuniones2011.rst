@@ -1,5 +1,17 @@
 == Histórico de reuniones CdR año 2011: ==
 
+=== Minutas de la reunión del 13 de Abril de 2011 ===
+
+ * Miércoles 13 de Abril de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+Perfiles (resumen):
+
+?? completar !!
+
+Temas (resumen):
+
+?? completar !!
+
 === Minutas de la reunión del 06 de Abril de 2011 ===
 
  * Miércoles 06 de Abril de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC

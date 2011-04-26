@@ -24,8 +24,14 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
  1. Implementación del Proyecto ML; Re-Lanzamiento de los Proyectos RSL y VRTD.
 
-'''* Miércoles 27 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 27 de Abril''' de 2011, 17hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. Lanzamiento del Proyecto RSL; Implementación del Proyecto ML; Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011.
+ 1. Re-Lanzamiento del Proyecto RSL; Implementación del Proyecto ML (continúan los cursos);
+
+'''* Miércoles 04 de Mayo''' de 2011, 17hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario tentativo:''
+
+ 1. Re-Lanzamiento del Proyecto VRTD; Inauguración del Ciclo de Formación 2011 del CdR. Definición de la Comisión Directiva periodo 2011!?

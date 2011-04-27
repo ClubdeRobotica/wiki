@@ -10,10 +10,14 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''''Juan José Pautasso'''''  juanchi_153@hotmail.com
 
-'''''Ezequiel Molina     '''''martinezequielmolina@gmail.com
+'''''Ezequiel Molina     ''''' martinezequielmolina@gmail.com
 
-* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre 
+* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre
 
 '''''Mariano Alvarez'''''     marianoalvz@gmail.com
 
 '''''Lucas Yoaquino'''''      lucas_yoaquino@hotmail.com
+
+'''Marcos Ciceri  '''markitos132@hotmail.com
+
+*

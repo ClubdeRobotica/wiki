@@ -6,7 +6,7 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''''Germán Ontivero'''''     gerbonti377@gmail.com
 
-* Estoy con ganas de aprender a manejar los microcontroladores y casi todas las ramas de electronica aplicables a la robotica, ademas me aprender un poco de mecanica.
+* Estoy con ganas de aprender a manejar los microcontroladores y casi todas las ramas de electronica aplicables a la robotica, ademas me interesa aprender un poco de mecanica.
 
 '''''Juan José Pautasso'''''  juanchi_153@hotmail.com
 

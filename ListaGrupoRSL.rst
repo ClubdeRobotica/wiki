@@ -30,4 +30,4 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''Dario Ochoa'''
 
-'''Leandro Passetti'''
+'''Leandro Passetti''' leandropassetti@gmail.com

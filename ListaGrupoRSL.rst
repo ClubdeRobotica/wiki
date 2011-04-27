@@ -18,6 +18,16 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''''Lucas Yoaquino'''''      lucas_yoaquino@hotmail.com
 
-'''Marcos Ciceri  '''markitos132@hotmail.com
+'''Marcos Ciceri  ''' markitos132@hotmail.com
 
-*
+'''Facundo Rivas'''
+
+'''Gabriel D'Agostino'''
+
+'''Gabriel Infante'''
+
+'''Elias Caceres'''
+
+'''Dario Ochoa'''
+
+'''Leandro Passetti'''

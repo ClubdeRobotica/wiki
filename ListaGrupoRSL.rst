@@ -34,4 +34,6 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''Nicolás Ignacio''' nnico@cdr.usla.org.ar
 
+* Mi interés sobre este proyecto es para aprender a desarrollar la programación de microcontroladores, bajo Software Libre
+
 '''Juan Pablo Maspóns''' juampi_092@hotmail.com

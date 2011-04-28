@@ -10,17 +10,15 @@
 Los que estén interesados en formar parte del proyecto, anoten su nombre y mail en la [[ListaGrupoRSL|Lista del Grupo RSL]]. Es necesario hacerse un usuario en la wiki y pedir permisos de edición.
 
 = Noticias importantes y actividades =
-En estos momentos el grupo RSL no inició actividades correspondientes al año 2011. Todavía no organizamos encontrarnos, aún así estamos preparando material para trabajar este año. Cualquier cosa les avisaremos por mail qué se necesita y las actividades a realizar. Por lo pronto, escriban a gdrake84@gmail.com para informarse o ser parte del grupo.
+* El miércoles 27 de Abril '''iniciamos las actividades del ciclo 2011''' y a partir del 4 de mayo nos reuniremos todos los miércoles en el laboratorio de técnicas digitales de 18 a 20 Hs. Mas adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. Los que no hayan anotado sus horarios envíen un mail a Germán Ontivero (ver mail en la [[ListaGrupoRSL|lista]]) especificando que días están disponibles y con ganas de juntarse.
 
-Recordamos a la gente del club que tienen un '''servidor''' a su disposición en donde dejamos documentos, informes, datos, etc. Para ingresar al servidor, acceder al link http://cdr.usla.org.ar/RedTrabajo  donde se explica paso a paso como conectarse, o en su defecto enviar mail pidiendo ayuda para tener acceso a la información del server.
+* El '''repositorio''' del proyecto está en http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL se puede acceder a todos los archivos desde cualquier browser, pero ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse.
 
-Para trabajar con el servidor desde Windows, necesitan bajar el TortoiseSVN. http://tortoisesvn.net/downloads.html
+* Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias
 
-Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias http://pipio.usla.org.ar/. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá encontrarlos posteando ahí.
+http://pipio.usla.org.ar/. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá podamos encontrarlos posteando ahí.
 
-Actualmente '''necesitamos gente''' que sepa trabajar con WikiSpaces porque tenemos fuertes intenciones de mejorar esta página. Si alguien está interesado, envíe mail al coordinador.
-
-Se les recuerda a la gente del CdR que pueden pedir una copia del '''DVD''' en donde juntamos información muy útil referida a robótica.
+* En las reuniones, '''estamos repartiendo copias del DVD''' que hicimos el año pasado, ahí estan todos los programas y libros que vamos a usar para el desarrollo del RSL. Para acceder a una copia, sólo hay que llevar un DVD virgen.
 
 Recomendamos ver los siguientes [[LinksRecomendadosRSL|links]] y bajar software libre para aprender, experimentar, investigar y realizar proyectos.
 

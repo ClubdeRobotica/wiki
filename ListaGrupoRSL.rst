@@ -10,15 +10,23 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''''Juan José Pautasso'''''  juanchi_153@hotmail.com
 
+* Programación de microcontroladores PIC
+
 '''''Ezequiel Molina     ''''' martinezequielmolina@gmail.com
 
-* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre
+* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre.
+
+'''Nicolás Ignacio''' nnico@cdr.usla.org.ar * Mi interés sobre este proyecto es para aprender a desarrollar la programación de microcontroladores, bajo Software Libre
+
+'''''Marcos Ciceri '' ''' markitos132@hotmail.com
 
 '''''Mariano Alvarez'''''     marianoalvz@gmail.com
 
+*  Estoy interesado en participar del proyecto del seguidor de línea, Ya  sea en la parte de programación de microcontroladores como en el  circuito, además de ayudar en lo que pueda para el club. Y participar de  las charlas que se dicten.
+
 '''''Lucas Yoaquino'''''      lucas_yoaquino@hotmail.com
 
-'''Marcos Ciceri  ''' markitos132@hotmail.com
+* Me gustaría profundizar e incorporarme a este proyecto para aprender cosas nuevas.
 
 '''Facundo Rivas'''
 
@@ -31,9 +39,5 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 '''Dario Ochoa'''
 
 '''Leandro Passetti''' leandropassetti@gmail.com
-
-'''Nicolás Ignacio''' nnico@cdr.usla.org.ar
-
-* Mi interés sobre este proyecto es para aprender a desarrollar la programación de microcontroladores, bajo Software Libre
 
 '''Juan Pablo Maspóns''' juampi_092@hotmail.com

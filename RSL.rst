@@ -9,7 +9,7 @@
 
 '''Delegado'''
 
- * Germán Ontiver <<MailTo(gerbonti377 AT SPAMFREE gmail DOT com)>>
+ * Germán Ontivero <<MailTo(gerbonti377 AT SPAMFREE gmail DOT com)>>
 
 <<BR>>
 

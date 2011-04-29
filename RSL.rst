@@ -9,6 +9,7 @@
 == Delegado ==
  * Germán Ontiver <<MailTo(gerbonti377 AT SPAMFREE gmail DOT com)>>
 
+
  . ''Los que estén interesados en formar parte del proyecto, envien mail al responable o al delegado, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]].
 
 = Noticias importantes y actividades =

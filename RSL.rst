@@ -1,6 +1,5 @@
-
 ~+'''201003-003 Robot Seguidor de Línea '''+~
-<<FullSearch>>
+
 <<TableOfContents()>>
 
 = Equipo =

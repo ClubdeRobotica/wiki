@@ -5,7 +5,7 @@
 ----
 == Hardware ==
  * '''Proveedores Locales'''
- . PicTools  http://www.pictools.com.ar/index.php?route=common/home
+ . !PicTools  http://www.pictools.com.ar/index.php?route=common/home
 
  * '''Empresas internacionales'''
 

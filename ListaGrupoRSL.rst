@@ -12,11 +12,11 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 * Programación de microcontroladores PIC
 
-'''''Ezequiel Molina     ''''' martinezequielmolina@gmail.com
+'''''Ezequiel Molina''''' martinezequielmolina@gmail.com
 
 * Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre.
 
-''''Nicolás Ignacio'''' nnico@cdr.usla.org.ar
+'''''Nicolás Ignacio''''' nnico@cdr.usla.org.ar
 
 * Mi interés sobre este proyecto es para aprender a desarrollar la programación de microcontroladores, bajo Software Libre
 

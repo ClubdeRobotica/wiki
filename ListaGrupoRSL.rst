@@ -16,9 +16,11 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 * Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre.
 
-'''Nicolás Ignacio''' nnico@cdr.usla.org.ar * Mi interés sobre este proyecto es para aprender a desarrollar la programación de microcontroladores, bajo Software Libre
+''''Nicolás Ignacio'''' nnico@cdr.usla.org.ar
 
-'''''Marcos Ciceri '' ''' markitos132@hotmail.com
+* Mi interés sobre este proyecto es para aprender a desarrollar la programación de microcontroladores, bajo Software Libre
+
+'''''Marcos Ciceri ''''' markitos132@hotmail.com
 
 '''''Mariano Alvarez'''''     marianoalvz@gmail.com
 

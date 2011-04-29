@@ -1,15 +1,16 @@
 == Sitios web de Robótica ==
- . Circuitos, sensores, comunicación, motores, drivers, noticias http://robots-argentina.com.ar/ . Competencia Nacional de Robótica http://www.grsbahiablanca.com.ar/compe_2011.htm
+ . Circuitos, sensores, comunicación, motores, drivers, noticias http://robots-argentina.com.ar/
+ . Competencia Nacional de Robótica http://www.grsbahiablanca.com.ar/compe_2011.htm
 
 ----
 == Hardware ==
  * '''Proveedores Locales'''
-
- . PicTools http://www.pictools.com.ar/index.php?route=common/home
+ PicToolshttp://www.pictools.com.ar/index.php?route=common/home
 
  * '''Empresas internacionales'''
 
  . Freescale http://www.freescale.com/webapp/sps/site/overview.jsp?code=ORDER_SAMPLES
+
 ----
 == Software ==
  * '''Electrónica'''
@@ -21,8 +22,6 @@
  * Computación
 
  . Interacción microcontroladores-humanos mediante la computadora http://processing.org/
-
-
 
  * De uso general
 

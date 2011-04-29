@@ -19,11 +19,11 @@
 
  . Armado sobre protoboard y de ahí realiza el PCB http://fritzing.org/  Aclaración: NO hace simulaciones.
 
- * Computación
+ * '''Computación'''
 
  . Interacción microcontroladores-humanos mediante la computadora http://processing.org/
 
- * De uso general
+ * '''De uso general'''
 
  . Procesador de texto, planilla de cálculo, diagramas de flujo, etc. http://www.openoffice.org/
 

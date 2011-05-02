@@ -30,13 +30,13 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 * Me gustaría profundizar e incorporarme a este proyecto para aprender cosas nuevas.
 
+'''Elias Caceres'''
+
 '''Facundo Rivas'''
 
 '''Gabriel D'Agostino'''
 
 '''Gabriel Infante'''
-
-'''Elias Caceres'''
 
 '''Dario Ochoa'''
 

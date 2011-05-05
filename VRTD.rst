@@ -12,6 +12,8 @@
 
 == Desarrolladores ==
 
+LISTA DESACTUALIZADA (AÑO 2010)
+
 === Placa de control ===
  * Luis Vazquez <luigi.utn@gmail.com> -> Placa control V1.1: Software;
  * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;

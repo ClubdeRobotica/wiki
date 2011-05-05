@@ -40,7 +40,7 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. Preparación del lanzamiento del Proyecto VRTD: difusión, tareas, equipo de trabajo; Implementación del Proyecto ML (continúan los cursos);
+ 1. Preparación del lanzamiento del Proyecto VRTD: difusión (email, lista, cartelería, etc..), tareas, equipo de trabajo; Implementación del Proyecto ML (continúan los cursos);
 
 '''* Miércoles 18 de Mayo''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 

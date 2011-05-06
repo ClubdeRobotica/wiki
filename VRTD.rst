@@ -98,7 +98,7 @@ Control autónomo. Telemetría. Sería posible la reprogramación a distancia y 
 
 === Fase 1 ===
 
- 1. Interfaz humana: (tarea distribuida) Indicadores luminosos a bordo del VRTD; Impresión en pantalla en el host remoto.
+ 1. Interfaz humana: (tarea distribuida) Indicadores luminosos a bordo del VRTD: indicación de estado con leds; Impresión en pantalla en el host remoto.
  1. [[GestorEnergiaServicios|Sistema energético]] básico: Diseñar el gestor de energía y servicios (cargador de baterías, protecciones, distribución de energía, reguladores); Indicadores y alarmas; Medir el VRTD para ver cual es la batería más grande que puede entrar (ya hablamos un poco del formato); Seleccionar y comprar las [[baterias|baterías]] en función de la calidad/precio; Diseñar la sujeción mecánica de las baterías.
  1. Poner en marcha el driver de potencia para tracción con el que contamos (propietario): Disipadores y ventilación.
  1. Implementar una transmisión bidireccional Robot<->PC mediante un canal cableado: Armar el cable con los conectores.
@@ -107,6 +107,7 @@ Control autónomo. Telemetría. Sería posible la reprogramación a distancia y 
  1. Desarrollo de la tecnología de software para el control del robot y monitoreo de la sensorística: Escribir un programa para controlar en robot de forma remota con realimentación visual; Imprimir en pantalla periódicamente el estado del robot (tensión de las baterías); Implementar un comando de emergencia que desconecte la etapa de potencia.
  1. Búsqueda de bibliografía y desarrollo del material del curso de robótica.
  1. Hacer Ing. Inversa sobre la plataforma y hacer el plano con software CAD, SL.
+ 1. Documentar placa decontrol: SW y HW.
 
 === Fase 2 ===
 (completar)

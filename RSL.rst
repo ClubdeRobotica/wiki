@@ -12,8 +12,6 @@
 = Noticias importantes y actividades =
 * El miércoles 27 de Abril '''iniciamos las actividades del ciclo 2011''' y a partir del 4 de mayo nos reuniremos todos los miércoles en el laboratorio de técnicas digitales de 18 a 20 Hs. Mas adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. Los que no hayan anotado sus horarios envíen un mail a Germán Ontivero (ver mail en la [[ListaGrupoRSL|lista]]) especificando que días están disponibles y con ganas de juntarse.
 
-'''Miércoles 11 de Mayo: '''mostraremos módulos q sirven para un seguidor de líneas como también para otra clase de robots. Todo lo que pidan, esquemáticos, pcb, se lo vamos a pasar! no se preocupen. También mostraremos aplicaciones de PIC. Vayan haciendo ejercicios usando como guía el archivo http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/software/Introduccion-PIC.odt
-
 '''NEW!''' 29 de abril. Creamos una sección donde pondremos todas las dudas, inquietudes, y sugerencias que nos plantearon. Click en el siguiente link: DudasSugerenciasPedidos
 
 * El '''repositorio''' del proyecto está en http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL se puede acceder a todos los archivos desde cualquier browser, pero ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse.

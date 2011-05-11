@@ -39,9 +39,9 @@
      
      
 
-     - Reunión '''Miércoles 4 de Mayo''' -->'''Herramientas Informáticas de 16 a 18hs''' Archivo descriptivo -->  [[attachment:ML.pdf]]
+     - Reunión 4 de Mayo -->'''Herramientas Informáticas de 16 a 18hs''' Archivo descriptivo -->  [[attachment:ML.pdf]]
 
-     - Reunión ''' 11 de Mayo '''  -->  Primera clase de soldadura e identificación de componentes 
+     - Reunión ''' 11 de Mayo '''  -->  ''' Primera clase de soldadura e identificación de componentes '''
 
  * Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]] (para svn checkout), para navegar las fuentes hacer click [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|acá]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. 
 

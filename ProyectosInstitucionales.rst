@@ -6,9 +6,9 @@ Propuestas de proyectos y sus responsables:
 
 [[MiniLab| Proyecto MiniLab]]: Frank Schefer
 
-[[VRTD| Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
-
 [[RSL| Robot Seguidor de Línea]]: Gustavo M. Spessot
+
+[[VRTD| Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
 
 [[BancoDatos| Banco de Datos]]: CdR
 

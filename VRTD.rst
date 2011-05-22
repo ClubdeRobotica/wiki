@@ -27,8 +27,6 @@
  * Germán Ontivero: etapa de control;
  * Elias;
  * Juán Ignacio;
- * Javier Gohlke;
- * 
 
 2010
  * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;

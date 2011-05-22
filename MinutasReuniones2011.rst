@@ -1,6 +1,42 @@
 == Histórico de reuniones CdR año 2011: ==
 
-=== Minutas de la reunión del 13? de Abril de 2011 ===
+'''* Miércoles 18 de Mayo''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Hoja de Ruta Proyecto RSL; Organización Proyecto VRTD;
+
+'''* Miércoles 11 de Mayo''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Preparación del lanzamiento del Proyecto VRTD: difusión (email, lista, cartelería, etc..), tareas, equipo de trabajo; Implementación del Proyecto ML (continúan los cursos);
+
+'''* Miércoles 04 de Mayo''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Implementación del Proyecto ML (continúan los cursos: herramientas informáticas para electrónica); Inauguración del Ciclo de Formación 2011 del CdR: KiCAD por Martín Ezequiel Molina.
+
+'''* Miércoles 27 de Abril''' de 2011, 17hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Re-Lanzamiento del Proyecto RSL; Implementación del Proyecto ML (continúan los cursos);
+
+'''* Miércoles 20 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Implementación del Proyecto ML; Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
+
+'''* Miércoles 13 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Lanzamiento del Proyecto ML. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
+
+=== Minutas de la reunión del 13 de Abril de 2011 ===
 
  * Miércoles 13 de Abril de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
 
@@ -19,12 +55,6 @@ Perfiles (resumen):
  * Elias: VRTD?
 
  * Leandro Passetti: RSL
-
- * Darío Ochoa: ???
-
-Temas (resumen):
-
-?? completar !!
 
 === Minutas de la reunión del 06 de Abril de 2011 ===
 

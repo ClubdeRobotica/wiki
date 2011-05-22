@@ -12,38 +12,14 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 == Próximas reuniones: ==
 
-'''* Miércoles 13 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 1 de Junio''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. Lanzamiento del Proyecto ML. Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
+ 1. TBD
 
-'''* Miércoles 20 de Abril''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
-
-''Temario tentativo:''
-
- 1. Implementación del Proyecto ML; Tutorial sobre cómo usar la Wiki y el nuevo SVN (track).
-
-'''* Miércoles 27 de Abril''' de 2011, 17hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 8 de Junio''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. Re-Lanzamiento del Proyecto RSL; Implementación del Proyecto ML (continúan los cursos);
-
-'''* Miércoles 04 de Mayo''' de 2011, 16hs, Laboratorio de Técnicas Digitales UTN-FRC
-
-''Temario tentativo:''
-
- 1. Implementación del Proyecto ML (continúan los cursos: herramientas informáticas para electrónica); Inauguración del Ciclo de Formación 2011 del CdR: KiCAD por Martín Ezequiel Molina.
-
-'''* Miércoles 11 de Mayo''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
-
-''Temario tentativo:''
-
- 1. Preparación del lanzamiento del Proyecto VRTD: difusión (email, lista, cartelería, etc..), tareas, equipo de trabajo; Implementación del Proyecto ML (continúan los cursos);
-
-'''* Miércoles 18 de Mayo''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
-
-''Temario tentativo:''
-
- 1. Re-Lanzamiento del Proyecto VRTD; Charla sobre la definición de la Comisión Directiva periodo 2011;
+ 1. TBD

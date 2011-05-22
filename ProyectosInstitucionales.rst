@@ -4,14 +4,13 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[MiniLab| Proyecto MiniLab]]: Frank Schefer
+[[MiniLab| Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
 
 [[RSL| Robot Seguidor de Línea]]: Gustavo M. Spessot
 
 [[VRTD| Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
 
 [[BancoDatos| Banco de Datos]]: CdR
-
 
 
 '''¿Cómo participar?'''

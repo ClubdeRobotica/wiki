@@ -16,10 +16,10 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 ''Temario tentativo:''
 
- 1. TBD
+ 1. Re-Lanzamiento del Proyecto VRTD. Continúa el desarrollo del Proyecto RSL y el Proyecto ML.
 
 '''* Miércoles 8 de Junio''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario tentativo:''
 
- 1. TBD
+ 1. Desarrollo de los Proyectos VRTD, RSL y ML.

@@ -13,20 +13,19 @@
 == Desarrolladores ==
 
 === Placa de control ===
- * Luis Vazquez <<<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>> -> Placa control V1.1: Software;
+ * Luis Vazquez <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 === Driver de potencia ===
- * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>> -> Driver de potencia motores (fase 1);
+ * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 === Sistema energético ===
- * Javier Gohlke <javiergohlke@gmail.com> -> COORDINADOR Sistema energético;
- * Desarrolladores: VACANTE
+ * Javier Gohlke <javiergohlke@gmail.com> -> Coordinador
+ * Juan Ignacio Morales <morales.juan.ignacio@gmail.com>
 
 == Adherentes: a confirmar ==
 2011
  * Germán Ontivero <gerbonti377@gmail.com> -> Etapa de control;
  * Elias Caceres Mendoza <frodoelias@hotmail.com>
- * Juán Ignacio Morales <morales.juan.ignacio@gmail.com>
 
 2010
  * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;

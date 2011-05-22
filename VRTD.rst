@@ -24,9 +24,9 @@
 
 == Adherentes: a confirmar ==
 2011
- * Germán Ontivero: etapa de control;
- * Elias;
- * Juán Ignacio;
+ * Germán Ontivero <gerbonti377@gmail.com> -> Etapa de control;
+ * Elias Caceres Mendoza <frodoelias@hotmail.com>
+ * Juán Ignacio Morales <morales.juan.ignacio@gmail.com>
 
 2010
  * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;

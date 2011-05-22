@@ -12,24 +12,24 @@
 
 == Desarrolladores ==
 
-LISTA DESACTUALIZADA (AÑO 2010)
-
 === Placa de control ===
  * Luis Vazquez <<<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>> -> Placa control V1.1: Software;
- * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;
 
 === Driver de potencia ===
- * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores (fase 1);
+ * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>> -> Driver de potencia motores (fase 1);
 
 === Sistema energético ===
+ * VACANTE
+
+== Adherentes: a confirmar ==
+ * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;
+ * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores (fase 1);
  * Javier Gohlke <javiergohlke@gmail.com> -> COORDINADOR Sistema energético;
  * Guillermo Gómez <guillegomez35@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Gaspar Santamarina <gaspa.92@gmail.com> -> Sistema energético;
  * Jorge Montaño <jorge_jiv@hotmail.com> -> Sistema energético; 
  * Ezequiel Molina <martinezequielmolina@gmail.com> -> Sistema energético;
-
-== Adherentes ==
  * Jeremías Palacios <palacios.jeremias@gmail.com> -> Placa control V1.0: Hardware && Software;
  * Cristhian Mauricio Blas <mauricio_blas@hotmail.com> -> Sistema energético: Cargador de baterías;
 

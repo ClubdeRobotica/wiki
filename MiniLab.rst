@@ -4,11 +4,6 @@
 
 == Responsables del proyecto ==
 
-=== Bibliografía ===
-
- * Frank Schefer <frankdschefer@gmail.com>
- * Guillermo Gómez <guillegomez35@gmail.com>
-
 === Cordinadores ===
 
  * Martin Ezequiel Molina <martinezequielmolina@gmail.com>
@@ -18,6 +13,11 @@
 
  * Ignacio Bevacua <ignacio_bevi@hotmail.com>
  * Nicolas Rey <matrraca@gmail.com>
+
+=== Bibliografía ===
+
+ * Frank Schefer <frankdschefer@gmail.com>
+ * Guillermo Gómez <guillegomez35@gmail.com>
 
 === Adherentes (auxiliares) ===
 

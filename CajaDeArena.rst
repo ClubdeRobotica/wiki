@@ -38,3 +38,5 @@ user@linux:~>gpsmon cdrutnfrc.homelinux.org:2947
 * Una sección dedicada a [[Infraestructura|infraestructura]] y tareas pendientes.
 
 * Una sección dedicada a las [[cdt|charlas de divulgación tecnológica]].
+
+* Establecer un plan de contingencia, con números de teléfono de personas claves (del LTDi, LCE, coordinadores de proyectos, etc...) para informar dado el caso de que los tiempos apremien.

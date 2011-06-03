@@ -13,8 +13,8 @@
 == Desarrolladores ==
 
 === Placa de control ===
- * Luis Vazquez <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
-
+ * Luis Vazquez <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>> -> Coordinador
+ * Andres Gariboglio <<MailTo(andresgariboglio AT SPAMFREE gmail DOT com)>>
 === Driver de potencia ===
  * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 

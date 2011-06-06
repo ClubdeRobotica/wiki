@@ -1,3 +1,4 @@
+## page was renamed from nuevo_contenido
 Formulas para PWM en PIC -- Preeliminar
 
 El ciclo de tiempo sera : (1/clock)*4*t2div*(period+1) period : 0 a 255

@@ -38,7 +38,7 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''Gabriel Infante'''
 
-'''Dario Ochoa'''
+'''Dario Ochoa'''      darioo8@hotmail.com
 
 '''Leandro Passetti''' leandropassetti@cdr.usla.org.ar
 

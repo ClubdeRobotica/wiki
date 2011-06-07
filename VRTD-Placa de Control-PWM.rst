@@ -1,7 +1,14 @@
 ## page was renamed from nuevo_contenido
-Formulas para PWM en PIC -- Preeliminar
+== Formulas para PWM en PIC ==
 
-El ciclo de tiempo sera : (1/clock)*4*t2div*(period+1) period : 0 a 255
+El ciclo de tiempo sera : (1/clock)*4*t2div*(period+1)
+
+period : 0 a 255
+
+Para 4mhz:
+ *(1/4000000)*4*1*(127+1) = 128us o '''7.81 KHz'''
+ *(1/4000000)*4*4*(127+1) = 512us o '''1.95 KHz'''
+ *(1/4000000)*4*16*(127+1)= 2 ms  o '''488.28 Hz'''
 
 PWM period = [(PR2) + 1]*4*TOSC*(TMR2 prescale value)
 

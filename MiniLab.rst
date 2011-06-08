@@ -89,6 +89,8 @@ Se presenta aquí un pequeño resumen del proyecto:
 Cabe aclarar que el CdR simplemente los incentiva a construir el MiniLab. Éste se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB. Así mismo la CEE dicta un curso de Introducción al Laboratorio. El CdR pretende ser un complemento de estas actividades (sin costo alguno)
 }}}
 
+Acá pueden conseguir toda la información para comprar la placa para el MiniLab.
+
 Referencia en la Web: http://www.organizaciones.frc.utn.edu.ar/cee/?pIs=1385
 
 == Inscripción ==

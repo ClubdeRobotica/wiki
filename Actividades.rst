@@ -12,6 +12,7 @@
    1. Llamado público para cubrir el área de coordinación general del CdR (un responsable y dos vocales). 29/03
    1. Lanzamiento del Proyecto MiniLab. 31/03
    1. Re-Lanzamiento del Proyecto RSL.  27/04
+   1. Re-Lanzamiento del Proyecto VRTD  25/05
 
 '''Histórico de Actividades Año 2010:'''
 

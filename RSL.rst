@@ -40,8 +40,8 @@ http://www.youtube.com/watch?v=S72ASR9mcCE&feature=related
 http://www.youtube.com/watch?v=4XiRxNkZleY
 
 = Estado del Proyecto =
-    Actualmente nos encontramos en el diseño y armado de un '''seguidor de líneas basado en PIC'''.
+Actualmente nos encontramos en el diseño y armado de un '''seguidor de líneas basado en PIC'''.
 
-    En el año 2010,  concluimos nuestras experiencias con un '''seguidor de líneas totalmente analógico'''. Aquí el link para que vean el añalisis y desarrollo que hicimos del [[RSL analógico]]. Paralelamente, se dieron clases, charlas, y explicaciones de cómo programar los microcontrolades en lenguaje C, se mostraron simulaciones y también el paso a paso de la programación de PICs. . También terminamos el informe "'''Introducción a la  programación de microcontroladores en lenguaje C'''", con el cual se puede  empezar sin saber algo previamente. Con la idea de facilitar nuestras actividades referidas a robótica, confeccionamos un '''DVD''' donde pueden encontrar información muy útil que les puede servir como ayuda tanto para aprender como para elaborar proyectos.
+En el año 2010,  concluimos nuestras experiencias con un '''seguidor de líneas totalmente analógico'''. Aquí el link para que vean el añalisis y desarrollo que hicimos del [[RSL analógico]]. Paralelamente, se dieron clases, charlas, y explicaciones de cómo programar los microcontrolades en lenguaje C, se mostraron simulaciones y también el paso a paso de la programación de PICs. . También terminamos el informe "'''Introducción a la  programación de microcontroladores en lenguaje C'''", con el cual se puede  empezar sin saber algo previamente. Con la idea de facilitar nuestras actividades referidas a robótica, confeccionamos un '''DVD''' donde pueden encontrar información muy útil que les puede servir como ayuda tanto para aprender como para elaborar proyectos.
 
-    Actualmente, estamos armando una plataforma de hardware que nos sirva para experimentación con microcontroladores PIC, el estado del proyecto se puede ver en la página de  [[PLACAPIC_RSL|PLACA PIC]].
+Actualmente, estamos armando una plataforma de hardware que nos sirva para experimentación con microcontroladores PIC, el estado del proyecto se puede ver en la página de  [[PLACAPIC_RSL|PLACA PIC]].

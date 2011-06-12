@@ -1,4 +1,3 @@
-= Hardware =
 = Consideraciones Previas =
 Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable mediante el uso de PICs que nos sirva para participar en la competencia organizada por el GRS de la facultad Bahia Blanca. Algunas cosas a tener en cuenta a la hora de diseñar tanto el hardware como el software son las siguientes:
 
@@ -6,9 +5,11 @@ Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable 
  * '''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro
  * '''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar.
 
+{{attachment:rsldisenio.jpg}}
 
 
-= Desarrollo del Proyecto =
+
+= Hardware del Proyecto =
 Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
 
 === Sensores ===

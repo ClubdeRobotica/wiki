@@ -29,7 +29,6 @@
 
 2010
  * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;
- * Martin Ezequiel Molina <martinezequielmolina@gmail.com> -> Driver de potencia motores (fase 1);
  * Guillermo Gómez <guillegomez35@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
  * Gaspar Santamarina <gaspa.92@gmail.com> -> Sistema energético;

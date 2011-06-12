@@ -4,8 +4,11 @@ Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable 
  * '''Dimensiones''': el robot completo no puede superar 20 cm de largo, 12 de ancho y 10 de alto
  * '''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro
  * '''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar.
+ *
 
-{{attachment:diseño.jpg|diseño.jpg}}
+{{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=disenio.jpg}}
+
+----
 
 = Hardware del Proyecto =
 Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
@@ -17,8 +20,6 @@ Se pueden ver sus datos de funcionamiento en la [[http://www.micropik.com/pdf/cn
 
 El PCB que vamos a usar es el que se ve en la siguiente figura, es sólo a modo ilustrativo y se puede dibujar directamente sobre la placa, sólo hay que tener cuidado de que la distancia entre las caras externas de los sensores sea de 1,5 cm, para que no nos quede por afuera de la linea. Los valores de R1 y R2 son  220 y 10K respectivamente, ya que esta parte del circuito no va a cambiar en ninguna de las fases del proyecto. El punto negro al lado de los sensores indica que de ese lado está el area marcada del sensor.
 
-{{attachment:sensor.jpg}}
-
-Si alguien no tiene idea de hacer una plaqueta de circuito impreso y esta interesado en aprender, se puede poner en contacto con cualquiera de los responsables y hacemos una especie de tutorial, es bastante simple, pero nadie nace sabiendo y la idea del cdr es aprender
+{{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=sensores.jpg||height="209px",width="360px"}}
 
 ----

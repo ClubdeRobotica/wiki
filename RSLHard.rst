@@ -1,3 +1,6 @@
+
+<<TableOfContents()>>
+
 = Consideraciones Previas =
 Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable mediante el uso de PICs que nos sirva para participar en la competencia organizada por el GRS de la facultad Bahia Blanca. Algunas cosas a tener en cuenta a la hora de diseñar tanto el hardware como el software son las siguientes:
 

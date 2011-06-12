@@ -5,6 +5,10 @@ Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable 
  * '''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro
  * '''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar.
 
+{{attachment:rsldisenio.jpg}}
+
+
+
 = Hardware del Proyecto =
 Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
 

@@ -170,7 +170,8 @@ Cómo saben, el CdR adhiere al movimiento de SL, utiliza la plataforma GNU/Linux
  * '''qucs:''' simulación de circuitos electrónicos.
  * xv: visor múltiple de imágenes.
  * geda: edición de circ. y creación de netlist, y pcb.
-
+ * SDCC: compilador libre, de C, para microcontroladores
+ * '''i4uc''' : IDE multiplataforma para el desarrollo del firmware de microcontroladores
 Si necesitan ayuda, contamos con 100% de apoyo de SLUC para todo lo que tenga que ver con SL. [[http://www.sluc.org.ar/|SLUC]] organiza reuniones periódicas para instalar Linux y estas herramientas. También dan soporte. Si alguien necesita ayuda póngase en contacto con ellos.
 
 

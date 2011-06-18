@@ -6,7 +6,8 @@ Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable 
  * '''Dimensiones''': el robot completo no puede superar 20 cm de largo, 12 de ancho y 10 de alto
  * '''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro
  * '''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar.
- *
+
+
 
 {{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=disenio.jpg}}
 

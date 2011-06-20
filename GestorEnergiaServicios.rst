@@ -14,16 +14,25 @@ Algunas características del sistema energético del VRTD deberían ser: alto re
 Batería/s + fuente lineal:
 
  * fuente primaria (entrada): de 9[v] a 14[V], ~7Ah
- * fuente secundaria #1 (salida): 5[V] @ pot>5[W] (Imáx>1[A])
- * fuente secundaria #2 (salida): 5[V] @ pot>2.5[W] (Imáx>1[A])
+ * fuente secundaria #1 (salida): 5[V] @ pot>5[W] (Imáx>1[A]) (nominal)
+ * fuente secundaria #2 (salida): 5[V] @ pot>2.5[W] (Imáx>1[A]) (redundante)
 
----> Fase 2 y 3:
+---> Fase 2:
 
 Batería/s + fuente conmutada (driver potencia, interfaces), fuente lineal (uControlador):
 
  * fuente primaria (entrada): de 9[v] a 14[V], ~7Ah
- * fuente secundaria #1 (salida): 5[V] @ pot>10[W] (Imáx>2[A])
- * fuente secundaria #1 (salida): 5[V] @ pot>5[W] (Imáx>2[A])
+ * fuente secundaria #1 (salida): 5[V] @ pot>10[W] (Imáx>2[A]) (nominal)
+ * fuente secundaria #1 (salida): 5[V] @ pot>5[W] (Imáx>2[A]) (redundante)
+
+---> Fase 3:
+
+Batería/s + fuente conmutada + monitor de sistema microcontrolado:
+
+ * fuente primaria (entrada): de 9[v] a 14[V], ~7Ah
+ * fuente secundaria #1 (salida): 5[V] @ pot>10[W] (Imáx>2[A]) (nominal)
+ * fuente secundaria #1 (salida): 5[V] @ pot>5[W] (Imáx>2[A]) (redundante)
+ * gestor de energía y monitor de sistema microcontrolado. 
 
 Común a todas las fases: Diseñar los conductores/conectores de potencia para que soporten 4[A] @ 5[V] y 14[A] @ 12[V]
 

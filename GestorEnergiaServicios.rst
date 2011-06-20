@@ -29,7 +29,7 @@ Común a todas las fases: Diseñar los conductores/conectores de potencia para q
 
 '''Tips para el diseño:'''
 
-- Baterías;
+- [[baterias|Baterías]];
 
 - Protección;
 

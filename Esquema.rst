@@ -6,8 +6,8 @@ Realizando el mismo análisis de potencia para el regulador LM7805, se concluye 
 
 Debido al bajo rendimiento de esta fuente lineal (42%), se vuelve indispensable la utilización de una fuente conmutada en las sucesivas mejoras del proyecto.
 
-'''__Circuito de protección contra sobrecorriente__'''
-
-{{attachment:Protección sobre corriente.jpg}}
+'''__Circuito de protección contra sobrecorrient__''' {{attachment:Proteccion sobrecorriente.jpg}}
 
 El circuito de la figura se compone de un amplificador operacional dual LM358, un SCR (MCR100 o similar), transistor PNP de baja potencia y un relé inversor (representado por J1 en la figura). Cuando por la resistencia sensora R2 (0.05ohm) circula una corriente de 2A, se genera una caída de tensión de 0.1V. Esta tensión es amplificado por el primer AO configurado como amplificador inversor con una ganancia de 48 (1+ 470k/10k). El segundo AO se configura como comparador, donde la entrada positiva es la salida del AO anterior y a la entrada negativa se regula una tensión de aproximadamente 4.8V con un potenciómetro. Cuando la salida del comparador es positiva (se calibra para la corriente deseada sobre R sensora) se dispara el SCR y el transistor conduce. El relé inversor se activará y se interrumpirá la alimentación del circuito regulador, indicandose el estado de sobrecorriente mediante un led. Para reestablecer el circuito, se presiona el pulsador NC de la base del transistor y el SCR se desengancha. Si la corriente del circuito principal sigue siendo excesiva, se activará nuevamente la protección y asi sucesivamente.
+
+La conexión del rele inversor es la siguiente:

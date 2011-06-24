@@ -14,4 +14,4 @@ La conexión del rele inversor es la siguiente:
 
 {{attachment:Rele.jpg}}
 
-Donde R12 y el Led correspondiente equivalen a R4 y el led verde del primer circuito. El fusible sirve de protección ante transitorios rápidos y puede ser de 3A.
+Donde R12 y el Led correspondiente equivalen a R4 y el led verde del primer circuito. El fusible sirve de protección ante transitorios rápidos y puede ser de 3A. El relé debería ser del tipo SPDT, de unos 3A y 12V/6V para la bobina.

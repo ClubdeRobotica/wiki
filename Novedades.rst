@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
----> '''Desde el 30/07/2011 el servidor http://cdrutnfrc.linuxsecured.net cambia su URL a http://cdrutnfrc.linuxsecured.net/''' ''30/07/2011''
+---> '''Desde el 30/07/2011 el servidor http://cdrutnfrc.homelinux.org/ cambia su URL a http://cdrutnfrc.linuxsecured.net/''' ''30/07/2011''
 ------------------------------------------------------------------------
 ---> '''Desde el 31 Marzo de 2011 adoptamos a [[http://pipio.usla.org.ar/|Pipio!]] (servicio de microblogueo)  '''  ''31/03/2011''
 ------------------------------------------------------------------------

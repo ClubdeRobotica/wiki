@@ -36,11 +36,11 @@ Se podrá acceder al LabRemoto por SSH para hacer ensayos en Linux (hacer práct
 
 Para comprobar la disponibilidad del servidor del LabRemoto ejecutar en una consola:
 {{{
-ping cdrutnfrc.homelinux.org
+ping cdrutnfrc.linuxsecured.net
 }}}
 Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del LabRemoto del CdR.
 
-La dirección del LabRemoto es: http://cdrutnfrc.homelinux.org/LabRemoto/ *** El LabRemoto se encuentra actualmente offline *** 
+La dirección del LabRemoto es: http://cdrutnfrc.linuxsecured.net/LabRemoto/ *** El LabRemoto se encuentra actualmente offline *** 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 
@@ -117,7 +117,7 @@ Desde Linux:
  * Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con [[http://sluc.org.ar|SLUC]])
  * Desde cualquier consola mediante el comando ''ssh'', por ejemplo:
 {{{
-usr@linux:~>ssh -p puerto usr@cdrutnfrc.homelinux.org
+usr@linux:~>ssh -p puerto usr@cdrutnfrc.linuxsecured.net
 }}}
 El servidor les preguntará su ''psw''.
 
@@ -129,7 +129,7 @@ Desde Win$:
 
 2º Ejecutan el programa putty.exe y configuran el número de puerto y la dirección del servidor:
 
-servidor: cdrutnfrc.homelinux.org
+servidor: cdrutnfrc.linuxsecured.net
 
 puerto: *(consultar puerto)
 

@@ -15,7 +15,7 @@ Por lo pronto contamos con una WebCam y un GPS en línea (a modo experimental). 
 
 ==== Link a las señales ====
 
-http://cdrutnfrc.homelinux.org/index-cam.html
+http://cdrutnfrc.linuxsecured.net/index-cam.html
 
 *** El servidor del LabRemoto se encuentra offline ***
 

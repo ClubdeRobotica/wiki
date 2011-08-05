@@ -1,5 +1,18 @@
 == Histórico de reuniones CdR año 2011: ==
 
+'''* Miercoles 22 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Tecnicas Digitales UTN-FRC
+''Temario:'' 
+
+ 1. Desarrollo del Proyecto ML.
+ 1. Desarrollo del Proyecto RSL y el Proyecto VRTD.
+
+'''* Miércoles 15 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+ 1. Desarrollo del Proyecto ML.
+ 1. Desarrollo del Proyecto RSL y el Proyecto VRTD.
+
 '''* Miércoles 18 de Mayo''' de 2011, 18:15hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario:''

@@ -39,4 +39,6 @@ Estos datos pueden variar segun el estado del motor, si estan sucios su consumo 
 
 {{http://www.electronicaestudio.com/i/f/c6060.jpg}}
 
+Para calcular la reducción de velocidades al usar engranajes se usa la formula: N·Z = n·z donde N y Z son la velocidad (en rpm) y la cantidad de engranajes del piñón, n y z son los mismos datos pero del siguiente engranaje, es decir, la velocidad del segundo engranaje sera: n = (N·Z)/z, si el piñón está conectado al eje central del motor N será la velocidad del motor.
+
 ----

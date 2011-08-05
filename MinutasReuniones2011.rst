@@ -1,6 +1,7 @@
 == Histórico de reuniones CdR año 2011: ==
 
 '''* Miercoles 22 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Tecnicas Digitales UTN-FRC
+
 ''Temario:'' 
 
  1. Desarrollo del Proyecto ML.

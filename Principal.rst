@@ -14,9 +14,9 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
  En la sección  [[Contacto|Contacto]] se puede acceder a los distintos medios de comunicación con las personas del CdR. ''' Te esperamos '''
 
 {{{#!wiki note
-* Se lanzó el Proyecto MiniLab!!!
+Pasadas las "vacaciones" de invierno... ARRANCAMOS !
+----> Reunión: Miércoles 10 de Agosto. 18hs, en el Laboratorio de Técnicas Digitales (LTD)!
 
-http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab
 }}}
 
 [[Bienvenida|Palabras de bienvenida]] |

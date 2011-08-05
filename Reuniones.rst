@@ -12,15 +12,12 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, poster
 
 == Próximas reuniones: ==
 
-'''* Miércoles 15 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Técnicas Digitales UTN-FRC
+'''* Miércoles 10 de Junio''' de 2011, 18hs a 20hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario:''
 
- 1. Desarrollo del Proyecto ML a las 16hs.
- 1. Desarrollo del Proyecto RSL y el Proyecto VRTD a las 18:15hs
+ 1. Reinicio actividades CdR
 
-'''* Miercoles 22 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Tecnicas Digitales UTN-FRC
-''Temario:'' 
+'''* Sábado 13 de Agosto''' a partir de las 20hs
 
- 1. Desarrollo del Proyecto ML a las 16hs.
- 1. Desarrollo del Proyecto RSL y el Proyecto VRTD a las 18:15hs
+''Reunión social!!!'' 

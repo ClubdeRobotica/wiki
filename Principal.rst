@@ -15,7 +15,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 {{{#!wiki note
 Pasadas las "vacaciones" de invierno... ARRANCAMOS !
-----> Reunión: Miércoles 10 de Agosto. 18hs, en el Laboratorio de Técnicas Digitales (LTD)!
+----> '''Reunión: Miércoles 10 de Agosto. 18hs, en el Laboratorio de Técnicas Digitales (LTD)!'''
 
 }}}
 

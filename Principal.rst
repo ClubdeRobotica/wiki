@@ -17,7 +17,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 ''' Próxima semana ultima reunión del Proyecto MiniLab '''
 
-Proximo Objetivo Competencia enBahía Blanca: [[Bahía Blanca |http://www.grsbahiablanca.com.ar/compe_2011.htm]]
+''' Objetivo para Noviembre: ''' : [[Bahía Blanca |Competencia Bahía Blanca]]
 
 }}}
 

@@ -1,6 +1,24 @@
 == Histórico de reuniones CdR año 2011: ==
 
-'''* Miercoles 22 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Tecnicas Digitales UTN-FRC
+
+'''* Miércoles 17 de agosto''' de 2011, 16hs a 20hs, laboratorio de Técnicas Digitales UTN-FRC
+
+''Temario:''
+
+16hs a 18hs:
+		1. Ultima etapa de armado del Minilab y una explicación del funcionamiento.
+
+18hs a 20hs:
+
+		1. Unificación de los proyectos y la gente sobre el RSL.
+		2. Temas para las charlas informativas:
+                                                       *Sensores (distintos tipos de variedades).
+                                                       *Fuentes Conmutadas.
+                                                       *Motores Paso a Paso.
+		3. Pre-armado de los grupos para el RSL. Cualquier interesado en ingresar a algún grupo fijese en la lista de los grupos y según su disponibilidad horaria puede unirse a alguno.
+
+
+'''* Miercoles 22 de Junio''' de 2011, 16hs a 20hs, Laboratorio de Técnicas Digitales UTN-FRC
 
 ''Temario:'' 
 

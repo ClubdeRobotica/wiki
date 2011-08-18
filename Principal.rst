@@ -14,8 +14,8 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
  En la sección  [[Contacto|Contacto]] se puede acceder a los distintos medios de comunicación con las personas del CdR. ''' Te esperamos '''
 
 {{{#!wiki note
-Pasadas las "vacaciones" de invierno... ARRANCAMOS !
-----> '''Reunión: Miércoles 10 de Agosto. 18hs, en el Laboratorio de Técnicas Digitales (LTD)!'''
+
+''' Próxima semana ultima reunión del Proyecto MiniLab '''
 
 }}}
 

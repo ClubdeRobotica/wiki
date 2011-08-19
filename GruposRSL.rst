@@ -1,44 +1,40 @@
-= Grupos para continuar con el proyecto del Robot Seguidor de Línea. =
+= Grupos para continuar con el proyecto del Robot Seguidor de Linea. =
+'''Grupo N.'''
 
-'''Grupo N.1. '''[[Atila]]
+ . Integrantes (Disponibilidad horaria).
+
+'''Grupo N.1.'''
+
+ . '''  '''Gustavo Spessot.
 
  . Germán Ontivero.
 
  . Marcos Ciceri.
 
+'''Grupo N.2.'''
+
  . Luis Vazquez.
 
- . Gustavo Spessot.
+ . Andres Gariboglio.
 
-'''Grupo N.2.''' [[Choique]]
+ . Silvio ..
 
- . Marco AR.
+ . Leandro Passetti.
 
-'''Grupo N.3.''' [[Bourbaki]]
+'''Grupo N.3.'''
 
  . Ezequiel Molina.
 
- . Nicolás Ignacio.
+ . Nicolas Ignacio.
 
- 
-'''Grupo N.4.''' [[Kirjava]]
+'''Grupo N.4.'''
 
-  . Dario Ochoa.
+ . ''' '''  Lucas Yoaquino.
 
- 
-'''Grupo N.5.''' [[eHermes]]
+ . Elias Caceres.
 
- . Franco Becutti.
+ . Dario Ochoa.
 
- . Hernan Paez.
+ . Mariano Alvarez.
 
-'''Grupo N.6.''' [[MatiasX]]
- 
- . Matias Orozco
-----
-
-Aquellos que quieran unirse a algún grupo en particular, escriban a sus responsables para coordinar.
-
-
-----
-[[RSL|Volver]]
+Agregen su disponibilidad horaria. Aquellos que quieran unirse habalar con el grupo que quieran para coordinar.

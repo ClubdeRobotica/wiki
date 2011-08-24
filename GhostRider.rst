@@ -1,2 +1,2 @@
 Robot seguidor de linea digital.
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:gost.jg||width=250}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:gost.jpg||width=250}} ||

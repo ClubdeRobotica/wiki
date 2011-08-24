@@ -1,2 +1,2 @@
-Robot seguidor de linea digital.
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:gost.jpg||width=250}} ||
+Escribe acerca de GhostRider aquí.
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:ghost.jpg||width=250}} ||

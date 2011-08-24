@@ -11,13 +11,13 @@
 
  . Marcos Ciceri.
 
-'''Grupo N.2.'''
+'''Grupo N.2.''' [[Choique|Choique]]
 
  . Luis Vazquez.
 
  . Andres Gariboglio.
 
- . Silvio ..
+ . Silvio Bustamante.
 
  . Leandro Passetti.
 

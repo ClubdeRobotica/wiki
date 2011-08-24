@@ -4,5 +4,7 @@ Grupo de desarrollo del RSL "Choique"
 
 
 Sensor: CNY70
+
 Controlador: ucPIC
+
 Driver: Puente H

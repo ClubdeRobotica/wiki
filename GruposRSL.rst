@@ -29,7 +29,7 @@
 
  . Nicolas Ignacio.
 
-'''Grupo N.4.'''
+'''Grupo N.4.''' [[Ghost Rider|Ghost Rider]]
 
  . ''' '''  Lucas Yoaquino.
 

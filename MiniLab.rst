@@ -52,6 +52,8 @@
      - Reunión  29 de Junio   -->  ''' Ultima reunión de la primera etapa : Sin concurrencia .'''
 
      - Reunión  17 de Agosto  -->  ''' Finalización armado de placa Ml.'''
+    
+     - Reunión  26 de Agosto  -->  ''' Finalización Proyecto MiniLab .'''
 
  * Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]] (para svn checkout), para navegar las fuentes hacer click [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|acá]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. 
 
@@ -115,7 +117,9 @@ Si te interesa participar como expositor o ayudar en las clases de laboratorio, 
 
  - Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
-* La inscripción se encuentra abierta todo el año.
+{{{#!wiki note 
+'''El día viernes 26 de Agosto de 2011, se da por concluido el Proyecto MiniLab, el cual tuvo una concurrencia aceptable y se lograron realizar todas las tareas -arriba- mencionadas.'''
+}}}
 
 '''Gráfica para el lanzamiento y difusión del Proy. ML: [[LanzamientoProyML]]'''
 

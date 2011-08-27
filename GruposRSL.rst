@@ -7,7 +7,7 @@
 
  . '''  '''Gustavo Spessot.
 
- . Germán Ontivero. (Viernes todo el día)
+ . Germán Ontivero.
 
  . Marcos Ciceri.
 

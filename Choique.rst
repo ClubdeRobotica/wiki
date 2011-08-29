@@ -8,3 +8,7 @@ Sensor: CNY70
 Controlador: ucPIC
 
 Driver: Puente H
+
+
+
+Se pueden utilizar las cajas reductoras de los autitos comerciales, no hay ningun drama afirman los organizadores de la competencia de bahia blanca.

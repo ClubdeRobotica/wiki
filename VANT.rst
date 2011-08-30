@@ -178,7 +178,7 @@ http://es.wikipedia.org/wiki/MIL-STD-1553
 {{{
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 }}}
-Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. Actualmente contamos con una WebCam y un GPS en línea. Próximamente agregaremos actuadores.
+Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. Actualmente contamos con una [[WebCam|http://cdrutnfrc.linuxsecured.net/index-cam.html]] y un GPS en línea. Próximamente agregaremos actuadores.
 
 
 '''Comunicación con GPS:'''

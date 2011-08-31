@@ -23,6 +23,8 @@
 
  . Marco Alvarez Reyna.
 
+ . Juan Ignacio Morales.
+
 '''Grupo N.3.'''
 
  . Ezequiel Molina.

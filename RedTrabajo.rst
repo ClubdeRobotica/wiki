@@ -44,7 +44,7 @@ ping cdrutnfrc.linuxsecured.net
 }}}
 Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del LabRemoto del CdR.
 
-La dirección del LabRemoto es: http://cdrutnfrc.linuxsecured.net/index-cam.html *** El LabRemoto se encuentra actualmente offline *** 
+La dirección del LabRemoto es: http://cdrutnfrc.linuxsecured.net/index-cam.html *** El LabRemoto se encuentra actualmente online de 8hs a 18hs, si llegase a estar ofline, y quieren accederlo, envien un correo al administrador para ponerlo en línea. *** 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 

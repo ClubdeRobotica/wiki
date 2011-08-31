@@ -19,14 +19,18 @@ El servidor SVN se utiliza para versionado (control de versiones[0][5]) de los a
 Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
 
 Para comprobar la disponibilidad del servidor SVN ejecutar en una consola:
+
+--(ping trac.usla.org.ar)--
+
 {{{
-ping trac.usla.org.ar
+ping cdrutnfrc.linuxsecured.net
 }}}
+
 Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña.
 
-Dirección del servidor para checkout: http://trac.usla.org.ar/svn/cdr/trunk/
+Dirección del servidor para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal --(http://trac.usla.org.ar/svn/cdr/trunk/)--
 
-Para navegar por el repositorio: http://trac.usla.org.ar/cdr/browser/trunk/
+Para navegar por el repositorio (sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/
 
 El mismo se encuentra en servicio continuo.
 
@@ -57,8 +61,9 @@ usr@linux:~>cd Proyectos
 usr@linux:~/Proyectos>mkdir CdR
 }}}
  * Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
+--(usr@linux:~/Proyectos>svn checkout http://trac.usla.org.ar/svn/cdr/trunk ./CdR)--
 {{{
-usr@linux:~/Proyectos>svn checkout http://trac.usla.org.ar/svn/cdr/trunk ./CdR
+usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR
 }}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
  * Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
@@ -71,7 +76,7 @@ Desde Win$:
 
 1º Instalar TortoiseSVN[4] y Firefox (versión >= 3.6.10)
 
-2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: http://trac.usla.org.ar/svn/cdr/trunk/ y el directorio donde vamos a bajar la copia local (working copy)
+2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk --(http://trac.usla.org.ar/svn/cdr/trunk/)-- y el directorio donde vamos a bajar la copia local (working copy)
 
 3º La descarga puede tardar varios minutos (aprox. 30 min. para el primer CO, luego para actualizar o confirmar, los tiempos son mucho menores)
 

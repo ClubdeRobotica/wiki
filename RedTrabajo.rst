@@ -5,8 +5,8 @@ La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
 
  * La wiki del CdR.
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
- * El Servidor SVN del CdR.
- * El Servidor SSH y HTTP del Laboratorio Remoto.
+ * El Servidor principal SVN del CdR y su [[http://trac.usla.org.ar/cdr/browser/trunk/|mirror]].
+ * El Servidor SSH y HTTP del [[http://cdrutnfrc.linuxsecured.net/index-cam.html|Laboratorio Remoto]].
 
 === Servidores del CdR ===
 
@@ -26,13 +26,11 @@ Para comprobar la disponibilidad del servidor SVN ejecutar en una consola:
 ping cdrutnfrc.linuxsecured.net
 }}}
 
-Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña.
+Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña. Estos datos deberán ser solicitados por correo electrónico al administrador.
 
 Dirección del servidor para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal --( http://trac.usla.org.ar/svn/cdr/trunk/ )--
 
-Para navegar por el repositorio (sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/
-
-El mismo se encuentra en servicio continuo.
+Para navegar por el repositorio (mirror, sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/ El mismo se encuentra en servicio continuo.
 
 ==== SSH y HTTP ====
 
@@ -44,7 +42,7 @@ ping cdrutnfrc.linuxsecured.net
 }}}
 Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del LabRemoto del CdR.
 
-La dirección del LabRemoto es: http://cdrutnfrc.linuxsecured.net/index-cam.html *** El LabRemoto se encuentra actualmente online de 8hs a 18hs, si llegase a estar ofline, y quieren accederlo, envien un correo al administrador para ponerlo en línea. *** 
+La dirección del LabRemoto es: http://cdrutnfrc.linuxsecured.net/index-cam.html *** El LabRemoto se encuentra actualmente online de 8hs a 18hs, si llegase a estar ofline, y quieren accederlo, envien un correo al administrador para ponerlo en línea, o utilizarlo fuera de horario. *** 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 

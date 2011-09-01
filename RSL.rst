@@ -14,7 +14,7 @@
 
 '''NEW!''' 29 de abril. Creamos una sección donde pondremos todas las dudas, inquietudes, y sugerencias que nos plantearon. Click en el siguiente link: DudasSugerenciasPedidos
 
-* El '''repositorio''' del proyecto está en http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL se puede acceder a todos los archivos desde cualquier browser, pero ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse.
+* El '''repositorio''' del proyecto está en svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk Si sólo se quiere navegar por los archivos se puede acceder al mirror de sólo lectura: http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL (se puede acceder a todos los archivos desde cualquier browser), pero ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
 
 * Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias
 

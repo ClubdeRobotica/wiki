@@ -15,9 +15,9 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 {{{#!wiki note
 
-''' Próxima semana ultima reunión del Proyecto MiniLab '''
+''' Concluyò el Proyecto MiniLab edición 2011!!! Felicitaciones a todos sus integrantes!!! '''
 
-''' Objetivo para Noviembre: ''' [[BahiaBlanca|Competencia Bahía Blanca]]
+''' Objetivo para Noviembre de 2011: ''' [[BahiaBlanca|Competencia Bahía Blanca]]
 
 }}}
 

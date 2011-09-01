@@ -55,7 +55,7 @@
     
      - Reunión  26 de Agosto  -->  ''' Finalización Proyecto MiniLab .'''
 
- * Los documentos principales de este proyecto se encuentran en el [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|servidor del club]] (para svn checkout), para navegar las fuentes hacer click [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|acá]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. 
+ * Los documentos principales de este proyecto se encuentran en el servidor SVN del club: svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk (URL para checkout), para navegar las fuentes (mirror sólo lectura) hacer click [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|acá]]. Al final de cada reunión se hará una pequeña demostración con hardware representativo de lo visto en el día. 
 
 ----
 

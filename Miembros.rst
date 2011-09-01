@@ -20,9 +20,13 @@ Para solicitar una membresía en el CdR deben escribir a la [[Contacto|direcció
 
 3º Se le asignará un número único de socio (** no implementado aún **). Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña para ingresar al servidor del LabRemoto del CdR. En el servidor se podrán hacer ensayos en Linux (compilar, correr programas). También se les dará permiso de edición para trabajar con el servidor SVN (control de cambios y revisiones)
 
-Dirección del servidor SVN: http://trac.usla.org.ar/svn/cdr/trunk/ Se encuentra en servicio continuo gracias al aporte de USLA.
+--( Dirección del servidor SVN: http://trac.usla.org.ar/svn/cdr/trunk/ Se encuentra en servicio continuo gracias al aporte de USLA. )--
 
-Una copia de sólo lectura del Proyecto CdR se puede bajar ejecutando desde una consola de Linux: "svn checkout http://trac.usla.org.ar/svn/cdr/trunk ./CdR"
+Servidor SVN: Ejecutando el siguiente comando desde una consola se baja todo el proyecto a la máquina local:
+
+svn co svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR
+
+Una copia de sólo lectura del Proyecto CdR se puede ver en el mirror: http://trac.usla.org.ar/cdr/browser/trunk/
 
 4º Información sobre las herramientas básicas, tanto materiales como intelectuales. Instrumental y herramientas recomendadas, material bibliográfico para la iniciación en la electrónica. Software: SO, filosofía del CdR (SL), programas recomendados, etc...
 

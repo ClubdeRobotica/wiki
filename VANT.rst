@@ -183,7 +183,7 @@ Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiem
 
 '''Comunicación con GPS:'''
 
-Software disponible en el Servidor SVN del CdR (versión alpha):
+Software disponible en el Servidor SVN del CdR (mirror de solo lectura, versión alpha):
 
 http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/
 
@@ -196,7 +196,7 @@ https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
 '''Servidor SVN del CdR:''' (accediendo a la rama troncal)
 
-http://trac.usla.org.ar/svn/cdr/trunk/
+svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk
 
 '''Definiciones lenguaje aeronáutico:'''
 
@@ -218,7 +218,7 @@ http://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis
 
 '''Agradecimientos:'''
 
-Logo: J.A.S.
+Logo: J.A.S., P.M.C.
 
 '''¿Cómo participar?'''
 

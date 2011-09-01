@@ -2,4 +2,4 @@
 
 [[PreguntasFrecuentes|Preguntas frecuentes]]
 
-[[ServidorSVN|Servidor SVN]] <----- Sitio no válido por el momento!
+[[ServidorSVN|Servidor SVN]] * Sitio no válido por el momento *

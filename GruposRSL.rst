@@ -3,7 +3,7 @@
 
  . Integrantes (Disponibilidad horaria).
 
-'''Grupo N.1.'''
+'''Grupo N.1. '''[[Atila]]
 
  . '''  '''Gustavo Spessot.
 
@@ -11,7 +11,7 @@
 
  . Marcos Ciceri.
 
-'''Grupo N.2.''' [[Choique|Choique]]
+'''Grupo N.2.''' [[Choique]]
 
  . Luis Vazquez.
 
@@ -31,7 +31,7 @@
 
  . Nicolas Ignacio.
 
-'''Grupo N.4.''' [[GhostRider|GhostRider]]
+'''Grupo N.4.''' GhostRider
 
  . ''' '''  Lucas Yoaquino.
 

@@ -183,6 +183,6 @@ Temas conversados (resumen):
 ---> Decidimos poner foco en el Proyecto ML: (hay que corregir esta documentación para usarla como material para el curso)
 
 http://cdr.usla.org.ar/MiniLab
-http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/
+http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab/
 
 Necesitamos voluntarios para dar las charlas y llevar las reuniones junto a Nico e Ignacio, y también algún interesado en hacer experiencia en coordinación para este proyecto.

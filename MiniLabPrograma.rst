@@ -1,7 +1,7 @@
 = Programa Preliminar =
 Si bien el Proyecto MiniLab está orientado a las prácticas de laboratorio y a la construcción del MiniLab, como parte del mismo se dictará un curso básico de introducción a la electrónica, dirigido tanto a estudiantes que no cursan ingeniería electrónica como a estudiantes de ingeniería electrónica de los primeros años (1ro a 3er año)
 
-La [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/MiniLab/|bibliografía]] básica para el curso ya esta editada. Estamos en fase de revisión y composición del programa para el curso.
+La [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab/|bibliografía]] básica para el curso ya esta editada. Estamos en fase de revisión y composición del programa para el curso.
 
 Programa de contenidos del curso MiniLab: (por '''Ignacio Bevaqcua''')
 

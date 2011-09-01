@@ -1,6 +1,7 @@
 Grupo de desarrollo del RSL "Atila"
 
- . no logo
+
+
 
  * Gustavo Spessot.
  * Germán Ontivero.

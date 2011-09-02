@@ -4,13 +4,14 @@
 Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable mediante el uso de PICs que nos sirva para participar en la competencia organizada por el GRS de la facultad Bahia Blanca. Algunas cosas a tener en cuenta a la hora de diseñar tanto el hardware como el software son las siguientes:
 
  * '''Dimensiones''': el robot completo no puede superar 20 cm de largo, 12 de ancho y 10 de alto
+
  * '''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro
+
  * '''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar.
 
 {{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=disenio.jpg}}
 
 ----
-
 = Hardware del Proyecto =
 Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
 
@@ -44,5 +45,6 @@ Para calcular la reducción de velocidades al usar engranajes se usa la formula:
 == Alimentación ==
 La energía del vehículo será proporcionada por una batería de 9V. Los motores serán alimentados directamente a esta tensión, el microcontrolador y demás periféricos lo harán a una tensión de 5V. Se presenta un prototipo de fuente regulada diseñada para proporcionar una salida estable de 5V-1A.
 
-[[attachment:FuenteRSL|pcb]]
+[[attachment:FuenteRSL|]]
+
 ----

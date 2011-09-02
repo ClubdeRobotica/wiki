@@ -46,6 +46,6 @@ La energía del vehículo será proporcionada por una batería de 9V. Los motore
 
 [[attachment:FuenteRSL|ESQUEMA]]
 
-
+[[attachment:FuenteRSLpcb|PCB]]
 
 ----

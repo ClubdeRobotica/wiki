@@ -41,4 +41,7 @@ Estos datos pueden variar segun el estado del motor, si estan sucios su consumo 
 
 Para calcular la reducción de velocidades al usar engranajes se usa la formula: N·Z = n·z donde N y Z son la velocidad (en rpm) y la cantidad de engranajes del piñón, n y z son los mismos datos pero del siguiente engranaje, es decir, la velocidad del segundo engranaje sera: n = (N·Z)/z, si el piñón está conectado al eje central del motor N será la velocidad del motor.
 
+== Alimentación ==
+La energía del vehículo será proporcionada por una batería de 9V. Los motores serán alimentados directamente a esta tensión, el microcontrolador y demás periféricos lo harán a una tensión de 5V. Se presenta un prototipo de fuente regulada diseñada para proporcionar una salida estable de 5V-1A.
+
 ----

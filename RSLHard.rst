@@ -44,8 +44,8 @@ Para calcular la reducción de velocidades al usar engranajes se usa la formula:
 == Alimentación ==
 La energía del vehículo será proporcionada por una batería de 9V. Los motores serán alimentados directamente a esta tensión, el microcontrolador y demás periféricos lo harán a una tensión de 5V. Se presenta un prototipo de fuente regulada diseñada para proporcionar una salida estable de 5V-1A.
 
-[[attachment:FuenteRSL|ESQUEMA + DESCRIPCIÓN]]
+[[attachment:FuenteRSL|ESQUEMA]]
 
-[[attachment:FuenteRSLpcb|PCB]]
+
 
 ----

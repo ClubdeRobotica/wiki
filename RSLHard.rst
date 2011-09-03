@@ -11,6 +11,8 @@ Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable 
 
 {{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=disenio.jpg}}
 
+El reglamento completo se puede descargar desde la pagina: [[Bahia Blanca]]
+
 ----
 = Hardware del Proyecto =
 Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.

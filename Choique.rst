@@ -1,4 +1,7 @@
 Grupo de desarrollo del RSL "Choique"
+
+Horarios : '''Miercoles de 18hs a 20hs'''
+
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:choique.jpg||width="250"}} ||
 
 

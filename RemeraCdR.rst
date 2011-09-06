@@ -1,4 +1,4 @@
-Quienes se suman para la remera del CdR!
+Quienes se suman para la remera del CdR!?
 
  . Martín Ezequiel Molina - talle: 
  . Luís Vázquez - talle:

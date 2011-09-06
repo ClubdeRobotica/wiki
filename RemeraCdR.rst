@@ -1,7 +1,7 @@
 Quienes se suman para la remera del CdR!?
 
  . Martín Ezequiel Molina - talle: 
- . Luis Vazquez - talle: L / M
+ . Luis Vazquez - talle: L
  . Diego Gonzales Dondo - talle:
  . Marco Alvarez Reyna - talle: L
  . Ignacio Bevacqua - talle: 

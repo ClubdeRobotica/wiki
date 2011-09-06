@@ -6,4 +6,4 @@ Quienes se suman para la remera del CdR!?
  . Marco Alvarez Reyna - talle: L
  . Ignacio Bevacqua - talle: 
  . Darío Martín Ochoa - talle:
- . 
+ . Germán Ontivero - talle - L

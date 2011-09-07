@@ -7,3 +7,5 @@ Quienes se suman para la remera del CdR!?
  . Ignacio Bevacqua - talle: 
  . Darío Martín Ochoa - talle:
  . Germán Ontivero - talle - L
+ . Leandro Passetti - talle:
+ 

@@ -1,6 +1,8 @@
 ## page was renamed from nuevo_contenido
 == Formulas para PWM en PIC ==
 
+'''Para CCS'''
+
 El ciclo de tiempo sera : (1/clock)*4*t2div*(period+1)
 
 period : 0 a 255
@@ -10,15 +12,17 @@ Para 4mhz:
  *(1/4000000)*4*4*(127+1) = 512us o '''1.95 KHz'''
  *(1/4000000)*4*16*(127+1)= 2 ms  o '''488.28 Hz'''
 
+'''Para SDCC'''
+
 PWM period = [(PR2) + 1]*4*TOSC*(TMR2 prescale value)
 
 PWM duty cycle =(CCPR1L:CCP1CON<5:4>)*TOSC*(TMR2 prescale value)
 
-=== Pagina generadora de codigo ===
+== Pagina generadora de codigo ==
 
  [[http://www.micro-examples.com/public/microex-navig/doc/097-pwm-calculator.html|Generador de codigo para PWM]]
 
-=== Rutina de Incremento de PWM ===
+== Rutina de Incremento de PWM ==
 
 Insertar link, del codigo adjunto 
 

@@ -9,3 +9,5 @@ Quienes se suman para la remera del CdR!?
  . Germán Ontivero - talle - L
  . Leandro Passetti - talle:
  . Lucas Ricardo Pucher Stambuck - talle:
+ . Mariano Alvarez - talle: L - XL
+ . Marcos Ciceri - talle: M - L

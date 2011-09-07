@@ -24,7 +24,8 @@ PWM duty cycle =(CCPR1L:CCP1CON<5:4>)*TOSC*(TMR2 prescale value)
 
 == Rutina de Incremento de PWM ==
 
-Insertar link, del codigo adjunto 
+
+||[[attachment:Rutina_aumento_pwm]]||
 
 Dudas:
  * Tosc = 1/Fosc ??

@@ -18,9 +18,13 @@ PWM duty cycle =(CCPR1L:CCP1CON<5:4>)*TOSC*(TMR2 prescale value)
 
  [[http://www.micro-examples.com/public/microex-navig/doc/097-pwm-calculator.html|Generador de codigo para PWM]]
 
+=== Rutina de Incremento de PWM ===
+
+Insertar link, del codigo adjunto 
+
 Dudas:
  * Tosc = 1/Fosc ??
- * 
+ * Obtener por calculo (CCPR1L:CCP1CON<5:4>)
 
 ---------
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:VRTD_PWM_1.jpg||width=300}} ||

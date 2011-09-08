@@ -11,6 +11,7 @@ Quienes se suman para la remera del CdR!?
  . Lucas Ricardo Pucher Stambuck - talle:
  . Mariano Alvarez - talle: L - XL
  . Marcos Ciceri - talle: M - L
+ . Nicolás Ignacio - talle: M
 
 Prototipo (made-at-home) para cerigrafía de nuestro querido 'botito'
 

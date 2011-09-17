@@ -20,4 +20,4 @@ Vehículo: 4x4, tración diferencial? 2x2, triciclo?
 Nota: Se pueden utilizar las cajas reductoras de los autitos comerciales, no hay ningún inconveniente afirman los organizadores de la competencia de Bahia Blanca.
 
 
-Preliminar: Entorno de desarrollo con PikLab http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/software/choique/RSL-PIC16F877-C
+Preliminar: Entorno de desarrollo con PikLab http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/RSL-PIC16F877-C

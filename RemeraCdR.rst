@@ -13,7 +13,7 @@ Quienes se suman para la remera del CdR!?
  . Marcos Ciceri - talle: M - L
  . Nicolás Ignacio - talle: M
 
-Prototipo (made-at-home) para cerigrafía de nuestro querido 'botito'
+Prototipo (made-at-home) para serigrafía de nuestro querido 'botito'
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:botito_seri_proto1.png||width=350}} ||
 

@@ -1,11 +1,13 @@
-Grupo de desarrollo del RSL "Choique"
+= Grupo de desarrollo del RSL "Choique" =
+
+== Reuniones ==
 
 Horarios : '''Miercoles de 18hs a 20hs'''
+Lugar: '''LTD UTN-FRC'''
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:choique.jpg||width="250"}} ||
 
-
-
+== Características ==
 
 Sensor: 4xCNY70 (2+2)
 
@@ -19,8 +21,9 @@ Vehículo: 4x4, tracción diferencial? 2x2, triciclo?
 
 Nota: Se pueden utilizar las cajas reductoras de los autitos comerciales, no hay ningún inconveniente afirman los organizadores de la competencia de Bahia Blanca.
 
-=== Hardware ===
+== Hardware && Software ==
 
+=== Placa ===
 Esquemático y el PCB de la Placa Pic en su version V1.1 (.zip) Cualquier cambio que quieran realizarle, pueden hacerlo desde Proteus 7, y creo que es posible importarlo a Kicad. Los archivos están en el repo SVN del club (lugar para subir los cambios)
 
 Dentro del .zip, también hay una pequeña nota, con el contenido de cosas que tiene, y que hacen falta cambiar, o definir bien.
@@ -28,6 +31,9 @@ Dentro del .zip, también hay una pequeña nota, con el contenido de cosas que t
 Placa Pic V1.1 (con capacitor filtro en un conector pero no electrolítico) :
 
 [[attachment:placapic.zip]]
+
+
+=== SO ===
 
 Preliminar: Entorno de desarrollo con PikLab http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/RSL-PIC16F877-C
 

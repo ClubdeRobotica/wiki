@@ -36,11 +36,18 @@ Placa Pic V1.1 (con capacitor filtro en un conector pero no electrolítico) :
 
 === SO ===
 
-Preliminar: Entorno de desarrollo con PikLab http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/RSL-PIC16F877-C
+Entorno de desarrollo con PikLab y fuentes (preliminar):
+
 SVN para checkout: 
 {{{
-svn co svn://192.168.1.130/CdR-Principal/trunk/Proyectos/RSL/Choique ./CdR_RSL-Choique
+svn co svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk/Proyectos/RSL/Choique ./CdR_RSL-Choique
 }}}
+
+Para sólo lectura: 
+{{{
+firefox http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/RSL-PIC16F877-C
+}}}
+
 Algunas fotos del prototipo:
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:choiqueA.jpg||width="350"}} ||

@@ -35,7 +35,7 @@ Listado de materiales: (preliminar!)
  1. 9x capa. 0.1uf ceram.
  1. 1x capa. 1uf 16v electrol.
  1. 3x capa. 100uf 50v electrol. 
- 1. 1x capa. 220uf 16v electrol., footprint: (D)Dext=8.1mm, (L)Alt=11.4mm, DistTerm=3.8mm
+ 1. 1x capa. 220uf 16v electrol., footprint: (D)Dext=8.1mm, (L)Alt=11.4mm, (E?)DistTerm=3.8mm
  1. 5x R100
  1. 5x R1k
  1. 2x R10k

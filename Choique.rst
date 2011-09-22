@@ -24,18 +24,18 @@ Nota: Se pueden utilizar las cajas reductoras de los autitos comerciales, no hay
 
 == Hardware && Software ==
 
-Listado de materiales: 
+Listado de materiales: (preliminar!)
 
  1. 1x L293b
  1. 1x GD4049B
  1. 1x PIC16f877 (puede ser el 'A' también)
- 1. 1x zócalo 40 pts.
+ 1. 1x zócalo para CI 2x20 (40 pts.)
  1. 1x XTal 4MHz
- 1. 2x capa. ceram.27pf
- 1. 9x capa. ceram. 0.1uf
- 1. 1x capa. 1uf electrol.
- 1. 3x capa. 100uf electrol. 
- 1. 1x capa. 220uf 16v electrol., footprint: Dext=8.1mm, Alt=11.4mm, DistTerminales=3.8mm
+ 1. 2x capa. 27pf ceram.
+ 1. 9x capa. 0.1uf ceram.
+ 1. 1x capa. 1uf 16v electrol.
+ 1. 3x capa. 100uf 50v electrol. 
+ 1. 1x capa. 220uf 16v electrol., footprint: (D)Dext=8.1mm, (L)Alt=11.4mm, DistTerm=3.8mm
  1. 5x R100
  1. 5x R1k
  1. 2x R10k
@@ -44,6 +44,7 @@ Listado de materiales:
  1. 5x LED's (2xRojo-2xVerde-1xAmarillo)
  1. xx conectores de yy terminales... (a definir)
  1. 1x Batería de 9v y 1x conector para batería
+ 1. 1x inductancia 1mHy
  1. PCB
 
 === Placa ===

@@ -24,7 +24,25 @@ Nota: Se pueden utilizar las cajas reductoras de los autitos comerciales, no hay
 
 == Hardware && Software ==
 
-Listado de materiales: PIC16f877, XTal4MHz, 2x capa. ceram.27pf, 5x LED(2xRojo-2xVerde-Amarillo), 5x R1k, zócalo 40 pts., capa 220uf electrol., capa 1uf electrol., R22k, pulsador, 9x capa. ceram. 0.1uf,  conectores..., L293b, GD4049B, 3x capa. electrol. 100uf, 5x R100, 2x R10k
+Listado de materiales: 
+
+ 1. 1x L293b
+ 1. 1x GD4049B
+ 1. 1x PIC16f877 (puede ser el 'A' también)
+ 1. 1x zócalo 40 pts.
+ 1. 1x XTal 4MHz
+ 1. 2x capa. ceram.27pf
+ 1. 9x capa. ceram. 0.1uf
+ 1. 1x capa. 1uf electrol.
+ 1. 3x capa. 100uf electrol. 
+ 1. 1x ca.pa 220uf electrol.
+ 1. 5x R100
+ 1. 5x R1k
+ 1. 2x R10k
+ 1. 1x R22k
+ 1. 1x pulsador para placa
+ 1. 5x LED's (2xRojo-2xVerde-1xAmarillo)
+ 1. xx conectores de yy terminales... (a definir)
 
 === Placa ===
 Esquemático y el PCB de la Placa Pic en su version V1.1 (.zip) Cualquier cambio que quieran realizarle, pueden hacerlo desde Proteus 7, y creo que es posible importarlo a Kicad. Los archivos están en el repo SVN del club (lugar para subir los cambios)

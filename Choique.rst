@@ -35,7 +35,7 @@ Listado de materiales:
  1. 9x capa. ceram. 0.1uf
  1. 1x capa. 1uf electrol.
  1. 3x capa. 100uf electrol. 
- 1. 1x ca.pa 220uf electrol.
+ 1. 1x capa. 220uf 16v electrol., footprint: Dext=8.1mm, Alt=11.4mm, DistTerminales=3.8mm
  1. 5x R100
  1. 5x R1k
  1. 2x R10k
@@ -43,8 +43,11 @@ Listado de materiales:
  1. 1x pulsador para placa
  1. 5x LED's (2xRojo-2xVerde-1xAmarillo)
  1. xx conectores de yy terminales... (a definir)
+ 1. 1x Batería de 9v y 1x conector para batería
+ 1. PCB
 
 === Placa ===
+
 Esquemático y el PCB de la Placa Pic en su version V1.1 (.zip) Cualquier cambio que quieran realizarle, pueden hacerlo desde Proteus 7, y creo que es posible importarlo a Kicad. Los archivos están en el repo SVN del club (lugar para subir los cambios)
 
 Dentro del .zip, también hay una pequeña nota, con el contenido de cosas que tiene, y que hacen falta cambiar, o definir bien.
@@ -52,7 +55,6 @@ Dentro del .zip, también hay una pequeña nota, con el contenido de cosas que t
 Placa Pic V1.1 (con capacitor filtro en un conector pero no electrolítico) :
 
 [[attachment:placapic.zip]]
-
 
 === SO ===
 

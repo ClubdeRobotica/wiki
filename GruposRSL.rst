@@ -25,6 +25,8 @@
 
  . Juan Ignacio Morales.
 
+ . Juan Pautasso
+
 '''Grupo N.3.'''
 
  . Ezequiel Molina.

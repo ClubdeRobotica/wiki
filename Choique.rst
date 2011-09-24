@@ -89,3 +89,7 @@ Ensayando el algoritmo de control:
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:choiqueF.jpg||width="350"}} ||
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:choiqueG.jpg||width="350"}} ||
+
+Foto del prototipo de la plataforma:
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:rsl-jp.jpg||width="350"}} ||

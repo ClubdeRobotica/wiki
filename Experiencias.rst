@@ -13,7 +13,7 @@ La situación era esta.. navegando por el trac de usla ( http://trac.usla.org.ar
 {{{
  svn co http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique
 }}}
- Bueno esa era mi lógica. Pero esta mal porque yo le daba la URL justamente para el browser.
+ Bueno esa era mi lógica. Pero está mal porque yo le daba la URL justamente para el browser.
 
 para bajar correctamente hay que borrar las palabras "browser" y agregarle "svn" a la URL, quedaría así 
 

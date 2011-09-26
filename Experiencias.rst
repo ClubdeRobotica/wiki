@@ -19,7 +19,7 @@ para bajar correctamente hay que borrar las palabras "browser" y agregarle "svn"
 
 http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/RSL/Choique
 
-la orden final para ejecutar seria
+la orden final para ejecutar sería
 {{{
  svn co http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/RSL/Choique
 }}}

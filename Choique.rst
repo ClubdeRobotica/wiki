@@ -25,27 +25,69 @@ Nota: Se pueden utilizar las cajas reductoras de los autitos comerciales, no hay
 == Hardware && Software ==
 
 Listado de materiales: (preliminar!)
+| BT1        9v          
+| C1         0.1uf       
+| C2         0.1uf       
+| C3         220uf       
+| C4         47uf        
+| C5         0.1uf       
+| C6         0.1uf       
+| C7         27pf        
+| C8         27pf        
+| C9         1uf         
+| C10        0.1uf       
+| C11        0.1uf       
+| C12        100uf       
+| C13        1uf         
+| C14        0.1uf       
+| C15        0.1uf       
+| C16        0.1uf       
+| C17        0.1uf       
+| C18        0.1uf       
+| D1         LED-Power   
+| D2         LED-Live    
+| D3         1N4007      
+| D4         1N4007      
+| D5         1N4004      
+| D6         1N4007      
+| D7         1N4007      
+| D8         1N4007      
+| D9         1N4007      
+| D10        1N4007      
+| D11        1N4148      
+| IC1        ADXL103     
+| JP1        RESET       
+| JP2        SERIAL      
+| JP3        MOTOR-ENA   
+| MOTOR1     MCC_5v_DER  
+| MOTOR2     MCC_5v_IZQ  
+| R1         470         
+| R2         100         
+| R3         100         
+| R4         10k         
+| R5         100         
+| R6         100         
+| R7         100         
+| R8         2k          
+| R9         470         
+| R10        330         
+| R11        10k         
+| R12        330         
+| R13        10k         
+| R14        100         
+| R15        100         
+| U1         LM7805      
+| U2         PIC16F877(/A)   
+| U3         GD4049B        
+| U4         L293b        
+| U5         CNY70       
+| U6         CNY70       
+| X1         4MHz
 
- 1. 1x L293b
- 1. 1x GD4049B
- 1. 1x PIC16f877 (puede ser el 'A' también)
- 1. 1x zócalo para CI 2x20 (40 pts.)
- 1. 1x XTal 4MHz
- 1. 2x capa. 27pf ceram.
- 1. 9x capa. 0.1uf ceram.
- 1. 1x capa. 1uf 16v electrol.
- 1. 3x capa. 100uf 50v electrol. 
- 1. 1x capa. 220uf 16v electrol., footprint: (D)Dext=8.1mm, (L)Alt=11.4mm, (F)DistTerm=3.8mm
- 1. 5x R100
- 1. 5x R1k
- 1. 2x R10k
- 1. 1x R22k
- 1. 1x pulsador para placa
- 1. 5x LED's (2xRojo-2xVerde-1xAmarillo)
- 1. xx conectores de yy terminales... (a definir)
- 1. 1x Batería de 9v y 1x conector para batería
- 1. 1x inductancia 1mHy
- 1. PCB
+Además:
+ 1. 1x zócalo para CI 2x20 pts
+ 1. 2x zócalos para CI 2x8 pts
+ 1. Placa de islas o multiproposito, PCB
 
 === Placa ===
 
@@ -66,6 +108,8 @@ Para sólo lectura:
 {{{
 firefox http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/Hardware
 }}}
+
+Está disponible también la versión del esquemático en KiCAD. Como experiencia: es clave la buena gestión de las librerías y módulos!!!
 
 === SO ===
 

@@ -111,6 +111,8 @@ firefox http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/Hardware
 
 Está disponible también la versión del esquemático en KiCAD. Como experiencia: es clave la buena gestión de las librerías y módulos!!!
 
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:placa-rsl.png||width="350"}} ||
+
 === SO ===
 
 Entorno de desarrollo con PikLab y fuentes (preliminar):

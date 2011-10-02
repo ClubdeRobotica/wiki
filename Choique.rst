@@ -149,3 +149,10 @@ Ensayando el algoritmo de control:
 Foto del prototipo de la plataforma:
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:rsl-jp.jpg||width="350"}} ||
+
+Prototipo sensores:
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen0002.jpg||width="350"}} ||
+
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen003.jpg||width="350"}} ||

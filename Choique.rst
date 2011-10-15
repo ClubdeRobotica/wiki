@@ -156,3 +156,13 @@ Prototipo sensores:
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen003.jpg||width="350"}} ||
+
+Bajó al suelo!!!!
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen0004-b.jpg||width="350"}} ||
+
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen005-b.jpg||width="350"}} ||
+
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen006-b.jpg||width="350"}} ||

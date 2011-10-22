@@ -5,7 +5,8 @@ Desarrollado en un 60 %
 * A definir
 ==== Sensores ====
 * CNY70
-[[attachment:cny70.svg]]
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 ===== Etapa de Potencia =====
 *L293B
 ====== Móvil ======

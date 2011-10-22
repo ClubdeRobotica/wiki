@@ -1,10 +1,11 @@
 = Robot Seguidor de Línea NiEz =
 == Estado del Proyecto  ==
 Desarrollado en un 60 % 
-*Próximamente estará disponible toda la documentación correspondiente.
-
-
 === Etapa de Alimentación ===
+* A definir
 ==== Sensores ====
+* CNY70
 ===== Etapa de Potencia =====
+*L293B
 ====== Móvil ======
+* A definir

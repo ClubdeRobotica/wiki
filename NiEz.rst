@@ -13,3 +13,4 @@ Desarrollado en un 60 %
 * A definir
 
 ======= Descargar Copia del Proyecto (En desarrollo) =======
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Seguidor_de_linea_NIEZ.pdf  ||width="250"}} ||

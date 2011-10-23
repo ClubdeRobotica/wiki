@@ -27,7 +27,7 @@
 
  . Juan Pautasso
 
-'''Grupo N.3.''' [[NiEz]]
+'''Grupo N.3.''' [[Bourbaki]]
 
  . Ezequiel Molina.
 

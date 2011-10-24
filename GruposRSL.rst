@@ -1,4 +1,4 @@
-= Grupos para continuar con el proyecto del Robot Seguidor de Linea. =
+= Grupos para continuar con el proyecto del Robot Seguidor de Línea. =
 '''Grupo N.'''
 
  . Integrantes (Disponibilidad horaria).

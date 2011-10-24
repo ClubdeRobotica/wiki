@@ -5,7 +5,7 @@ Desarrollado en un 60 %
 === Etapa de Alimentación ===
 * A definir
 ==== Sensores ====
-* CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea,es un cuadrado de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor como se puede ver en la imagen.
+* CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea,es un cubo de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor como se puede ver en la imagen.
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||

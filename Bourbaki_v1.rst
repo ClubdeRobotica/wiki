@@ -32,6 +32,6 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301701.JPG||width="250"}} ||
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:attachment:S6301727.JPG||width="250"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301727.JPG||width="250"}} ||
 
 Desarrolladas con el software para creación de circuitos impresos [[http://www.lis.inpg.fr/realise_au_lis/kicad/Kicad_files/LogicielKicad_es.htm|Kicad]] 

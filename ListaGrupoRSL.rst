@@ -14,7 +14,7 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 '''''Ezequiel Molina''''' martinezequielmolina@gmail.com
 
-* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre.
+* Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre y promover su uso.
 
 '''''Nicolás Ignacio''''' nnico@cdr.usla.org.ar
 

@@ -11,7 +11,9 @@ Desarrollado en un 60 %
 ===== Etapa de Potencia =====
 *L293B
 ====== Móvil ======
-* A definir
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="250"}} ||
+
 
 ======= Descargar Copia del Proyecto (En desarrollo) =======
  

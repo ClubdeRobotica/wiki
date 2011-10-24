@@ -10,10 +10,30 @@ Desarrollado en un 60 %
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70esquema.svg||width="250"}} ||
+
+PCB
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70pcb.png||width="250"}} ||
+
+vista 3D
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70-3D.png||width="250"}} ||
+
+
+
 ===== Etapa de Potencia =====
 *L293B
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:aplicacionl293.svg||width="250"}} ||
+
+
+PCB
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:l293pcb.png||width="250"}} ||
+
+vista 3D
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:l293-3D.png||width="250"}} ||
+
+
 ====== Móvil ======
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="250"}} ||
@@ -23,6 +43,12 @@ Desarrollado en un 60 %
 ======= Descargar Copia del Proyecto (En desarrollo) =======
  
 V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
+
+======= Descargar PCB's del Proyecto =======
+
+[[attachment:l293med.brd]]
+
+[[attachment:cny70med.brd]]
 
 
 ======== Fotos ========

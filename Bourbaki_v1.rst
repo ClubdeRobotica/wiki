@@ -17,6 +17,12 @@ Desarrollado en un 60 %
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="250"}} ||
 
 
+
 ======= Descargar Copia del Proyecto (En desarrollo) =======
  
 V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
+
+
+======== Fotos ======== 
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301701.JPG||width="250"}} ||

@@ -22,7 +22,7 @@ vista 3D
 ===== Etapa de Potencia =====
 *L293B
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:aplicacionl293.svg||width="250"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:aplicacionl293.svg||width="400"}} ||
 
 
 PCB

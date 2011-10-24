@@ -10,6 +10,8 @@ Desarrollado en un 60 %
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 ===== Etapa de Potencia =====
 *L293B
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:aplicacionl293.svg||width="250"}} ||
 ====== Móvil ======
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="250"}} ||

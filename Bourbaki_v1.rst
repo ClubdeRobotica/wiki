@@ -23,6 +23,7 @@ Desarrollado en un 60 %
 V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 
-======== Fotos ======== 
+======== Fotos ========
+* Primeras placas de sensores y potencia, desarrolladas con Kicad.
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301701.JPG||width="250"}} ||

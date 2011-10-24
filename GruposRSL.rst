@@ -31,7 +31,7 @@
 
  . Ezequiel Molina.
 
- . Nicolas Ignacio.
+ . Nicolás Ignacio.
 
 '''Grupo N.4.''' GhostRider
 

@@ -7,6 +7,8 @@ Desarrollado en un 60 %
 ==== Sensores ====
 * CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea, es un cubo de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor como se puede ver en la imagen.
 
+Los utilizamos para diferenciar la linea a seguir
+
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70esquema.svg||width="250"}} ||
@@ -17,9 +19,25 @@ vista 3D
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70mas.png||width="400"}} ||
 
+===== Comparador =====
+
+éste circuito lo utilizamos para amplificar la señal que recibimos de los sensores, para así enviar dichas señales, a la etapa de potencia
+
+PCB
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:lm358pcbm.png||width="400"}} ||
+
+vista 3D
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:LM358-3D.png||width="400"}} ||
+
+
+
 
 
 ===== Etapa de Potencia =====
+
+Circuito que nos permitirá el manejo de los motores.
+
 *L293B
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:aplicacionl293.svg||width="400"}} ||

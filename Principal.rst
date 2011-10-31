@@ -17,7 +17,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 ''' Concluyó el Proyecto MiniLab edición 2011!!! Felicitaciones a todos sus integrantes!!! '''
 
-''' Objetivo para Noviembre de 2011: ''' [[RSL|Robot RSL]]
+''' Objetivo para el 2011: ''' [[RSL|Robot RSL]]
 
 }}}
 

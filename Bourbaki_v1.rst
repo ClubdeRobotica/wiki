@@ -65,7 +65,10 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 [[attachment:l293med.brd]]
 
+[[attachment:LM358.brd]]
+
 [[attachment:cny70med.brd]]
+
 
 
 ======== Fotos ========

@@ -61,6 +61,9 @@ vista 3D
  
 V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
+
+ * El documento esta creado en [[http://es.wikipedia.org/wiki/LaTeX|Latex]], el cual es un sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos; facilitando así la inserción de formulas,gráficos y tablas.
+
 ======= Descargar PCB's del Proyecto =======
 
 [[attachment:l293med.brd]]
@@ -72,6 +75,7 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 
 ======== Fotos ========
+
 * Primeras placas de sensores y potencia.
  
    

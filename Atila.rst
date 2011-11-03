@@ -1,6 +1,7 @@
 Grupo de desarrollo del RSL "Atila"
 
-{{attachment:AtilaLogo.jpg}}
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:AtilaLogo.jpg||width="250"}} ||
+
 
  * Gustavo Spessot.
  * Germán Ontivero.

@@ -1,6 +1,6 @@
-Grupo de desarrollo del RSL "Atila"
+ . Grupo de desarrollo del RSL "Atila"
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:AtilaLogo.jpg||width="250"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;     ;text-align:center"> {{attachment:AtilaLogo.jpg}} ||
 
 
  * Gustavo Spessot.

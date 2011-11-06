@@ -3,7 +3,7 @@
 == Estado del Proyecto  ==
 Desarrollado en un 80 % 
 === Etapa de Alimentación ===
-* A definir
+* Batería de 9V con un regulador 7805.
 ==== Sensores ====
 * CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea, es un cubo de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor como se puede ver en la imagen.
 
@@ -15,18 +15,18 @@ Los utilizamos para diferenciar la linea a seguir
 PCB
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70pcb.png||width="250"}} ||
 
-vista 3D
+* Vista 3D
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70mas.png||width="400"}} ||
 
-===== Comparador =====
+===== Comparador LM358 =====
 
-éste circuito lo utilizamos para amplificar la señal que recibimos de los sensores, para así enviar dichas señales, a la etapa de potencia
+Este circuito lo utilizamos para amplificar la señal que recibimos de los sensores, para luego enviar dichas señales a la etapa de potencia.
 
-PCB
+* PCB
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:lm358pcbm.png||width="400"}} ||
 
-vista 3D
+* Vista 3D
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:LM358-3D.png||width="400"}} ||
 
@@ -38,15 +38,15 @@ vista 3D
 
 Circuito que nos permitirá el manejo de los motores.
 
-*L293B
+* L293B
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:aplicacionl293.svg||width="400"}} ||
 
 
-PCB
+* PCB
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:l293pcb.png||width="400"}} ||
 
-vista 3D
+* Vista 3D
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:l293-3D.png||width="400"}} ||
 
@@ -55,7 +55,7 @@ vista 3D
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="450"}} ||
 
-
+* El plano fue creado con la herramienta de Dibujo de la suite gratuita de productividad personal de código abierto de producción de documentos y procesamiento de datos [[http://es.libreoffice.org/|LibreOffice]].
 
 ======= Descargar Copia del Proyecto (En desarrollo) =======
  

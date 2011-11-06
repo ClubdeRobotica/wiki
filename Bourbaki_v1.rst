@@ -1,7 +1,7 @@
  Cambiamos el nombre del grupo NiEz por '''Bourbaki''' 
 
 == Estado del Proyecto  ==
-Desarrollado en un 60 % 
+Desarrollado en un 80 % 
 === Etapa de Alimentación ===
 * A definir
 ==== Sensores ====

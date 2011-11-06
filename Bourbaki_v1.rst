@@ -86,6 +86,11 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301727.JPG||width="400"}} ||
 
+* Pre-ensamblado 
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:montaje.jpg||width="400"}} ||
+
+
 Desarrolladas con el software para creación de circuitos impresos [[http://www.lis.inpg.fr/realise_au_lis/kicad/Kicad_files/LogicielKicad_es.htm|Kicad]]
 
 Luego son impresas a tóner, planchadas sobre la placa de cobre y sumergidas en cloruro férrico.

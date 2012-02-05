@@ -98,3 +98,8 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 
 
+========= Responsables del proyecto =========
+ 
+ Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com )>>
+ 
+ Nicolás Ignacio 

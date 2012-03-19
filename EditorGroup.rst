@@ -5,7 +5,6 @@
  * DiegoGonzalez
  * JuanGonzalez
  * WalterSalinas
- * FrankDS
  * NicolasAlberto
  * GermanOntivero
  * EzequielManoukian
@@ -14,7 +13,6 @@
  * LuisVazquez
  * GasparSantamarina
  * EzequielMolina
- * JohanaAybar
  * AlejandroCerutti
  * javiergohlke
  * NicolasIgnacio

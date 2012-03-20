@@ -17,7 +17,6 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 ''' Primer reunión oficial : Jueves 29 de Marzo, hora y lugar a confirmar  '''
 
-''' Inicio de actividades 2012 a confirmar '''
 
 ''' Objetivo principal 2012  ''' [[RSL|Robot RSL]]
 

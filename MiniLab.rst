@@ -98,7 +98,7 @@ Se presenta aquí un pequeño resumen del proyecto:
 '''Herramientas recomendadas :'''
   
      *'''Kicad''' :  programa de código libre (GPL) para la creación de esquemas electrónicos y circuitos impresos. 
-   Referencia en la web : http://www.lis.inpg.fr/realise_au_lis/kicad/Kicad_files/LogicielKicad_es.htm
+   Referencia en la web :[[http://www.lis.inpg.fr/realise_au_lis/kicad/Kicad_files/LogicielKicad_es.htm|Kicad]] .
 
 {{{#!wiki note
 Cabe aclarar que el CdR simplemente los incentiva a construir el MiniLab. Éste se viene realizando ya hace años en la UTN-FRC, con la CEE como diseñadora y proveedora de los PCB. Así mismo la CEE dicta un curso de Introducción al Laboratorio. El CdR pretende ser un complemento de estas actividades (sin costo alguno)

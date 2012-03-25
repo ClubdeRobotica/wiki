@@ -68,6 +68,9 @@
 
 * [[attachment:Presentación_MiniLab.ppt]]
 
+{{{#!wiki note
+Para seguir con la política del CdR, todos los documentos están creados con herramientas de  [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
+}}}
 ----
 
 Se presenta aquí un pequeño resumen del proyecto:

@@ -15,8 +15,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 {{{#!wiki note
 
-''' Primer reunión oficial : Jueves 29 de Marzo, hora y lugar a confirmar  '''
-
+''' Próxima reunión: Viernes 13/04 16hs LCE Anexo, UTN-FRC -> CONVOCATORIA 2012 <- '''
 
 ''' Objetivo principal 2012  ''' [[RSL|Robot RSL]]
 

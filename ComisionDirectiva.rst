@@ -1,26 +1,16 @@
-== Comisión Directiva 2010/2011 ==
-'''Dirección'''
+== Comisión Directiva 2012/2013 ==
+'''Dirección''' y '''Tesorería'''
 
  * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
-'''Tesorería'''
+'''Coordinación General''' y '''Relaciones Institucionales'''
 
- * Johana Alejandra Aybar <you_1802@hotmail.com>
+ * Martín Ezequiel Molina
 
-'''Coordinación General'''
+ * Marcos Ciceri
 
- * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
+ * Germán Ontivero
 
-'''Relaciones Institucionales'''
-
-Responsable:
-
- * Frank D. Schefer < institucionales (d ot) cdr (d ot) utnfrc (a t) gmail (d ot) com >
-
-Vocales: 
-
- * Gustavo Javier Santos <gustavo2189@hotmail.com>
-
- * Ezequiel Manoukian <eze_iacc@hotmail.com>
+ * Nicolás Ignacio
 
 '''Bienvenidos!!!'''

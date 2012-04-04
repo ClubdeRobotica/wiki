@@ -11,7 +11,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que quieran
 
 == ¿Como participar? ==
 
- En la sección  [[Contacto|Contacto]] se puede acceder a los distintos medios de comunicación con las personas del CdR. ''' Te esperamos '''
+ En la sección  [[Contacto|Contacto]] se puede acceder a los distintos medios de comunicación con las personas del CdR. Te esperamos!
 
 {{{#!wiki note
 

@@ -59,3 +59,7 @@
 ¿Cómo se accede a la lista de correo en USLA?
 
    R: Para acceder: https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr ingresando sus datos (CORREO Y PASS, si no lo tienen pueden solicitar restitución al [[claudiojpaz|administrador]] de la lista)
+
+¿El CdR posee un repositorio de sus archivos digitales (doc., proy., etc...)?
+
+   R: Si. Se accede mediante un cliente SVN a la URL: svn://cdrutnfrc.linuxsecured.net/CdR-Principal

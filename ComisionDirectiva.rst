@@ -5,7 +5,7 @@
 
 '''Coordinación General''' y '''Relaciones Institucionales'''
 
- * Martín Ezequiel Molina
+ * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com)>>
 
  * Marcos Ciceri
 

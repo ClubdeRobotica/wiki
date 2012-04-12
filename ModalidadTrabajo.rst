@@ -1,6 +1,6 @@
 = Modalidad de trabajo =
 
-== Propuesta para el año 2011 ==
+== Propuesta ==
 
 Capitalizar todo el tiempo invertido en favor de los estudios, fusionando nuestros compromisos académicos con el CdR.
 

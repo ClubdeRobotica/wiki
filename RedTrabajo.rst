@@ -6,43 +6,31 @@ La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
  * La wiki del CdR.
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
  * El Servidor principal SVN del CdR y su [[http://trac.usla.org.ar/cdr/browser/trunk/|mirror]].
- * El Servidor SSH y HTTP del [[http://cdrutnfrc.linuxsecured.net/index-cam.html|Laboratorio Remoto]].
+ * El Servidor del [[LabRemoto|Laboratorio Remoto]] accesible por SSH (en etapa de proyecto!).
 
 === Servidores del CdR ===
 
 Todos los servicios están en marcha. Si por algún motivo no está en línea o falla alguno de los servicios, por favor comuníquelo a la brevedad!
 
-==== SVN: ====
+==== Repo SVN ====
 
-El servidor SVN se utiliza para versionado (control de versiones[0][5]) de los archivos del CdR: código y documentación.
+El servidor SVN se utiliza para versionado (control de versiones[0][5]) de los archivos (código y documentación) del CdR.
 
-Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$)
+Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$), o por medio de un navegador como firefox si sólo se desean ver los archivos y no modificarlos [[http://trac.usla.org.ar/svn/cdr/trunk/| -- navegar archivos --]]
 
-Para comprobar la disponibilidad del servidor SVN ejecutar en una consola:
+Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit (subir cambios o nuevos archivos) hay que estar registrado con nombre de usuario y contraseña. Estos datos deberán ser solicitados por correo electrónico al [[Contacto|administrador]].
 
---( ping trac.usla.org.ar )--
-
-{{{
-ping cdrutnfrc.linuxsecured.net
-}}}
-
-Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit hay que estar registrado con nombre de usuario y contraseña. Estos datos deberán ser solicitados por correo electrónico al administrador.
-
-Dirección del servidor para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal --( http://trac.usla.org.ar/svn/cdr/trunk/ )--
+Dirección del servidor para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal
 
 Para navegar por el repositorio (mirror, sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/ El mismo se encuentra en servicio continuo.
 
-==== SSH y HTTP ====
+==== Acceso SSH ====
 
 Se podrá acceder al LabRemoto por SSH para hacer ensayos en Linux (hacer prácticas con el SVN, compilar, correr programas, utilizar el laboratorio remoto, etc...)
 
-Para comprobar la disponibilidad del servidor del LabRemoto ejecutar en una consola:
-{{{
-ping cdrutnfrc.linuxsecured.net
-}}}
 Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del LabRemoto del CdR.
 
-La dirección del LabRemoto es: http://cdrutnfrc.linuxsecured.net/index-cam.html *** El LabRemoto se encuentra actualmente online de 8hs a 18hs, si llegase a estar ofline, y quieren accederlo, envien un correo al administrador para ponerlo en línea, o utilizarlo fuera de horario. *** 
+El LabRemoto se encuentra actualmente offonline. Si alguien quiere hacer algún ensayo, envíen un correo al [[Contacto|administrador]] para ponerlo en línea. 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 
@@ -60,8 +48,6 @@ usr@linux:~/Proyectos>mkdir CdR
 }}}
  * Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 
---( usr@linux:~/Proyectos>svn checkout http://trac.usla.org.ar/svn/cdr/trunk ./CdR )--
-
 {{{
 usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR
 }}}
@@ -76,7 +62,7 @@ Desde Win$:
 
 1º Instalar TortoiseSVN[4] y Firefox (versión >= 3.6.10)
 
-2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk --( http://trac.usla.org.ar/svn/cdr/trunk/ )-- y el directorio donde vamos a bajar la copia local (working copy)
+2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk y el directorio donde vamos a bajar la copia local (working copy)
 
 3º La descarga puede tardar varios minutos (aprox. 30 min. para el primer CO, luego para actualizar o confirmar, los tiempos son mucho menores)
 
@@ -86,7 +72,7 @@ Desde Win$:
 
 === Procedimiento básico para trabajar con el SVN: ===
 
-SVN puede hacer bien su tarea con archivos de texto plano (típico .txt) Si no lo son la cosa se complica. Es el caso de los archivos ODT y otros relacionados a OpenOffice. Éstos poseen formato XML comprimido, y SVN los trata como si fueran archivos binarios ya que no puede leer en su interior.
+SVN puede hacer bien su tarea con archivos de texto plano (típico .txt) Si no lo son la cosa se complica. Es el caso de los archivos ODT y otros relacionados a LibreOffice. Éstos poseen formato XML comprimido, y SVN los trata como si fueran archivos binarios ya que no puede leer en su interior.
 
 Por lo tanto, no es posible hacer la operación de mezcla o fusión automáticamente cuando dos personas modificaron el mismo archivo al mismo tiempo y hay que hacerlo a mano. Para prevenir mayores inconvenientes en esta situación se recomienda el siguiente procedimiento a la hora de comenzar a trabajar:
 

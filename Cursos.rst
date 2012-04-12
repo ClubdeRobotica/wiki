@@ -1,4 +1,4 @@
-[[PreguntasFrecuentes|Preguntas frecuentes]]
+[[PreguntasFrecuentes|Preguntas frecuentes!]]
 
 
 [[Correo|¿Cómo usar la lista de correo?]]

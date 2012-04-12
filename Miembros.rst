@@ -20,8 +20,6 @@ Para solicitar una membresía en el CdR deben escribir a la [[Contacto|direcció
 
 3º Se le asignará un número único de socio (** no implementado aún **). Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña para ingresar al servidor del LabRemoto del CdR. En el servidor se podrán hacer ensayos en Linux (compilar, correr programas). También se les dará permiso de edición para trabajar con el servidor SVN (control de cambios y revisiones)
 
---( Dirección del servidor SVN: http://trac.usla.org.ar/svn/cdr/trunk/ Se encuentra en servicio continuo gracias al aporte de USLA. )--
-
 Servidor SVN: Ejecutando el siguiente comando desde una consola se baja todo el proyecto a la máquina local:
 
 svn co svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR

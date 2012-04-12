@@ -62,5 +62,6 @@
 
 ¿El CdR posee un repositorio de sus archivos digitales (doc., proy., etc...)?
 
-   R: Si. Se accede mediante un cliente SVN a la URL: svn://cdrutnfrc.linuxsecured.net/CdR-Principal 
+   R: Si. Se accede mediante un cliente SVN a la URL: svn://cdrutnfrc.linuxsecured.net/CdR-Principal [[https://cdr.usla.org.ar/RedTrabajo|+info]]
+
    También existe la posibilidad de navegar por el repositorio (sólo lectura) por medio de la URL: http://trac.usla.org.ar/svn/cdr/trunk/

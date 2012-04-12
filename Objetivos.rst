@@ -2,7 +2,12 @@
 
 === Propuesta para el 2011: ===
 
-PRELIMINAR (función de las [[MinutasReuniones|minutas de Marzo de 2011]] y de los [[Objetivos|objetivos del 2010]])
+PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos del 2011 pendientes)
+
+
+=== Propuesta para el 2011: ===
+
+PRELIMINAR (función de las minutas de Marzo de 2011 y de los objetivos del 2010 pendientes)
 
    1.      Migrar el servidor SVN al Track de USLA. '''Concretado'''
    1.      Establecer una línea temporal de actividades. '''Concretado'''

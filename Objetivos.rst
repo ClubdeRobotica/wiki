@@ -17,7 +17,7 @@ PRELIMINAR (función de las [[MinutasReuniones|minutas de Marzo de 2011]] y de l
    1.      Definir y establecer la tesorería del club y terminar el armario. '''Pendiente'''
    1.      Establecer un esquema de cooperación institucional con la CEE. '''Pendiente'''
    1.      Establecer un vínculo formal con el Club de Robótica de la FIUBA. '''Pendiente'''
-   1.      Discutir y establecer los objetivos a largo plazo: financiamiento, visitas a otros club de robótica, participación en competencias, transferencia tecnológica.
+   1.      Discutir y establecer los objetivos a largo plazo: financiamiento, visitas a otros club de robótica, participación en competencias, transferencia tecnológica. '''Pendiente'''
    1.      Participar en una competencia/demostración fuera de la UTN-FRC como CdR con una plataforma propia. '''Pendiente'''
    1.      Hacer una pequeña demostración con las plataformas desarrolladas durante el año para los miembros del Club de Robótica y grupos relacionados, para Octubre de 2011. '''Concretado'''
 

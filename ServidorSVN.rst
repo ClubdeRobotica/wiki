@@ -3,17 +3,18 @@
 
 === La idea de esta sección es escribir todos los pasos necesarios para que un miembro del CdR pueda subir al Servidor SVN las modificaciones hechas a los archivos de los proyectos ===
 
-Estamos en busca del camino más simple y estándar para poder trabajar con el SVN:
+Estamos en busca del camino más simple y estándar para poder trabajar con el SVN del trak de USLA:
 
 ==== PRELIMINAR ====
 
- 1. Crearse un usuario en http://drupal.usla.org.ar/user/register para poder autenticarse en "GOsa" https://gosa.usla.org.ar/ y así poder accceder a los servicios de USLA (en nuestro caso "TRAC" http://trac.usla.org.ar/). Por cualquier consulta acceder acá: http://trac.usla.org.ar/usla
+ 1. Crearse un usuario en http://drupal.usla.org.ar/user/register para poder autenticarse en "GOsa" https://gosa.usla.org.ar/ y así poder acceder a los servicios de USLA (en nuestro caso "TRAC" http://trac.usla.org.ar/). Por cualquier consulta acceder acá: http://trac.usla.org.ar/usla
  1. Entrar al canal[1] de USLA en el IRC y contactarse con[2] "TiN", "dererkazo" o "gacq" para que le den los permisos en GOsa. Por lo pronto el sistema NO es autogestionado.
  1. La idea es poder autenticarse acá:  https://trac.usla.org.ar/cdr para así poder subir modificaciones al SVN.
  1. Ver: http://trac.usla.org.ar/meta-trac/wiki/Gu%C3%ADaParaOwners en "Roles y Permisos", el paso clave es "registrar un usuario", allí es donde debemos trabajar!
 
 Si llegamos a poder generar usuarios que puedan registrarse en GOsa, en teoría con a agregarlos al grupo "devel" en el "trac" (eso ya lo tenemos aceitado) estaríamos hechos :)
 
+Por lo pronto seguimos trabajando con el SVN en: svn://cdrutnfrc.linuxsecured.net/CdR-Principal (administrado por nosotros y sincronizado regularmente con el SVN en USLA)
 
 Canal de USLA en IRC/email:
 

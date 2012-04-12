@@ -4,6 +4,12 @@
 [[CicloFormacion|Ciclo de formación]] |
 [[Infraestructura|Trabajos de Infraestructura]]
 
+'''Histórico de Actividades Año 2012:''' (colocar fechas!)
+
+   1. Reuniones organizativas (planeamiento inicio de actividades).
+   1. Inicio de las actividades del club.
+   1. Convocatoria 2012 y reunión invformativa.
+
 '''Histórico de Actividades Año 2011:'''
 
    1. Migración del servidor SVN a los servidores de USLA; 27 de Enero.
@@ -14,6 +20,8 @@
    1. Re-Lanzamiento del Proyecto RSL.  27/04
    1. Re-Lanzamiento del Proyecto VRTD  25/05
    1. Reunión social! Sábado 13 de Agosto.
+   1. Demo de proyectos. (colocar fecha!)
+   1. Cierre del año y reunión de despedida. (colocar fecha!)
 
 '''Histórico de Actividades Año 2010:'''
 

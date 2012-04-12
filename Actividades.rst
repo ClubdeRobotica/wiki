@@ -13,6 +13,7 @@
    1. Lanzamiento del Proyecto MiniLab. 31/03
    1. Re-Lanzamiento del Proyecto RSL.  27/04
    1. Re-Lanzamiento del Proyecto VRTD  25/05
+   1. Reunión social! Sábado 13 de Agosto.
 
 '''Histórico de Actividades Año 2010:'''
 

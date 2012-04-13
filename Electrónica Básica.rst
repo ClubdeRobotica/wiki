@@ -9,4 +9,4 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 * En la wiki del [[MiniLab|Proyecto MiniLab]] se puede encontrar muy buen material de soporte para este proyecto de Electrónica Básica.
 
 
-CdR 2012   
+== CdR 2012 ==

@@ -13,8 +13,8 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
  En la sección  [[Contacto|Contacto]] se puede acceder a los distintos medios de comunicación con los integrantes del CdR. Te esperamos!
 
 {{{#!wiki note
-
-''' Próxima reunión: Viernes 13/04 16hs LCE Anexo, UTN-FRC -> CONVOCATORIA 2012 <- '''
+ 
+''' Viernes 20 de Abril lanzamiento :"Curso Electrónica Básica" -> LCE anexo 16:30 Hs'''
 
 ''' Objetivo principal 2012  ''' [[RSL|Robot RSL]]
 

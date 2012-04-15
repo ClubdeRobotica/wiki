@@ -9,8 +9,8 @@
 
  * Marcos Ciceri
 
- * Germán Ontivero <<gerbonti377@gmail.com>>
+ * Germán Ontivero gerbonti377@gmail.com
 
- * Nicolás Ignacio
+ * Nicolás Ignacio <<MailTo(nnico AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 '''Bienvenidos!!!'''

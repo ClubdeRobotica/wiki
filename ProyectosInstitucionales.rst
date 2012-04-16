@@ -4,7 +4,7 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[Electrónica Básica| Proyecto Electrónica Básica]]: ¡En construcción!
+[[Intro_Lab-Electr| Proyecto Electrónica Básica]]: Comisión Directiva. ¡En construcción!
 
 [[MiniLab| Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
 
@@ -12,7 +12,7 @@ Propuestas de proyectos y sus responsables:
 
 [[VRTD| Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
 
-[[BancoDatos| Banco de Datos]]: CdR
+[[BancoDatos| Banco de Datos]]: CdR (Institucional)
 
 
 '''¿Cómo participar?'''

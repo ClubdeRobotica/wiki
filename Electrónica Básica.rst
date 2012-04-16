@@ -8,6 +8,6 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 
 * Los documentos del Proyecto MiniLab son un muy buen material de soporte para el curso de electrónica y laboratorio. Los archivos pueden descargarse desde [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|aquí]].
 
-* Estamos preparando el material bibliográfico para el curso. Una versión preliminar puede [[http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/Curso_Elect-y-Lab/|encontrarse aqui]].
+* Estamos preparando el material bibliográfico para el curso. Una versión preliminar puede encontrarse [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/Curso_Elect-y-Lab/|aqui]].
 
 == CdR 2012 ==

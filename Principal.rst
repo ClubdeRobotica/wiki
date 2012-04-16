@@ -14,9 +14,9 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 {{{#!wiki note
  
-''' Martes 17 de Abril re-lanzamiento proyectos: "RSL" -> LCE Anexo 16:15 Hs'''
+''' Martes 17 de Abril re-lanzamiento proyectos: "[[RSL|RSL]]" LCE Anexo - UTN-FRC 16:15 Hs'''
 
-''' Viernes 20 de Abril lanzamiento: "Curso Electrónica Básica" -> LCE Anexo 16:30 Hs'''
+''' Viernes 20 de Abril lanzamiento: "[[Intro_Lab-Electr|Curso Electrónica Básica]]" LCE Anexo - UTN-FRC 16:30 Hs'''
 
 }}}
 

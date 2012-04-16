@@ -14,9 +14,9 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 {{{#!wiki note
  
-''' Viernes 20 de Abril lanzamiento :"Curso Electrónica Básica" -> LCE anexo 16:30 Hs'''
+''' Martes 17 de Abril re-lanzamiento proyectos: "RSL" -> LCE Anexo 16:15 Hs'''
 
-''' Objetivo principal 2012  ''' [[RSL|Robot RSL]]
+''' Viernes 20 de Abril lanzamiento: "Curso Electrónica Básica" -> LCE Anexo 16:30 Hs'''
 
 }}}
 

@@ -7,9 +7,9 @@
 
  * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com)>>
 
- * Marcos Ciceri <<markitos132@hotmail.com>>
+ * Marcos Ciceri markitos132@hotmail.com
 
- * Germán Ontivero <<gerbonti377@gmail.com>>
+ * Germán Ontivero gerbonti377@gmail.com
 
  * Nicolás Ignacio <<MailTo(nnico AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 

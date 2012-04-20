@@ -13,8 +13,8 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 = Material del curso =
 * Electrónica Básica : Parte 1. [[attachment:ElectronicaBasica.pdf]]
 
+{{{#!wiki note
 
-
-*Pueden mandar comentarios (ya sea que encuentren errores, como tambien alguna crítica constructiva) a: martinezequielmolina@gmail.com
-
+Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
+}}}
 == CdR 2012 ==

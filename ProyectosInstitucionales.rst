@@ -8,7 +8,7 @@ Propuestas de proyectos y sus responsables:
 
 [[MiniLab| Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
 
-[[RSL| Robot Seguidor de Línea]]: Gustavo M. Spessot
+[[RSL| Robot Seguidor de Línea]]:  Grupo RSL.
 
 [[VRTD| Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
 

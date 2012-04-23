@@ -5,8 +5,8 @@
 = Equipo =
 '''Responsable del proyecto'''
 
- * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>> <<BR>>
- . ''Los  que estén interesados en formar parte del proyecto, envien mail al responsable del proyecto, solicitando ser incluidos en la lista de mails  donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]].
+ * Grupo RSL
+ . ''Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]].
  * [[GruposRSL|Grupos de Trabajo]] para el desarrollo de los RSL velocistas!
 
 = Noticias importantes y actividades =

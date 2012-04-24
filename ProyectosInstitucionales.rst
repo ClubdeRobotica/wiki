@@ -4,7 +4,7 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[Intro_Lab-Electr| Proyecto Electrónica Básica]]: Comisión Directiva. ¡En construcción!
+[[Intro_Lab-Electr| Proyecto Electrónica Básica]]: Comisión Directiva. 
 
 [[MiniLab| Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
 

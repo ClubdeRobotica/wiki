@@ -10,7 +10,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 
 Alguno de los programas a utilizar son :
 
-* '''Simulación de circuitos ''': [[http://wikilinexedu.educarex.es/mediawiki/index.php/Qucs|Qucs]].
+* '''Simulación de circuitos ''': [[http://wikilinexedu.educarex.es/mediawiki/index.php/Qucs|Qucs]]. y [[http://es.wikipedia.org/wiki/KTechlab|Ktechlab]]
 
 * '''Diseño de circuito impreso (PCB) ''': [[http://es.wikipedia.org/wiki/Kicad|kicad]].
 

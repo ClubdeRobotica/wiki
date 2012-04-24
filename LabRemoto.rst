@@ -1,6 +1,6 @@
 = Laboratorio Remoto =
 
-Desarrollador: Alejandro Cerutti <<MailTo( cerutti.alejandro@gmail.com )>>
+Desarrollador: vacante!
 
 == Introducción ==
 

@@ -22,8 +22,15 @@ Si tenes curiosidad sobre Software Libre, el día 28 de Abril se lleva a cabo el
 ----
 
 = Material del curso =
-* Electrónica Básica : Parte 1. [[attachment:ElectronicaBasica.pdf]]
 
+* Electrónica Básica : Parte 1 : 
+                                 * Conceptos básicos.
+                                 * Ley de ohm.
+                                 * Uso del multimetro 
+[[attachment:ElectronicaBasica.pdf]]
+
+  
+----
 {{{#!wiki note 
 Los documentos del Proyecto MiniLab son un muy buen material de soporte para el curso de electrónica y laboratorio. Los archivos pueden descargarse desde [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|aquí]].
 

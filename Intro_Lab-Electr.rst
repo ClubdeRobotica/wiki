@@ -27,6 +27,7 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Electrónica Básica : [[attachment:ElectronicaBasica.pdf]]
 
+* Guía para soldar :   [[attachment:¿Como soldar ?]]
   
 ----
 {{{#!wiki note 

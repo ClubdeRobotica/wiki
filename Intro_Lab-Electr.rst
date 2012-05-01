@@ -14,10 +14,7 @@ Alguno de los programas a utilizar son :
 
 * '''Diseño de circuito impreso (PCB) ''': [[http://es.wikipedia.org/wiki/Kicad|kicad]].
 
-{{{#!wiki note 
-Si tenes curiosidad sobre Software Libre, el día 28 de Abril se lleva a cabo el [[http://www.installfest.net/FLISOL2012/Argentina/Cordoba?highlight=%28\bCategoryCity\b%29|Flisol 2012]], donde se realizan charlas y se instalan algunas distribuciones de Linux.  
 
-}}}
 
 ----
 
@@ -30,6 +27,10 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 * Guía para soldar :   [[attachment:¿Como soldar ?]]
   
 ----
+{{{#!wiki note 
+A todos aquellos que no recibieron ningún correo del CdR por favor realicen la suscripción  [[http://cdr.usla.org.ar/Miembros|aqui]] para poder estar al tanto de las novedades.
+
+}}}
 {{{#!wiki note 
 Los documentos del Proyecto MiniLab son un muy buen material de soporte para el curso de electrónica y laboratorio. Los archivos pueden descargarse desde [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|aquí]].
 

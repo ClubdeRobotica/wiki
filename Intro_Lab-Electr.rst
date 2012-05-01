@@ -23,11 +23,9 @@ Si tenes curiosidad sobre Software Libre, el día 28 de Abril se lleva a cabo el
 
 = Material del curso =
 
-* Electrónica Básica : Parte 1 : 
-                                 * Conceptos básicos.
-                                 * Ley de ohm.
-                                 * Uso del multimetro 
-[[attachment:ElectronicaBasica.pdf]]
+Ya está disponible la '''versión completa''' del material creado para este curso.
+
+* Electrónica Básica : [[attachment:ElectronicaBasica.pdf]]
 
   
 ----

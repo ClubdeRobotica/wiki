@@ -10,7 +10,7 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
    1. Todos los Martes --(y jueves)-- de 16hs a 18hs.
    1. Todos los Viernes de 16:15hs a 18:15hs mientras dure el Curso de Electrónica Básica y Laboratorio. 
 
-Nota: Las reuniones se confirman por la lista de correo.
+'''Nota''': Las reuniones se confirman por la lista de correo.
 
 Se planea para el mes de Octubre un gran encuentro: feria, demostración, láminas. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 

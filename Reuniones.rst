@@ -4,7 +4,7 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
 '''Reunión semanal del CdR (durante el cuatrimestre):'''
 
----> Dónde:  Laboratorio Central de Electrónica (anexo) o Laboratorio de Técnicas Digitales - UTN-FRC
+---> Dónde:  Laboratorio Central de Electrónica (anexo) y/o Laboratorio de Técnicas Digitales - UTN-FRC
 
 ---> Cuándo: 
    1. Todos los Martes --(y jueves)-- de 16hs a 18hs.

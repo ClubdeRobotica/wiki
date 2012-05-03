@@ -13,12 +13,18 @@ Alguno de los programas a utilizar son :
 * '''Simulación de circuitos ''': [[http://wikilinexedu.educarex.es/mediawiki/index.php/Qucs|Qucs]]. y [[http://es.wikipedia.org/wiki/KTechlab|Ktechlab]]
 
 * '''Diseño de circuito impreso (PCB) ''': [[http://es.wikipedia.org/wiki/Kicad|kicad]].
+----
+== Reuniones ==
 
+* '''Día''' : Viernes.
 
+* '''Horario''' : 16:00 - 17:50Hs.
+
+* '''Lugar''' : Laboratorio de Técnicas Digitales (LTD).
 
 ----
 
-= Material del curso =
+== Material del curso ==
 
 Ya está disponible la '''versión completa''' del material creado para este curso.
 

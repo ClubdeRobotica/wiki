@@ -1,7 +1,7 @@
 = Proyecto Electrónica Básica y Laboratorio =
 
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:logocursobasico.jpg||width=500}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 
 El proyecto Electrónica Básica tiene como objetivo familiarizar a los alumnos sobre los conceptos básicos necesarios para enfrentar un proyecto de electrónica inicial como así también sobre el manejo de herramientas tanto informáticas como de laboratorio (diseño por computadora, simulación, soldador, estaño, flux, placas, herramientas, multímetro, osciloscopio, insumos, etc...).
 

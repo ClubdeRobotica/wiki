@@ -46,4 +46,7 @@ Los documentos del Proyecto MiniLab son un muy buen material de soporte para el 
 
 Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 }}}
+----
+== Responsables del proyecto ==
+
 == CdR 2012 ==

@@ -48,5 +48,17 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 }}}
 ----
 == Responsables del proyecto ==
+''Coordinador'' 
+
+* Ezequiel Molina .
+
+'' Colaboradores '' 
+
+* Nicolás Ignacio.
+
+* Dario Martín .
+
+* Guillermo Mezza.
+
 
 == CdR 2012 ==

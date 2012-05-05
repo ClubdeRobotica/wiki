@@ -48,11 +48,11 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 }}}
 ----
 == Responsables del proyecto ==
-''Coordinador'' 
+'''Coordinador'''
 
 * Ezequiel Molina .
 
-'' Colaboradores '' 
+'''Colaboradores '''
 
 * Nicolás Ignacio.
 

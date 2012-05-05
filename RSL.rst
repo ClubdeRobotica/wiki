@@ -5,7 +5,8 @@
 = Equipo =
 '''Responsable del proyecto'''
 
- * Grupo RSL
+ * Germán Ontivero
+ * Marcos Ciceri
  . ''Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]].
  * [[GruposRSL|Grupos de Trabajo]] para el desarrollo de los RSL velocistas!
 

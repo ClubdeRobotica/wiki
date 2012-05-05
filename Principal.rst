@@ -14,9 +14,9 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 {{{#!wiki note
  
-''' Viernes 04 de Mayo juntada proyecto: "[[RSL|RSL]]" LCE Anexo - UTN-FRC 16:15hs -> 18:15h *** A confirmar!'''
+''' Viernes 08 de Mayo juntada proyecto: "[[RSL|RSL]]" LCE Anexo - UTN-FRC 16:15hs -> 18:15h'''
 
-''' Viernes 04 de Mayo curso: "[[Intro_Lab-Electr|Curso Electrónica Básica]]" LTD - UTN-FRC 16:15hs -> 18:15hs'''
+''' Viernes 11 de Mayo curso: "[[Intro_Lab-Electr|Curso Electrónica Básica]]" LTD - UTN-FRC 16:15hs -> 18:15hs'''
 
 }}}
 

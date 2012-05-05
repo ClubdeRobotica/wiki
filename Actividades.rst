@@ -1,6 +1,5 @@
 == Actividades ==
 
-[[Reuniones|Reuniones]] |
 [[CicloFormacion|Ciclo de formación]] |
 [[Infraestructura|Trabajos de Infraestructura]]
 

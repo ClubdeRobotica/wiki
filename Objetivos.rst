@@ -1,11 +1,12 @@
 == Objetivos ==
 
-=== Propuesta para el 2011: ===
+=== Propuesta para el 2012: ===
 
 PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos del 2011 pendientes)
 
-   1. xxx
-   1. yyy
+   1. Cerrar una versión funcional repetible del RSL;
+   1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general;
+   1. Trabajar en los pendientes del año 2010 y el 2012;
 
 === Propuesta para el 2011: ===
 

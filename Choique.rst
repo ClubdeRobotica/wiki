@@ -166,3 +166,5 @@ Bajó al suelo!!!!
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:Imagen006-b.jpg||width="350"}} ||
+
+Nota: El inclinómetro (adxl) no es necesario para el funcionamiento del RSL. Es sólo un complemento.

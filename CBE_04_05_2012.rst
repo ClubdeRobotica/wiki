@@ -1,8 +1,11 @@
-Introducción a Kicad y un poco de Diodos
+'''Introducción a Kicad y un poco de Diodos'''
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300320.JPG||width=500}} ||
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300321.JPG||width=500}} ||
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300323.JPG||width=500}} ||
+ 
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300320.JPG||width=400}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300321.JPG||width=400}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300323.JPG||width=400}} ||
+
+* Explicacion a cargo de Ezequiel Molina
 
 
    

@@ -15,7 +15,7 @@ UTN-FRC
 
 Se planea para el mes de Octubre un gran encuentro: feria, demostración, láminas. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 
-== Próximas reuniones: == (notables)
+== Próximas reuniones (notables): ==
 
 '''* Viernes 13 de Abril''' de 16hs a 20hs (dos turnos), Laboratorio Central de Electrónica (anexo) UTN-FRC
 ''Temario:''

@@ -4,11 +4,11 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[Intro_Lab-Electr| Proyecto Electrónica Básica]]: Comisión Directiva. 
+[[Intro_Lab-Electr| Proyecto Electrónica Básica]]: Martín Ezequiel Molina 
 
 [[MiniLab| Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
 
-[[RSL| Robot Seguidor de Línea]]:  Grupo RSL.
+[[RSL| Robot Seguidor de Línea]]:  Germán Ontivero.
 
 [[VRTD| Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
 

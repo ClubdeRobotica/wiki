@@ -2,9 +2,9 @@
 
 == Reuniones ==
 
-Horarios : '''Miercoles de 18hs a 20hs'''
+Horarios : '''Martes de 16:15hs a 18:15hs'''
 
-Lugar: '''LTD UTN-FRC'''
+Lugar: '''LCE Anexo UTN-FRC'''
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:choique.jpg||width="250"}} ||
 

@@ -1,6 +1,15 @@
- Cambiamos el nombre del grupo NiEz por '''Bourbaki''' 
+= Bourbaki =
 
-== Estado del Proyecto  ==
+
+== Responsables del proyecto ==
+ 
+ * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com )>>
+ 
+ 
+
+ * Nicolás Ignacio <<MailTo(completar)>>
+
+=== Estado del Proyecto  ===
 Desarrollado en un 80 % 
 === Etapa de Alimentación ===
 * Batería de 9V con un regulador 7805.
@@ -76,6 +85,7 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 ======== Fotos ========
 
+
 * Primeras placas de sensores y potencia.
 
  Desarrolladas con el software para creación de circuitos impresos [[http://www.lis.inpg.fr/realise_au_lis/kicad/Kicad_files/LogicielKicad_es.htm|Kicad]]
@@ -83,25 +93,22 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301701.JPG||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301701.JPG||width="300"}} ||
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301727.JPG||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6301727.JPG||width="300"}} ||
 
 
 
 
 * Pre-ensamblado 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:montaje.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:montaje.jpg||width="300"}} ||
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6302911.JPG||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:S6302911.JPG||width="300"}} ||
 
 
 
-========= Responsables del proyecto =========
- 
- * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com )>>
- 
- 
 
- * Nicolás Ignacio 
+========= Últimos cambios =========
+
+* Completar con los últimos cambios realizados ! 

@@ -1,1 +1,5 @@
 Introducción a Kicad y un poco de Diodos
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:Folleto-MiniLab-Op1.jpg||width=500}} ||

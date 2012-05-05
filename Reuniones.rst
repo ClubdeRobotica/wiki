@@ -4,13 +4,10 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
 '''Reuniones semanales del CdR:'''
 
----> Dónde:  
-   1. Laboratorio Central de Electrónica (anexo) y/o 
-   1. Laboratorio de Técnicas Digitales - UTN-FRC
+---> Dónde/Cuándo:  
+   1. Laboratorio Central de Electrónica (anexo) / Todos los Martes --(y jueves)-- de 16:15hs a 18:15hs.
 
----> Cuándo: 
-   1. Todos los Martes --(y jueves)-- de 16:15hs a 18:15hs.
-   1. Todos los Viernes de 16:15hs a 18:15hs mientras dure el Curso de Electrónica Básica y Laboratorio. 
+   1. Laboratorio de Técnicas Digitales - UTN-FRC / Todos los Viernes de 16:15hs a 18:15hs mientras dure el Curso de Electrónica Básica y Laboratorio.
 
 '''Nota''': Las reuniones se confirman por la lista de correo.
 

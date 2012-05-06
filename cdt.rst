@@ -1,5 +1,5 @@
 == Charlas de Divulgación Tecnológicas ==
-Esta sección esta orientada a asentar la información de las charlas que se realizan los días lunes a las 18.15hs a 20.15hs en el Laboratorio de Técnicas Digitales UTN-FRC; con el fin de informar y compartir conocimientos. Cada Charla de Divulgación esta dada por los miembros del CdR que se ofrecen; en general los encargados son personas que están aprendiendo sobre un tema en particular y desean compartirlo.
+Esta sección esta orientada a asentar la información de las charlas que se realizan los días --(lunes a las 18.15hs a 20.15hs)-- en el --(Laboratorio de Técnicas Digitales UTN-FRC)--; con el fin de informar y compartir conocimientos. Cada Charla de Divulgación esta dada por los miembros del CdR que se ofrecen; en general los encargados son personas que están aprendiendo sobre un tema en particular y desean compartirlo.
 
 === Documentación ===
 

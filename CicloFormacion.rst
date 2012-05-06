@@ -14,7 +14,7 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 
 '''En marcha:'''
 
-    [CBE|Intro_Lab-Electr]
+    [[Intro_Lab-Electr|CBE]]
 
 '''Próximamente:'''
 

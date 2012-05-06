@@ -14,7 +14,7 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
 
 '''En marcha:'''
 
-    Actualmente no hay actividades de formación presenciales en marcha. Retomaremos a partir del 03/2011
+    [CBE|Intro_Lab-Electr]
 
 '''Próximamente:'''
 

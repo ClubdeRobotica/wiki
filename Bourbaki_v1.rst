@@ -7,7 +7,7 @@
  
  
 
- * Nicolás Ignacio <<MailTo(completar)>>
+ * Nicolás Ignacio <<MailTo(nnico@cdr.usla.org.ar)>>
 
 === Estado del Proyecto  ===
 Desarrollado en un 80 % 

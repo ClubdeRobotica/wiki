@@ -9,6 +9,10 @@
 
  * Nicolás Ignacio <<MailTo(nnico@cdr.usla.org.ar)>>
 
+
+ 
+ * Facundo Vicente <<MailTo(facu_22761@homail.com)>>
+
 === Estado del Proyecto  ===
 Desarrollado en un 80 % 
 === Etapa de Alimentación ===

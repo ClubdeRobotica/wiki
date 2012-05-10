@@ -4,7 +4,7 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 * Me interesa aplicar electrónica en robótica, y la programación de microcontroladores. También estoy muy interesado en mejorar nuestro   sector de la wiki del Club.
 
-'''''Germán Ontivero'''''     gerbonti377@gmail.com
+'''''Germán Ontivero'''''     gerbonti377@cdr.usla.org.ar
 
 * Estoy con ganas de aprender a manejar los microcontroladores y casi todas las ramas de electronica aplicables a la robotica, ademas me interesa aprender un poco de mecanica.
 

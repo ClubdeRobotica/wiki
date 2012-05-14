@@ -119,3 +119,6 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
 
 ========== Documentación útil ==========
+
+
+* Hoja de datos L293B: [[attachment:L293b.pdf]]

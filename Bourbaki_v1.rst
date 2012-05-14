@@ -74,8 +74,15 @@ Circuito que nos permitirá el manejo de los motores.
  
 V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 
+{{{#!wiki note 
 
- * El documento esta creado en [[http://es.wikipedia.org/wiki/LaTeX|Latex]], el cual es un sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos; facilitando así la inserción de formulas,gráficos y tablas.
+El documento esta creado en [[http://es.wikipedia.org/wiki/LaTeX|Latex]], el cual es un sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos; facilitando así la inserción de formulas,gráficos y tablas.
+
+Es importante que todos generemos este documento para pulir errores.
+
+}}}
+
+ 
 
 ======= Descargar PCB's del Proyecto =======
 

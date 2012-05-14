@@ -121,4 +121,7 @@ V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]
 ========== Documentación útil ==========
 
 
-* Hoja de datos L293B: [[attachment:L293b.pdf]]
+* Hoja de datos L293B : [[attachment:L293b.pdf]]
+
+
+* Hoja de datos del sensor CNY70 :[[attachment:cny70.pdf]]

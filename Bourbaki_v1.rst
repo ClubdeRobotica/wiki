@@ -11,7 +11,7 @@
 
 
  
- * Facundo Vicente <<MailTo(facu_22761@homail.com)>>
+ * Facundo Vicente <<MailTo(facuvicente@cdr.usla.org.ar)>>
 
 === Estado del Proyecto  ===
 Desarrollado en un 80 % 

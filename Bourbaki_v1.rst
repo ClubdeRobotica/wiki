@@ -64,6 +64,15 @@ Circuito que nos permitirá el manejo de los motores.
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:l293-3D.png||width="400"}} ||
 
 
+
+* Fuente de alimentación  
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:placa-rsl-fuente.jpeg||width="500"}} ||
+
+
+
+
+
 ====== Móvil ======
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="450"}} ||

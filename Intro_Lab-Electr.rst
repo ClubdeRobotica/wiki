@@ -46,8 +46,35 @@ A todos aquellos que no recibieron ningún correo del CdR por favor realicen la 
 Los documentos del Proyecto MiniLab son un muy buen material de soporte para el curso de electrónica y laboratorio. Los archivos pueden descargarse desde [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|aquí]].
 
 
+
 Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 }}}
+----
+
+== Histórico de Reuniones ==
+
+* 01-06-12
+           => Presentación oficial del CdR .
+           
+           => Repaso Diodos, Rectificadores de media onda y onda completa.
+           
+           => Capacitores y Reguladores de tensión (78xx y LM317)
+
+* 25-05-12 
+
+           => Feriado conmemoración de la Revolución de Mayo
+
+* 18-05-12 
+   
+          =>
+
+* 11-05-12 
+
+          =>
+
+* 04-05-12 
+
+          =>
 ----
 == Responsables del proyecto ==
 '''Coordinador'''

@@ -35,7 +35,16 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Guía para soldar :   [[attachment:¿Como soldar ?]]
 
-* '''Trabajo Practico N°1''': [[attachment:TP1.pdf]]
+* Trabajo Practico N°1: [[attachment:TP1.pdf]]
+
+==== Hojas de característica ====
+
+-Diodos rectificadores (1N4002-1N4007):[[attachment:1N4007.pdf]]
+
+-Reguladores de la serie 78XX : [[attachment:78xx.pdf]]
+
+-Regulador LM317 : [[attachment:LM317.pdf]]
+
   
 ----
 {{{#!wiki note 

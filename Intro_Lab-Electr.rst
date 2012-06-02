@@ -53,28 +53,28 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 
 == Histórico de Reuniones ==
 
-* 01-06-12
+'''* 01-06-12'''
            => Presentación oficial del CdR .
            
            => Repaso Diodos, Rectificadores de media onda y onda completa.
            
-           => Capacitores y Reguladores de tensión (78xx y LM317)
+           => Capacitores y Reguladores de tensión (78xx y LM317).
 
-* 25-05-12 
+'''* 25-05-12 '''
 
-           => Feriado conmemoración de la Revolución de Mayo
+           => Feriado conmemoración de la Revolución de Mayo.
 
-* 18-05-12 
+'''* 18-05-12 '''
    
-          =>
+          => Ley de Ohm. Practico en Protoboard. 
 
-* 11-05-12 
+'''* 11-05-12 '''
 
-          =>
+          => Ley de Ohm .Software Libre para electrónica : Kicad,Katechlab,Qucs.
 
-* 04-05-12 
+'''* 04-05-12 '''
 
-          =>
+          => Ley de Ohm : Calculo de Resistencia equivalente, Intensidad y Tensión .
 ----
 == Responsables del proyecto ==
 '''Coordinador'''

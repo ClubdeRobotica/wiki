@@ -35,7 +35,9 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Guía para soldar :   [[attachment:¿Como soldar ?]]
 
-* Trabajo Practico N°1: [[attachment:TP1.pdf]]
+* Trabajo Práctico N°1: [[attachment:TP1.pdf]]
+
+'''* Trabajo Práctico N°2:''' [[attachment:TP2.pdf]]
 
 ==== Hojas de característica ====
 

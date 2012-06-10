@@ -64,6 +64,10 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 
 == Histórico de Reuniones ==
 
+
+'''* 08-06-12'''
+           => Sin actividad .(Pendiente el TP2).
+
 '''* 01-06-12'''
            => Presentación oficial del CdR .
            

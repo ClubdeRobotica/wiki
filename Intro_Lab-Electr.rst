@@ -37,8 +37,9 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Trabajo Práctico N°1: [[attachment:TP1.pdf]]
 
-'''* Trabajo Práctico N°2:''' [[attachment:TP2.pdf]]
+* Trabajo Práctico N°2: [[attachment:TP2.pdf]]
 
+* Fuente de alimentación : '''EN CONSTRUCCIÓN '''
 ==== Hojas de característica ====
 
 -Diodos rectificadores (1N4002-1N4007):[[attachment:1N4007.pdf]]
@@ -49,6 +50,10 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
   
 ----
+
+
+
+
 {{{#!wiki note 
 A todos aquellos que no recibieron ningún correo del CdR por favor realicen la suscripción  [[http://cdr.usla.org.ar/Miembros|aqui]] para poder estar al tanto de las novedades.
 
@@ -64,7 +69,13 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 
 == Histórico de Reuniones ==
 
+'''* 29-06-12'''
+           => Receso de invierno   {{{#!wiki note 
+Recuerden que la actividad durante el receso es diseñar la fuente en Kicad con lo expuesto la ultima reunión.
+}}}
 
+'''* 15-06-12'''
+           => Presentación del circuito de la fuente. 
 '''* 08-06-12'''
            => Sin actividad .(Pendiente el TP2).
 

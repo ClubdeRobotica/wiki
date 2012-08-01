@@ -18,6 +18,10 @@ Alguno de los programas a utilizar son :
 * '''Diseño de circuito impreso (PCB) ''': [[http://es.wikipedia.org/wiki/Kicad|kicad]].
 ----
 == Reuniones ==
+{{{#!wiki note 
+''' Reinicio de actividades el día Viernes 03 de Agosto .'''
+
+}}}
 
 * '''Día''' : Viernes.
 

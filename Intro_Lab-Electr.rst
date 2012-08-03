@@ -43,7 +43,11 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Trabajo Práctico N°2: [[attachment:TP2.pdf]]
 
-* Fuente de alimentación : '''EN CONSTRUCCIÓN '''
+* Fuente de alimentación : '''[[attachment:fuente_cdr_cbe.pdf]] '''
+{{{#!wiki note 
+El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcionamiento del circuito y una explicación de la construcción de la placa.
+}}}
+
 ==== Hojas de característica ====
 
 -Diodos rectificadores (1N4002-1N4007):[[attachment:1N4007.pdf]]

@@ -35,8 +35,6 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Electrónica Básica : [[attachment:ElectronicaBasica.pdf]]
 
-* Guía para soldar :   [[attachment:¿Como soldar ?]]
-
 * Trabajo Práctico N°1: [[attachment:TP1.pdf]]
 
 * Trabajo Práctico N°2: [[attachment:TP2.pdf]]
@@ -45,8 +43,12 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 {{{#!wiki note 
 El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcionamiento del circuito y una explicación de la construcción de la placa.
 }}}
+
+=== Información útil ===
+
 * Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]]
 
+* Guía para soldar :   [[attachment:¿Como soldar ?]]
 
 ==== Hojas de característica ====
 

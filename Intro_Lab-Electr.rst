@@ -18,10 +18,8 @@ Alguno de los programas a utilizar son :
 * '''Diseño de circuito impreso (PCB) ''': [[http://es.wikipedia.org/wiki/Kicad|kicad]].
 ----
 == Reuniones ==
-{{{#!wiki note 
-''' Reinicio de actividades el día Viernes 03 de Agosto .'''
 
-}}}
+
 
 * '''Día''' : Viernes.
 
@@ -47,6 +45,8 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 {{{#!wiki note 
 El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcionamiento del circuito y una explicación de la construcción de la placa.
 }}}
+* Tutorial básico Kicad : 
+
 
 ==== Hojas de característica ====
 
@@ -76,6 +76,9 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 ----
 
 == Histórico de Reuniones ==
+
+'''* 03-08-12'''
+           => Reinicio de actividades, diseño esquemático fuente de alimentación.
 
 '''* 29-06-12'''
            => Receso de invierno   {{{#!wiki note 

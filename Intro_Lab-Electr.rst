@@ -45,7 +45,7 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 {{{#!wiki note 
 El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcionamiento del circuito y una explicación de la construcción de la placa.
 }}}
-* Tutorial básico Kicad : 
+* Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]]
 
 
 ==== Hojas de característica ====

@@ -13,7 +13,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 {{{#!wiki note
 
-''' Martes 19 de Junio juntada proyecto: "[[RSL|RSL]]" LCE-Anexo - UTN-FRC 16:15hs '''
+''' Día Martes, juntada proyecto: "[[RSL|RSL]]" LCE-Anexo - UTN-FRC 16:15hs '''
 
 
 }}}

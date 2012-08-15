@@ -79,6 +79,12 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 
 == Histórico de Reuniones ==
 
+'''* 10-08-12'''
+           => Diseño esquemático fuente de tensión (prácticamente finalizado).
+{{{#!wiki note 
+Es importante que para el Viernes 17 de Agosto se haya terminado con el esquemático y avanzado al menos un 30% con el PCB.
+}}}
+
 '''* 03-08-12'''
            => Reinicio de actividades, diseño esquemático fuente de alimentación.
 

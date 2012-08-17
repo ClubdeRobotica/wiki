@@ -11,7 +11,7 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
 UTN-FRC
 
-'''Nota''': Las reuniones se confirman por la lista de correo.
+'''Nota''': Las reuniones se confirman por la lista de correo y/o el grupo en cara libro.
 
 Se planea para el mes de Octubre un gran encuentro: feria, demostración, láminas. Cada grupo presentaría lo que hizo en el año, las ideas que tiene, y se haría una pequeña demostración de funcionamiento.
 

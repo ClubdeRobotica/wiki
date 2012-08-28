@@ -11,3 +11,6 @@
 [[Demo 09 Noviembre 2011]]
 
 [[Reunión 04 Mayo 2012 CBE]]
+
+
+[[Visita 2° Competencia Nacional de Robótica .UTN-San Francisco ]]

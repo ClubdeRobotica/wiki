@@ -22,6 +22,8 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 
 * '''Lugar''' : Laboratorio de Técnicas Digitales (LTD).
 
+
+
 ----
 
 == Material del curso ==

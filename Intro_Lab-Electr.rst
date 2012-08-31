@@ -92,7 +92,7 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 '''* 31-08-12'''
            => Diseño PCB finalizado.
 '''* 24-08-12'''
-           => Sin actividad, Competencia de Robótica en San Francisco.
+           => Sin actividad, [[http://cdr.usla.org.ar/Visita%202%C2%B0%20Competencia%20Nacional%20de%20Rob%C3%B3tica%20.UTN-San%20Francisco|Competencia Nacional de Robótica en San Francisco]].
 
 '''* 10-08-12'''
            => Diseño esquemático fuente de tensión (prácticamente finalizado).

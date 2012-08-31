@@ -89,6 +89,10 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 ----
 
 == Histórico de Reuniones ==
+'''* 31-08-12'''
+           => Diseño PCB finalizado.
+'''* 24-08-12'''
+           => Sin actividad, Competencia de Robótica en San Francisco.
 
 '''* 10-08-12'''
            => Diseño esquemático fuente de tensión (prácticamente finalizado).

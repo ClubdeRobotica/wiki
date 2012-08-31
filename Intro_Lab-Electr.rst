@@ -11,11 +11,6 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]]. 
 
-Alguno de los programas a utilizar son :
-
-* '''Simulación de circuitos ''': [[http://wikilinexedu.educarex.es/mediawiki/index.php/Qucs|Qucs]]. y [[http://es.wikipedia.org/wiki/KTechlab|Ktechlab]]
-
-* '''Diseño de circuito impreso (PCB) ''': [[http://es.wikipedia.org/wiki/Kicad|kicad]].
 ----
 == Reuniones ==
 
@@ -46,9 +41,25 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 
 === Información útil ===
 
-* Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]]
+* Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]].
 
-* Guía para soldar :   [[attachment:¿Como soldar ?]]
+* Guía para soldar :   [[attachment:¿Como soldar ?]].
+
+===== Software de utilidad =====
+
+
+* Suite ofimática : [[http://es.wikipedia.org/wiki/LibreOffice|LibreOffice]].
+
+* Composición de textos :  [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]].
+
+* Editor gráfico para LaTeX : [[http://es.wikipedia.org/wiki/LyX|LyX]].
+
+* Editor de texto para LaTeX : [[http://es.wikipedia.org/wiki/Texmaker|Texmaker]]
+
+* Simulación de circuitos : [[http://wikilinexedu.educarex.es/mediawiki/index.php/Qucs|Qucs]]. y [[http://es.wikipedia.org/wiki/KTechlab|Ktechlab]]
+
+* Diseño de circuito impreso (PCB) : [[http://es.wikipedia.org/wiki/Kicad|kicad]].
+
 
 ==== Hojas de característica ====
 

@@ -43,6 +43,16 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
+''' Diseño PCB '''
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+
+
+{{{#!wiki note 
+Es a modo ilustrativo, la organización de los componentes es creatividad de cada uno .
+}}}
+
+
 === Información útil ===
 
 * Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]].

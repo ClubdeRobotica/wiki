@@ -12,3 +12,9 @@ Esta sección está destinada a compartir información sobre venta de productos 
 ''' Hobbies '''
 
 * [[http://www.surhobbies.com.ar/|Sur Hobbies]]
+
+----
+
+'''Baterías'''
+
+* [[http://www.esmrecargable.com.ar/index.php?osCsid=3afa3736b60ee1dbb06a02c69606f875|ESM]]

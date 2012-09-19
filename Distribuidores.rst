@@ -9,3 +9,6 @@ Esta sección está destinada a compartir información sobre venta de productos 
 * [[http://www.apys.com.ar/productos/motorreductores.html|AP&S ]]
 
 ----
+''' Hobbies '''
+
+* [[http://www.surhobbies.com.ar/|Sur Hobbies]]

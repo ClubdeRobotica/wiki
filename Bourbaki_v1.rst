@@ -14,6 +14,9 @@
  
  * Facundo Vicente <<MailTo(facuvicente@cdr.usla.org.ar)>>
 
+[[http://cdr.usla.org.ar/Bourbaki/v1|v1 (Sin microcontrolador)]]
+
+
 === Estado del Proyecto  ===
 Desarrollado en un 80 % 
 === Etapa de Alimentación ===

@@ -26,6 +26,7 @@ Los utilizamos para diferenciar la linea a seguir
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70esquema.svg||width="250"}} ||
+----
 PCB
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70pcb.png||width="250"}} ||
 
@@ -47,7 +48,7 @@ Este circuito lo utilizamos para amplificar la señal que recibimos de los senso
 
 
 
-
+----
 ===== Etapa de Potencia =====
 
 Circuito que nos permitirá el manejo de los motores.
@@ -65,7 +66,7 @@ Circuito que nos permitirá el manejo de los motores.
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:l293-3D.png||width="400"}} ||
 
 
-
+----
 * Fuente de alimentación  
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:placa-rsl-fuente.jpeg||width="500"}} ||
@@ -73,13 +74,13 @@ Circuito que nos permitirá el manejo de los motores.
 
 
 
-
+----
 ====== Móvil ======
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:movil.JPEG||width="450"}} ||
 
 * El plano fue creado con la herramienta de Dibujo de la suite gratuita de productividad personal de código abierto de producción de documentos y procesamiento de datos [[http://es.libreoffice.org/|LibreOffice]].
-
+----
 ======= Descargar Copia del Proyecto (En desarrollo) =======
  
 V 0.1 --> [[attachment:Seguidor_de_linea_Bourbaki.pdf]]

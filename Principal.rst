@@ -10,12 +10,11 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 == ¿Como participar? ==
  . En la sección  [[Contacto]] se puede acceder a los distintos medios de comunicación con los integrantes del CdR. Te esperamos!
+ . '' Día Martes, juntada proyecto: "[[RSL|RSL]]" LCE-Anexo - UTN-FRC 16:15hs ''
 
 {{{#!wiki note
 
 ''' Martes 23/10 16:15hs mini Demo de Proyectos del CdR" LCE-Anexo - UTN-FRC'''
-''' Día Martes, juntada proyecto: "[[RSL|RSL]]" LCE-Anexo - UTN-FRC 16:15hs '''
-
 
 }}}
 [[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes|Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]]

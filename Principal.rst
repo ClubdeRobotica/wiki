@@ -17,6 +17,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 ''' Martes 23/10 16:15hs mini Demo de Proyectos del CdR LCE-Anexo - UTN-FRC'''
 
 ''' Sábado 10/11 compe de robótica en Bahía Blanca. Éxito para los participantes!!!'''
+[[http://listas.usla.org.ar/pipermail/cdr/2012-November/001048.html]]
 
 }}}
 [[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes|Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]]

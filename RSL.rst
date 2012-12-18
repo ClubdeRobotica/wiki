@@ -12,7 +12,7 @@
 = Noticias importantes y actividades =
 * El martes 24 de Abril '''iniciamos las actividades del ciclo 2012'''. Nos reuniremos todos los martes en el laboratorio central de lectrónica, anexo, de 16:15hs a 18:15hs. Más adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. Los que no hayan anotado sus horarios envíen un mail a Germán Ontivero (ver mail en la [[ListaGrupoRSL|lista]]) especificando que días están disponibles y con ganas de juntarse.
 
-* El '''repositorio''' del proyecto está en svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk Si sólo se quiere navegar por los archivos se puede acceder al mirror de sólo lectura: http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL (se puede acceder a todos los archivos desde cualquier browser), pero ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
+* El '''repositorio''' del proyecto está en svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk --(Si sólo se quiere navegar por los archivos se puede acceder al mirror de sólo lectura: http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL (se puede acceder a todos los archivos desde cualquier browser), pero)-- ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
 
 * Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias
 

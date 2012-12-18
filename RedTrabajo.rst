@@ -5,7 +5,7 @@ La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
 
  * La wiki del CdR.
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
- * El Servidor principal SVN del CdR y su [[http://trac.usla.org.ar/cdr/browser/trunk/|mirror]].
+ * El Servidor principal SVN del CdR --(y su [[http://trac.usla.org.ar/cdr/browser/trunk/|mirror]].)--
  * El Servidor del [[LabRemoto|Laboratorio Remoto]] accesible por SSH (en etapa de proyecto!).
 
 === Servidores del CdR ===
@@ -16,13 +16,13 @@ Todos los servicios están en marcha. Si por algún motivo no está en línea o 
 
 El servidor SVN se utiliza para versionado (control de versiones[0][5]) de los archivos (código y documentación) del CdR.
 
-Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$), o por medio de un navegador como firefox si sólo se desean ver los archivos y no modificarlos [[http://trac.usla.org.ar/svn/cdr/trunk/| -- navegar archivos --]]
+Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kdesvn, qsvn o rapidsvn para Linux, o TortoiseSVN para Win$), --(o por medio de un navegador como firefox si sólo se desean ver los archivos y no modificarlos [[http://trac.usla.org.ar/svn/cdr/trunk/| -- navegar archivos --]])--
 
 Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit (subir cambios o nuevos archivos) hay que estar registrado con nombre de usuario y contraseña. Estos datos deberán ser solicitados por correo electrónico al [[Contacto|administrador]].
 
 Dirección del servidor para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal
 
-Para navegar por el repositorio (mirror, sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/ El mismo se encuentra en servicio continuo.
+--(Para navegar por el repositorio (mirror, sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/ El mismo se encuentra en servicio continuo.)--
 
 ==== Acceso SSH ====
 

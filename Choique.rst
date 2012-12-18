@@ -104,8 +104,10 @@ SVN para checkout:
 svn co svn://192.168.1.130/CdR-Principal/trunk/Proyectos/RSL/Choique/Hardware ./CdR_RSL-Choique-HW
 }}}
 
+
 --(Para sólo lectura:)--
 --(firefox http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL/Choique/Hardware)--
+
 
 Está disponible también la versión del esquemático en KiCAD. Como experiencia: es clave la buena gestión de las librerías y módulos!!!
 

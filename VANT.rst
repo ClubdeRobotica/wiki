@@ -183,9 +183,9 @@ Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiem
 
 '''Comunicación con GPS:'''
 
-Software disponible en el Servidor SVN del CdR (mirror de solo lectura, versión alpha):
+--(Software disponible en el Servidor SVN del CdR (mirror de solo lectura, versión alpha):
 
-http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/
+http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/)--
 
 
 === Links de interés: ===

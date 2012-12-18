@@ -24,7 +24,7 @@ Servidor SVN: Ejecutando el siguiente comando desde una consola se baja todo el 
 
 svn co svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR
 
-Una copia de sólo lectura del Proyecto CdR se puede ver en el mirror: http://trac.usla.org.ar/cdr/browser/trunk/
+--(Una copia de sólo lectura del Proyecto CdR se puede ver en el mirror: http://trac.usla.org.ar/cdr/browser/trunk/)--
 
 4º Información sobre las herramientas básicas, tanto materiales como intelectuales. Instrumental y herramientas recomendadas, material bibliográfico para la iniciación en la electrónica. Software: SO, filosofía del CdR (SL), programas recomendados, etc...
 

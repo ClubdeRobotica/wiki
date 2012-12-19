@@ -178,14 +178,14 @@ http://es.wikipedia.org/wiki/MIL-STD-1553
 {{{
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 }}}
-Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. Actualmente contamos con una [[http://cdrutnfrc.linuxsecured.net/index-cam.html|WebCam]] y un GPS en línea. Próximamente agregaremos actuadores.
+Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. --( Actualmente contamos con una [[http://cdrutnfrc.linuxsecured.net/index-cam.html|WebCam]] y un GPS en línea. Próximamente agregaremos actuadores. )--
 
 
 '''Comunicación con GPS:'''
 
---(Software disponible en el Servidor SVN del CdR (mirror de solo lectura, versión alpha):)--
+--( Software disponible en el Servidor SVN del CdR (mirror de solo lectura, versión alpha): )--
 
---(http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/)--
+--( http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/ )--
 
 
 === Links de interés: ===

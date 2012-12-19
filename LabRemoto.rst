@@ -11,11 +11,11 @@ El ''Laboratorio Remoto'' es un emprendimiento enmarcado en el ''Proyecto VANT''
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 }}}
 
-Por lo pronto contamos con una WebCam y un GPS en línea (a modo experimental). Próximamente agregaremos más señales y actuadores. La aplicación remota puede correr nativa en el servidor por medio de un túnel SSH.
+--( Por lo pronto contamos con una WebCam y un GPS en línea (a modo experimental). )-- Próximamente agregaremos más señales y actuadores. La aplicación remota puede correr nativa en el servidor por medio de un túnel SSH.
 
 ==== Link a las señales ====
 
-http://cdrutnfrc.linuxsecured.net/index-cam.html
+--( http://cdrutnfrc.linuxsecured.net/index-cam.html )--
 
 *** El servidor del LabRemoto se encuentra offline ***
 

@@ -17,13 +17,13 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, lámin
 
 == Próximas reuniones (notables): ==
 
-'''* Jueves 14 de Marzo''' de 16hs a 18hs, Laboratorio Central de Electrónica (anexo) UTN-FRC
+'''* Jueves 14 de Marzo 2013''' de 16hs a 18hs, Laboratorio Central de Electrónica (anexo) UTN-FRC
 ''Temario:''
 
  1. Reinicio actividades CdR.
  1. Definición día de reunión.
 
-'''* Viernes 13 de Abril''' de 16hs a 20hs (dos turnos), Laboratorio Central de Electrónica (anexo) UTN-FRC
+'''* Viernes 13 de Abril 2012''' de 16hs a 20hs (dos turnos), Laboratorio Central de Electrónica (anexo) UTN-FRC
 ''Temario:''
 
  1. Reinicio actividades CdR.
@@ -31,6 +31,6 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, lámin
  1. Bienvenida a los nuevos miembros del club.
 
 
-'''* Martes 17 de Abril re-lanzamiento proyectos: "[[RSL|RSL]]" LCE Anexo - UTN-FRC 16:15 Hs'''
+'''* Martes 17 de Abril 2012 re-lanzamiento proyectos: "[[RSL|RSL]]" LCE Anexo - UTN-FRC 16:15 Hs'''
 
-'''* Viernes 20 de Abril lanzamiento: "[[Intro_Lab-Electr|Curso Electrónica Básica]]" LCE Anexo - UTN-FRC 16:30 Hs'''
+'''* Viernes 20 de Abril 2012 lanzamiento: "[[Intro_Lab-Electr|Curso Electrónica Básica]]" LCE Anexo - UTN-FRC 16:30 Hs'''

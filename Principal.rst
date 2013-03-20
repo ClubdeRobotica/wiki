@@ -10,11 +10,11 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 == ¿Como participar? ==
  . En la sección  [[Contacto]] se puede acceder a los distintos medios de comunicación con los integrantes del CdR. Te esperamos!
- . '' Juntada Proyecto RSL: día a confirmar.''
+ . '' Juntada regular CdR 2013: todos los jueves de 16 a 18hs - LCE UTN-FRC.''
 
 {{{#!wiki note
 
-''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC'''
+''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC''' [[http://listas.usla.org.ar/pipermail/cdr/2013-March/001058.html]]
 
 ''' Sábado 10/11/2012 compe de robótica en Bahía Blanca. Éxito para los participantes!!!'''
 [[http://listas.usla.org.ar/pipermail/cdr/2012-November/001048.html]]

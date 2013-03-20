@@ -4,8 +4,10 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
 '''Reuniones semanales del CdR:'''
 
----> Dónde/Cuándo:  
-   1. --(Laboratorio Central de Electrónica (anexo) / Todos los Martes y jueves de 16:15hs a 18:15hs)-- a confirmar!.
+---> Dónde/Cuándo:
+
+   1. Laboratorio Central de Electrónica / Todos los jueves de 16:00hs a 18:00hs
+
 
    1. --(Laboratorio de Técnicas Digitales / Todos los Viernes de 16:15hs a 18:15hs mientras dure el Curso de Electrónica Básica y Laboratorio)-- a confirmar!.
 

@@ -26,3 +26,6 @@ Se planea para el mes de Octubre un gran encuentro: feria, demostración, lámin
  1. Definición día de reunión.
  1. Actividades para el 2013
  1. Coordinador General
+
+
+''' Minutas de la reunión:''' [[http://listas.usla.org.ar/pipermail/cdr/2013-March/001058.html]]

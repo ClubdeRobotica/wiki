@@ -15,27 +15,13 @@
 === Placa de control ===
  * Luis Vazquez <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>> -> Coordinador
  * Andres Gariboglio <<MailTo(andresgariboglio AT SPAMFREE gmail DOT com)>>
+
 === Driver de potencia ===
  * Gustavo Martinez Spessot <<MailTo(gdrake84 AT SPAMFREE gmail DOT com)>>
 
 === Sistema energético ===
  * Javier Gohlke <javiergohlke@gmail.com> -> Coordinador
  * Juan Ignacio Morales <morales.juan.ignacio@gmail.com>
-
-== Adherentes: a confirmar ==
-2011
- * Germán Ontivero <gerbonti377@gmail.com> -> Etapa de control;
- * Elias Caceres Mendoza <frodoelias@hotmail.com>
-
-2010
- * Martín Exequiel Rosas <martin.helldead@gmail.com> -> Placa control V1.1: Hardware;
- * Guillermo Gómez <guillegomez35@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
- * Frank D Schefer <frankdschefer@gmail.com> -> Sistema energético: Fuente conmutada (fase 2);
- * Gaspar Santamarina <gaspa.92@gmail.com> -> Sistema energético;
- * Jorge Montaño <jorge_jiv@hotmail.com> -> Sistema energético; 
- * Ezequiel Molina <martinezequielmolina@gmail.com> -> Sistema energético;
- * Jeremías Palacios <palacios.jeremias@gmail.com> -> Placa control V1.0: Hardware && Software;
- * Cristhian Mauricio Blas <mauricio_blas@hotmail.com> -> Sistema energético: Cargador de baterías;
 
 {{{#!wiki note
 Quienes ya estén vinculados a una tarea y no figuren en la lista anotense! Para poder editar la wiki tienen que crearse un usuario y contraseña, y pedir ser agregados al grupo de editores.

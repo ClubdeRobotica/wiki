@@ -8,7 +8,7 @@ Canales de comunicación con el CdR:
 
 "Club de Robótica UTN-FRC" <clubrobotica (dot) utnfrc (at) gmail (dot) com>
 
-Para solicitar la participación es necesario escribir un correo electrónioco con los datos solicitados [[Miembros|acá]].
+Para solicitar la participación es necesario escribir un correo electrónico con los datos solicitados [[Miembros|acá]].
 
 3º Cuando quieran compartir algo con toda la lista de correo (información útil, cursos, seminarios, conferencias, concursos, propuestas de proyectos formales, o discusiones sobre las propuestas actuales, etc... o consultas sobre el el CdR que puedan enriquecer al resto del grupo), entonces escribir directamente a la lista (siendo lo mas claros posible en el asunto y respetando dentro de lo posible el formato actual):
 

@@ -5,10 +5,14 @@ Demos CdR anteriores: [[Demo8Nov2010|año 2010]] -> [[Demo9Nov2011|año 2011]] -
 Agregarse como responsable junto a cada actividad (completar también las actividades)
 
  1. Día, horario, lugar (dependiendo del lugar será el nivel de formalidad) ---> '''Franco Becu, Darío Ochoa''';
+  1. Encargados del lugar: abrir, acomodar, colgar pósters, preparar equipos multimedia, preparar HW demo;
  1. Recepción: secretario (+info, listas, etc.), pines, calcos, remeras;
   1. Remera CdR ---> '''M. Ezequiel Molina''';
  1. Institucionales: Video ---> '''Nicolás Ignacio''';
  1. Institucionales: Presentación;
+ 1. Infraestructura:
+  1. Notebook #1: ---> '''Marco AR''';
+  1. Notebook #2:
  1. Afiches: para divulgación de la demo y convocatoria;
   1. Afiche divulgación Demo y Convocatoria: ---> '''Hernán Paez''';
  1. Pósters: de los proyectos para presentar en la demo;

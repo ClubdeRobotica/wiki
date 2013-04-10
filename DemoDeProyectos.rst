@@ -42,3 +42,6 @@ Agregarse como responsable junto a cada actividad (completar también las activi
 
 
 ''Modalidad'': 16:05hs se abren las puertas. A las 16:20hs y a las 18:20hs se da da la presentación y charla general. De 17 a 18hs y de 19 a 20hs será tiempo para charlar de forma personalizada sobre los proyectos, cursos y act. generales con los participantes. 
+
+
+Propuesta: Cambiar el nombre de: "Demo de proyectos y convocatoria" a: "Jornada de divulgación y convocatoria" .....

@@ -26,17 +26,18 @@ Agregarse como responsable junto a cada actividad (completar también las activi
   1. RSL ---> '''Franco Becu, Darío Ochoa''';
   1. RSL ---> '''Germán Ontivero''';
   1. SUMO ---> gestión/contacto a cargo de '''Germán Ontivero''';
- 1. Actividades: 
+ 1. Desarrollo/actividades de la charla: 
   1. Historia, objetivos, filosofía;
-  1. Comentarios sobre las reuniones sociales;
   1. Viajes, competencias;
-  1. Actividades regulares:
-   1. Proyectos;
+  1. Comentarios sobre las reuniones sociales;
+  1. Divulgación de las actividades regulares:
+   1. Proyectos: RSL, SUMO, VRTD;
    1. Cursos: CBE (Electr.+KiCAD) ---> '''Franco Becu, Darío Ochoa''' ;
-   1. Infraestructura;
-   1. Metodología;
-  1. Preguntas?
-  1. Propuesta/invitación a participar del CBE y del CdR como miembros activos;
+   1. Cursos: MiniLab
+   1. Infraestructura: SVN, Wiki, Lista, Face;
+   1. Metodología de trabajo;
+  1. Preguntas/comentarios?
+  1. Propuesta/invitación a participar del CBE y del CdR como miembros activos (proy. RSL);
  1. CONVOCATORIA: por email, por face, por lista, afiches, pasar por los cursos;
 
 

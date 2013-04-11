@@ -5,8 +5,8 @@ Demos CdR anteriores: [[Demo8Nov2010|año 2010]] -> [[Demo9Nov2011|año 2011]] -
 Agregarse como responsable junto a cada actividad (completar también las actividades)
 
  1. Día, horario, lugar (dependiendo del lugar será el nivel de formalidad) ---> '''Franco Becu, Darío Ochoa''';
-  1. Lugar: Aula Magna
-  1. Día: Jueves 25/04 - Confirmado -;
+  1. Lugar: '''Aula Magna'''
+  1. Día: '''Jueves 25/04 - Confirmado'''
   1. Horario: de 16 a 20hs - tentativo -;
   1. Encargados del lugar: abrir, acomodar, colgar pósters, preparar equipos multimedia, preparar HW demo;
  1. Recepción: secretario (+info, listas, etc.), pines, calcos, remeras;

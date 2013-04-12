@@ -10,7 +10,7 @@ Agregarse como responsable junto a cada actividad (completar también las activi
   1. Horario: de 16 a 20hs - tentativo -;
   1. Encargados del lugar: abrir, acomodar, colgar pósters, preparar equipos multimedia, preparar HW demo;
  1. Recepción: secretario (+info, listas, etc.), pines, calcos, remeras;
-  1. RemeraCdR ---> '''M. Ezequiel Molina''';
+  1. [[RemeraCdR]] ---> '''M. Ezequiel Molina''';
  1. Institucionales: Video ---> '''Nicolás Ignacio''';
  1. Institucionales: Presentación;
  1. Infraestructura:

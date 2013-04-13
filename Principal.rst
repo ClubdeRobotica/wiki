@@ -14,7 +14,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 {{{#!wiki note
 
-''' Jornada de puertas abiertas y convocatoria CdR 2013: Jueves 18/04 - UTN-FRC''' [[DemoDeProyectos]]
+''' Jornada de puertas abiertas y convocatoria CdR 2013: Jueves 25/04/2013 de 16:05hs a 20hs - UTN-FRC''' [[DemoDeProyectos]]
 
 ''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC''' [[http://listas.usla.org.ar/pipermail/cdr/2013-March/001058.html]]
 

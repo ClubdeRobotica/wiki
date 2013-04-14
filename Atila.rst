@@ -6,9 +6,10 @@
 
 
 
- * Gustavo Spessot.
  * Germán Ontivero.
  * Marcos Ciceri.
+ * Luigi Vazquez.
+ * Gustavo Spessot.
 
 Horarios: Nos juntamos los martes en la parte nueva Laboratorio Central
 

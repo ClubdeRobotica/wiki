@@ -12,6 +12,15 @@
 
 Horarios: Nos juntamos los martes en la parte nueva Laboratorio Central
 
+= Estado del Proyecto =
+El proyecto actualmente se encuentra en un estado funcional con un control proporcional, este tipo de control tiene muchas limitaciones y debido a esto se está intentando lograr integrar al menos un control Proporcional-Derivativo para disminuir las oscilaciones del robot.
+Para lograr el objetivo se deben completar los siguientes pasos:
+*'''Placa de Sensores:''' Se deben poner al menos tres sensores para detectar la posición relativa del robot sobre la línea (actualmente en desarrollo)
+*'''Control:''' es indispensable investigar sobre la implementación de un control PID en C para poder reprogramar el microcontralador.
+*'''Placa de Control:''' para introducir un control PID habrá que modificar un poco la placa de control para introducir dos o tres presets, que definan las constantes necesarias para la implementacion del control PID.
+*'''Regulador de tensión:''' si bien no es estrictamente necesario, sería muy bueno rediseñar el módulo regulador de tensión para integrarlo en la placa de control y agregar un switch de encendido.
+*'''Driver de Potencia:''' si bien consta de un solo integrado, hay que modificarlo para agregarle un pulsador que nos permita activar y desactivar los actuadores, para tener un control en la largada.
+ 
 = Consideraciones Previas =
 Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable mediante el uso de PICs que nos sirva para participar en la competencia organizada por el GRS de la facultad Bahia Blanca. Algunas cosas a tener en cuenta a la hora de diseñar tanto el hardware como el software son las siguientes:
 

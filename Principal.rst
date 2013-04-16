@@ -16,6 +16,8 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 ''' Jornada de puertas abiertas y convocatoria CdR 2013: Jueves 25/04/2013 de 16:05hs a 20hs - UTN-FRC''' [[DemoDeProyectos]]
 
+''' Acta resumen actividades CdR 2012''' [[attachment:Acta_Resumen_CdR-2012.pdf]]
+
 ''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC''' [[http://listas.usla.org.ar/pipermail/cdr/2013-March/001058.html]]
 
 ''' Sábado 10/11/2012 compe de robótica en Bahía Blanca. Éxito para los participantes!!!'''

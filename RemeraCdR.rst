@@ -16,13 +16,13 @@ Votar con el nombre, separados por comas:
 
 * mod_3:
 
-* mod_4:
+* mod_4:luigi,marco,hernán,
 
 * mod_5:
 
 * mod_6:
 
-* mod_7:
+* mod_7:germán,
 
 '''TIPOGRAFIA'''
 

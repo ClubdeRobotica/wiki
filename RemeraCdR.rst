@@ -12,7 +12,7 @@ Votar con el nombre, separados por comas:
 
 S:
 
-M:Nicolás,
+M:Nicolás,Franco
 
 L:marco,hernan, luigi
 
@@ -26,7 +26,7 @@ XL:
 
 * mod_3:darío
 
-* mod_4:luigi,marco,hernán,nicolás
+* mod_4:luigi,marco,hernán,nicolás,franco
 
 * mod_5:
 

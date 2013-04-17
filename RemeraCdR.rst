@@ -8,7 +8,7 @@ Nota: paciencia!
 
 Votar con el nombre, separados por comas:
 
-REMERA
+'''REMERA'''
 
 * mod_1:
 
@@ -24,7 +24,7 @@ REMERA
 
 * mod_7:
 
-TIPOGRAFIA
+'''TIPOGRAFIA'''
 
 Verdana
 

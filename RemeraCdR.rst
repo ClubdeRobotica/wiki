@@ -12,7 +12,7 @@ Votar con el nombre, separados por comas:
 
 S:
 
-M:
+M:Nicolás,
 
 L:marco,hernan, luigi
 
@@ -39,7 +39,7 @@ XL:
 ''Verdana''
 
 1:
-2:hernan,marco
+2:hernan,marco,Nicolás,
 3:
 4:
 

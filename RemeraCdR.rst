@@ -14,7 +14,7 @@ S:
 
 M:
 
-L:marco
+L:marco,hernan
 
 XL:
 
@@ -39,7 +39,7 @@ XL:
 ''Verdana''
 
 1:
-2:hernán,marco
+2:hernan,marco
 3:
 4:
 

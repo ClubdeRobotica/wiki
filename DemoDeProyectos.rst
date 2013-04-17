@@ -12,7 +12,7 @@ Agregarse como responsable junto a cada actividad (completar también las activi
  1. Recepción: secretario (+info, listas, etc.), pines, calcos, remeras;
   1. [[RemeraCdR]] ---> '''M. Ezequiel Molina''';
  1. Institucionales: Video ---> '''Nicolás Ignacio''';
- 1. Institucionales: Presentación--> Documentado en el svn en "Demo_2013" '''En construcción''';
+ 1. Institucionales: Presentación; Documentado en el svn en "Demo_2013" ''En construcción'' ---> '''M. Ezequiel Molina''';
  1. Infraestructura:
   1. Notebook #1: ---> '''Marco AR''';
   1. Notebook #2:

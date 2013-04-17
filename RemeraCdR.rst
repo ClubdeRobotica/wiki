@@ -36,42 +36,42 @@ XL:
 
 '''TIPOGRAFIA'''
 
-Verdana
+''Verdana''
 
 1:
 2:hernán,marco
 3:
 4:
 
-Century Schoolbook L
+''Century Schoolbook L''
 
 1:marco
 2:
 3:
 4:
 
-Cantarell
+''Cantarell''
 
 1:
 2:luigi
 3:
 4:
 
-Courier 10 Pitch
+''Courier 10 Pitch''
 
 1:
 2:hernán
 3:
 4:
 
-Impact
+''Impact''
 
 1:
 2:
 3:
 4:
 
-LMRomanCaps10
+''LMRomanCaps10''
 
 1:
 2:hernán

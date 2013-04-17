@@ -39,43 +39,62 @@ XL:
 ''Verdana''
 
 1:
+
 2:hernan,marco,Nicolás,
+
 3:
+
 4:
 
 ''Century Schoolbook L''
 
 1:marco
+
 2:
+
 3:
+
 4:
 
 ''Cantarell''
 
 1:
+
 2:luigi,Ezequiel
+
 3:
+
 4:
 
 ''Courier 10 Pitch''
 
 1:
+
 2:hernán
+
 3:
+
 4:
+
 
 ''Impact''
 
 1:
+
 2:
+
 3:
+
 4:
 
 ''LMRomanCaps10''
 
 1:
+
 2:hernán
+
 3:
+
 4:
 
 

@@ -10,13 +10,13 @@ Votar con el nombre, separados por comas:
 
 '''REMERA'''
 
-* mod_1:
+* mod_1:ezequiel
 
 * mod_2:
 
-* mod_3:
+* mod_3:darío
 
-* mod_4:luigi,marco,hernán,
+* mod_4:luigi,marco,hernán,nicolás
 
 * mod_5:
 
@@ -29,7 +29,7 @@ Votar con el nombre, separados por comas:
 Verdana
 
 1:
-2:
+2:hernán
 3:
 4:
 
@@ -43,14 +43,14 @@ Century Schoolbook L
 Cantarell
 
 1:
-2:
+2:luigi
 3:
 4:
 
 Courier 10 Pitch
 
 1:
-2:
+2:hernán
 3:
 4:
 
@@ -64,7 +64,7 @@ Impact
 LMRomanCaps10
 
 1:
-2:
+2:hernán
 3:
 4:
 

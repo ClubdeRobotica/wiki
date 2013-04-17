@@ -27,10 +27,10 @@ Agregarse como responsable junto a cada actividad (completar también las activi
   1. RSL ---> '''Germán Ontivero''';
   1. SUMO ---> gestión/contacto a cargo de '''Germán Ontivero''';
  1. Desarrollo/actividades de la charla: 
-  1. Historia, objetivos, filosofía; '''Prioridad charla jueves 18-04 por favor'''
-  1. Viajes, competencias; '''Prioridad charla jueves 18-04 por favor'''
-  1. Comentarios sobre las reuniones sociales; '''Prioridad charla jueves 18-04 por favor'''
-  1. Divulgación de las actividades regulares: '''Prioridad charla jueves 18-04 por favor'''
+  1. Historia, objetivos, filosofía; '''Prioridad reunion jueves 18-04 por favor'''
+  1. Viajes, competencias; '''Prioridad reunion jueves 18-04 por favor'''
+  1. Comentarios sobre las reuniones sociales; '''Prioridad reunion jueves 18-04 por favor'''
+  1. Divulgación de las actividades regulares: '''Prioridad reunion jueves 18-04 por favor'''
    1. Proyectos: RSL, SUMO, VRTD;
    1. Cursos: CBE (Electr.+KiCAD) ---> '''Franco Becu, Darío Ochoa''' ;
    1. Cursos: MiniLab

@@ -4,7 +4,27 @@ Modelos de remeras: [[attachment:modelosremeras2013.zip]]
 
 Tipofrafías: [[attachment:tipografias.pdf]]
 
-Voten con el nombre!
+Nota: paciencia!
+
+Votar con el nombre, separados por comas:
+
+REMERA
+
+* mod_1:
+
+* mod_2:
+
+* mod_3:
+
+* mod_4:
+
+* mod_5:
+
+* mod_6:
+
+* mod_7:
+
+TIPOGRAFIA
 
 Verdana
 

@@ -1,8 +1,52 @@
 == Edición 2013 ==
 
+Modelos de remeras: [[attachment:modelosremeras2013.zip]]
 
-...
+Tipofrafías: [[attachment:tipografias.pdf]]
 
+Voten con el nombre!
+
+Verdana
+
+1:
+2:
+3:
+4:
+
+Century Schoolbook L
+
+1:
+2:
+3:
+4:
+
+Cantarell
+
+1:
+2:
+3:
+4:
+
+Courier 10 Pitch
+
+1:
+2:
+3:
+4:
+
+Impact
+
+1:
+2:
+3:
+4:
+
+LMRomanCaps10
+
+1:
+2:
+3:
+4:
 
 
 == Edición 2011 ==

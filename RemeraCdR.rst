@@ -8,6 +8,16 @@ Nota: paciencia!
 
 Votar con el nombre, separados por comas:
 
+'''TALLE'''
+
+S:
+
+M:
+
+L:marco
+
+XL:
+
 '''REMERA'''
 
 * mod_1:ezequiel

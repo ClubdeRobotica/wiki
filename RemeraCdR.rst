@@ -18,7 +18,7 @@ L:marco,hernan, luigi
 
 XL:
 
-'''REMERA'''
+'''MODELO'''
 
 * mod_1:ezequiel
 

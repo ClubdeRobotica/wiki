@@ -7,7 +7,7 @@ Agregarse como responsable junto a cada actividad (completar también las activi
  1. Día, horario, lugar (dependiendo del lugar será el nivel de formalidad) ---> '''Franco Becu, Darío Ochoa''';
   1. Lugar: '''Aula Magna'''
   1. Día: '''Jueves 25/04 - Confirmado'''
-  1. Horario: de 16 a 20hs - tentativo -;
+  1. Horario: de 16 a 20hs - '''Confirmado''';
   1. Encargados del lugar: abrir, acomodar, colgar pósters, preparar equipos multimedia, preparar HW demo;
  1. Recepción: secretario (+info, listas, etc.), pines, calcos, remeras;
   1. [[RemeraCdR]] ---> '''M. Ezequiel Molina''';
@@ -15,7 +15,7 @@ Agregarse como responsable junto a cada actividad (completar también las activi
  1. Institucionales: Presentación; Documentado en el svn en "Demo_2013" ''En construcción'' ---> '''M. Ezequiel Molina''';
  1. Infraestructura:
   1. Notebook #1: ---> '''Marco AR''';
-  1. Notebook #2:
+  1. Notebook #2: ---> '''Hernán Paez''' (?);
  1. Afiches: para divulgación de la demo y convocatoria;
   1. Afiche divulgación Demo y Convocatoria: ---> '''Hernán Paez''';
  1. Pósters: de los proyectos para presentar en la demo;
@@ -27,10 +27,10 @@ Agregarse como responsable junto a cada actividad (completar también las activi
   1. RSL ---> '''Germán Ontivero''';
   1. SUMO ---> gestión/contacto a cargo de '''Germán Ontivero''';
  1. Desarrollo/actividades de la charla: 
-  1. Historia, objetivos, filosofía;
-  1. Viajes, competencias;
-  1. Comentarios sobre las reuniones sociales;
-  1. Divulgación de las actividades regulares:
+  1. Historia, objetivos, filosofía; '''Prioridad charla jueves 18-04 por favor'''
+  1. Viajes, competencias; '''Prioridad charla jueves 18-04 por favor'''
+  1. Comentarios sobre las reuniones sociales; '''Prioridad charla jueves 18-04 por favor'''
+  1. Divulgación de las actividades regulares: '''Prioridad charla jueves 18-04 por favor'''
    1. Proyectos: RSL, SUMO, VRTD;
    1. Cursos: CBE (Electr.+KiCAD) ---> '''Franco Becu, Darío Ochoa''' ;
    1. Cursos: MiniLab

@@ -12,7 +12,7 @@ Votar con el nombre, separados por comas:
 
 S:
 
-M:Nicolás,Franco
+M:Nicolás,Franco,Ezequiel
 
 L:marco,hernan, luigi
 

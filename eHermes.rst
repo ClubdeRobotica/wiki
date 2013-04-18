@@ -1,6 +1,6 @@
 = eHermes =
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:placa-rsl.png||width=500}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:ehermes.jpg||width=500}} ||
 
 == Hardware ==
 

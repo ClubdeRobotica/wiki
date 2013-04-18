@@ -4,6 +4,8 @@ Modelos de remeras: [[attachment:modelosremeras2013.zip]]
 
 Tipofrafías: [[attachment:tipografias.pdf]]
 
+Planilla de seguimiento : [[attachment:Planilla]]
+
 Nota: paciencia!
 
 Votar con el nombre, separados por comas:

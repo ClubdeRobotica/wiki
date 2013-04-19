@@ -1,10 +1,9 @@
 Demos CdR anteriores: [[Demo8Nov2010|año 2010]] -> [[Demo9Nov2011|año 2011]] -> [[Completar!|año 2012]]
 
 == ORGANIZACIÓN DEMO Y CONVOCATORIA 2013 ==
-
 Agregarse como responsable junto a cada actividad (completar también las actividades)
 
- 1. Día, horario, lugar (dependiendo del lugar será el nivel de formalidad) ---> '''Franco Becu, Darío Ochoa''';
+ 1. Día, horario, lugar (dependiendo del lugar será el nivel de formalidad) ---> '''Franco Becutti, Darío Ochoa''';
   1. Lugar: '''Aula Magna'''
   1. Día: '''Jueves 25/04 - Confirmado'''
   1. Horario: de 16 a 20hs - '''Confirmado''';
@@ -24,18 +23,18 @@ Agregarse como responsable junto a cada actividad (completar también las activi
  1. Pósters: de los proyectos para presentar en la demo;
   1. Póster RSL: ---> '''Hernán Paez''';
   1. Póster Sumo: ---> '''Germán Ontivero''';
-  1. Póster Curso CBE: ---> '''Franco Becu, Darío Ochoa''';
+  1. Póster Curso CBE: ---> '''Franco Becutti, Darío Ochoa''';
  1. Robots: HW funcional para mostrar + pista;
-  1. RSL ---> '''Franco Becu, Darío Ochoa''';
+  1. RSL ---> '''Franco Becutti, Darío Ochoa''';
   1. RSL ---> '''Germán Ontivero''';
   1. SUMO ---> gestión/contacto a cargo de '''Germán Ontivero''';
- 1. Desarrollo/actividades de la charla: 
+ 1. Desarrollo/actividades de la charla:
   1. Historia, objetivos, filosofía; '''Prioridad reunion jueves 18-04 por favor'''
   1. Viajes, competencias; '''Prioridad reunion jueves 18-04 por favor'''
   1. Comentarios sobre las reuniones sociales; '''Prioridad reunion jueves 18-04 por favor'''
   1. Divulgación de las actividades regulares: '''Prioridad reunion jueves 18-04 por favor'''
    1. Proyectos: RSL, SUMO, VRTD;
-   1. Cursos: CBE (Electr.+KiCAD) ---> '''Franco Becu, Darío Ochoa''' ;
+   1. Cursos: CBE (Electr.+KiCAD) ---> '''Franco Becutti, Darío Ochoa''' ;
    1. Cursos: MiniLab
    1. Infraestructura: SVN, Wiki, Lista, Face;
    1. Metodología de trabajo;
@@ -43,8 +42,6 @@ Agregarse como responsable junto a cada actividad (completar también las activi
   1. Propuesta/invitación a participar del CBE y del CdR como miembros activos (proy. RSL);
  1. CONVOCATORIA: por email, por face, por lista, afiches, pasar por los cursos;
 
-
-''Modalidad'': 16:05hs se abren las puertas. A las 16:20hs y a las 18:20hs se da da la presentación y charla general. De 17 a 18hs y de 19 a 20hs será tiempo para charlar de forma personalizada sobre los proyectos, cursos y act. generales con los participantes. 
-
+''Modalidad'': 16:05hs se abren las puertas. A las 16:20hs y a las 18:20hs se da la presentación y charla general. De 17 a 18hs y de 19 a 20hs será tiempo para charlar de forma personalizada sobre los proyectos, cursos y act. generales con los participantes.
 
 Propuesta: Cambiar el nombre de: "Demo de proyectos y convocatoria" a: "Jornada de divulgación y convocatoria" .....

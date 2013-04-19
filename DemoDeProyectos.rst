@@ -12,6 +12,7 @@ Agregarse como responsable junto a cada actividad (completar también las activi
  1. Recepción: secretario (+info, listas, etc.), pines, calcos, remeras;
   1. [[RemeraCdR]] ---> '''M. Ezequiel Molina''';
   1. [[Folletos]]    ---> '''M. Ezequiel Molina''';
+  1. Pins   ---> '''M. Ezequiel Molina''' --->'''Encargados (50)''';
   1. Recepción y lista de participantes ---> '''Johana Aybar''';
  1. Institucionales: Video ---> '''Nicolás Ignacio''';
  1. Institucionales: Presentación; Documentado en el svn en "Demo_2013" ''En construcción'' ---> '''M. Ezequiel Molina''';

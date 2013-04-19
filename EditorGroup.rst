@@ -26,7 +26,6 @@
  * MarianoAlvarez
  * leandropassetti
  * DariOchoa
- * JuanPabloMaspons
  * MarcosCiceri
  * EliasCaceres
  * GabrielInfante

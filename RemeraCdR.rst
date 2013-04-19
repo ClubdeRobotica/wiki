@@ -1,5 +1,7 @@
 == Edición 2013 ==
 
+'''Encargadas : (18)Remeras en talles S,M,L + (2) Musculosas mujer talle M'''
+
 Modelos de remeras: [[attachment:modelosremeras2013.zip]]
 
 Tipofrafías: [[attachment:tipografias.pdf]]

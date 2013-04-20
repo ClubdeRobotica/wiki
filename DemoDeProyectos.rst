@@ -21,7 +21,7 @@ Agregarse como responsable junto a cada actividad (completar también las activi
  1. Afiches: para divulgación de la demo y convocatoria;
   1. Afiche divulgación Demo y Convocatoria: ---> '''Hernán Paez''';
  1. Pósters: de los proyectos para presentar en la demo;
-  1. Póster RSL: ---> '''Hernán Paez''';
+  1. Póster RSL: ---> '''Hernán Paez-->Me pasaron precios para hacerlos en Lona''';
   1. Póster Sumo: ---> '''Germán Ontivero''';
   1. Póster Curso CBE: ---> '''Franco Becutti, Darío Ochoa''';
  1. Robots: HW funcional para mostrar + pista;

@@ -1,4 +1,6 @@
-== Comisión Directiva 2012/2013 ==
+Histórico: [[ComisionDirectiva2012|Comisión Directiva 2012]]
+
+== Comisión Directiva 2013 ==
 '''Dirección''' y '''Tesorería'''
 
  * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>

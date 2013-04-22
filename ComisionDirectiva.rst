@@ -7,7 +7,7 @@ Histórico: [[ComisionDirectiva2010|Comisión Directiva 2010]] -> [[ComisionDire
 
 '''Tesorería'''
 
- * Luís Vázquez luigi.utn@gmail.com
+ * Luis Vazquez <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 '''Coordinación General'''
 

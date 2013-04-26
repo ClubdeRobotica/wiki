@@ -29,4 +29,4 @@ El documento maestro de esta sección se encuentra en el servidor SVN del CdR. L
 }}}
 
 
-[[ComisionDirectiva|Comisión Directiva 2012]] | [[Tesoreria|Tesorería]]
+[[ComisionDirectiva|Comisión Directiva 2013]] | [[Tesoreria|Tesorería]]

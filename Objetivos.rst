@@ -8,9 +8,11 @@
 
 PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos del 2011 pendientes)
 
-   1. Cerrar una versión funcional repetible del RSL;
-   1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general;
-   1. Trabajar en los pendientes del año 2010 y el 2012;
+   1. Cerrar una versión funcional repetible del RSL; '''Concretado Parcialmente'''
+   1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general; '''Concretado'''
+   1. Asistir a la competencia de robótica de San Francisco; '''Concretado'''
+   1. Participar en la competencia de robótica de Bahía Blanca; '''Concretado'''
+   1. Trabajar en los pendientes del año 2010 y el 2012; '''Concretado Parcialmente'''
 
 === Propuesta para el 2011: ===
 

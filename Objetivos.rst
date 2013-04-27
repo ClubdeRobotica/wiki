@@ -11,6 +11,7 @@ PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos 
    1. Cerrar una versión funcional repetible del RSL; '''Concretado Parcialmente'''
    1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general; '''Concretado'''
    1. Asistir a la competencia de robótica de San Francisco; '''Concretado'''
+   1. Hacer una pequeña demostración con las plataformas desarrolladas durante el año para los miembros del Club de Robótica y para las autoridades de Ing. Electrónica, para Octubre de 2012. '''Concretado'''
    1. Participar en la competencia de robótica de Bahía Blanca; '''Concretado'''
    1. Trabajar en los pendientes del año 2010 y el 2012; '''Concretado Parcialmente'''
 

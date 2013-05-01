@@ -2,7 +2,19 @@
 
 === Propuesta para el 2013: ===
 
-...
+   1. Convocatoria 2013. Ingresantes y proyectos.
+   1. Trabajar activamente en la vinculación institucional y la integración con los grupos de la facultad.
+   1. Establecer los nuevos integrantes de la comisión directiva.
+   1. Definir quienes van a ser los tutores.
+   1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general;
+   1. Lanzar el Proyecto RSL.
+   1. Reorganizar la tesorería.
+   1. Cerrar una versión funcional repetible del RSL.
+   1. Recaudación defondos para poder participar de las competencias nacionales de robótica.
+   1. Asistir a la competencia de robótica de San Francisco.
+   1. Asistir a la competencia de robótica de Bahía Blanca.
+   1. Organizar y lanzar el Ciclo de Formación Tecnológica 2013 (segundo semestre).
+   1. Hacer una pequeña demostración con las plataformas desarrolladas durante el año para los miembros del Club de Robótica, grupos relacionados, y para las autoridades de Ing. Electrónica, para Octubre de 2013.
 
 === Propuesta para el 2012: ===
 

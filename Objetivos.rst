@@ -10,11 +10,11 @@
    1. Lanzar el Proyecto RSL.
    1. Reorganizar la tesorería.
    1. Cerrar una versión funcional repetible del RSL.
-   1. Recaudación defondos para poder participar de las competencias nacionales de robótica.
+   1. Recaudación de fondos para poder participar de las competencias nacionales de robótica.
    1. Asistir a la competencia de robótica de San Francisco.
    1. Asistir a la competencia de robótica de Bahía Blanca.
    1. Organizar y lanzar el Ciclo de Formación Tecnológica 2013 (segundo semestre).
-   1. Hacer una pequeña demostración con las plataformas desarrolladas durante el año para los miembros del Club de Robótica, grupos relacionados, y para las autoridades de Ing. Electrónica, para Octubre de 2013.
+   1. Hacer una pequeña demostración (y por que no una competencia local!?) con las plataformas desarrolladas durante el año para los miembros del Club de Robótica, grupos relacionados, y para las autoridades de Ing. Electrónica, para Octubre de 2013.
 
 === Propuesta para el 2012: ===
 

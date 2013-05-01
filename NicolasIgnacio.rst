@@ -10,13 +10,9 @@ Email: <<MailTo(nnico AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 RSL
 
-miniLab
+Lista de correo
 
-pclab
 
-lista de correo
-
-svn
 
 ----
 

@@ -33,8 +33,7 @@
 
  . Nicolás Ignacio.
 
- . Facundo Vicente.
-
+ 
 '''Grupo N.4.''' GhostRider
 
  . ''' '''  Lucas Yoaquino.

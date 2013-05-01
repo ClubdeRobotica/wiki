@@ -15,6 +15,7 @@
    1. Asistir a la competencia de robótica de Bahía Blanca.
    1. Organizar y lanzar el Ciclo de Formación Tecnológica 2013 (segundo semestre).
    1. Hacer una pequeña demostración (y por que no una competencia local!?) con las plataformas desarrolladas durante el año para los miembros del Club de Robótica, grupos relacionados, y para las autoridades de Ing. Electrónica, para Octubre de 2013.
+   1. Planear una visita a alguna empresa que trabaje con automatización, laboratorio, etc...
 
 === Propuesta para el 2012: ===
 

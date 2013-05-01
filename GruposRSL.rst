@@ -15,17 +15,7 @@
 
  . Luis Vazquez.
 
- . Andres Gariboglio.
-
- . Silvio Bustamante.
-
- . Leandro Passetti.
-
  . Marco Alvarez Reyna.
-
- . Juan Ignacio Morales.
-
- . Juan Pautasso
 
 '''Grupo N.3.''' [[Bourbaki]]
 
@@ -46,7 +36,7 @@
 
 '''Grupo N.5.''' [[eHermes]]
 
- . ''' ''' Franco Becutti.
+ . Franco Becutti.
 
  . Hernan Paez.
 

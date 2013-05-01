@@ -33,7 +33,7 @@ Una vez superada la etapa de iniciación pasan a formar parte del CdR como miemb
 
 5º Iniciación en los proyectos institucionales del CdR:
 
-P#1 : Proyecto MiniLab + Fuente(fija) + Curso básico de electrónica(uso de la ley de Ohm, herramientas de laboratorio, etc...).
+P#1 : Proyecto MiniLab + Fuente(fija) + Curso Básico de Electrónica (uso de la ley de Ohm, herramientas de laboratorio, etc...).
 
 P#2 : Seminario sobre electrónica y robótica con el VRTD.
 

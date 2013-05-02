@@ -1,6 +1,4 @@
-= Bourbaki =
-
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:2012-09-23 00.39.45.jpg||width="350"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:poster2.png||width="900"}} ||
 
 == Responsables del proyecto ==
  

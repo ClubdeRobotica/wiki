@@ -24,16 +24,11 @@
  . Nicolás Ignacio.
 
  
-'''Grupo N.4.''' GhostRider
+'''Grupo N.4.''' [[Kirjava]]
 
- . ''' '''  Lucas Yoaquino.
+  . Dario Ochoa.
 
- . Elias Caceres.
-
- . Dario Ochoa.
-
- . Mariano Alvarez.
-
+ 
 '''Grupo N.5.''' [[eHermes]]
 
  . Franco Becutti.

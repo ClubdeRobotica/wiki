@@ -13,7 +13,7 @@
 
 
  
-[[http://cdr.usla.org.ar/Bourbaki/v1|v1 (Sin microcontrolador)]]
+
 
 
 === Estado del Proyecto  ===

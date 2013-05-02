@@ -49,4 +49,4 @@ Propuesta: Cambiar el nombre de: "Demo de proyectos y convocatoria" a: "Jornada 
 == EXPERIENCIAS Y CONCLUSIONES DEVENIDAS DE LA JPA Y CONVOCATORIA 2013 DEL CDR ==
 
  1. A pesar de la difusión por distintos medios (lista, face, carteles), la convocatoria no llego a mucha gente. Hay que cambiar las estrategias de difusión: boca en boca, carteles de colores, pasar por los cursos, salir con las remeras y las calcos por la facu, etc ... (los carteles en BN y los mails no parecieron ser muy efectivos).
- 1. ...
+ 2. Sponsors: sería bueno empezar tratar el tema para poder financiar futuros eventos. Buscar estrategias.

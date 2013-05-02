@@ -14,7 +14,7 @@
 
  
 
-
+Bourbaki v1 es una versión de control digital del proyecto, sirve para introducirse en el desarrollo de un "Robot Seguidor de Líneas" pero carece de las ventajas que ofrece un microcontrolador. 
 
 === Estado del Proyecto  ===
 Desarrollado en un 80 % 

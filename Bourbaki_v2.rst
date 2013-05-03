@@ -6,11 +6,13 @@ En Construcción
 
 ''' Chasis '''
 
-Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuo a LASER sobre un acrilico de 5mm.
+Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasis.png||width="1000"}}||
 
 ''' Motores '''
 
 Motores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
+
+
 = Electrónica =

@@ -10,15 +10,10 @@
  * [[GruposRSL|Grupos de Trabajo]] para el desarrollo de los RSL velocistas!
 
 = Noticias importantes y actividades =
-* El martes 24 de Abril '''iniciamos las actividades del ciclo 2012'''. Nos reuniremos todos los martes en el laboratorio central de lectrónica, anexo, de 16:15hs a 18:15hs. Más adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. Los que no hayan anotado sus horarios envíen un mail a Germán Ontivero (ver mail en la [[ListaGrupoRSL|lista]]) especificando que días están disponibles y con ganas de juntarse.
+* El jueves 2 de mayo '''iniciamos las actividades del ciclo 2013'''. Nos reuniremos todos los jueves en el laboratorio central de electrónica, de 16:00hs a 18:15hs. Más adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. Los que no hayan anotado sus horarios envíen un mail a Germán Ontivero (ver mail en la [[ListaGrupoRSL|lista]]) especificando que días están disponibles y con ganas de juntarse.
 
-* El '''repositorio''' del proyecto está en svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk --(Si sólo se quiere navegar por los archivos se puede acceder al mirror de sólo lectura: http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL (se puede acceder a todos los archivos desde cualquier browser), pero)-- ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
+* El '''repositorio''' del proyecto está en''' ''svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk/Proyectos/RSL'' '''--(Si sólo se quiere navegar por los archivos se puede acceder al mirror de sólo lectura: http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/RSL (se puede acceder a todos los archivos desde cualquier browser), pero)-- ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
 
-* Además existe un canal de comunicación que usamos la gente del CdR para postear o dejar mensajes/noticias
-
-http://pipio.usla.org.ar/. Sólo tienen que registrarse, es muy simple y es uno de los canales que tiene el CdR, ojalá podamos encontrarlos posteando ahí.
-
-* En las reuniones, '''estamos repartiendo copias del DVD''' que hicimos el año pasado, ahí estan todos los programas y libros que vamos a usar para el desarrollo del RSL. Para acceder a una copia, sólo hay que llevar un DVD virgen.
 
 Recomendamos ver los siguientes [[LinksRecomendadosRSL|links]] y bajar software libre para aprender, experimentar, investigar y realizar proyectos.
 

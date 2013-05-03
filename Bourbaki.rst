@@ -11,6 +11,6 @@
 
 ''' Versiones '''
 
-[[http://cdr.usla.org.ar/Bourbaki_v1|version 1 (Sin microcontrolador)]]
+[[http://cdr.usla.org.ar/Bourbaki_v1|versión 1 (Sin microcontrolador)]]
 
-[[http://cdr.usla.org.ar/Bourbaki_v2|version 2 (VERSION ACTUAL con microcontrolador)]]
+[[http://cdr.usla.org.ar/Bourbaki_v2|versión 2 (VERSIÓN ACTUAL con microcontrolador)]]

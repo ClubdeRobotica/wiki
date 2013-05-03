@@ -20,9 +20,9 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 ''' Acta resumen actividades CdR 2012''' [[attachment:Acta_Resumen_CdR-2012.pdf]]
 
-''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC''' [[http://listas.usla.org.ar/pipermail/cdr/2013-March/001058.html]]
+''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC''' [[https://listas.usla.org.ar/cgi-bin/mailman/private/cdr/2013-March/001058.html|Minuta]]
 
-''' Sábado 10/11/2012 competencia de robótica en Bahía Blanca. Éxito para los participantes!!!'''
-[[http://listas.usla.org.ar/pipermail/cdr/2012-November/001048.html]]
+''' Sábado 10/11/2012 competencia de robótica en Bahía Blanca.'''
+[[https://listas.usla.org.ar/cgi-bin/mailman/private/cdr/2012-November/001048.html| Éxito para los participantes!!!]]
 }}}
 [[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]]

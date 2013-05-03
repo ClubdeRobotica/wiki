@@ -13,9 +13,9 @@ Editado de Informe en [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]] con [[http://
 
 Diseño de PCB con [[http://www.kicad-pcb.org|KiCad]]
 
-Diseño de chasis con [[http://librecad.org|LibreCAD]]
+Diseño de Chasis con [[http://librecad.org|LibreCAD]]
 
-Diseño del robot 3D con [[http://www.blender.org/|Blender]]
+Representación 3D del Robot con [[http://www.blender.org/|Blender]]
 
 ''' Versiones '''
 

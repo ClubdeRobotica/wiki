@@ -9,7 +9,7 @@
 
 ''' Proyecto desarrollado completamente con [[http://www.gnu.org/philosophy/free-sw.es.html|Software Libre]]. '''
 
-Editado de Informe en [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]] con [[http://www.xm1math.net/texmaker/|Texmaker]]
+Informe editado en [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]] con [[http://www.xm1math.net/texmaker/|Texmaker]]
 
 Diseño de PCB con [[http://www.kicad-pcb.org|KiCad]]
 

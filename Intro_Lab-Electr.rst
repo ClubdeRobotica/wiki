@@ -18,11 +18,11 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 
 * '''Día''' : Viernes.
 
-* '''Horario''' : 16:00 - 17:50Hs.
+* '''Horario''' : 16:00 - 18:00Hs.
 
 * '''Lugar''' : Laboratorio de Técnicas Digitales (LTD).
 
-
+* '''Inicio''' : Viernes 10/04/2013
 
 ----
 

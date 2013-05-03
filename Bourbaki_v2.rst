@@ -12,7 +12,7 @@ En esta segunda versión, incorporamos un microcontrolador que nos permite adapt
 
 Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasis.png||width="1000"}}||
+[[attachment:chasis.png||width="1000"]]
 
 ''' Motorreductores '''
 

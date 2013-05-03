@@ -1,4 +1,4 @@
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:poster22.png||width="915"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:poster22.png||width="1000"}} ||
 
 == Responsables del proyecto ==
  

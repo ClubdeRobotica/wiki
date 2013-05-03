@@ -10,9 +10,8 @@ En esta segunda versión, incorporamos un microcontrolador que nos permite adapt
 
 ''' Chasis '''
 
-Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.
+Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.[[attachment:chasis.png|ver diseño|width="1000"]]
 
-[[attachment:chasis.png||width="1000"]]
 
 ''' Motorreductores '''
 

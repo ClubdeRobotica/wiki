@@ -2,12 +2,19 @@
 
 == Responsables del proyecto ==
  
- * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com )>>
- 
- 
+ * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com )>> 
 
  * Nicolás Ignacio <<MailTo(nnico@cdr.usla.org.ar)>>
 
+Proyecto desarrollado completamente con Software Libre.
+
+Editado de Informe en [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]] con [[http://www.xm1math.net/texmaker/|Texmaker]]
+
+Diseño de PCB con [[http://www.kicad-pcb.org|KiCad]]
+
+Diseño de chasis con [[http://librecad.org|LibreCAD]]
+
+Diseño del robot 3D con [[http://www.blender.org/|Blender]]
 
 ''' Versiones '''
 

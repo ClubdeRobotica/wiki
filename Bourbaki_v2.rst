@@ -7,6 +7,7 @@ En esta segunda versión, incorporamos un microcontrolador que nos permite adapt
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakiwiki3.png||width="400"}}||
 
 = Móvil =
+Armado...piezas...ensambles...etc
 
 ''' Chasis '''
 

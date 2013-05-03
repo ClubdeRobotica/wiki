@@ -6,7 +6,8 @@
 
  * Nicolás Ignacio <<MailTo(nnico@cdr.usla.org.ar)>>
 
-Proyecto desarrollado completamente con Software Libre.
+
+''' Proyecto desarrollado completamente con [[http://www.gnu.org/philosophy/free-sw.es.html|Software Libre]]. '''
 
 Editado de Informe en [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]] con [[http://www.xm1math.net/texmaker/|Texmaker]]
 

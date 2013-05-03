@@ -1,6 +1,6 @@
 === En Construcción ===
 
-EDITAR
+EDITAR y Subir foto real
 
 En esta segunda versión, incorporamos un microcontrolador que nos permite adaptar una lógica de comportamiento, la cual es desarrollada en C, teniendo en cuenta las señales de entrada de los sensores reflectivos se controlan los motorreductores
 

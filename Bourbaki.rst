@@ -2,9 +2,9 @@
 
 == Responsables del proyecto ==
  
- * Martín Ezequiel Molina <<MailTo(martinezequielmolina AT gmail DOT com )>> 
+ * [[http://cdr.usla.org.ar/EzequielMolina|Martín Ezequiel Molina]]
 
- * Nicolás Ignacio <<MailTo(nnico@cdr.usla.org.ar)>>
+ * [[http://cdr.usla.org.ar/NicolasIgnacio|Nicolás Ignacio]]
 
 
 ''' Proyecto desarrollado completamente con [[http://www.gnu.org/philosophy/free-sw.es.html|Software Libre]]. '''

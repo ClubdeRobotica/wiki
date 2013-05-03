@@ -25,5 +25,6 @@ Histórico: [[ComisionDirectiva2010|Comisión Directiva 2010]] -> [[ComisionDire
 
  * Darío Ochoa darioo8@hotmail.com
 
+La coordinación general estará orientada a las actividades (el rol irá rotando).
 
 '''Bienvenidos!!!'''

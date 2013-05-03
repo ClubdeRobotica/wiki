@@ -22,8 +22,8 @@ Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
 ''' Sensores '''
 
-''' microcontrolador '''
+''' Microcontrolador '''
 
-''' driver '''
+''' Driver '''
 
 ''' Alimentación '''

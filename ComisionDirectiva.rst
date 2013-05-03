@@ -19,6 +19,8 @@ Histórico: [[ComisionDirectiva2010|Comisión Directiva 2010]] -> [[ComisionDire
 
  * Germán Ontivero gerbonti377@gmail.com
 
+ * Franco Becutti franco_becu@hotmail.com 
+
 '''Relaciones Institucionales'''
 
  * Darío Ochoa darioo8@hotmail.com

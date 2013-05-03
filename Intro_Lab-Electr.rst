@@ -22,7 +22,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 
 * '''Lugar''' : Laboratorio de Técnicas Digitales (LTD).
 
-* '''Inicio''' : Viernes 10/04/2013
+* '''Inicio''' : Viernes 10/05/2013
 
 ----
 

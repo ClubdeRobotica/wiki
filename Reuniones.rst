@@ -5,8 +5,8 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 '''Reuniones semanales del CdR:'''
 
 ---> Dónde/Cuándo:
- 1. Laboratorio Central de Electrónica / Todos los jueves de 16:00hs a 18:00hs - Proyecto [[RSL]]
- 2. Laboratorio de Técnicas Digitales / Todos los viernes de 15 a 18hs - [[Intro_Lab-Electr]] (fecha de inicio a confirmar!)
+ 1. Laboratorio Central de Electrónica / Todos los jueves de 16:00hs a 18:00hs - Proyecto [[RSL]] A partir del Jueves 09/04/2013 !!!
+ 2. Laboratorio de Técnicas Digitales / Todos los viernes de 16:00 a 18:00hs - [[Intro_Lab-Electr]] A partir del Viernes 10/04/2013 !!!
 
 '''Reunión extraordinaria (sólo para consultas o temas urgentes)'''
 

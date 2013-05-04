@@ -5,9 +5,12 @@
 = Equipo =
 '''Responsables del proyecto'''
 
- * Nicolás Ignacio, Hernán Paez
+ * Nicolás Ignacio nnico@cdr.usla.org.ar
+ * Hernán Paez hernaninformatica@gmail.com
+
  . ''Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]].
- * [[GruposRSL|Grupos de Trabajo]] para el desarrollo de los RSL velocistas!
+
+ *[[GruposRSL|Grupos de Trabajo]] para el desarrollo de los RSL velocistas!
 
 = Noticias importantes y actividades =
 * El jueves 2 de mayo '''iniciamos las actividades del ciclo 2013'''. Nos reuniremos todos los jueves en el laboratorio central de electrónica, de 16:00hs a 18:15hs. Más adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana.

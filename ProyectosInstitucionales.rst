@@ -3,7 +3,7 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[Intro_Lab-Electr|Proyecto Electrónica Básica]]: Becutti Franco y Ochoa Dario
+[[Intro_Lab-Electr|Proyecto Electrónica Básica]]: Becutti Franco y Ochoa Dario (darioo8@hotmail.com)
 
 [[MiniLab|Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
 

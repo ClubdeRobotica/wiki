@@ -3,16 +3,16 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 Propuestas de proyectos y sus responsables:
 
-[[Intro_Lab-Electr|Proyecto Electrónica Básica]]: Becutti Franco y Ochoa Dario (darioo8@hotmail.com)
+[[Intro_Lab-Electr|Proyecto Electrónica Básica]]: Becutti Franco (__ franco_becu@hotmail.com__ )y Ochoa Dario ( darioo8@hotmail.com ) __
 
-[[MiniLab|Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso
+__[[MiniLab|Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso __
 
-[[RSL|Robot Seguidor de Línea]]:  Nicolás Ignacio, Hernán Paez
+__[[RSL|Robot Seguidor de Línea]]:  Nicolás Ignacio, Hernán Paez __
 
-[[VRTD|Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna
+__[[VRTD|Vehículo Robotizado con Tracción Diferencial]]: Marco Alvarez Reyna __
 
-[[BancoDatos|Banco de Datos]]: CdR (Institucional)
+__[[BancoDatos|Banco de Datos]]: CdR (Institucional) __
 
-'''¿Cómo participar?'''
+__'''¿Cómo participar?''' __
 
-Si te interesa alguno de los proyectos y quieras participar, escribí a la dirección de contacto del club comentándonos, o escribí directamente al responsable del proyecto en cuestión (las direcciones están publicadas). A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!
+__Si te interesa alguno de los proyectos y quieras participar, escribí a la dirección de contacto del club comentándonos, o escribí directamente al responsable del proyecto en cuestión (las direcciones están publicadas). A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación! __

@@ -6,7 +6,7 @@ El proyecto Electrónica Básica tiene como objetivo familiarizar a los alumnos 
 
 El proyecto cuenta con una parte Teórica y una Práctica en la cual esta previsto construir algunos circuitos elementales hasta llegar a una fuente de tensión lineal.
 
-Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2012 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica.
+Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2013 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica.
 
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
 
@@ -25,7 +25,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 == Material del curso ==
 Ya está disponible la '''versión completa''' del material creado para este curso.
 
-* Electrónica Básica (2012) : [[attachment:ElectronicaBasica.pdf]] En breve estará disponible el material de este año.
+* Electrónica Básica (2012) : [[attachment:ElectronicaBasica.pdf]] En breve estará disponible el material 2013.
 
 * Trabajo Práctico N°1: [[attachment:TP1.pdf]]
 
@@ -40,7 +40,6 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 
 ''' Diseño PCB '''
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;  ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
-
 
 
 

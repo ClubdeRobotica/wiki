@@ -5,29 +5,30 @@ Propuestas de proyectos y sus responsables:
 
 ''' [[Intro_Lab-Electr|Proyecto Electrónica Básica]]:'''
 
-  Becutti Franco ([[mailto:franco_becu@hotmail.com|franco_becu@hotmail.com]])
+Becutti Franco ([[mailto:franco_becu@hotmail.com|franco_becu@hotmail.com]])
 
-  Ochoa Dario ( darioo8@hotmail.com )
+Ochoa Dario ( darioo8@hotmail.com )
 
 ''' [[MiniLab|Proyecto MiniLab]]:'''
 
-  Martin Ezequiel Molina 
+Martin Ezequiel Molina
 
-  Juan José Pautasso (Finalizado)
+Juan José Pautasso (Finalizado)
+
 
 '''[[RSL|Robot Seguidor de Línea]]:'''
 
-  Nicolás Ignacio
+Nicolás Ignacio
 
-  Hernán Paez
+Hernán Paez
 
 '''[[VRTD|Vehículo Robotizado con Tracción Diferencial]]:'''
 
-  Marco Alvarez Reyna
+Marco Alvarez Reyna
 
 '''[[BancoDatos|Banco de Datos]]:'''
 
-  CdR (Institucional)
+CdR (Institucional)
 
 '''¿Cómo participar?'''
 

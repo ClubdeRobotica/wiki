@@ -2,7 +2,9 @@
 
 EDITAR y Subir foto real
 
-En esta segunda versión, incorporamos un microcontrolador que nos permite adaptar una lógica de comportamiento, la cual es desarrollada en C, teniendo en cuenta las señales de entrada de los sensores reflectivos se controlan los motorreductores
+En esta segunda versión, incorporamos un microcontrolador (PIC), que nos permite adoptar una lógica de comportamiento, la cual es desarrollada en el [[https://es.wikipedia.org/wiki/C_%28lenguaje_de_programaci%C3%B3n%29.|Lenguaje C]]. Dicha lógica se basa en reconocer las señales provenientes de los sensores, clasificarla, y enviar una respuesta a los motores.
+
+
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakiwiki3.png||width="400"}}||
 

@@ -5,7 +5,7 @@ Propuestas de proyectos y sus responsables:
 
 [[Intro_Lab-Electr|Proyecto Electrónica Básica]]: Becutti Franco (__[[mailto:franco_becu@hotmail.com__|franco_becu@hotmail.com]]) y Ochoa Dario ( darioo8@hotmail.com ) __
 
-__[[MiniLab|Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso __
+__[[MiniLab|Proyecto MiniLab]]: Martin Ezequiel Molina y Juan José Pautasso __(Finalizado)
 
 __[[RSL|Robot Seguidor de Línea]]:  Nicolás Ignacio, Hernán Paez __
 

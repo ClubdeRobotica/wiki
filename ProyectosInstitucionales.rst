@@ -9,12 +9,12 @@ Becutti Franco ([[mailto:franco_becu@hotmail.com|franco_becu@hotmail.com]])
 
 Ochoa Dario ( darioo8@hotmail.com )
 
-''' [[MiniLab|Proyecto MiniLab]]:'''
+''' [[MiniLab|Proyecto MiniLab]]:'''(Finalizado)
+
 
 Martin Ezequiel Molina
 
-Juan José Pautasso (Finalizado)
-
+Juan José Pautasso 
 
 '''[[RSL|Robot Seguidor de Línea]]:'''
 

@@ -17,7 +17,7 @@ Diseño de Chasis con [[http://librecad.org|LibreCAD]]
 
 Representación 3D del Robot con [[http://www.blender.org/|Blender]]
 
-''' Versiones '''
+=== Versiones ===
 
 [[http://cdr.usla.org.ar/Bourbaki_v1|versión 1 (Sin microcontrolador)]]
 

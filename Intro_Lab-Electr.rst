@@ -20,6 +20,8 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 
 * '''Inicio''' : Viernes 10/05/2013
 
+* '''Finalización''' : En lo posible, en finales de agosto.
+
 ----
 
 == Material del curso ==

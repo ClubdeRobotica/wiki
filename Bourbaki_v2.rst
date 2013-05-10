@@ -1,6 +1,10 @@
-=== En Construcción ===
+{{{
+
+En Construcción 
+
 
 EDITAR y Subir foto real
+}}}
 
 <<TableOfContents()>>
 

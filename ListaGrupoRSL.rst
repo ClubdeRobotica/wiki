@@ -43,3 +43,8 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 '''Leandro Passetti''' leandropassetti@cdr.usla.org.ar
 
 '''Juan Pablo Maspóns''' juampi_092@hotmail.com
+
+
+
+----
+[[RSL|Volver a la página principal de RSL]]

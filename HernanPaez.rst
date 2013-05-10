@@ -1,3 +1,3 @@
-== Hernán Paez ==
+== Hernan Paez ==
 
 mail: hernaninformatica@gmail.com

@@ -15,7 +15,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 == Responsables CBE 2013 ==
 Becutti Franco ([[mailto:franco_becu@hotmail.com|franco_becu@hotmail.com]])
 
-Ochoa Dario ( darioo8@hotmail.com )
+[[OchoaDario | OCHOA, Darío]]
 
 == Reuniones ==
 * '''Día''' : Viernes.

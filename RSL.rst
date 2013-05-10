@@ -27,6 +27,7 @@ Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. S
 A nivel académico, existen competencias a nivel nacional y mundial en las que participan distintas instituciones de nivel secundario o universitario. El Club de Robótica, mediante este proyecto, a partir del año 2011 se propuso participar de la competencia nacional de robótica organizada anualmente por la UTN Facultad Regional Bahía Blanca, cosa que se logró en el año 2012. Dicha competencia consiste en una serie de carreras en las que participan dos robots velocistas siguiendo una línea blanca en la que gana el robot que diera una vuelta mas rápido.
 
 = Consideraciones Previas =
+----
 Algunos aspectos a tener en cuenta a la hora de diseñar tanto el hardware como el software son las siguientes:
 
  * '''Dimensiones''': el robot completo no puede superar 20 cm de largo, 12 de ancho y 10 de alto
@@ -40,10 +41,11 @@ Algunos aspectos a tener en cuenta a la hora de diseñar tanto el hardware como 
 El reglamento completo se puede descargar desde la pagina: BahiaBlanca
 
 = Estado del Proyecto =
-Actualmente nos encontramos en el diseño y armado de un '''seguidor de líneas basado en PIC'''.
+----
+En el año 2012 el proyecto se dividió en dos ramas, una que siguió la linea del 2011 gobernada por un microcontrolador PIC y apareció una nueva circuito, implementado por el grupo [[Kirjava]] que aparece como una versión evolucionada del [[RSL analógico]] que se desarrolló en 2010 y está construída completamente con componentes discretos.
+Actualmente se siguen desarrollando las dos versiones.
 
-En el año 2010,  concluimos nuestras experiencias con un '''seguidor de líneas totalmente analógico'''. Aquí el link para que vean el añalisis y desarrollo que hicimos del [[RSL analógico]]. Paralelamente, se dieron clases, charlas, y explicaciones de cómo programar los microcontrolades en lenguaje C, se mostraron simulaciones y también el paso a paso de la programación de PICs. . También terminamos el informe "'''Introducción a la  programación de microcontroladores en lenguaje C'''", con el cual se puede  empezar sin saber algo previamente. Con la idea de facilitar nuestras actividades referidas a robótica, confeccionamos un '''DVD''' donde pueden encontrar información muy útil que les puede servir como ayuda tanto para aprender como para elaborar proyectos.
+Las distintas versiones se pueden ver en las páginas de cada [[GruposRSL|Grupo de Desarrollo]] y en el repositorio del proyecto.
 
-Seguiremos buscando la forma de lograr una plataforma mecanica confiable y versatil, para eso tambien, vamos a diseñar varios circuitos o modulos que se encargaran de realizar las diferentes funciones del robot, a medida que vayamos mejorando los PCB, los iremos subiendo en la página correspondiente a [[RSLHard|Hardware]].
-
-Actualmente, estamos armando una plataforma de hardware que nos sirva para experimentación con microcontroladores PIC, el estado del proyecto se puede ver en la página de  [[PLACAPIC_RSL|PLACA PIC]].
+En la página del desarrollo [[RSL analógico|analógico]] se da una breve explicación de como construir un seguidor de lineas usando sólo transistores, pero se debe tener en cuenta que la simplicidad en el circuito electrónico se paga con complejidad en el desarrollo mecánico.
+A modo de orientación, se creó un tutorial para modificar dos autitos baratos de juguete para lograr un móvil con tracción diferencial que es el que se necesita para la mayoría de las versiones, el mismo se puede encontrar en el repositorio del proyecto.

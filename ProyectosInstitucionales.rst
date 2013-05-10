@@ -3,9 +3,9 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 ''' Propuestas de proyectos:'''
 
-''' [[Intro_Lab-Electr|Proyecto Electrónica Básica]]'''
+'''[[Intro_Lab-Electr|Proyecto Electrónica Básica]]'''
 
-''' [[MiniLab|Proyecto MiniLab]]:'''     (Finalizado)
+'''[[MiniLab|Proyecto MiniLab]]:'''     (Finalizado)
 
 '''[[RSL|Robot Seguidor de Línea]]'''
 

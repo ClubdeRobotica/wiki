@@ -24,7 +24,6 @@ Para lograr el objetivo se deben completar los siguientes pasos:
 
 = Hardware del Proyecto =
 ----
-Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
 
 == Sensores ==
 Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio ronda los $10 y su rendimiento es muy bueno para este tipo de robots. Estos tendran que ir en la parte inferior del movil, a una distancia maxima de 5 mm del piso (el sensor funciona a distancias mayores, pero nos estaríamos exponiendo a la interferencia por la luz infrarroja de cualquier otra fuente)
@@ -46,5 +45,14 @@ Los motores son pequeños motores de corriente continua, similares a los de la i
 Si estan sucios o viejos, generalmente se ponen mas duros y el consumo será mas alto y seguramente tendras menos rpm, tambien hay que tener en cuenta que esta sería la velocidad del eje central y que una reduccion mediante engranajes o poleas disminuiría la corriente necesaria cuando se le aplique una carga.
 
 Para calcular la reducción de velocidades al usar engranajes se usa la formula: N·Z = n·z donde N y Z son la velocidad (en rpm) y la cantidad de engranajes del piñón, n y z son los mismos datos pero del siguiente engranaje, es decir, la velocidad del segundo engranaje sera: n = (N·Z)/z, si el piñón está conectado al eje central del motor N será la velocidad del motor.
+
+
+== Gestión de Energía ==
+Para regular la tensión entregada por las baterías vamos a usar un regulador Step-Down, en este caso un TL2575-05 de TI, que conocimos en la página [[http://www.micropic.es/mpblog/2010/06/alimenta-tus-circuitos-con-un-regulador-step-down/|micropic.es]] y el circuito es el mismo que se puede encontrar en la hoja de datos del componente.
+Este dispositivo nos entrega una tension constante de 5V con un muy bajo consumo energía y se puede alimentar sin problemas con tensiones que van de 6V a 40V. En el repositorio se encuentra en formato pdf el PCB utilizado.
+
+== Placa de Control ==
+Para el control de Atila, se utiliza un PIC16F886 ya que posee todos los modulos internos que necesitamos para el proyecto. El circuito aún se encuentra montado sobre una plaqueta de islas mientras se completa el desarrollo.
+
 
 ----

@@ -3,12 +3,15 @@
 #language en
 == Nicolás Ignacio ==
 === nnico ===
-Email: <<MailTo(nnico AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+Email: nnico@cdr.usla.org.ar
 
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+'''desarrollador de:'''
+
+[[http://cdr.usla.org.ar/Bourbaki|Bourbaki]]
+
 '''Vinculado a:'''
 
-RSL
+[[http://cdr.usla.org.ar/RSL|RSL]]
 
 '''Administrador de:'''
 

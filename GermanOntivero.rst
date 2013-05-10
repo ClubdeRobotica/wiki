@@ -2,4 +2,4 @@
 
 '''Contacto:''' ''gerbonti377@cdr.usla.org''
 
-''Participando actualmente en el [[RSL|'''Proyecto Robot Seguidor de Línea''']]
+''Participando actualmente en el'' '''[[RSL|Proyecto Robot Seguidor de Línea]]''' ''con el grupo'' '''[[Atila]]'''

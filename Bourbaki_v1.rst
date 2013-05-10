@@ -3,7 +3,7 @@
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:2012-09-23 00.39.45.jpg||width="350"}} ||
 
-
+<<TableOfContents()>>
  
 
 Bourbaki_v1 es una versión de control digital del proyecto, sirve para introducirse en el desarrollo de un "Robot Seguidor de Líneas" pero carece de las ventajas que ofrece un microcontrolador. 

@@ -11,6 +11,12 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
 
 ----
+
+== Responsables CBE 2013 ==
+Becutti Franco ([[mailto:franco_becu@hotmail.com|franco_becu@hotmail.com]])
+
+Ochoa Dario ( darioo8@hotmail.com )
+
 == Reuniones ==
 * '''Día''' : Viernes.
 
@@ -87,7 +93,8 @@ Pueden mandar comentarios y sugerencias a: martinezequielmolina@gmail.com
 }}}
 ----
 
-== Histórico de Reuniones ==
+== Histórico de Reuniones 2012 ==
+
 '''* 31-08-12'''
 
  . => Diseño PCB finalizado.

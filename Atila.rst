@@ -22,18 +22,7 @@ Para lograr el objetivo se deben completar los siguientes pasos:
  * '''Regulador de tensión:''' si bien no es estrictamente necesario, sería muy bueno rediseñar el módulo regulador de tensión para integrarlo en la placa de control y agregar un switch de encendido.
  * '''Driver de Potencia:''' si bien consta de un solo integrado, hay que modificarlo para agregarle un pulsador que nos permita activar y desactivar los actuadores, para tener un control en la largada.
  
-= Consideraciones Previas =
-Uno de los objetivos impuestos para este 2011, fue lograr un seguidor confiable mediante el uso de PICs que nos sirva para participar en la competencia organizada por el GRS de la facultad Bahia Blanca. Algunas cosas a tener en cuenta a la hora de diseñar tanto el hardware como el software son las siguientes:
 
- * '''Dimensiones''': el robot completo no puede superar 20 cm de largo, 12 de ancho y 10 de alto
-
- * '''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro
-
- * '''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar.
-
-{{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=disenio.jpg}}
-
-El reglamento completo se puede descargar desde la pagina: BahiaBlanca
 
 ----
 = Hardware del Proyecto =

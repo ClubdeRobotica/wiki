@@ -13,7 +13,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 ----
 
 == Responsables CBE 2013 ==
-[[http://cdr.usla.org.ar/FrancoBecutti|Becutti Franco]]
+[[FrancoBecutti|Becutti Franco]]
 
 [[OchoaDario | OCHOA, Darío]]
 

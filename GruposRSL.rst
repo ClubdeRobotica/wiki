@@ -36,3 +36,7 @@
  . Hernan Paez.
 
 Agreguen su disponibilidad horaria.- Aquellos que quieran unirse, hablar con el grupo que quieran para coordinar.
+
+
+----
+[[RSL|Volver a la página principal de RSL]]

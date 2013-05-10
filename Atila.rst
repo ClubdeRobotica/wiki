@@ -11,9 +11,8 @@
  * Luigi Vazquez.
  * Gustavo Spessot.
 
-Horarios: Nos juntamos los martes en la parte nueva Laboratorio Central
-
 = Estado del Proyecto =
+----
 El proyecto actualmente se encuentra en un estado funcional con un control proporcional, este tipo de control tiene muchas limitaciones y debido a esto se está intentando lograr integrar al menos un control Proporcional-Derivativo para disminuir las oscilaciones del robot.
 Para lograr el objetivo se deben completar los siguientes pasos:
  * '''Placa de Sensores:''' Se deben poner al menos tres sensores para detectar la posición relativa del robot sobre la línea (actualmente en desarrollo)
@@ -23,9 +22,8 @@ Para lograr el objetivo se deben completar los siguientes pasos:
  * '''Driver de Potencia:''' si bien consta de un solo integrado, hay que modificarlo para agregarle un pulsador que nos permita activar y desactivar los actuadores, para tener un control en la largada.
  
 
-
-----
 = Hardware del Proyecto =
+----
 Ya que cada uno de los desarrolladores del RSL puede construir su propio botito seguidor, vamos a estandarizar un poco las plaquetas, lo que servirá tambien para orientar a los que no sepan por donde empezar.
 
 == Sensores ==
@@ -48,3 +46,5 @@ Los motores son pequeños motores de corriente continua, similares a los de la i
 Si estan sucios o viejos, generalmente se ponen mas duros y el consumo será mas alto y seguramente tendras menos rpm, tambien hay que tener en cuenta que esta sería la velocidad del eje central y que una reduccion mediante engranajes o poleas disminuiría la corriente necesaria cuando se le aplique una carga.
 
 Para calcular la reducción de velocidades al usar engranajes se usa la formula: N·Z = n·z donde N y Z son la velocidad (en rpm) y la cantidad de engranajes del piñón, n y z son los mismos datos pero del siguiente engranaje, es decir, la velocidad del segundo engranaje sera: n = (N·Z)/z, si el piñón está conectado al eje central del motor N será la velocidad del motor.
+
+----

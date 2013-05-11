@@ -7,11 +7,11 @@ Email: nnico@cdr.usla.org.ar
 
 '''desarrollador de:'''
 
-[[http://cdr.usla.org.ar/Bourbaki|Bourbaki]]
+[[Bourbaki|Bourbaki]]
 
 '''Vinculado a:'''
 
-[[http://cdr.usla.org.ar/RSL|RSL]]
+[[RSL|RSL]]
 
 '''Administrador de:'''
 

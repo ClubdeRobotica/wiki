@@ -41,7 +41,7 @@ El reglamento completo se puede descargar desde la pagina: BahiaBlanca
 
 = Estado del Proyecto =
 ----
-En el año 2012 el proyecto se dividió en dos ramas, una que siguió la linea del 2011 gobernada por un microcontrolador PIC y apareció una nueva circuito, implementado por el grupo [[Kirjava]] que aparece como una versión evolucionada del [[RSL analógico]] que se desarrolló en 2010 y está construída completamente con componentes discretos.
+En el año 2012 el proyecto se dividió en dos ramas, una que siguió la linea del 2011 gobernada por un microcontrolador PIC y apareció un nuevo circuito implementado por el grupo [[Kirjava]] apareciendo como una versión evolucionada del [[RSL analógico]] que se desarrolló en 2010.La misma está construida completamente con componentes discretos.
 Actualmente se siguen desarrollando las dos versiones.
 
 Las distintas versiones se pueden ver en las páginas de cada [[GruposRSL|Grupo de Desarrollo]] y en el repositorio del proyecto.

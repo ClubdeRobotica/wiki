@@ -89,4 +89,9 @@ A todos aquellos que no recibieron ningún correo del CdR por favor realicen la 
 Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o [[OchoaDario|Dario Ochoa]]
 }}}
 ----
+== Histórico de Reuniones 2012 ==
+
+'''* 10-05-2013 '''
+   =>Inicio de actividades
+----
 [[archivoCBE|Historial CBE 2012]]

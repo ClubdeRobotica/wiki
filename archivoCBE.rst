@@ -1,4 +1,3 @@
-## page was renamed from archivo_CBE
 == Histórico de Reuniones 2012 ==
 
 '''* 31-08-12'''

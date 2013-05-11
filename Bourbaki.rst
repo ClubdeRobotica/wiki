@@ -2,9 +2,9 @@
 
 == Responsables del proyecto ==
  
- * [[http://cdr.usla.org.ar/EzequielMolina|Martín Ezequiel Molina]]
+ * [[EzequielMolina|Martín Ezequiel Molina]]
 
- * [[http://cdr.usla.org.ar/NicolasIgnacio|Nicolás Ignacio]]
+ * [[NicolasIgnacio|Nicolás Ignacio]]
 
 
 ''' Proyecto desarrollado completamente con [[http://www.gnu.org/philosophy/free-sw.es.html|Software Libre]]. '''
@@ -19,6 +19,6 @@ Representación 3D del Robot con [[http://www.blender.org/|Blender]]
 
 === Versiones ===
 
-[[http://cdr.usla.org.ar/Bourbaki_v1|versión 1 (Sin microcontrolador)]]
+[[Bourbaki_v1|versión 1 (Sin microcontrolador)]]
 
-[[http://cdr.usla.org.ar/Bourbaki_v2|versión 2 (VERSIÓN ACTUAL con microcontrolador)]]
+[[Bourbaki_v2|versión 2 (VERSIÓN ACTUAL con microcontrolador)]]

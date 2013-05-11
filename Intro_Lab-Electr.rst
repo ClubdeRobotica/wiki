@@ -82,12 +82,9 @@ Es a modo ilustrativo, la organización de los componentes es creatividad de cad
 ----
 
 {{{#!wiki note
-A todos aquellos que no recibieron ningún correo del CdR por favor realicen la suscripción  [[http://cdr.usla.org.ar/Miembros|aqui]] para poder estar al tanto de las novedades.
+A todos aquellos que no recibieron ningún correo del CdR por favor realicen la suscripción  [[https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr|aqui]] para poder estar al tanto de las novedades.
 }}}
 {{{#!wiki note
-Los documentos del Proyecto MiniLab son un muy buen material de soporte para el curso de electrónica y laboratorio. Los archivos pueden descargarse desde [[http://trac.usla.org.ar/cdr/browser/trunk/Proyectos/MiniLab|aquí]].
-
-
 
 Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Francho Becutti]] y/o [[OchoaDario|Dario Ochoa]]
 }}}

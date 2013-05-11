@@ -5,8 +5,8 @@
 = Equipo =
 '''Responsables del proyecto'''
 
- * [[http://cdr.usla.org.ar/NicolasIgnacio|Nicolás Ignacio]]
- * [[http://cdr.usla.org.ar/HernanPaez|Hernán Paez]]
+ * [[NicolasIgnacio|Nicolás Ignacio]]
+ * [[HernanPaez|Hernán Paez]]
 
  . ''Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]].
 

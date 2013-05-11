@@ -57,7 +57,7 @@ Es a modo ilustrativo, la organización de los componentes es creatividad de cad
 === Información útil ===
 * Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]].
 
-* Guía para soldar :   [[attachment:¿Como soldar?]].
+* Guía para soldar :   [[attachment:Soldadura.odp|¿Cómo soldar?]].
 
 ===== Software de utilidad =====
 * Suite ofimática : [[http://es.wikipedia.org/wiki/LibreOffice|LibreOffice]].

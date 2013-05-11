@@ -89,4 +89,4 @@ A todos aquellos que no recibieron ningún correo del CdR por favor realicen la 
 Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Francho Becutti]] y/o [[OchoaDario|Dario Ochoa]]
 }}}
 ----
-[[archivo_CBE|Historial CBE 2012]]
+[[archivoCBE|Historial CBE 2012]]

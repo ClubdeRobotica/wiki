@@ -34,7 +34,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 == Material del curso ==
 Ya está disponible la '''versión completa''' del material creado para este curso.
 
-* Electrónica Básica (2012) : [[attachment:ElectronicaBasica.pdf]] En breve estará disponible el material 2013.
+* Electrónica Básica (2013) : [[attachment:ElectronicaBasica13.pdf]] '''Actualizado 2013'''
 
 * Trabajo Práctico N°1: [[attachment:TP1.pdf]]
 

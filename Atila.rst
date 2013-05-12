@@ -22,6 +22,9 @@ Para lograr el objetivo se deben completar los siguientes pasos:
  * '''Driver de Potencia:''' si bien consta de un solo integrado, hay que modificarlo para agregarle un pulsador que nos permita activar y desactivar los actuadores, para tener un control en la largada.
  
 
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;         ;text-align:center"> {{attachment:foto.jpg||width="300"}} ||
+
+
 = Hardware del Proyecto =
 ----
 

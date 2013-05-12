@@ -1,5 +1,6 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;  ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
+
 
 <<TableOfContents()>>
 
@@ -16,7 +17,7 @@ Como todos los proyectos del CdR, las herramientas informáticas con que se trab
 == Responsables CBE 2013 ==
 [[FrancoBecutti|Becutti, Franco]]
 
-[[OchoaDario | OCHOA, Darío]]
+[[OchoaDario|OCHOA, Darío]]
 
 == Reuniones ==
 * '''Día''' : Viernes.
@@ -48,7 +49,8 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;  ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+
 
 
 
@@ -91,8 +93,12 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
-
 '''* 10-05-2013 '''
-   =>Inicio de actividades
+
+    =>Inicio de actividades: Conductores y Aisladores, Tensión, Corriente y Resistencia. Ejercicios propuestos.
+
+ .
+ .
+
 ----
 [[archivoCBE|Historial CBE 2012]]

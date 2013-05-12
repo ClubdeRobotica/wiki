@@ -1,6 +1,7 @@
 == Red de Trabajo para los Miembros del CdR UTN-FRC ==
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:botito_pop_transp_red.png||width=300}} ||
 
+<<TableOfContents()>>
 La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
 
  * La wiki del CdR.
@@ -34,7 +35,7 @@ El LabRemoto se encuentra actualmente offonline. Si alguien quiere hacer algún 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 
-Desde Linux:
+==== Desde Linux ====
 
  * Instalar un cliente[3] “subversion” (SVN) apto para su distribución de Linux. Puede ser “kdesvn” si utilizan el escritorio KDE (también qsvn o simplemente usarlo por línea de comando)
  * Verificar que el puerto que utiliza SVN esté abierto en el contrafuegos. SVN utiliza normalmente el puerto 3690.
@@ -58,7 +59,7 @@ usr@linux:~/Proyectos/CdR>svn commit -m “comentario enriquecedor sobre lo que 
 }}}
 El servidor les preguntará por su nombre de usuario y contraseña. No olvidar los comentarios sobre que se edito!
 
-Desde Win$:
+==== Desde Win$ ====
 
 1º Instalar TortoiseSVN[4] y Firefox (versión >= 3.6.10)
 

@@ -18,15 +18,8 @@ La lista CdR en USLA será el medio de comunicación grupal para CdR. Hay que ad
 
 4º Recientemente se habilitó un canal IRC:
 
-El canal esta alojado en el servidor de FreeNode: irc.freenode.net y se llama #CdR-UTNFRC. Pueden encontrar info sobre como conectarse aquí [1][2]
+El canal esta alojado en el servidor de Freenode: irc.freenode.net y se llama #CdR-UTNFRC. Pueden encontrar info sobre como conectarse en:
 
-[1] http://es.wikipedia.org/wiki/Wikipedia:Canal_de_IRC
+[[http://es.wikipedia.org/wiki/Wikipedia:Canal_de_IRC]]
 
-[2] http://es.wikipedia.org/wiki/Cliente_IRC
-
-5º '''Pipio!'''
-
-Pipio es un servicio de microblogueo basada en la herramienta de software libre StatusNet tool. La adoptamos como una herramienta más de comunicación para el club. Para pode pipear, necesitan que alguien que ya tenga un usuario los invite. Esto se hace diréctamente desde la página de pipio.
-
-
-http://pipio.usla.org.ar/
+[[http://es.wikipedia.org/wiki/Cliente_IRC]]

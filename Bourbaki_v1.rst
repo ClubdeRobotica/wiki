@@ -15,11 +15,10 @@ Desarrollado en un 80 %
 
 * CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea, es un cubo de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor. Detalles [[CNY70 |aquí]]
 
-Los utilizamos para diferenciar la linea a seguir
+Los utilizamos para diferenciar la línea a seguir
 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70esquema.svg||width="250"}} ||
+
 ----
 PCB
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70pcb.png||width="250"}} ||

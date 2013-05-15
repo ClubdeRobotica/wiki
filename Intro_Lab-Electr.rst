@@ -1,12 +1,14 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;    ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
 
 
 <<TableOfContents()>>
 
-El proyecto Electrónica Básica tiene como objetivo familiarizar a los alumnos sobre los conceptos básicos necesarios para enfrentar un proyecto de electrónica inicial como así también sobre el manejo de herramientas tanto informáticas como de laboratorio (diseño por computadora, simulación, soldador, estaño, flux, placas, herramientas, multímetro, osciloscopio, insumos, etc...).
+El proyecto Electrónica Básica tiene como objetivo familiarizar a los alumnos sobre los conceptos básicos necesarios para enfrentar un proyecto de electrónica inicial como así también sobre el manejo de herramientas tanto informáticas como de laboratorio (diseño y simulación por computadora, componentes, soldador, estaño, flux, placas, herramientas, multímetro, osciloscopio, etc...).
 
-El proyecto cuenta con una parte Teórica y una Práctica en la cual esta previsto construir algunos circuitos elementales hasta llegar a una fuente de tensión lineal.
+El proyecto cuenta con una parte Teórica donde se exponen los temas, ejercitación y trabajos prácticos donde se pone a prueba lo aprendido.
+
+Para finalizar el curso esta previsto construir una fuente de tensión lineal.
 
 Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2013 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica.
 
@@ -49,7 +51,7 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;    ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
 
 
 
@@ -95,7 +97,7 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 == Histórico de Reuniones 2013 ==
 '''* 10-05-2013 '''
 
-    =>Inicio de actividades: Conductores y Aisladores, Tensión, Corriente y Resistencia. Ejercicios propuestos.
+ . =>Inicio de actividades: Conductores y Aisladores, Tensión, Corriente y Resistencia. Ejercicios propuestos.
 
  .
  .

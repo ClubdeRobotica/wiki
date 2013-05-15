@@ -1,5 +1,6 @@
-/!\ 
-||<bgcolor="#FF0000"> UNDER CONSTRUCTION||
+{{{#!wiki caution
+                           EN CONSTRUCCIÓN 
+}}}
 
 
 == Sensor CNY70 ==

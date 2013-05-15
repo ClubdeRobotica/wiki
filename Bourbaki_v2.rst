@@ -19,7 +19,7 @@ Armado...piezas...ensambles...etc
 
 ''' Chasis '''
 
-Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.[[attachment:chasis.svg|ver diseño|width="600"]]
+Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.[[attachment:chasisCAD.svg|ver diseño|width="600"]]
 
 
 ''' Motorreductores '''

@@ -97,7 +97,7 @@ Dentro del .zip, también hay una pequeña nota, con el contenido de cosas que t
 
 Placa Pic V1.1 (con capacitor filtro en un conector pero no electrolítico) :
 
-[[attachment:placapic.zip]]
+
 
 SVN para checkout: 
 {{{
@@ -111,7 +111,8 @@ svn co svn://192.168.1.130/CdR-Principal/trunk/Proyectos/RSL/Choique/Hardware ./
 
 Está disponible también la versión del esquemático en KiCAD. Como experiencia: es clave la buena gestión de las librerías y módulos!!!
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:placa-rsl-new.png||width="600"}} ||
+Mas detalles '''[[placaPIC_RSL|AQUÍ]]'''
+
 
 === SO ===
 

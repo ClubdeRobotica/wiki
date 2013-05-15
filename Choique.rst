@@ -93,7 +93,6 @@ Además:
 
 Esquemático y el PCB de la Placa Pic en su version V1.1 (.zip) Cualquier cambio que quieran realizarle, pueden hacerlo desde Proteus 7, y creo que es posible importarlo a Kicad. Los archivos están en el repo SVN del club (lugar para subir los cambios)
 
-Dentro del .zip, también hay una pequeña nota, con el contenido de cosas que tiene, y que hacen falta cambiar, o definir bien.
 
 Placa Pic V1.1 (con capacitor filtro en un conector pero no electrolítico) :
 

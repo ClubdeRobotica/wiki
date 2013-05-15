@@ -49,4 +49,10 @@ Las distintas versiones se pueden ver en las páginas de cada [[GruposRSL|Grupo 
 En la página del desarrollo [[RSL analógico|analógico]] se da una breve explicación de como construir un seguidor de lineas usando sólo transistores, pero se debe tener en cuenta que la simplicidad en el circuito electrónico se paga con complejidad en el desarrollo mecánico.
 A modo de orientación, se creó un tutorial para modificar dos autitos baratos de juguete para lograr un móvil con tracción diferencial que es el que se necesita para la mayoría de las versiones, el mismo se puede encontrar en el repositorio del proyecto.
 
+
+
 ----
+
+= Desarrollo con microcontrolador PIC =
+
+[[CNY70|Sensores]]  |   [[placaPIC_RSL|Placa PIC]]

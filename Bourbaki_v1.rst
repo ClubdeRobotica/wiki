@@ -12,7 +12,8 @@ Desarrollado en un 80 %
 === Etapa de Alimentación ===
 * Batería de 9V con un regulador 7805.
 ==== Sensores ====
-* CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea, es un cubo de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor como se puede ver en la imagen.
+
+* CNY70 : Es uno de los sensores que más se suele usar para los robots seguidores de línea, es un cubo de 7mm de lado aproximadamente. Está compuesto por un fotodiodo y un fototransistor. Se detalla en [[Sensores]]
 
 Los utilizamos para diferenciar la linea a seguir
 

@@ -33,7 +33,7 @@ Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
 ''' [[placaPIC_RSL |Microcontrolador]] '''
 
-''' [[DriverRSL | Driver Motores]] '''
+''' [[driverRSL | Driver Motores]] '''
 
 ''' Alimentación '''
 

@@ -138,3 +138,6 @@ Es importante que todos generemos este documento para pulir errores.
 
 
 * Hoja de datos del sensor CNY70 :[[attachment:cny70.pdf]]
+
+----
+[[Bourbaki|Volver]] | [[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]

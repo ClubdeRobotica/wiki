@@ -24,13 +24,13 @@ La distancia entre Emisor y Receptor es de  2.8 [mm].
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:medidas_cny70.jpg||width="200"}} ||
 
 
+'''Hoja de datos''' [[http://www.vishay.com/docs/83751/cny70.pdf|DataSheet_CNY70]]
+
 ----
 === Conclusión ===
 El único inconveniente del sensor es la necesidad de tener que situarlo muy próximo al objeto para detectar correctamente la reflexión. Por lo demás, es una solución muy buena para la detección de línea e incluso para emplearlo como encoder para la medición de las vueltas dadas por las ruedas del robot.
 
 
-
-Para mas información ver [[http://www.vishay.com/docs/83751/cny70.pdf|DataSheet]]
 
 
 

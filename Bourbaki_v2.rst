@@ -15,27 +15,49 @@ En esta segunda versión, incorporamos un microcontrolador (PIC), que nos permit
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakiwiki3.png||width="400"}}||
 
 = Móvil =
-Armado...piezas...ensambles...etc
 
-''' Chasis '''
+Construido en su mayoría con acrílico, el móvil consta de dos partes: principalmente por el '''chasis''' (o base) donde se ubican los motorreductores, los cuales se sujetan al chasis con una lámina de aluminio por medio de tornillos; y el punto de apoyo, que fue pegado con un adhesivo instantaneo.- Por otro lado se encuentra el '''soporte para PCB''', que es ubicado sobre el bloque de motorreductores con dos varillas roscadas, tuerca y contratuerca. El PCB luego se monta al soporte por medio de separadores en las esquinas en donde se atornilla quedando bien sujeto.
 
-Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrilico de 5mm.[[attachment:chasisCAD.svg|ver diseño|width="600"]]
+'''Referencias:'''
+
+=== Chasis ===
+
+Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrílico de 5mm.
 
 
-''' Motorreductores '''
+[[attachment:chasisCAD.svg|ver diseño|width="600"]]
+
+
+=== Motorreductores ===
 
 Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
+=== Punto de apoyo ===
+
+=== Soporte para PCB ===
+
+
+----- 
 
 = Electrónica =
 
-''' [[CNY70|Sensores]] '''
+Se basa en el desarrollo con microcontrolador PIC...
 
-''' [[placaPIC_RSL |Microcontrolador]] '''
 
-''' [[driverRSL | Driver Motores]] '''
+=== Sensores ===
 
-''' Alimentación '''
+[[CNY70|Sensores]]
+
+=== Microcontrolador ===
+
+[[placaPIC_RSL |Microcontrolador]]
+
+=== Driver de Motorreductores ===
+
+[[driverRSL | Driver]]
+
+
+=== Alimentación ===
 
 ----
 [[Bourbaki|Volver]] | [[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]

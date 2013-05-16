@@ -6,6 +6,8 @@
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:placa-rsl-new.png||width="800"}} ||
 
+{i} click derecho sobre la imagen y ver imagen para ampliar ;-)
+
 
 Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y que hacen falta cambiar, o definir bien.
 

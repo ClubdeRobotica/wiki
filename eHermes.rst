@@ -14,3 +14,7 @@ Nos encontramos en distintas etapas de desarrollo:
 -Diseño de PCB en KiCad. Con el objetivo de generar una plataforma base para los futuros grupos de RSL que se incorporen al CdR.
 
 -Elección de baterías.
+
+
+----
+[[Bourbaki|Volver]] | [[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]

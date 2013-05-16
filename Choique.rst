@@ -168,4 +168,4 @@ Bajó al suelo!!!!
 Nota: El inclinómetro (adxl) no es necesario para el funcionamiento del RSL. Es sólo un complemento.
 
 ----
-[[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL | Principal de RSL]] | [[GruposRSL | Grupos RSL]]

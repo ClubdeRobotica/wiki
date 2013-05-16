@@ -34,7 +34,7 @@ Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
 === Punto de apoyo ===
 
-Diseñado conjuntamente con el chasis, el punto de apoyo se compone de dos piezas de acrílico, las cuales fueron pegadas con un adhesivo instantaneo. Consta de un cilindro y una media esfera con un espesor de 5 y 10 mm respectivamente, ambos con un redio de 17 mm.
+Diseñado conjuntamente con el chasis, el punto de apoyo se compone de dos piezas de acrílico, las cuales fueron pegadas con un adhesivo instantaneo. Consta de un cilindro y una media esfera con un espesor de 5 y 10 mm respectivamente, ambos con un radio de 17 mm.
 
 /!\ imagen
 

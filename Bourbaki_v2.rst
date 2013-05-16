@@ -34,7 +34,15 @@ Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
 === Punto de apoyo ===
 
+Diseñado conjuntamente con el chasis, el punto de apoyo se compone de dos piezas de acrílico, las cuales fueron pegadas con un adhesivo instantaneo. Consta de un cilindro y una media esfera con un espesor de 5 y 10 mm respectivamente, ambos con un redio de 17 mm.
+
+/!\ imagen
+
 === Soporte para PCB ===
+
+El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica con varillas roscadas desde la lámina de aluminio pasando por el bloque de motorreductores. Dicho soporte en sus esquinas tiene separadores de metal para atornillar la placa electronica, cerebro de nuestro RSL-Bourbaki.-
+
+/!\ imagen
 
 
 ----- 

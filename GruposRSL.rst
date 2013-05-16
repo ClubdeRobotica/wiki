@@ -36,7 +36,8 @@
  . Hernan Paez.
 
 ----
-Agreguen su disponibilidad horaria.- Aquellos que quieran unirse, hablar con el grupo que quieran para coordinar.
+
+Aquellos que quieran unirse a algún grupo en particular, escriban a sus responsables para coordinar.
 
 
 ----

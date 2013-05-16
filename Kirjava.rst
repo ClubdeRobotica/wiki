@@ -18,3 +18,6 @@ El objetivo de este proyecto es el desarrollo de un RSL sencillo y económico pe
 Con esas premisas se decidió por no utilizar microcontrolador para el procesamiento de datos, puesto que a pesar de que en la actualidad estos no son costosos, para utilizarlos es necesario una infraestructura extra(por ejemplo: soporte, programador, PC). El control de manera analógica puede ser fiable, pero a baja velocidad.
 
 Por lo cual se de optó por un nivel intermedio entre control por uC y control analógico, lo que es un control digital, pero con componentes discretos para los cuales no es necesario programación alguna(amplificadores operacionales, compuertas digitales, transistores en su zona de Corte/Saturación).
+
+----
+[[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]

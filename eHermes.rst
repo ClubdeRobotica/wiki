@@ -17,4 +17,4 @@ Nos encontramos en distintas etapas de desarrollo:
 
 
 ----
-[[Bourbaki|Volver]] | [[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]

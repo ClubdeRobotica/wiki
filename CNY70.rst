@@ -11,15 +11,17 @@ La distancia entre Emisor y Receptor es de  2.8 [mm].
 
 ==== Circuito interno CNY70 ====
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70esquema.svg||width="250"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70esquema.svg||width="300"}} ||
 
 ==== Encapsulado ====
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:cny70.svg||width="250"}} ||
 
 ==== Dimensiones (mm) ====
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:medidas_cny70.jpg||width="200"}} ||
 
 
+----
 === Conclusión ===
 El único inconveniente del sensor es la necesidad de tener que situarlo muy próximo al objeto para detectar correctamente la reflexión. Por lo demás, es una solución muy buena para la detección de línea e incluso para emplearlo como encoder para la medición de las vueltas dadas por las ruedas del robot.
 

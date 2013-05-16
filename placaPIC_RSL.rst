@@ -8,4 +8,5 @@
 
 
 Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y que hacen falta cambiar, o definir bien.
-[[placapic.zip|Descargar .zip]]
+
+[[attachment:placapic.zip|Descargar .zip]]

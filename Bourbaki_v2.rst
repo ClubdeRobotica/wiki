@@ -41,7 +41,7 @@ Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
 = Electrónica =
 
-Se basa en el desarrollo con microcontrolador PIC...
+Se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcontrolador PIC]]
 
 
 === Sensores ===

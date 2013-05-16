@@ -9,7 +9,7 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 El CdR también busca integrar a estudiantes de otras especialidades que deseen aprender (o aplicar sus conocimientos) sobre electrónica, software y mecánica, en el área de la robótica.
 
 == ¿Cómo participar? ==
- . En la sección  [[Contacto]] se puede acceder a los distintos medios de comunicación con los integrantes del CdR. Te esperamos!
+ . En la sección  '''[[Contacto]]''' se puede acceder a los distintos medios de comunicación con los integrantes del CdR. Te esperamos!
  . '' Juntada regular CdR 2013: todos los Jueves de 16 a 18hs - LCE UTN-FRC.''
 
 {{{#!wiki note

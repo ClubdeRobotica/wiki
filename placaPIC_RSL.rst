@@ -56,4 +56,4 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 
 
 ----
-[[#Desarrollo_con_microcontrolador_PIC|Volver]] | [[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL#Desarrollo_con_microcontrolador_PIC|Volver]] | [[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

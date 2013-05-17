@@ -44,6 +44,8 @@ El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica
 
 /!\ imagen
 
+===== Materiales =====
+
 
 ----- 
 
@@ -66,6 +68,8 @@ Se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcont
 
 
 === Alimentación ===
+
+===== Materiales =====
 
 ----
 [[Bourbaki|Volver]] | [[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]

@@ -38,4 +38,4 @@ El √∫nico inconveniente del sensor es la necesidad de tener que situarlo muy pr√
 
 
 ----
-[[RSL#Desarrollo_con_microcontrolador_PIC|Volver]] | [[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]

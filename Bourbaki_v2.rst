@@ -30,7 +30,9 @@ Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASE
 
 === Motorreductores ===
 
-Motorreductores [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
+Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultades con el control de los motores en esta versión optamos por utilizar motorreductores, que no es mas que un motor de CC con una caja reductora acoplada a él.
+
+ En el siguiente enlace se describe detalladamente el modelo que instalamos [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
 === Punto de apoyo ===
 

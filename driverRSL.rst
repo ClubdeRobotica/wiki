@@ -1,5 +1,6 @@
-/!\ 
-||<bgcolor="#FF0000"> UNDER CONSTRUCTION||
+{{{#!wiki caution
+                           EN CONSTRUCCIÓN 
+}}}
 
 Para controlar nuestros motores de CC utilizamos el circuito integrado L293B, el cual contiene dos puente H, uno para cada motor. Con dichos puentes podemos manipular el sentido de giro.
 

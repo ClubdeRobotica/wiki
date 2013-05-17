@@ -20,7 +20,7 @@ Construido en su mayoría con acrílico, el móvil consta de dos partes: princip
 
 '''Referencias:'''
 
-== Chasis ==
+=== Chasis ===
 
 Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrílico de 5mm.
 
@@ -46,7 +46,7 @@ El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica
 
 /!\ imagen
 
-== Materiales ==
+=== Materiales ===
 
 
 ----- 
@@ -77,7 +77,7 @@ En nuestro proyecto se implementó en una sola placa principal, que constituye l
 
 === Alimentación ===
 
-== Materiales ==
+=== Materiales ===
 
 ----
 [[Bourbaki|Volver]] | [[RSL | Principal de RSL]] | [[GruposRSL | Grupos RSL]]

@@ -29,7 +29,7 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 || R11 10k ||||D11 1N4148 |||| C11 0.1uf ||||-||||1x zócalo para CI 2x20 pts||
 || R12 330 ||||-||||C12 100uf ||||-||||2x zócalos para CI 2x8 pts||
 ||R13 10k ||||-|||| C13 1uf ||||-||||Placa de islas o multiproposito, PCB||
-||R14 100 ||||-||||C14 0.1uf ||||-||||-||||-||
+||R14 100 ||||-||||C14 0.1uf ||||-||||-||
 || R15 100 ||||-|||| C15 0.1uf ||||-||||-||
 ||-||||-|||| C16 0.1uf ||||-||||-||
 ||-||||-|||| C17 0.1uf ||||-||||-||

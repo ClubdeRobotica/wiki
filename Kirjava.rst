@@ -20,4 +20,4 @@ Con esas premisas se decidió por no utilizar microcontrolador para el procesami
 Por lo cual se de optó por un nivel intermedio entre control por uC y control analógico, lo que es un control digital, pero con componentes discretos para los cuales no es necesario programación alguna(amplificadores operacionales, compuertas digitales, transistores en su zona de Corte/Saturación).
 
 ----
-[[RSL | Principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

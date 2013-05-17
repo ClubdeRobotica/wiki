@@ -41,4 +41,4 @@ Aquellos que quieran unirse a algún grupo en particular, escriban a sus respons
 
 
 ----
-[[RSL|principal de RSL]]
+[[RSL|Principal de RSL]]

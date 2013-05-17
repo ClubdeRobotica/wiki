@@ -53,6 +53,10 @@ El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica
 
 Se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcontrolador PIC]]
 
+En nuestro proyecto se implemento en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentacion descriptas mas abajo.
+
+
+
 
 === Sensores ===
 

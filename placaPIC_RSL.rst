@@ -1,6 +1,6 @@
-/!\ 
-||<bgcolor="#FF0000"> UNDER CONSTRUCTION||
-
+{{{#!wiki caution
+                           EN CONSTRUCCIÓN 
+}}}
 == Esquemático General del Proyecto RSL ==
 
 

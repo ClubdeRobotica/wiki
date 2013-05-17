@@ -38,4 +38,4 @@ El único inconveniente del sensor es la necesidad de tener que situarlo muy pr�
 
 
 ----
-[[RSL | ir a la página principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]

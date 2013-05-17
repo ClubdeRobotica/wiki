@@ -15,7 +15,7 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 [[attachment:placapic.zip|Descargar .zip]]
 
 === Lista de componentes ===
-||<rowbgcolor="#ffffcc"> '''Resistencias'''||||'''Diodos'''||||'''Capacitores'''||||'''CI'''||||'''Otros'''||
+||<rowbgcolor="#ffffcc"> '''Resistencias [Ohm]'''||||'''Diodos'''||||'''Capacitores'''||||'''CI'''||||'''Otros'''||
 || R1 470 |||| LED-Power||||C1 0.1uf |||| U2 PIC16F877(/A) |||| BT1 9v ||
 || R2 100 |||| D2 LED-Live |||| C2 0.1uf |||| U4 L293b ||||IC1 ADXL103 ||
 || R3 100 |||| D3 1N4007 |||| C3 220uf |||| U3 GD4049B ||||JP1 RESET ||

@@ -59,4 +59,4 @@ Para el control de Atila, se utiliza un PIC16F886 ya que posee todos los modulos
 
 
 ----
-[[RSL|Principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]

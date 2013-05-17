@@ -12,7 +12,7 @@ Aqui vamos a agregar nuestros intereses al formar parte de las actividades del R
 
 * Programación de microcontroladores PIC
 
-'''''Ezequiel Molina''''' martinezequielmolina@gmail.com
+'''''Ezequiel Molina''''' ezemoli@cdr.usla.org.ar
 
 * Mi interés personal es poder desarrollar proyectos electrónicos con la ayuda de Software Libre y promover su uso.
 

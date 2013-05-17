@@ -17,4 +17,4 @@ Hoja de datos [[http://www.ti.com/lit/ds/symlink/l293d.pdf|DataSheet_L293]]
 
 
 ----
-[[RSL#Desarrollo_con_microcontrolador_PIC|Volver]] | [[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]

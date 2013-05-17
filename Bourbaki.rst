@@ -24,4 +24,4 @@ Representación 3D del Robot con [[http://www.blender.org/|Blender]]
 [[Bourbaki_v2|versión 2 (VERSIÓN ACTUAL con microcontrolador)]]
 
 ----
-[[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

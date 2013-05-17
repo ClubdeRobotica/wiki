@@ -15,65 +15,45 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 [[attachment:placapic.zip|Descargar .zip]]
 
 === Lista de componentes ===
+||resistencias||||Diodos||||Capacitores||||CI||||Otros||
+|| R1 470 |||| LED-Power||||C1 0.1uf |||| U2 PIC16F877(/A) |||| BT1 9v ||
+|| R2 100 |||| D2 LED-Live |||| C2 0.1uf |||| U4 L293b ||||IC1 ADXL103 ||
+|| R3 100 |||| D3 1N4007 |||| C3 220uf |||| U3 GD4049B ||||JP1 RESET ||
+|| R4 10k |||| D4 1N4007 |||| C4 47uf |||| U1 LM7805 ||||JP2 SERIAL ||
+|| R5 100 |||| D5 1N4004 |||| C5 0.1uf ||||-||||JP3 MOTOR-ENA ||
+||R6 100 |||| D6 1N4007 ||||C6 0.1uf ||||-||||MOTOR1 MCC_5v_DER ||
+||R7 100 ||||D7 1N4007 |||| C7 27pf ||||-|||| MOTOR2 MCC_5v_IZQ ||
+|| R8 2k ||||D8 1N4007 |||| C8 27pf ||||-||||U5 CNY70 ||
+||R9 470 ||||D9 1N4007 |||| C9 1uf ||||-||||U6 CNY70 ||
+|| R10 330 ||||D10 1N4007 |||| C10 0.1uf ||||-||||X1 4MHz ||
+|| R11 10k ||||D11 1N4148 |||| C11 0.1uf ||||-||
+|| R12 330 ||||-||||C12 100uf ||
+||R13 10k ||||-|||| C13 1uf ||
+||R14 100 ||||-||||C14 0.1uf ||
+|| R15 100 ||||-|||| C15 0.1uf ||
+||-||||-|||| C16 0.1uf ||
+||-||||-|||| C17 0.1uf ||
+||-||||-|||| C18 0.1uf ||
 
-|| BT1 9v ||
-|| C1 0.1uf ||
-|| C2 0.1uf ||
-|| C3 220uf ||
-|| C4 47uf ||
-|| C5 0.1uf ||
-||C6 0.1uf ||
-|| C7 27pf ||
-|| C8 27pf ||
-|| C9 1uf ||
-|| C10 0.1uf ||
-|| C11 0.1uf ||
-|| C12 100uf ||
-|| C13 1uf ||
-|| C14 0.1uf ||
-|| C15 0.1uf ||
-|| C16 0.1uf ||
-|| C17 0.1uf ||
-|| C18 0.1uf ||
-|| LED-Power ||
-|| D2 LED-Live ||
-|| D3 1N4007 ||
-|| D4 1N4007 ||
-|| D5 1N4004 ||
-|| D6 1N4007 ||
-||D7 1N4007 ||
-||D8 1N4007 ||
-||D9 1N4007 ||
-||D10 1N4007 ||
-||D11 1N4148 ||
-||IC1 ADXL103 ||
-||JP1 RESET ||
-||JP2 SERIAL ||
-|| JP3 MOTOR-ENA ||
-|| MOTOR1 MCC_5v_DER ||
-|| MOTOR2 MCC_5v_IZQ ||
-|| R1 470 ||
-|| R2 100 ||
-|| R3 100 ||
-|| R4 10k ||
-|| R5 100 ||
-||R6 100 ||
-||R7 100 ||
-|| R8 2k ||
-||R9 470 ||
-|| R10 330 ||
-|| R11 10k ||
-|| R12 330 ||
-||R13 10k ||
-||R14 100 ||
-|| R15 100 ||
-|| U1 LM7805 ||
-|| U2 PIC16F877(/A) ||
-|| U3 GD4049B ||
-|| U4 L293b ||
-||U5 CNY70 ||
-||U6 CNY70 ||
-||X1 4MHz ||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----
 [[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

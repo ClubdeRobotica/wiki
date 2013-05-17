@@ -15,6 +15,8 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 
 [[attachment:placapic.zip|Descargar .zip]]
 
+=== Lista de componentes ===
+
 || BT1 9v ||
 || C1 0.1uf ||
 || C2 0.1uf ||

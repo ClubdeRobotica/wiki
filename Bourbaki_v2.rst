@@ -78,4 +78,4 @@ En nuestro proyecto se implementó en una sola placa principal, que constituye l
 ===== Materiales =====
 
 ----
-[[Bourbaki|Volver]] | [[RSL | principal de RSL]] | [[GruposRSL | Grupos RSL]]
+[[Bourbaki|Volver]] | [[RSL | Principal de RSL]] | [[GruposRSL | Grupos RSL]]

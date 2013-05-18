@@ -37,6 +37,10 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 
 
 
+'''Hola de datos''' [[http://ww1.microchip.com/downloads/en/devicedoc/30292c.pdf|DataSheet_PIC16F877]]
+
+
+
 
 
 

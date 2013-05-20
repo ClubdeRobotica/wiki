@@ -6,14 +6,14 @@
    1. Trabajar activamente en la vinculación institucional y la integración con los grupos de la facultad.
    1. Establecer los nuevos integrantes de la comisión directiva.
    1. Definir quienes van a ser los tutores.
-   1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general;
+   1. Brindar un curso básico de electrónica a los ingresantes al club y la comunidad estudiantil en general;
    1. Lanzar el Proyecto RSL.
    1. Reorganizar la tesorería.
    1. Cerrar una versión funcional repetible del RSL.
    1. Recaudación de fondos para poder participar de las competencias nacionales de robótica.
    1. Asistir a la competencia de robótica de San Francisco.
    1. Asistir a la competencia de robótica de Bahía Blanca.
-   1. Organizar y lanzar el Ciclo de Formación Tecnológica 2013 (segundo semestre).
+   1. Organizar y lanzar el Ciclo de Formación Tecnológica 2013 (charlas-segundo semestre).
    1. Hacer una pequeña demostración (y por que no una competencia local!?) con las plataformas desarrolladas durante el año para los miembros del Club de Robótica, grupos relacionados, y para las autoridades de Ing. Electrónica, para Octubre de 2013.
    1. Planear una visita a alguna empresa que trabaje con automatización, laboratorio, etc...
 
@@ -22,7 +22,7 @@
 PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos del 2011 pendientes)
 
    1. Cerrar una versión funcional repetible del RSL; '''Concretado Parcialmente'''
-   1. Brindar un curso de introducción a la electrónica y el laboratorio a los ingresantes al club y la comunidad estudiantil en general; '''Concretado'''
+   1. Brindar un curso de introducción a la electrónica a los ingresantes al club y la comunidad estudiantil en general; '''Concretado'''
    1. Asistir a la competencia de robótica de San Francisco; '''Concretado'''
    1. Hacer una pequeña demostración con las plataformas desarrolladas durante el año para los miembros del Club de Robótica y para las autoridades de Ing. Electrónica, para Octubre de 2012. '''Concretado'''
    1. Participar en la competencia de robótica de Bahía Blanca; '''Concretado'''

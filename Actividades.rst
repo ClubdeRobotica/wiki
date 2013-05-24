@@ -3,6 +3,10 @@
 [[CicloFormacion|Ciclo de formación]] |
 [[Infraestructura|Trabajos de Infraestructura]]
 
+'''Histórico de Actividades Año 2013:''' (colocar fechas!)
+
+   1. Jornada de Puertas Abiertas JPA-CdR UTN-FRC.
+
 '''Histórico de Actividades Año 2012:''' (colocar fechas!)
 
    1. Reuniones organizativas (planeamiento inicio de actividades) [24/02].

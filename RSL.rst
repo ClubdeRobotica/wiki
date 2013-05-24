@@ -58,3 +58,5 @@ A modo de orientación, se creó un tutorial para modificar dos autitos baratos 
 == Etapas Principales ==
 [[placaPIC_RSL|Placa PIC]] | [[CNY70|Sensores]]  |   [[driverRSL|Driver de motores]]
 ----
+
+= Desarrollo con Arduino =

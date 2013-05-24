@@ -1,4 +1,6 @@
-~+'''''201003-003''' '''Robot Seguidor de Línea''''' +~
+~+'''''201003-003'''+~
+= Robot Seguidor de Línea =
+
 
 <<TableOfContents()>>
 

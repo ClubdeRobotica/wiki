@@ -1,6 +1,6 @@
 == Misión ==
 
-Se busca que los miembros evolucionen gradualmente hacia estructuras de pensamiento e implementaciones más complejas partiendo de estructuras simples, tanto mentales como sintéticas inmersos en un medio integrador y multidisciplinario.
+Se busca que los miembros evolucionen gradualmente hacia estructuras de pensamiento e implementaciones más complejas partiendo de estructuras simples, tanto mentales como sintéticas, inmersos en un medio integrador y multidisciplinario.
 
 En relación directa con la carrera de Ing. Electrónica, el CdR busca introducir a los estudiantes de los primeros años a la ingeniería de aplicación, y ayudar a los alumnos de los cursos superiores con sus proyectos integradores y finales.
 

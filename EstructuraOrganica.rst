@@ -22,6 +22,8 @@ Propuesta de estructura orgánica:
 
 * Los puntos 1,2 y 3 pueden combinarse.
 
+* Ningún miembro de la Comisión Directiva del CdR podrá formar parte como miembro activo de alguna agrupación política de la facultad (las actividades son mutuamente excluyentes).
+
 {{{#!wiki caution
 '''Por favor no editar esta sección en la wiki'''
 

@@ -14,8 +14,6 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 '''[[BancoDatos|Banco de Datos]]'''
 
 
----
-
 '''¿Cómo participar?'''
 
 Si te interesa alguno de los proyectos y quieras participar, escribí a la dirección de contacto del club comentándonos, o escribí directamente al responsable del proyecto en cuestión (las direcciones están publicadas). A la brevedad nos pondremos en contacto informándote de los pormenores. Esperamos tu participación!

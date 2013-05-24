@@ -1,7 +1,5 @@
 = Estructura orgánica =
 
-Propuesta de estructura orgánica:
-
    1. Desarrolladores: Miembros activos de proyectos. Alumnos y profesionales de la UTN-FRC de cualquier especialidad.
    2. Consejeros y tutores: Rol orientado a alumnos avanzados y profesionales.
           * Consejeros: Participarían desde la lista de correo (o asistiendo a las reuniones si así lo desean) evacuando inquietudes de los miembros.

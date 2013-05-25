@@ -54,8 +54,7 @@
 = Desarrollo con microcontrolador PIC =
 ----
 == Diagrama de Bloques ==
-
-'' {{http://cdr.usla.org.ar/RSL?action=AttachFile&do=get&target=bloques.png}} ''
+'' {{http://cdr.usla.org.ar/RSL?action=AttachFile&do=get&target=bloques.}} ''
 
 
 == Descripción de las Etapas Principales ==

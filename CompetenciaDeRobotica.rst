@@ -8,3 +8,10 @@ Nomre/Correo
 
 ===== Colaboradores =====
 Nombre/Correo/Rol
+
+
+===== Información útil =====
+Fecha (tentativa): Octubre de 2013
+Lugar: UTN-FRC
+
+Modalidad: Charlas, presentación de los proyectos, competencia, entrega de premios.

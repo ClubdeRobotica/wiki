@@ -54,7 +54,7 @@ PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos 
    1.      Convocatoria 2010. '''Concretado'''
    1.      Entablar relación con la Cooperativa de Estudiantes de Electrónica “CEE”. '''Concretado'''
    1.      Entablar relación con el grupo de Software Libre de la UTN-FRC “SLUC”. '''Concretado'''
-   1.      Establecer un vínculo con el Club de Robótica de la FIUBA. '''Pendiente''
+   1.      Establecer un vínculo con el Club de Robótica de la FIUBA. '''Pendiente'''
    1.      Consolidarse como club: reunión con los interesados, charlar sobre la identidad del grupo y definir los objetivos a corto plazo, conformación de la comisión directiva. '''Concretado'''
    1.      Gestionar un lugar físico dentro de la facultad. '''Concretado'''
    1.      Organizar y lanzar el Ciclo de Formación. '''Concretado'''

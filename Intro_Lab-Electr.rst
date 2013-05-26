@@ -1,5 +1,5 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;         ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;            ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
 
 
 <<TableOfContents()>>
@@ -51,7 +51,7 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;         ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;            ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
 
 
 
@@ -95,15 +95,24 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
-__'''Siguiente reunión 24-05-13:'''__
+'''__''Siguiente Reunion: ''__''31-05-13 '''''
 
- ''Temas previstos: Aplicación de las leyes de Kirchoff.''
+__''Temas previstos:''__'' ''Uso del tester para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico sobre lo aprendido.
 
-'''*17-05'''-'''13'''
+{{{#!wiki note
+Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
+}}}
+'''* 24-05-13'''
+
+ . =>Aplicación de las leyes de Kirchoff; Charla sobre software Libre.
+
+'''* 17-05-13'''
+
+ . => Relación Tension, Corriente, Resistencia; Ley de Ohm; postulado de las leyes de Kirchoff.
 
 '''* 10-05-13 '''
 
- . =>Inicio de actividades: Conductores y Aisladores, Tensión, Corriente y Resistencia, asociaciones Serie y Paralelo.
+ . =>Inicio de actividades: Conductores y Aisladores; Tensión, Corriente y Resistencia; asociaciones Serie y Paralelo.
 
  .
 

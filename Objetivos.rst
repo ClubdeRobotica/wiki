@@ -64,4 +64,4 @@ PRELIMINAR (función de las minutas de Febrero/Marzo de 2012 y de los objetivos 
    1.      Establecer un lugar y horario fijo para la reunión semanal de los miembros activos del CdR (para trabajar en los proyectos) '''Concretado'''
    1.      Construir una plataforma robótica móvil autónoma funcional. Versión mínima. ''Pendiente''
    1.      Hacer una pequeña demostración con la plataforma para los miembros del Club de Robótica y grupos relacionados. '''Concretado'''
-   1.      Discutir y establecer los objetivos a largo plazo: financiamiento, visitas a otros club de robótica, participación en competencias, transferencia tecnológica.  ''En marcha.''
+   1.      Discutir y establecer los objetivos a largo plazo: financiamiento, visitas a otros club de robótica, participación en competencias, transferencia tecnológica. '''Concretado'''

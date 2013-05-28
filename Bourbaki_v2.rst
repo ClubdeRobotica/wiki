@@ -13,7 +13,7 @@ En esta segunda versión, incorporamos un microcontrolador (PIC), que nos permit
 
 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakiwiki3.png||width="400"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakibanner.jpg||width="500"}}||
 
 = Móvil =
 
@@ -26,7 +26,9 @@ Construido en su mayoría con acrílico, el móvil consta de dos partes: princip
 Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASER sobre un acrílico de 5mm.
 
 
-[[attachment:chasisCAD.svg|ver diseño|width="600"]]
+[[attachment:chasisCAD.svg|ver diseño CAD|width="600"]]
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisacrilico.jpg||width="500"}}||
 
 
 === Motorreductores ===
@@ -34,6 +36,8 @@ Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASE
 Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultades con el control de los motores en esta versión optamos por utilizar motorreductores, que no es mas que un motor de CC con una caja reductora acoplada a él.
 
  En el siguiente enlace se describe detalladamente el modelo que instalamos [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasismotores.jpg||width="500"}}||
 
 === Punto de apoyo ===
 

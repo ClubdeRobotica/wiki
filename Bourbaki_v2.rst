@@ -3,7 +3,7 @@
 En Construcción 
 
 
-EDITAR y Subir foto real
+EDITAR 
 
 }}}
 

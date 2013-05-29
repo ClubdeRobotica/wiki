@@ -5,7 +5,7 @@
 
 '''Histórico de Actividades Año 2013:''' (colocar fechas!)
 
-   1. Jornada de Puertas Abiertas JPA-CdR UTN-FRC.
+   1. Jornada de Puertas Abiertas JPA-CdR UTN-FRC. [25/04]
 
 '''Histórico de Actividades Año 2012:''' (colocar fechas!)
 

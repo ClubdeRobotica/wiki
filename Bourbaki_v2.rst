@@ -60,9 +60,9 @@ El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica
 
 = Electrónica =
 
-Se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcontrolador PIC]]
+Nuestro proyecto se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcontrolador PIC]] con la diferencia que no utilizamos ( por el momento ) la etapa del inclinómetro.-
 
-En nuestro proyecto se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación descriptas a continuación
+ Se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación, descriptas a continuación
 
 /!\ imagen
 

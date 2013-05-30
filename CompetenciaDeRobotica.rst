@@ -21,9 +21,9 @@ Nombre/Correo/Rol
 
 ===== Información útil =====
 
-Fecha (tentativa): 19 de Octubre de 2013
+Fecha (tentativa): Sábado 19 de Octubre de 2013
 
-Inscripción hasta: 17 de Octubre de 2013
+Inscripción hasta: Jueves 17 de Octubre de 2013
 
 Lugar (tentativo): UTN-FRC
 

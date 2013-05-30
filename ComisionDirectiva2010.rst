@@ -1,26 +1,24 @@
-== Comisión Directiva 2010 ==
+Comisión Directiva 2010
 
-'''Dirección:'''
+Dirección:
 
 Marco Alvarez Reyna <marcoar@cdr.usla.org.ar>
 
-'''Tesorería:'''
+Tesorería:
 
 Johana Alejandra Aybar <you_1802@hotmail.com> 
 
-'''Coordinación general:'''
+Coordinación general: 
 
 Gustavo Martinez Spessot <coordinacion.cdr.utnfrc@gmail.com>
 
-'''Relaciones Institucionales:'''
+Relaciones Institucionales:
 
 Responsable: Frank D. Schefer <institucionales.cdr.utnfrc@gmail.com>
 
-'''Vocales:'''
+Vocales:
 
 Gustavo Javier Santos <gustavo2189@hotmail.com>
-
 Ezequiel Manoukian <eze_iacc@hotmail.com>
 
-
-'''Bienvenidos!'''
+Bienvenidos!

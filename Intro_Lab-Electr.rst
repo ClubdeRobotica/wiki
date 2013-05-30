@@ -97,7 +97,7 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 == Histórico de Reuniones 2013 ==
 '''__''Siguiente Reunion: ''__''31-05-13 '''''
 
-__''Temas previstos:''__'' ''Uso del tester para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico sobre lo aprendido.
+__''Temas previstos:''__'' ''Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico sobre lo aprendido.
 
 {{{#!wiki note
 Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).

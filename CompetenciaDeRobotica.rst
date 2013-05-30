@@ -19,10 +19,19 @@ Nomre/Correo
 ===== Colaboradores =====
 Nombre/Correo/Rol
 
-
 ===== Información útil =====
 Fecha (tentativa): 19 de Octubre de 2013
 Inscripción hasta: 17 de Octubre de 2013
 Lugar (tentativo): UTN-FRC
 
-Modalidad: Charlas, presentación de los proyectos, competencia, entrega de premios.
+=== Temas por resolver ===
+
+ 1. Pista: RSL y mSumo.
+ 1. Lugar: Salón AVEIT? Aula Magna? Quincho SAE?
+ 1. Coordinador general de la jornda.
+ 1. Difusión temprana.
+ 1. Edición de la Wiki.
+ 1. Relaciones institucionales con la UTN-FRC.
+ 1. Competidores: A quién invitamos?
+ 1. Reglamentación: estandar (compe. nacional), categoría libre (tamaño y peso máximo mayores al estandar).
+ 1. Fondos $: Cómo vamos a solventar los gastos? (bandera, afiches, pistas, etc.)

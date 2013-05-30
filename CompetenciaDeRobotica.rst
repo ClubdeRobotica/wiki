@@ -35,6 +35,17 @@ Lugar (tentativo): UTN-FRC
  1. Difusión temprana.
  1. Edición de la Wiki.
  1. Relaciones institucionales con la UTN-FRC.
- 1. Competidores: A quién invitamos?
+ 1. Competidores: A quién invitamos? Alcance de la competencia? UTN-FRC; Mecatrónica; Un colegio secundario; ...
  1. Reglamentación: estandar (compe. nacional), categoría libre (tamaño y peso máximo mayores al estandar).
- 1. Fondos $: Cómo vamos a solventar los gastos? (bandera, afiches, pistas, etc.)
+ 1. Fondos $: Cómo vamos a solventar los gastos? (bandera, afiches, pistas, etc.); Kiosko durante la jornada? Sponsors?
+ 1. Contactar a el CdR de San Francisco.
+ 1. Disponibilidad de: remeras, pines, calcos, etc.
+ 1. Inscripción: vía email (con un doc. template de inscr.)? formulario online? Encargado de procesar las inscripciones?
+ 1. Multimedia durante la jornada: proyección de fotos y videos, filmación y fotografía.
+
+
+{{#!wiki note
+
+''' A medida que surjan más puntos o su resolución anotarlos en este espacio!!!'''
+
+}}}

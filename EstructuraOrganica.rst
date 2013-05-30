@@ -18,9 +18,13 @@
           ''Cada miembro de la comisión directiva puede a su vez delegar parte de sus responsabilidades a miembros activos del CdR si lo cree necesario y conveniente, bajo el compromiso de supervisar su actividad (para garantizar su ejecución). Se busca, una vez consolidado el CdR, llegar a un modelo de organización horizontal.''
    4. Colaboradores externos: Se contempla invitar a profesionales de otras instituciones dentro del plan de formación continua de los miembros del CdR y su entorno de cooperación. Se considera también dentro de este grupo a las empresas e instituciones ajenas a la UTN-FRC que deseen proponer proyectos y hacer donaciones al CdR.
 
+Notas:
+
 * Los puntos 1,2 y 3 pueden combinarse.
 
 * Ningún miembro de la Comisión Directiva del CdR podrá formar parte como miembro activo de alguna agrupación política de la facultad (las actividades son mutuamente excluyentes).
+
+* El CdR es una organización sin fines de lucro.
 
 {{{#!wiki caution
 '''Por favor no editar esta sección en la wiki'''

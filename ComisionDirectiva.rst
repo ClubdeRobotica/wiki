@@ -22,10 +22,8 @@ Histórico: [[ComisionDirectiva2010|Comisión Directiva 2010]] -> [[ComisionDire
 
  * Franco Becutti franco_becu@hotmail.com 
 
- * Este rol será llevado conjuntamente por los miembros de la comisión.
 
-
-La Coordinación General y el rol de Relaciones Institucionales estarán orientado a las actividades (el rol irá rotando).
+Los roles de Coordinación General y Relaciones Institucionales irán rotando entre los miembros de la comisión (por actividad).
 
 
 '''Bienvenidos!!!'''

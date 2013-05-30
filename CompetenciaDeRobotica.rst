@@ -44,8 +44,6 @@ Lugar (tentativo): UTN-FRC
  1. Multimedia durante la jornada: proyección de fotos y videos, filmación y fotografía.
 
 
-{{#!wiki note
-
-''' A medida que surjan más puntos o su resolución anotarlos en este espacio!!!'''
-
+{{{#!wiki note
+ ''' A medida que surjan más puntos o su resolución anotarlos en este espacio!!! '''
 }}}

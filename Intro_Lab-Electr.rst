@@ -102,6 +102,10 @@ __''Temas previstos:''__'' ''Uso del multímetro para medir Tensión, Corriente 
 {{{#!wiki note
 Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
 }}}
+
+{{{#!wiki note
+Se posterga el trabajo práctico de Ley de Ohm, no deberán contar con el material previsto. De todos modos nos reuniremos igual para seguir adelante con el curso. Los temas serán: Semiconductores; tipos; juntura P-N; Curvas).
+}}}
 '''* 24-05-13'''
 
  . =>Aplicación de las leyes de Kirchoff; Charla sobre software Libre.

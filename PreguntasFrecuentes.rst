@@ -40,7 +40,7 @@
 
 === ¿Si no podemos asistir a las reuniones como nos informamos de los temas tratado? ===
 
-   R: Si los temas tratados son de importancia, se envía un resumen de lo tratado en la reunión a la lista de correo. En todo caso se genera un pequeño informe que se publica periódicamente en la xiki del club.
+   R: Si los temas tratados son de importancia, se envía un resumen de lo tratado en la reunión a la lista de correo. En todo caso se genera un pequeño informe que se publica periódicamente en la wiki del club.
 
 === ¿Se brindan charlas o seminarios desde el CdR? ===
 

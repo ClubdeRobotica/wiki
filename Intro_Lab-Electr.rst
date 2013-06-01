@@ -1,5 +1,5 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;            ;text-align:center"> {{attachment:logocursobasico.jpg||width="255"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;             ;text-align:center"> {{attachment:logocursobasico13.jpg||width="600"}} ||
 
 
 <<TableOfContents()>>
@@ -51,7 +51,7 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;            ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;             ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
 
 
 
@@ -102,7 +102,6 @@ __''Temas previstos:''__'' ''Uso del multímetro para medir Tensión, Corriente 
 {{{#!wiki note
 Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
 }}}
-
 {{{#!wiki note
 Se posterga el trabajo práctico de Ley de Ohm, no deberán contar con el material previsto. De todos modos nos reuniremos igual para seguir adelante con el curso. Los temas serán: Semiconductores; tipos; juntura P-N; Curvas).
 }}}

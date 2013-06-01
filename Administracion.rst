@@ -1,3 +1,3 @@
-Administradores de la lista de correo / wiki
+Administradores de la lista de correo / wiki CdR
 
-[[claudiojpaz]] | [[EzequielMolina]] | [[NicolasIgnacio]] | [[marcoar]] 
+[[NicolasIgnacio|Nicolas Ignacio ]] | [[EzequielMolina |Ezequiel Molina ]] | [[marcoar | Marco Reyna]] | [[claudiojpaz | Claudio Paz]] | 

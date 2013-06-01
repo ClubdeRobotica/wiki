@@ -9,6 +9,8 @@ En Construcción
 
 <<TableOfContents()>>
 
+<<EmbedObject(RSLanimacion.swf,width=637px,height=392px,play=true,loop=true)>>
+
 En esta segunda versión, incorporamos un microcontrolador (PIC), que nos permite adoptar una lógica de comportamiento, la cual es desarrollada en el [[https://es.wikipedia.org/wiki/C_%28lenguaje_de_programaci%C3%B3n%29.|Lenguaje C]]. Dicha lógica se basa en reconocer las señales provenientes de los sensores, clasificarla, y enviar una respuesta a los motores.
 
 

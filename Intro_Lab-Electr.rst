@@ -95,16 +95,19 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
-'''__''Siguiente Reunion: ''__''31-05-13 '''''
+'''__''Siguiente Reunion: ''__''07-06-13 '''''
 
-__''Temas previstos:''__'' ''Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico sobre lo aprendido.
+__''Temas:''__'' ''Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico sobre lo aprendido.
 
 {{{#!wiki note
 Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
 }}}
-{{{#!wiki note
-Se posterga el trabajo práctico de Ley de Ohm, no deberán contar con el material previsto. De todos modos nos reuniremos igual para seguir adelante con el curso. Los temas serán: Semiconductores; tipos; juntura P-N; Curvas).
-}}}
+
+'''* 31-05-13'''
+
+ . =>Semiconductores; Tipo P y tipo N; Juntura PN; El diodo; Curva del diodo; tipos.
+
+
 '''* 24-05-13'''
 
  . =>Aplicación de las leyes de Kirchoff; Charla sobre software Libre.

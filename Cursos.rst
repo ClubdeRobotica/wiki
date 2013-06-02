@@ -1,3 +1,4 @@
+## page was renamed from HowTo
 [[PreguntasFrecuentes|Preguntas frecuentes!]]
 
 

@@ -7,6 +7,8 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 '''[[VRTD|Vehículo Robotizado con Tracción Diferencial]]'''
 
+''' Ideas:'''
+
 '''[[BancoDatos|Banco de Datos]]'''
 
 

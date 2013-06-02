@@ -33,6 +33,4 @@ Si te interesa recibir emails del CdR, y que no copen tu bandeja de entrada, hay
 
 https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
-Si no tenes un pass para loguearte tenes que ponerte en contacto con el administrador de la lista para que te comente como recuperarlo:
-
-"Claudio Paz" <claudiojpaz@sluc.org.ar>
+Si no tenes un pass para loguearte tenes que ponerte en contacto con el [[Administracion|administrador]] de la lista para que te comente como recuperarlo.

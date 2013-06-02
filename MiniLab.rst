@@ -118,7 +118,7 @@ Para inscribirse en el proyecto (para formar parte del grupo que 'tomara' las cl
 
 Si te interesa participar como expositor o ayudar en las clases de laboratorio, escribí a:
 
- - Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+ - Marco AR <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 {{{#!wiki note 
 '''El día viernes 26 de Agosto de 2011, se da por concluido el Proyecto MiniLab, el cual tuvo una concurrencia aceptable y se lograron realizar todas las tareas -arriba- mencionadas.'''

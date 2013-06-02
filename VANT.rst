@@ -1,6 +1,6 @@
 == P201004-006: Proyecto VANT ==
 
-Responsable del proyecto: Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+Responsable del proyecto: Marco AR <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant-V1.2.jpg||width="250"}} ||
 

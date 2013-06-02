@@ -36,3 +36,4 @@
  * HernanPaez
  * FrancoBecutti
  * JohanaAybar
+ * WilsonHintz

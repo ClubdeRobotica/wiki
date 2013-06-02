@@ -31,7 +31,7 @@ Se podrá acceder al LabRemoto por SSH para hacer ensayos en Linux (hacer práct
 
 Para aquellos usuarios que así lo requieran, se les asignará un nombre de usuario y contraseña (también se podrá trabajar con claves públicas) para ingresar al servidor del LabRemoto del CdR.
 
-El LabRemoto se encuentra actualmente offonline. Si alguien quiere hacer algún ensayo, envíen un correo al [[Contacto|administrador]] para ponerlo en línea. 
+El LabRemoto se encuentra actualmente offline. Si alguien quiere hacer algún ensayo, envíen un correo al [[Contacto|administrador]] para ponerlo en línea. 
 
 === ¿Cómo bajar una copia del Proyecto CdR? ===
 

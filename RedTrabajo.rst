@@ -148,4 +148,4 @@ MANUAL SVN
 
 [5] http://svnbook.red-bean.com/
 
-Nota: Si éste tutorial contiene errores por favor háganlo saber a la Comisión Directiva del CdR a la brevedad!
+Nota: Si éste tutorial contiene errores por favor háganlo saber a la [[ComisionDirectiva|Comisión Directiva]] del CdR a la brevedad!

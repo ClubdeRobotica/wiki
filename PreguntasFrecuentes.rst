@@ -2,6 +2,10 @@
 
 <<TableOfContents()>>
 
+=== ¿Qué es F.A.Q? ===
+
+   R: Es el acrónimo de Frequently Asked Questions. Apunta a las preguntas frecuentes.
+
 === ¿Qué es el CdR? ===
 
    R: El Club de Robótica es un emprendimiento extracurricular, orientado al diseño y construcción de plataformas robóticas móviles.

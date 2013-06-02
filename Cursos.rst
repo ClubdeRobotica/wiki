@@ -1,6 +1,6 @@
 == Cursos CdR ==
 
-Tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inician en la electrónica y la robótica. Hay que tener en cuenta que muchos de los miembros del CdR no pertenecen a electrónica. Asimismo, muchos de los miembros de electrónica de los primeros años tienen relativamente poca experiencia en electrónica aplicada. Todos los cursos del CdR son libres y gratuitos.
+Tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inician en la robótica. Hay que tener en cuenta que muchos de los miembros del CdR no pertenecen a Ing. Electrónica. Asimismo, muchos de los miembros de electrónica de los primeros años tienen relativamente poca experiencia en proyectos aplicados. Todos los cursos del CdR son libres y gratuitos.
 
 '''[[CursoBasicoDeRobotica|Curso Básico de Robótica]]''' (2014: En fase de planeamiento)
 

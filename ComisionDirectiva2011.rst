@@ -1,26 +1,17 @@
-== Comisión Directiva 2010 ==
+Comisión Directiva 2012/2013
 
-'''Dirección:'''
+Dirección y Tesorería
 
-Marco Alvarez Reyna <marcoar@cdr.usla.org.ar>
+    Marco Alvarez Reyna marcoar@cdr.usla.org.ar 
 
-'''Tesorería:'''
+Coordinación General y Relaciones Institucionales
 
-Johana Alejandra Aybar <you_1802@hotmail.com> 
+    Martín Ezequiel Molina martinezequielmolina@gmail.com
 
-'''Coordinación general:'''
+    Marcos Ciceri markitos132@hotmail.com
 
-Gustavo Martinez Spessot <coordinacion.cdr.utnfrc@gmail.com>
+    Germán Ontivero gerbonti377@gmail.com
 
-'''Relaciones Institucionales:'''
+    Nicolás Ignacio nnico@cdr.usla.org.ar 
 
-Responsable: Frank D. Schefer <institucionales.cdr.utnfrc@gmail.com>
-
-'''Vocales:'''
-
-Gustavo Javier Santos <gustavo2189@hotmail.com>
-
-Ezequiel Manoukian <eze_iacc@hotmail.com>
-
-
-'''Bienvenidos!'''
+Bienvenidos!!!

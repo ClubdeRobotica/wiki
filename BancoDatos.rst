@@ -17,7 +17,7 @@ Se presentan a continuación sólo los títulos de los proyectos. Para interiori
 
 === En la incubadora ===
 
-[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco Alvarez Reyna
+[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco AR
 
 === Patrocinados por el CdR ===
 

@@ -2,7 +2,7 @@
 
 == Reuniones ==
 
-Horarios : '''Martes de 16:15hs a 18:15hs'''
+Horarios : '''Jueves de 16:15hs a 18:15hs'''
 
 Lugar: '''LCE Anexo UTN-FRC'''
 

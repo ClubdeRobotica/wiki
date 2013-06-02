@@ -7,3 +7,6 @@ Tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inicia
 '''[[Intro_Lab-Electr|Curso Básico de Electrónica]]''' (2012/2013: En marcha)
 
 '''[[MiniLab|Proyecto MiniLab]]''' (2011: Finalizado)
+
+
+Si te interesa participar de los cursos, como expositor o alundo, ponete en contacto con la ComisionDirectiva.

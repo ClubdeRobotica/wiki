@@ -1,7 +1,4 @@
 = Grupos para continuar con el proyecto del Robot Seguidor de Línea. =
-'''Grupo N.'''
-
- . Integrantes (Disponibilidad horaria).
 
 '''Grupo N.1. '''[[Atila]]
 

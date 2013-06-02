@@ -26,4 +26,4 @@ Histórico: [[ComisionDirectiva2010|Comisión Directiva 2010]] -> [[ComisionDire
 Los roles de Coordinación General y Relaciones Institucionales irán rotando entre los miembros de la comisión (por actividad).
 
 
-'''Bienvenidos!!!'''
+'''Bienvenidos!'''

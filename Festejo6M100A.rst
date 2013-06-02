@@ -29,10 +29,10 @@ Que nos hemos conformado como club, que estamos trabajando activamente en dos pr
 -> Hay que pedir las llaves del nuevo LCE o hablar con el encargado para que abra el día de la demo. Encargado/s: '''Germán Ontivero'''
 
 == Merienda ==
--> Hay que organizar la merienda. A la canasta! (mate, facturas, criollitos, gaseosa...). Encargado/s: '''Marco Alvarez Reyna'''
+-> Hay que organizar la merienda. A la canasta! (mate, facturas, criollitos, gaseosa...). Encargado/s: '''Marco AR'''
 
 == Difusión ==
--> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...). Encargado: '''Ezequiel Manoukian y Marco Alvarez Reyna'''
+-> Difusión del festejo. Hay que escribir un [[Difusion6M100A|email para difusión]] e invitar a los distintos grupos de la facultad (CdR, SLUC, CEE, PLC, SMD, etc...). Encargado: '''Ezequiel Manoukian y Marco AR'''
 
 = Reunión Social Recreativa =
 

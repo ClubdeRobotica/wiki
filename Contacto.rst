@@ -26,6 +26,6 @@ El canal esta alojado en el servidor de Freenode: irc.freenode.net y se llama #C
 
 '''5°''' ¿ Sugerencias ?
 
-Cualquiero tipo de sugerencia será bienvenida en la siguiente dirección: 
+Cualquier tipo de sugerencia será bienvenida en la siguiente dirección: 
 
 "Club de Robótica UTN-FRC" <clubrobotica (dot) utnfrc (at) gmail (dot) com> 

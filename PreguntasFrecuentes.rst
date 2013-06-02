@@ -60,7 +60,7 @@
 
 === ¿El CdR posee apoyo institucional de la UTN-FRC? ===
 
-   R: Si. También cuenta con apoyo de la CEE y SLUC.
+   R: Si. También cuenta con apoyo del grupo SLUC.
 
 === ¿Cómo se accede a la lista de correo en USLA? ===
 

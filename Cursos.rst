@@ -8,5 +8,8 @@ Tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inicia
 
 '''[[MiniLab|Proyecto MiniLab]]''' (2011: Finalizado)
 
+Todos los cursos del CdR son libres y gratuitos.
 
+{{{#!wiki note
 Si te interesa participar de los cursos, como expositor o alumndo, ponete en contacto con la ComisionDirectiva.
+}}}

@@ -5,15 +5,15 @@
 
 '''Grupo N.1. '''[[Atila]]
 
- . '''  '''Gustavo Spessot.
-
  . Germán Ontivero.
 
  . Marcos Ciceri.
 
-'''Grupo N.2.''' [[Choique]]
-
  . Luis Vazquez.
+
+ . Gustavo Spessot.
+
+'''Grupo N.2.''' [[Choique]]
 
  . Marco AR.
 

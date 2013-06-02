@@ -26,4 +26,4 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 [[https://listas.usla.org.ar/cgi-bin/mailman/private/cdr/2012-November/001048.html| Éxito para los participantes!!!]]
 }}}
 ----
-[[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]]
+[[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]] | [[HowTo]]

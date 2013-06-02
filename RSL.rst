@@ -1,7 +1,7 @@
 ~+'''''201003-003'''''+~'' ''
 
 = Robot Seguidor de Línea =
-''<<TableOfContents()>> ''
+<<TableOfContents()>> 
 
 = Responsables =
 '''''Responsables del proyecto''' ''

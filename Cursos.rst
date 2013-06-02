@@ -9,4 +9,4 @@ Tienen como objetivo estandarizar el nivel de quienes entran al CdR, y se inicia
 '''[[MiniLab|Proyecto MiniLab]]''' (2011: Finalizado)
 
 
-Si te interesa participar de los cursos, como expositor o alundo, ponete en contacto con la ComisionDirectiva.
+Si te interesa participar de los cursos, como expositor o alumndo, ponete en contacto con la ComisionDirectiva.

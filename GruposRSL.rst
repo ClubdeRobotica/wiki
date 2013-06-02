@@ -15,7 +15,7 @@
 
  . Luis Vazquez.
 
- . Marco Alvarez Reyna.
+ . Marco AR.
 
 '''Grupo N.3.''' [[Bourbaki]]
 

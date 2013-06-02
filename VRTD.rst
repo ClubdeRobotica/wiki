@@ -8,7 +8,7 @@
 
 == Responsable del proyecto ==
 
- * Marco Alvarez Reyna <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
+ * Marco AR <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 == Desarrolladores ==
 

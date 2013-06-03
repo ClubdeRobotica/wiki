@@ -1,6 +1,6 @@
 ~+'''''201003-003'''''+~'' ''
 
-''               {{http://cdr.usla.org.ar/RSL?action=AttachFile&do=get&target=banner.png}} ''
+''{{http://cdr.usla.org.ar/RSL?action=AttachFile&do=get&target=banner.png}} ''
 
 <<TableOfContents()>>
 

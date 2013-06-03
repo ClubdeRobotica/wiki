@@ -32,15 +32,7 @@ Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASE
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisacrilico.jpg||width="500"}}||
 
 
-=== Motorreductores ===
 
-Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultades con el control de los motores en esta versión optamos por utilizar motorreductores, que no es mas que un motor de CC con una caja reductora acoplada a él.
-
- En el siguiente enlace se describe detalladamente el modelo que instalamos [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
-
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasismotores.jpg||width="500"}}||
-
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisAlum.jpg||width="500"}}||
 
 === Punto de apoyo ===
 
@@ -51,6 +43,16 @@ Diseñado conjuntamente con el chasis, el punto de apoyo se compone de dos pieza
 === Soporte para PCB ===
 
 El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica con varillas roscadas desde la lámina de aluminio pasando por el bloque de motorreductores. Dicho soporte en sus esquinas tiene separadores de metal para atornillar la placa electronica, cerebro de nuestro RSL-Bourbaki.-
+
+=== Motorreductores ===
+
+Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultades con el control de los motores en esta versión optamos por utilizar motorreductores, que no es mas que un motor de CC con una caja reductora acoplada a él.
+
+ En el siguiente enlace se describe detalladamente el modelo que instalamos [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasismotores.jpg||width="500"}}||
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisAlum.jpg||width="500"}}||
 
 /!\ imagen
 

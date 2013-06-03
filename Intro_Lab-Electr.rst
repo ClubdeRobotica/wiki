@@ -8,11 +8,11 @@ El proyecto Electrónica Básica tiene como objetivo familiarizar a los alumnos 
 
 El proyecto cuenta con una parte Teórica donde se exponen los temas, ejercitación y trabajos prácticos donde se pone a prueba lo aprendido.
 
-Para finalizar el curso esta previsto construir una fuente de tensión lineal.
-
 Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2013 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica.
 
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
+
+Finalización del curso: Elaboración de una fuente Regulada o un Robot Sigue-Luz (En desarrollo), ambos proyectos son optativos.
 
 ----
 

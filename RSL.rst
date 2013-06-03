@@ -1,6 +1,6 @@
 ~+'''''201003-003'''''+~'' ''
 
-''{{http://cdr.usla.org.ar/RSL?action=AttachFile&do=get&target=banner.png}} ''
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;             ;text-align:center"> {{attachment:banner.png}} ||
 
 <<TableOfContents()>>
 

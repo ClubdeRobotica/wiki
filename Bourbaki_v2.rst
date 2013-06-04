@@ -44,6 +44,8 @@ Diseñado conjuntamente con el chasis, el punto de apoyo se compone de dos pieza
 
 El soporte, tambien de acrílico, construye la segunda base del móvil. Se ubica con varillas roscadas desde la lámina de aluminio pasando por el bloque de motorreductores. Dicho soporte en sus esquinas tiene separadores de metal para atornillar la placa electronica, cerebro de nuestro RSL-Bourbaki.-
 
+/!\ imagen
+
 === Motorreductores ===
 
 Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultades con el control de los motores en esta versión optamos por utilizar motorreductores, que no es mas que un motor de CC con una caja reductora acoplada a él.
@@ -54,7 +56,7 @@ Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultade
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisAlumref.jpg||width="500"}}||
 
-/!\ imagen
+
 
 === Materiales ===
 

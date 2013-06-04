@@ -14,13 +14,13 @@ En esta segunda versión, incorporamos un microcontrolador (PIC), que nos permit
 
 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakibanner.jpg||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:bourbakibannerref.jpg||width="500"}}||
 
 = Móvil =
 
 Construido en su mayoría con acrílico, el móvil consta de dos partes: principalmente por el '''chasis''' (o base) donde se ubican los motorreductores, los cuales se sujetan al chasis con una lámina de aluminio por medio de tornillos; y el punto de apoyo, que fue pegado con un adhesivo instantaneo.- Por otro lado se encuentra el '''soporte para PCB''', que es ubicado sobre el bloque de motorreductores con dos varillas roscadas, tuerca y contratuerca. El PCB luego se monta al soporte por medio de separadores en las esquinas en donde se atornilla quedando bien sujeto.
 
-'''Referencias:'''
+
 
 === Chasis ===
 
@@ -29,7 +29,7 @@ Diseñado con [[http://librecad.org|LibreCad]]. Dicho diseño se efectuó a LASE
 
 [[attachment:chasisCAD.svg|ver diseño CAD|width="600"]]
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisacrilico.jpg||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisacrilicoref.jpg||width="500"}}||
 
 
 
@@ -50,9 +50,9 @@ Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultade
 
  En el siguiente enlace se describe detalladamente el modelo que instalamos [[http://www.apys.com.ar/pdf/SP4L_satelital.pdf|SP4L-200]]
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasismotores.jpg||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasismotoresref.jpg||width="500"}}||
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisAlum.jpg||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasisAlumref.jpg||width="500"}}||
 
 /!\ imagen
 

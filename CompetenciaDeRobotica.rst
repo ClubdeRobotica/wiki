@@ -6,6 +6,7 @@
 === Categorías: ===
  1. RSL Velocista
  1. miniSumo
+ 1. Laberinto (cat. libre: arduino, embed)
 
 === Organización de la jornada: ===
 

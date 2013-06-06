@@ -12,7 +12,7 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
 
-Finalización del curso: Elaboración de una fuente Regulada o un Robot Sigue-Luz (En desarrollo), ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
+Finalización del curso: Elaboración de una fuente Regulada o un Robot Sigue-Luz (en desarrollo), ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
 
 
 

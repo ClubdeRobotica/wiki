@@ -6,7 +6,7 @@
 
 El Curso Básico de Electrónica tiene como objetivo familiarizar a los alumnos sobre los conceptos básicos necesarios para enfrentar un proyecto de electrónica inicial como así también sobre el manejo de herramientas tanto informáticas como de laboratorio (diseño y simulación por computadora, componentes, soldador, estaño, flux, placas, herramientas).
 
-El proyecto cuenta con una parte Teórica donde se exponen los temas, ejercitación y trabajos prácticos donde se refuerza lo aprendido.
+El proyecto cuenta con una parte Teórica donde se exponen los temas, ejercitación y trabajos prácticos donde se refuerza lo aprendido. El material teórico es preparado por miembros del CdR y las clases son dictadas por estudiantes.
 
 Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2013 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. Pueden participar estudiantes de todas las carreras. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica. En relación directa con la carrera de Ing. Electrónica, el CBE pretende ser un complemento del curso dictado por la CEE, para mejorar el porcentaje de alumnos que realizan el curso de introducción al llegar a 3er año.
 

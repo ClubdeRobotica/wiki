@@ -69,7 +69,7 @@ Nuestro proyecto se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarro
 
  Se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación, descriptas a continuación
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:PCBfinal1ref.png||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:PCBfinal1ref.png||width="800"}}||
 
 
 

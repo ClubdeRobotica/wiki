@@ -66,7 +66,7 @@ Es a modo ilustrativo, la organización de los componentes es creatividad de cad
 
 * Guía para soldar :   [[attachment:Soldadura.pdf|¿Cómo soldar?]].
 
-===== Software de utilidad =====
+==== Software de utilidad ====
 * Suite ofimática : [[http://es.wikipedia.org/wiki/LibreOffice|LibreOffice]].
 
 * Composición de textos :  [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]].

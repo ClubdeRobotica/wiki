@@ -65,14 +65,11 @@ Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultade
 
 = Electrónica =
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:PCBfinal1ref.png||width="500"}}||
-
-
 Nuestro proyecto se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcontrolador PIC]] con la diferencia que no utilizamos ( por el momento ) la etapa del inclinómetro.-
 
  Se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación, descriptas a continuación
 
-/!\ imagen
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:PCBfinal1ref.png||width="500"}}||
 
 
 

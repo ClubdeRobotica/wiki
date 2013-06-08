@@ -37,7 +37,7 @@ Finalización del curso: Elaboración de una fuente Regulada o un Robot Sigue-Lu
 == Material del curso ==
 Ya está disponible la '''versión completa''' del material creado para este curso.
 
-* Electrónica Básica (2013) : [[attachment:ElectronicaBasica13.pdf]] '''Actualizado 2013'''
+* Apunte Electrónica Básica (2013) : [[attachment:ElectronicaBasica13.pdf]]
 
 * Trabajo Práctico N°1: [[attachment:TP1.pdf]]
 
@@ -95,6 +95,11 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
+
+'''''siguiente reunión: 14-06-13 '''''
+
+   Continuación del Trabajo Práctico.
+
 '''''*07-06-13 '''''
 
  . =>Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico N°1 sobre lo aprendido.

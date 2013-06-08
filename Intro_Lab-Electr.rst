@@ -1,18 +1,20 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;               ;text-align:center"> {{attachment:logocursobasico13.jpg||width="600"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:logocursobasico13.jpg||width="600"}} ||
 
 
 <<TableOfContents()>>
 
-El Curso Básico de Electrónica tiene como objetivo familiarizar a los alumnos sobre los conceptos básicos necesarios para enfrentar un proyecto de electrónica inicial como así también sobre el manejo de herramientas tanto informáticas como de laboratorio (diseño y simulación por computadora, componentes, soldador, estaño, flux, placas, herramientas).
+El Curso Básico de Electrónica tiene como objetivo familiarizar a los alumnos sobre los conceptos básicos necesarios para enfrentar un proyecto de electrónica inicial, como así también con el manejo de herramientas tanto informáticas como de laboratorio (Diseño y simulación por computadora, identificación de componentes, uso del soldador, correcto uso de las herramientas, resolución analitica de circuitos, etc).
 
-El proyecto cuenta con una parte Teórica donde se exponen los temas, ejercitación y trabajos prácticos donde se refuerza lo aprendido. El material teórico es preparado por miembros del CdR y las clases son dictadas por estudiantes.
+El proyecto cuenta con una parte Teórica donde se exponen los temas, ejercitación y trabajos prácticos en clase donde se refuerza lo aprendido. El material teórico es preparado por miembros del CdR y las clases son dictadas por estudiantes.
 
-Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2013 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. Pueden participar estudiantes de todas las carreras. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica. En relación directa con la carrera de Ing. Electrónica, el CBE pretende ser un complemento del curso dictado por la CEE, para mejorar el porcentaje de alumnos que realizan el curso de introducción al llegar a 3er año.
+Está orientado a quienes decidan ingresar al CdR como miembros activos en el 2013 como así también a aquellos estudiantes que lo encuentren útil sin necesidad de participar de las actividades del club. Pueden participar estudiantes de todas las carreras. El curso no tiene costo alguno, y pretende sentar las bases de la electrónica analítica y práctica.
+
+En relación directa con la carrera de Ing. Electrónica, el CBE pretende ser un complemento del curso dictado en el segundo semestre por la CEE, para mejorar el porcentaje de alumnos que realizan el curso de introducción al llegar a 3er año.
+
+__Finalización del curso:__ Elaboración de una fuente Regulada o un Robot Sigue-Luz (en desarrollo), ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: Tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
 
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
-
-Finalización del curso: Elaboración de una fuente Regulada o un Robot Sigue-Luz (en desarrollo), ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
 
 ----
 
@@ -51,7 +53,7 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;               ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
 
 
 
@@ -95,18 +97,18 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
+__'''''Siguiente reunión: 14-06-13 '''''__
 
-'''''siguiente reunión: 14-06-13 '''''
+ . ''Continuación del Trabajo Práctico. ''
 
-   Continuación del Trabajo Práctico.
+{{{#!wiki note
+Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
+}}}
 
 '''''*07-06-13 '''''
 
  . =>Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico N°1 sobre lo aprendido.
 
-{{{#!wiki note
-Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
-}}}
 '''* 31-05-13'''
 
  . =>Semiconductores; Tipo P y tipo N; Juntura PN; El diodo; Curva del diodo; tipos.

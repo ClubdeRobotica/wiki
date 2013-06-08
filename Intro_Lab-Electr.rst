@@ -1,5 +1,5 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;             ;text-align:center"> {{attachment:logocursobasico13.jpg||width="600"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;               ;text-align:center"> {{attachment:logocursobasico13.jpg||width="600"}} ||
 
 
 <<TableOfContents()>>
@@ -13,8 +13,6 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
 
 Finalización del curso: Elaboración de una fuente Regulada o un Robot Sigue-Luz (en desarrollo), ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
-
-
 
 ----
 
@@ -53,7 +51,7 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 * Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;             ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;               ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
 
 
 
@@ -97,18 +95,16 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
-'''__''Siguiente Reunion: ''__''07-06-13 '''''
+'''''*07-06-13 '''''
 
-__''Temas:''__'' ''Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico sobre lo aprendido.
+ . =>Uso del multímetro para medir Tensión, Corriente y Resistencia; Protoboard; Trabajo Práctico N°1 sobre lo aprendido.
 
 {{{#!wiki note
 Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).
 }}}
-
 '''* 31-05-13'''
 
  . =>Semiconductores; Tipo P y tipo N; Juntura PN; El diodo; Curva del diodo; tipos.
-
 
 '''* 24-05-13'''
 

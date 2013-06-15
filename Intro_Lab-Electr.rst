@@ -97,9 +97,15 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
-__'''''Siguiente reunión: 14-06-13 '''''__
 
- . ''Continuación del Trabajo Práctico. ''
+{{{#!wiki note
+La próxima reunión será en el siguiente cuatrimestre debido al feriado puente del viernes 21.
+}}}
+
+'''''*14-06-13 '''''
+
+ . =>Finalización del Trabajo práctico N°1.
+
 
 {{{#!wiki note
 Recuerden que se debe disponer con el material mencionado para realizar el trabajo práctico (Resistencias, Cable unifilar, protoboard, etc).

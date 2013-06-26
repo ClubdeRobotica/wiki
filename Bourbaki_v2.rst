@@ -67,7 +67,13 @@ Dado que en la [[Bourbaki_v1| primer versión]] del proyecto tuvimos dificultade
 
 Nuestro proyecto se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarrollo con microcontrolador PIC]] con la diferencia que no utilizamos ( por el momento ) la etapa del inclinómetro.-
 
- Se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación, descriptas a continuación
+ Se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación, descriptas a continuación.
+
+Dicha placa tiene dos versiones. Una realizada por nosotros tanto el diseño como el PCB, que nos sirvio para dar los primeros pasos, observando como reaccionaba el robot. Al ver encaminado el proyecto decidimos encargar el PCB con nuestro diseño a un particular.
+
+/!\ version 1  imagen
+
+/!\ version 2 imagen
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:PCBfinal1ref.png||width="800"}}||
 

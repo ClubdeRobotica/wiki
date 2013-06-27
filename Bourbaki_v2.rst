@@ -69,7 +69,7 @@ Nuestro proyecto se basa en el [[RSL#Desarrollo_con_microcontrolador_PIC|desarro
 
  Se implementó en una sola placa principal, que constituye las etapas de sensores, micro, driver y alimentación, descriptas a continuación.
 
-Dicha placa tiene dos versiones. Una realizada por nosotros tanto el diseño como el PCB, que nos sirvió para dar los primeros pasos, observando como reaccionaba el robot. Al ver encaminado el proyecto decidimos encargar el PCB con nuestro diseño a un particular; definiendo la version 2.-
+Dicha placa tiene dos versiones. Una realizada por nosotros tanto el diseño como el PCB, que nos sirvió para dar los primeros pasos, observando como reaccionaba el robot. Al ver encaminado el proyecto decidimos encargar el PCB con nuestro diseño a un particular, definiendo la version 2, de fibra de vidrio y con máscara antisoldante.-
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:pcbv1ref.jpg||width="500"}}||

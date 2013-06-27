@@ -78,7 +78,7 @@ En la version 2 también se modificó el diseño al agregar 2 interruptores-PCB 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:pcbv1ref.jpg||width="500"}}||
 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:pcbv2ref.jpg||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:pcbver2.jpg||width="500"}}||
 
 
 

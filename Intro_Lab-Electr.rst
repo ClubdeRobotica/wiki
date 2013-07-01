@@ -97,7 +97,7 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 == Histórico de Reuniones 2013 ==
 
 {{{#!wiki note
-La próxima reunión será en el siguiente cuatrimestre debido al feriado puente del viernes 21.
+La próxima reunión será el primer viernes del siguiente cuatrimestre debido al feriado puente del viernes 21.
 }}}
 
 '''''*14-06-13 '''''

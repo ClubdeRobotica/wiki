@@ -41,9 +41,7 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Apunte Electrónica Básica (2013) : [[attachment:ElectronicaBasica13.pdf]]
 
-* Trabajo Práctico N°1: [[attachment:TP1.pdf]]
-
-* Trabajo Práctico N°2: [[attachment:TP2.pdf]]
+* Trabajo Práctico N°1: [[attachment:TP0.pdf]]
 
 * Fuente de alimentación : '''[[attachment:fuente_cdr_cbe.pdf]] '''
 

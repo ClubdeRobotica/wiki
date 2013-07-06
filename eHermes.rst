@@ -1,7 +1,7 @@
 = eHermes =
 
 
-==Desarrollo con Arduino 2013==
+== Desarrollo con Arduino 2013 ==
 
 -Montaje electrónico
 
@@ -18,7 +18,7 @@
 -Parametrización
 
 
-==Desarrollo con PIC 2012==
+== Desarrollo con PIC 2012 ==
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:ehermes.jpg||width=500}} ||
 

@@ -87,7 +87,12 @@ En la version 2 también se modificó el diseño al agregar 2 interruptores-PCB 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:PCBfinal1ref.png||width="800"}}||
 
+=== Programación ===
+ /!\ imagen ICD2
 
+[[Programacion|Programación]]
+
+==== Código Bourbaki ====
 
 
 === Sensores ===

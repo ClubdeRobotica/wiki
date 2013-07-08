@@ -110,7 +110,16 @@ En la version 2 también se modificó el diseño al agregar 2 interruptores-PCB 
 
 === Alimentación ===
 
+Batería recargable de 9V
+
+==== circuito del cargador ====
+
+ /!\ 
+
+----
+
 === Materiales ===
+
 ==== Lista de componentes ====
 ||<rowbgcolor="#6495ED"> '''Resistencias [Ohm]'''||||'''Diodos'''||||'''Capacitores'''||||'''CI'''||||'''Otros'''||
 || R1 470 |||| LED-Power||||C1 0.1uf |||| U2 PIC16F877(/A) |||| BT1 9v ||

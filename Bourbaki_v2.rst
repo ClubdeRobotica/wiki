@@ -120,7 +120,10 @@ Batería recargable de 9V
 
 === Materiales ===
 
-==== Lista de componentes ====
+=== Lista de componentes ===
+
+==== PCB ====
+
 ||<rowbgcolor="#6495ED"> '''Resistencias [Ohm]'''||||'''Diodos'''||||'''Capacitores'''||||'''CI'''||||'''Otros'''||
 || R1 470 |||| LED-Power||||C1 0.1uf |||| U2 PIC16F877(/A) |||| BT1 9v ||
 || R2 100 |||| D2 LED-Live |||| C2 0.1uf |||| U4 L293b ||||JP1 POWER||
@@ -140,6 +143,9 @@ Batería recargable de 9V
 ||-||||-|||| C16 0.1uf ||||-||||-||
 ||-||||-|||| C17 0.1uf ||||-||||-||
 ||-||||-|||| C18 0.1uf ||||-||||-||
+
+
+==== Fuente/Cargador ====
 
 ----
 [[Bourbaki|Volver]] | [[RSL | Principal de RSL]] | [[GruposRSL | Grupos RSL]]

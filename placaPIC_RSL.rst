@@ -41,6 +41,13 @@ Dentro del .zip, hay una pequeña nota, con el contenido de cosas que tiene, y q
 
 
 
+= Programación del PIC =
+
+
+[[Programacion|Programación]]
+
+
+
 
 
 

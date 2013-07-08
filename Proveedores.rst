@@ -1,6 +1,3 @@
 Motorreductores
 
 PCB
-
-
-corte Laser

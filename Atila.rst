@@ -33,7 +33,7 @@ Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio r
 
 Se pueden ver sus datos de funcionamiento en la [[http://www.micropik.com/pdf/cny70.pdf|hoja de datos]], sólo diremos que este sensor consta de un led infrarrojo y un fototransistor, cuando los polarizamos, la resistencia interna del transistor varía segun la superficie frente a él refleje o no la luz infrarroja emitida por el led. En nuestro caso, los valores o datos que vamos a obtener del transistor nos indicarán si el sensor se encuentra sobre una superficie blanca, o sobre la linea negra que debe seguir.
 
-El diagrama de conexiones está en la siguiente figura, al armar el pcb hay que tener en cuenta el ancho de la linea de la pista para colocar los sensores centrales y la separacion entre la linea central y las perpendiculares que señalan las curvas para ubicar los sensores del costado.
+EEn el repositorio del proyecto se encuentra el PCB utilizado para la placa de sensores 2013.
 
 
 
@@ -51,12 +51,16 @@ Para calcular la reducción de velocidades al usar engranajes se usa la formula:
 
 
 == Gestión de Energía ==
+ {{attachment:control.png||width="200"}}
 Para regular la tensión entregada por las baterías vamos a usar un regulador Step-Down, en este caso un TL2575-05 de TI, que conocimos en la página [[http://www.micropic.es/mpblog/2010/06/alimenta-tus-circuitos-con-un-regulador-step-down/|micropic.es]] y el circuito es el mismo que se puede encontrar en la hoja de datos del componente.
 Este dispositivo nos entrega una tension constante de 5V con un muy bajo consumo energía y se puede alimentar sin problemas con tensiones que van de 6V a 40V. En el repositorio se encuentra en formato pdf el PCB utilizado.
 
 == Placa de Control ==
-Para el control de Atila, se utiliza un PIC16F886 ya que posee todos los modulos internos que necesitamos para el proyecto. El circuito aún se encuentra montado sobre una plaqueta de islas mientras se completa el desarrollo.
+Para el control de Atila, se utiliza un PIC16F886 ya que posee todos los modulos internos que necesitamos para el proyecto. Acoplado al PIC se hay un CD4049 que está formado por 6 compuertas inversoras CMOS y sirve de buffer entre el microcontrolador y el driver de potencia. El circuito completo es el que se puede ver en el repositorio donde tambien aparecen las imágenes para poder imprimir el PCB. La siguiente imagen es una vista 3D de la placa de control:
 
+ {{attachment:control.png||width="200"}}
+
+El circuito impreso mide 87x50 mm y sobre el mismo se ven cuatro conectores, uno para la alimentacion y otro para el ICSP y los otros dos son para conectar la placa de sensores y el puente H que controlará los motores.
 
 ----
 [[RSL|Principal RSL]] | [[GruposRSL | Grupos RSL]]

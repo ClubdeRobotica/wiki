@@ -51,7 +51,7 @@ Para calcular la reducción de velocidades al usar engranajes se usa la formula:
 
 
 == Gestión de Energía ==
- {{attachment:control.png||width="200"}}
+ {{attachment:energia.png||width="200"}}
 Para regular la tensión entregada por las baterías vamos a usar un regulador Step-Down, en este caso un TL2575-05 de TI, que conocimos en la página [[http://www.micropic.es/mpblog/2010/06/alimenta-tus-circuitos-con-un-regulador-step-down/|micropic.es]] y el circuito es el mismo que se puede encontrar en la hoja de datos del componente.
 Este dispositivo nos entrega una tension constante de 5V con un muy bajo consumo energía y se puede alimentar sin problemas con tensiones que van de 6V a 40V. En el repositorio se encuentra en formato pdf el PCB utilizado.
 

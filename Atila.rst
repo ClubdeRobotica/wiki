@@ -33,7 +33,7 @@ Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio r
 
 Se pueden ver sus datos de funcionamiento en la [[http://www.micropik.com/pdf/cny70.pdf|hoja de datos]], sólo diremos que este sensor consta de un led infrarrojo y un fototransistor, cuando los polarizamos, la resistencia interna del transistor varía segun la superficie frente a él refleje o no la luz infrarroja emitida por el led. En nuestro caso, los valores o datos que vamos a obtener del transistor nos indicarán si el sensor se encuentra sobre una superficie blanca, o sobre la linea negra que debe seguir.
 
-EEn el repositorio del proyecto se encuentra el PCB utilizado para la placa de sensores 2013.
+En el repositorio del proyecto se encuentra el PCB utilizado para la placa de sensores 2013.
 
 
 

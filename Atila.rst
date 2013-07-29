@@ -27,6 +27,8 @@ Para lograr el objetivo se deben completar los siguientes pasos:
 
 = Hardware del Proyecto =
 ----
+Como regla general, salvo la placa de sensores, todos los PCB van a tener cinco centímetros de ancho, esto es para que a pesar de ser moduloss separadas, se puedan imprimir todos sobre una misma placa.
+
 
 == Sensores ==
 Al igual que el año pasado vamos a usar siempre los sensores CNY70, su precio ronda los $10 y su rendimiento es muy bueno para este tipo de robots. Estos tendran que ir en la parte inferior del movil, a una distancia maxima de 5 mm del piso (el sensor funciona a distancias mayores, pero nos estaríamos exponiendo a la interferencia por la luz infrarroja de cualquier otra fuente)

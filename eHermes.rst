@@ -24,7 +24,7 @@
 
 == Hardware ==
 
-Este proyecto esta basado en el circuito esquemático ya desarrollado por el grupo Choique.
+Este proyecto esta basado en el circuito esquemático ya desarrollado en base al microcontrolador PIC.
 
 
 Nos encontramos en distintas etapas de desarrollo:
@@ -34,7 +34,7 @@ Nos encontramos en distintas etapas de desarrollo:
 -Diseño de PCB en KiCad. Con el objetivo de generar una plataforma base para los futuros grupos de RSL que se incorporen al CdR.
 
 -Elección de baterías.
-
+ 
 
 
 

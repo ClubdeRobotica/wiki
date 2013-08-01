@@ -24,7 +24,7 @@
 
 == Hardware ==
 
-Este proyecto esta basado en el circuito esquemático ya desarrollado en base al microcontrolador PIC.
+Este proyecto esta basado en el circuito esquemático ya desarrollado en base al [[RSL#Desarrollo_con_microcontrolador_PIC| microcontrolador PIC]]
 
 
 Nos encontramos en distintas etapas de desarrollo:

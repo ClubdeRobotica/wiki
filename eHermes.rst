@@ -12,9 +12,10 @@
 --Ruedas
 
 -Bateria
---Bateria de 9V. La placa Arduino tiene su fuente interna con regulacion a 5V y 3.3V
+--Bateria de 9V. La placa Arduino tiene su fuente interna con regulacion a 5V (utilizada para alimentar la placa de control, de pontencia y los motores) y 3.3V (no utilizada para este proyecto)
 
 -Software
+
 -Parametrización
 
 

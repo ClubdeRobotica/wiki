@@ -22,13 +22,14 @@ El proyecto actualmente se encuentra en un estado funcional con un control propo
  * '''Regulador de tensión:''' si bien no es estrictamente necesario, sería muy bueno rediseñar el módulo regulador de tensión para integrarlo en la placa de control y agregar un switch de encendido.
  * '''Driver de Potencia:''' si bien consta de un solo integrado, hay que modificarlo para agregarle un pulsador que nos permita activar y desactivar los actuadores, para tener un control en la largada.
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;          ;text-align:center"> {{attachment:foto.jpg||width="300"}} Movil Atila 2012 ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;          ;text-align:center"> {{attachment:foto.jpg||width="300"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;          ;text-align:centr">Movil Atila 2012 ||
 
 
 
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;          ;text-align:center"> {{attachment:atila2013.jpg||width="300"}} Movil Atila 2013 ||
-
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;          ;text-align:center"> {{attachment:Atila2013.jpg||width="300"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;          ;text-align:centr">Movil Atila 2013 ||
 
 
 

@@ -96,9 +96,13 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 ----
 == Histórico de Reuniones 2013 ==
 
-{{{#!wiki note
-La próxima reunión será el primer viernes del siguiente cuatrimestre debido al feriado puente del viernes 21.
-}}}
+'''''*09-08-13 '''''
+
+Siguiente reunión
+
+'''''*02-08-13 '''''
+
+ . =>Capacitores; rectificadores de media onda y onda completa; Filtrado; Reguladores de tensión. 
 
 '''''*14-06-13 '''''
 

@@ -11,7 +11,7 @@ En Construcción
 ----
 = Responsables del Proyecto =
 
-La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus integrantes ingrese aqui 
+La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus integrantes ingrese  [[GruposVRTD| aquí]]
 
 
 == Objetivo ==

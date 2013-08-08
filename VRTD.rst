@@ -11,6 +11,15 @@ En Construcción
 
 
 }}}
+
+== Versiones ==
+
+[[VRTD|versión 2012 ]]
+
+[[VRTD|versión 2013 ]]  
+
+----
+
 <<TableOfContents()>>
 
 = Equipo =

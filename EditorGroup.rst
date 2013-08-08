@@ -37,3 +37,5 @@
  * FrancoBecutti
  * JohanaAybar
  * WilsonHintz
+ * SantiagoRojas
+ * GabrielGagliardi

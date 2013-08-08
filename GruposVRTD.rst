@@ -1,7 +1,7 @@
 = Grupo 1 =
  * Mariano Alvarez 
  
- * Ezequiel Molina 
+ * [[EzequielMolina| Ezequiel Molina]]
  
  * Gabriel Gagliardi
  

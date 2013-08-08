@@ -1,22 +1,17 @@
-{{{#!wiki caution
-
-En Construcción 
-
-
-
-
-
-}}}
-
 = Grupo 1 =
-
- * [[MarianoAlvarez| Mariano Alvarez]] 
-
- * [[GermanOntivero| Germán Ontivero]]
+ * Mariano Alvarez 
  
- * [[SantiagoRojas| Santiago Rojas]]
-
+ * Ezequiel Molina 
+ 
  * Gabriel Gagliardi
+ 
+ * Noelia Troglia 
+ 
 
-----
-[[VRTD_2013| Volver]]
+= Grupo 2 =
+
+ * Germán Ontivero
+ 
+ * Santiago Rojas 
+ 
+ * . . .

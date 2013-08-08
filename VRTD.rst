@@ -2,6 +2,15 @@
 
 (Inicialmente denominado Auto(ro)Bot, luego AutoRoBot, ahora VRTD)
 
+
+{{{#!wiki caution
+
+En Construcción 
+
+
+
+
+}}}
 <<TableOfContents()>>
 
 = Equipo =

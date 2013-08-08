@@ -1,1 +1,17 @@
-Comienza edición 
+{{{#!wiki caution
+
+En Construcción 
+
+
+
+
+}}}
+
+<<TableOfContents()>>
+----
+= Responsables del Proyecto =
+
+La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus integrantes ingrese aqui 
+
+
+== Objetivo ==

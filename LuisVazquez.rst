@@ -11,8 +11,6 @@ Email: <<MailTo(luisvazquez AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
 [[RSL|Robot Seguidor de Linea]]
 
-[[SAP-NV|Sistema de alerta para Personas No Videntes]]
-
 
 
 '''Responsable de:'''

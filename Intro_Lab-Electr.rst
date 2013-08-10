@@ -96,9 +96,13 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 ----
 == Histórico de Reuniones 2013 ==
 
-'''''*09-08-13 '''''
+'''''*16-08-13 '''''
 
 Siguiente reunión
+
+'''''*09-08-13 '''''
+
+ . =>KiCad: Presentación; herramientas; elaboración del esquemático; asociación de componentes; ubicación de componentes y trazado de pistas.
 
 '''''*02-08-13 '''''
 

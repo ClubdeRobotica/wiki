@@ -98,7 +98,7 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 
 '''''*16-08-13 '''''
 
-. =>KiCad: Elaboración de un proyecto desde cero.
+ . =>KiCad: Elaboración de un proyecto desde cero.
 
 '''''*09-08-13 '''''
 

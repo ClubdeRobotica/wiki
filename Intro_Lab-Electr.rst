@@ -48,10 +48,10 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 {{{#!wiki note
 El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcionamiento del circuito y una explicación de la construcción de la placa.
 }}}
-* Esquemático de la fuente : [[attachment:fuente_cdr_cbe.sch]].
+* Esquemático de la fuente : [[attachment:fuente_cdr_cbe13.sch]].
 
 ''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe.jpg||width="400"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe13.jpg||width="400"}} ||
 
 
 
@@ -98,7 +98,7 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 
 '''''*16-08-13 '''''
 
-Siguiente reunión
+. =>KiCad: Elaboración de un proyecto desde cero.
 
 '''''*09-08-13 '''''
 

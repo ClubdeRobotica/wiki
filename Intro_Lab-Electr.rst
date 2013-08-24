@@ -43,12 +43,15 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Trabajo Práctico N°1: [[attachment:TP0.pdf]]
 
-* Fuente de alimentación : '''[[attachment:fuente_cdr_cbe.pdf]] '''
+* Fuente de alimentación (2012) : '''[[attachment:fuente_cdr_cbe.pdf]] '''
 
 {{{#!wiki note
 El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcionamiento del circuito y una explicación de la construcción de la placa.
 }}}
-* Esquemático de la fuente : [[attachment:fuente_cdr_cbe13.sch]].
+* Esquemático de la fuente (2012) : [[attachment:fuente_cdr_cbe.sch]].
+
+
+* Esquemático de la fuente (2013) : [[attachment:fuente_cdr_cbe13.sch]].
 
 ''' Diseño PCB '''
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe13.jpg||width="400"}} ||
@@ -95,6 +98,10 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
+
+'''''*23-08-13 '''''
+
+ . =>Como soldar; Qucs, simulación circuito resistivo y RC.
 
 '''''*16-08-13 '''''
 

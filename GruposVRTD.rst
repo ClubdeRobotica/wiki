@@ -19,7 +19,7 @@ En Construcción
 
 = Grupo 2 =
 
- * Germán Ontivero
+ * [[GermanOntivero| Germán Ontivero]]
  
  * Santiago Rojas 
  

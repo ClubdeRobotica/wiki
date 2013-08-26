@@ -21,5 +21,21 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 
 == Hoja de ruta ==
 
+{{{#!wiki caution
+
+Sujeto a modificación 
+
+
+
+
+}}}
+
+''' 31/08/2013 '''
+
+* Montaje Kit ARM 7 .
+
+* Diseño y montaje Driver de Potencia.
 
 == Histórico de reuniones ==
+
+ ''' * 25/08/2013 ''' --> Definición y planificación de tareas.

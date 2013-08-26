@@ -15,7 +15,7 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 
 
 == Objetivo ==
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:Bloque_trabajo.eps||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:Bloque_trabajo.png||width="500"}}||
 
 == Hoja de ruta ==
 

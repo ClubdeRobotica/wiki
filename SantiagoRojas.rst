@@ -1,7 +1,6 @@
 ##master-page:HomepageTemplate
 #format wiki
 #language es
-Santiago Rojas
 
 Email:  <<santicordoba85@gmail.com>>
 

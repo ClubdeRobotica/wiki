@@ -7,15 +7,9 @@ Email:  <<santicordoba85@gmail.com>>
 
 '''Vinculado a:'''
 
-* Proyecto RSL
+
 
 * VRTD Versión 2013
-
-'''Administrador de:'''
-
-* Lista de correo
-
-* Wiki
 
 ----
 

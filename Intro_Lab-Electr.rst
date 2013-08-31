@@ -52,6 +52,8 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 
 
 * Esquemático de la fuente (2013) : [[attachment:fuenteCBE.sch]].
+* Netlist de la fuente (2013) : [[attachment:fuenteCBE.net]].
+* Placa de la fuente (2013) : [[attachment:fuenteCBE.brd]].
 
 ''' Diseño PCB '''
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe13.jpg||width="400"}} ||
@@ -98,6 +100,12 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 }}}
 ----
 == Histórico de Reuniones 2013 ==
+
+== Histórico de Reuniones 2013 ==
+
+'''''*30-08-13 '''''
+
+ . =>Comienzo proyecto final.
 
 '''''*23-08-13 '''''
 

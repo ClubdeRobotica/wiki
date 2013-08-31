@@ -129,11 +129,11 @@ Pueden mandar comentarios y sugerencias a: [[FrancoBecutti|Franco Becutti]] y/o 
 
 '''''*16-08-13 '''''
 
- . =>KiCad: Elaboración de un proyecto desde cero.
+ . =>Kicad: Elaboración de un proyecto desde cero.
 
 '''''*09-08-13 '''''
 
- . =>KiCad: Presentación; herramientas; elaboración del esquemático; asociación de componentes; ubicación de componentes y trazado de pistas.
+ . =>Kicad: Presentación; herramientas; elaboración del esquemático; asociación de componentes; ubicación de componentes y trazado de pistas.
 
 '''''*02-08-13 '''''
 

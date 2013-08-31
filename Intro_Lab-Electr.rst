@@ -45,7 +45,7 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 == Proyectos ==
 
-===Fuente===
+=== Fuente ===
 
 * Fuente de alimentación (2012) : '''[[attachment:fuente_cdr_cbe.pdf]] '''
 

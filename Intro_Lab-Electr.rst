@@ -1,5 +1,5 @@
 = Curso Básico de Electrónica =
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:logocursobasico13.jpg||width="600"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:logocursobasico13.jpg||width="700"}} ||
 
 
 <<TableOfContents()>>
@@ -43,6 +43,8 @@ Ya está disponible la '''versión completa''' del material creado para este cur
 
 * Trabajo Práctico N°1: [[attachment:TP0.pdf]]
 
+'''Fuente'''
+
 * Fuente de alimentación (2012) : '''[[attachment:fuente_cdr_cbe.pdf]] '''
 
 {{{#!wiki note
@@ -56,21 +58,23 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 
 * Placa de la fuente (2013) : [[attachment:FuenteCBE.brd]].
 
-''' Diseño PCB '''
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe13.jpg||width="400"}} ||
 
-
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe13.jpg||width="600"}} ||
 
 
 {{{#!wiki note
 Es a modo ilustrativo, la organización de los componentes es creatividad de cada uno .
 }}}
 
+'''Robot seguidor de luz'''
+
 * Esquemático del robot sigue luz : [[attachment:RobotSigueLuz.sch]].
 
 * Netlist del robot sigue luz : [[attachment:RobotSigueLuz.net]].
 
 * Placa del robot sigue luz : [[attachment:RobotSigueLuz.brd]].
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:RobotSigueLuz.jpg||width="400"}} ||
 
 === Información útil ===
 * Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]].

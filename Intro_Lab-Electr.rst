@@ -12,7 +12,7 @@ Está orientado a quienes decidan ingresar al CdR como miembros activos en el 20
 
 En relación directa con la carrera de Ing. Electrónica, el CBE pretende ser un complemento del curso dictado en el segundo semestre por la CEE, para mejorar el porcentaje de alumnos que realizan el curso de introducción al llegar a 3er año.
 
-__Finalización del curso:__ Elaboración de una fuente Regulada o un Robot Sigue-Luz (en desarrollo), ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: Tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
+__Finalización del curso:__ Elaboración de una fuente Regulada o un Robot Sigue-Luz, ambos proyectos son optativos. Para los estudiantes de Ing. Electrónica: Tengan en cuenta que en la materia Electrónica Aplicada 1 realizarán una fuente regulada totalmente calculada.
 
 Como todos los proyectos del CdR, las herramientas informáticas con que se trabaja son de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]].
 
@@ -65,6 +65,13 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 {{{#!wiki note
 Es a modo ilustrativo, la organización de los componentes es creatividad de cada uno .
 }}}
+
+* Esquemático del robot sigue luz : [[attachment:RobotSigueLuz.sch]].
+
+* Netlist del robot sigue luz : [[attachment:RobotSigueLuz.net]].
+
+* Placa del robot sigue luz : [[attachment:RobotSigueLuz.brd]].
+
 === Información útil ===
 * Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]].
 

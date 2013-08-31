@@ -23,19 +23,30 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 
 {{{#!wiki caution
 
-Sujeto a modificación 
+''Sujeto a modificación ''
 
-
-
+'''* Diseño y Construcción del Hardware necesario:'''
+ * Puente H ''(Iniciado 31/08/13)''
+ * Kit de ARM 7 ''(Terminado 31/08/13)''
+ * Placa de Control
+ * Placas de Metrología
+ * Fijar los sensores a la Plataforma
+* ..
 
 }}}
 
-''' 31/08/2013 '''
+
+''' 07/09/2013 '''
 {{{
-* Montaje Kit ARM 7 .
+* Probar Kit ARM 7
 
-* Diseño y montaje Driver de Potencia.
+* Probar Puente H
+
+* Diseño Placa Madre del Bloque de Control con regulador de tensión de 5V
 }}}
+
 == Histórico de reuniones ==
 
  ''' * 25/08/2013 ''' --> Definición y planificación de tareas.
+
+ ''' * 31/08/2013 ''' --> Construcción Puente H y Kit ARM 7, planificación de la distrubución espacial de los componentes.

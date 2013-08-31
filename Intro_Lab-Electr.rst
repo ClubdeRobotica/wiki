@@ -50,10 +50,11 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 }}}
 * Esquemático de la fuente (2012) : [[attachment:fuente_cdr_cbe.sch]].
 
+* Esquemático de la fuente (2013) : [[attachment:FuenteCBE.sch]].
 
-* Esquemático de la fuente (2013) : [[attachment:fuenteCBE.sch]].
-* Netlist de la fuente (2013) : [[attachment:fuenteCBE.net]].
-* Placa de la fuente (2013) : [[attachment:fuenteCBE.brd]].
+* Netlist de la fuente (2013) : [[attachment:FuenteCBE.net]].
+
+* Placa de la fuente (2013) : [[attachment:FuenteCBE.brd]].
 
 ''' Diseño PCB '''
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;                ;text-align:center"> {{attachment:fuente_cdr_cbe13.jpg||width="400"}} ||

@@ -80,6 +80,9 @@ Es a modo ilustrativo, la organización de los componentes es creatividad de cad
 
 
 == Información útil ==
+
+=== Guías ===
+
 * Tutorial básico Kicad :  [[attachment:KiCad-es.pdf]].
 
 * Guía para soldar :   [[attachment:Soldadura.pdf|¿Cómo soldar?]].

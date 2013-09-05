@@ -41,7 +41,7 @@ Descripción del hardware utilizado [[Hardware|Hardware ]]
  * Puente H ''(Iniciado 31/08/13)''
  * Kit de ARM 7 ''(Terminado 31/08/13)''
  * Placa de Control
- * Placas de Metrología
+ * Placas de Telemetría
  * Fijar los sensores a la Plataforma
 * ..
 

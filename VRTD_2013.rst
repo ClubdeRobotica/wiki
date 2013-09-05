@@ -25,6 +25,12 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 Descripción del hardware utilizado [[Hardware|Hardware ]]
 
 }}}
+
+
+== Software ==
+
+== Herramientas de desarrollo  ==
+
 == Hoja de ruta ==
 
 {{{#!wiki caution

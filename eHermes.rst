@@ -9,14 +9,23 @@
  
 -Móvil
 --Motores
+Servomotores modificados para giro continuo de 360°.
+
 --Ruedas
 
+
 -Bateria
---Bateria de 9V. La placa Arduino tiene su fuente interna con regulacion a 5V (utilizada para alimentar la placa de control, de pontencia y los motores) y 3.3V (no utilizada para este proyecto)
+--La placa Arduino tiene su fuente interna con regulacion a 5V (utilizada para alimentar la placa de control, de potencia y los motores) y 3.3V (no utilizada para este proyecto).
+Se utiliza un pack: contruido con dos baterias de gel de 4V y 0.9Ah conectadas en serie para obtener un voltage a maxima carga cerca de los 8V.
+
 
 -Software
 
+
 -Parametrización
+
+
+
 
 
 == Desarrollo con PIC 2012 ==

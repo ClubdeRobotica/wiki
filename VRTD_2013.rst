@@ -19,8 +19,9 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 == Cuadro de Operaciones ==
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:Bloque_trabajo.png||width="500"}}||
 
-
+----
 == Hardware ==
+
 {{{#!wiki caution
 Descripción del hardware utilizado [[Hardware|Hardware ]]
 

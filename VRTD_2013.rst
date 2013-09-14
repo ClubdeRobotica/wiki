@@ -29,6 +29,15 @@ Descripción del hardware utilizado [[Hardware|Hardware ]]
 ----
 == Software de desarrollo ==
 
+Este proyecto apoya y promueve el uso de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]], por lo tanto, las herramientas utilizadas para su desarrollo concuerdan con dicha filosofía.
+
+Las herramientas utilizadas son :
+
+* [[http://es.wikipedia.org/wiki/KiCad|Kicad]] -> Diseño de circuitos.
+
+* [[http://es.wikipedia.org/wiki/Inkscape|Inkscape]] -> Edición de imágenes.
+
+
 
 
 ----

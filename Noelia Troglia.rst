@@ -1,3 +1,6 @@
-Noelia Troglia  noeliatroglia_at_gmail_dot_com
+= @Noelia Troglia@ =
+e-mail  << noeliatroglia_at_gmail_dot_com >>
 
-'''Vinculada a : VRTD2013'''
+'''Vinculada a : '''
+
+* VRTD Versión 2013

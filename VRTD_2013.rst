@@ -27,7 +27,7 @@ Descripción del hardware utilizado [[Hardware|Hardware ]]
 }}}
 
 ----
-== Software ==
+== Software de desarrollo ==
 
 
 

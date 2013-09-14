@@ -19,6 +19,15 @@ Para el '''LPC2124''' se utiliza una placa de desarrollo diseñada en la UTN-FRC
 El '''LPC1768''' esta montado sobre el kit de desarrollo [[http://www.hotmcu.com/lpc1768minidk2-development-board-28-tft-lcd-p-12.html|LPC1768-Mini-DK2]] de la firma THAOYU Electronics.
 ----
 == Telemetría ==
+La telemetría del VRTD  consta de x sensores encargados de obtener datos acerca de orientación,proximidad con objetos y distancia recorrida.Para ello subdividiremos esta sección en 3 bloques (Orientación,Proximidad y Distancia), los cuales constan de diversos tipos de sensores.
+
+=== Orientación ===
+
+Para la orientación se utilizan sensores de efecto hall, con los cuales, a partir de las mediciones sobre el campo magnético terrestre , podemos conocer hacia donde está el NORTE de la plataforma.
+
+=== Proximidad ===
+
+=== Distancia ===
 
 
 ----

@@ -1,9 +1,9 @@
 En esta sección se especifica el Hardware utilizado en el proyecto.
-=  Hardware =
+== Diagrama General ==
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:Bloque_trabajo.png||width="500"}}||
 ----
-== Unidad de control == 
+== Unidad de control ==
 
 El control del VRTD está a cargo de dos microcontroladores de la familia  [[http://es.wikipedia.org/wiki/Arquitectura_ARM.|ARM]](Advanced RISC Machines), los cuales poseen un núcleo de arquitectura [[http://es.wikipedia.org/wiki/RISC.|RISC]] (Reduced Instruction Set Computer), de 32 bits.
 

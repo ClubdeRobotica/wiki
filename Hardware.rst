@@ -35,5 +35,8 @@ Para medir la distancia recorrida tomamos mediciones sobre la cantidad de vuelta
 ----
 == Potencia ==
 
+Esta es la etapa que gestiona el movimiento de los motores , la misma se basa en una placa de Driver (Puente H) para los motores.
+
+El circuito se puede observar descargándolo desde aquí 
 
 ----

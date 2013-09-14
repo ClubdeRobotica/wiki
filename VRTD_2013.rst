@@ -13,10 +13,9 @@ En Construcción
 
 La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus integrantes ingrese  [[GruposVRTD| aquí]]
 
-
+----
 == Objetivo ==
 
-== Cuadro de Operaciones ==
 
 
 ----
@@ -27,11 +26,12 @@ Descripción del hardware utilizado [[Hardware|Hardware ]]
 
 }}}
 
-
+----
 == Software ==
 
-== Herramientas de desarrollo  ==
 
+
+----
 == Hoja de ruta ==
 
 {{{#!wiki caution
@@ -57,7 +57,7 @@ Descripción del hardware utilizado [[Hardware|Hardware ]]
 
 * Diseño Placa Madre del Bloque de Control con regulador de tensión de 5V
 }}}
-
+----
 == Histórico de reuniones ==
 
  ''' * 25/08/2013 ''' --> Definición y planificación de tareas.

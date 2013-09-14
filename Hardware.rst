@@ -21,15 +21,17 @@ El '''LPC1768''' esta montado sobre el kit de desarrollo [[http://www.hotmcu.com
 == Telemetría ==
 La telemetría del VRTD  consta de x sensores encargados de obtener datos acerca de orientación,proximidad con objetos y distancia recorrida.Para ello subdividiremos esta sección en 3 bloques (Orientación,Proximidad y Distancia), los cuales constan de diversos tipos de sensores.
 
-=== Orientación ===
+==== Orientación ====
 
 Para la orientación se utilizan sensores de efecto hall, con los cuales, a partir de las mediciones sobre el campo magnético terrestre , podemos conocer hacia donde está el NORTE de la plataforma.
 
-=== Proximidad ===
+==== Proximidad ====
 
-=== Distancia ===
+Para evitar colisiones con objetos del entorno se utilizan sensores de ultrasonido, a modo de detectores de proximidad; estos trabajan libres de roces mecánicos y  detectan objetos a distancias de hasta 8[m]. El sensor emite un sonido y mide el tiempo que la señal tarda en regresar. Estos reflejan en un objeto, el sensor recibe el eco producido y lo convierte en señales eléctricas, las cuales son adaptadas para su posterior proceso mediante el microcontrolador .
 
+==== Distancia ====
 
+Para medir la distancia recorrida tomamos mediciones sobre la cantidad de vueltas que dan los motores mediante sensores ópticos.
 ----
 == Potencia ==
 

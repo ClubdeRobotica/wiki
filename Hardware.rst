@@ -9,14 +9,14 @@ El control del VRTD está a cargo de dos microcontroladores de la familia  [[htt
 
 Los microcontroladores utilizados en es este caso son : LPC2124 y LPC1768 cortex-M3 de la firma [[http://es.wikipedia.org/wiki/NXP_Semiconductors|NXP Semicondcutors]]
 
-Datasheet LPC2124.
+* Datasheet [[attachment:lpc2124.pdf]]
 
-Datasheet LPC1768.
+* Datasheet [[attachment:LPC1768.pdf]]
 
 
-Para el '''LPC2124''' se utiliza un placa desarrollada en la UTN-FRC por la [[http://www.organizaciones.frc.utn.edu.ar/cee/|CEE]] la cual es accesible para todos los alumnos. 
+Para el '''LPC2124''' se utiliza una placa de desarrollo diseñada en la UTN-FRC por la [[http://www.organizaciones.frc.utn.edu.ar/cee/|CEE]]. Esta consiste en una placa con el microcontrolador y sus respectivas I/O + placa programadora.
 
-El '''LPC1768''' esta montado sobre el kit de desarrollo LPC1768-Mini-DK2  de la firma THAOYU Electronics.
+El '''LPC1768''' esta montado sobre el kit de desarrollo [[http://www.hotmcu.com/lpc1768minidk2-development-board-28-tft-lcd-p-12.html|LPC1768-Mini-DK2]] de la firma THAOYU Electronics.
 ----
 == Telemetría ==
 

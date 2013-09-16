@@ -45,7 +45,8 @@ Las herramientas utilizadas son :
 == Próxima reunión 21/09/2013 ==
 
 ''' Tareas Pendientes '''
-{{{
+{{{#!wiki caution
+
 
 * Conexión Kit ARM 7-Pc
 
@@ -56,10 +57,9 @@ Las herramientas utilizadas son :
 
 '''Tareas Concretadas '''
 
-{{{#!wiki caution
+{{{
 
-
- * Montaje Kit de ARM 7 ''(31/08/13)''
+ * Montaje Kit de ARM 7 (31/08/13).
  
 
 }}}

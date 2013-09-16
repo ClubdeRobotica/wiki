@@ -58,17 +58,21 @@ Las herramientas utilizadas son :
 }}}
 
 
-''' 07/09/2013 '''
+'''Próxima reunión 21/09/2013 '''
 {{{
-* Probar Kit ARM 7
+* Conexión Kit ARM 7-Pc
 
-* Probar Puente H
+* Probar Puente H.
 
-* Diseño Placa Madre del Bloque de Control con regulador de tensión de 5V
+* Montaje Placa madre sobre multipropósito.
 }}}
 ----
 == Histórico de reuniones ==
 
+ ''' * 14/09/2013 ''' --> Revisión puente H, Diseño placa madre, herramientas de programación.
+
+ ''' * 07/09/2013 ''' --> Pruebas puente H, planificación placa madre.
+
  ''' * 25/08/2013 ''' --> Definición y planificación de tareas.
 
- ''' * 31/08/2013 ''' --> Construcción Puente H y Kit ARM 7, planificación de la distrubución espacial de los componentes.
+ ''' * 31/08/2013 ''' --> Construcción Puente H y Kit ARM 7, planificación de la distribución espacial de los componentes.

@@ -16,27 +16,19 @@
  * AlejandroCerutti
  * javiergohlke
  * NicolasIgnacio
- * FacundoRivas
- * Ignacio
- * LucasYoaquino
- * juanPautasso
- * matiasquadri
- * pablonicolasda
- * guille
  * MarianoAlvarez
  * leandropassetti
  * DariOchoa
  * MarcosCiceri
  * EliasCaceres
  * GabrielInfante
- * nachitox
  * SilvioBustamante
- * AndresGariboglio
- * FacuVicente
  * HernanPaez
  * FrancoBecutti
  * JohanaAybar
  * WilsonHintz
  * SantiagoRojas
  * GabrielGagliardi
- *NoeliaTroglia
+ * NoeliaTroglia
+ * FernandoZelaya
+ 

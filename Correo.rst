@@ -2,13 +2,13 @@
 
 ¿Cómo utilizar la lista de correo?
 
-Siempre que se envía un email a "Club de Robótica UTN-FRC" <cdr (e t) usla (d ot) org (otro d ot) ar> lo están recibiendo aproximadamente 100 personas. Por lo tanto, cada vez que se envía un email a la lista hay que ser muy cuidadoso.
+Siempre que se envía un email a "Club de Robótica UTN-FRC" <cdr (a t) usla (d ot) org ( d ot) ar> lo están recibiendo aproximadamente 100 personas. Por lo tanto, cada vez que se envía un email a la lista hay que ser muy cuidadoso.
 
 La metodología que '''recomendamos''' es:
 
  1. Si ya hay un asunto, o hilo, que trata el tema de su interés, entonces hay que seguir ese hilo y NO crear uno nuevo. Tratando de responder sobre el último mensaje enviado.
 
- 1. NO enviar correo respondiendo al email de “Compilación de correos para < cdr (e t) usla (d ot) org (otro d ot) ar >”. Este email lo envía automáticamente la lista y si se responde sobre él, en la lista aparece como asunto el mencionado anteriormente y no brinda información sobre el tema del mensaje.
+ 1. NO enviar correo respondiendo al email de “Compilación de correos para < cdr (a t) usla (d ot) org (d ot) ar >”. Este email lo envía automáticamente la lista y si se responde sobre él, en la lista aparece como asunto el mencionado anteriormente y no brinda información sobre el tema del mensaje.
  
  1. Para tratar un tema nuevo, siempre que sea de interés del club, se crea un asunto nuevo (un nuevo hilo) bien claro y se mantiene la charla en ese hilo.
 

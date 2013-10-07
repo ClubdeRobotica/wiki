@@ -9,6 +9,7 @@ En esta sección se especifica el Hardware utilizado en el proyecto.
 ----
 == Unidad de control ==
 
+
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:ARMLPC2114_versionWiki.png||width="300"}}||
 
 

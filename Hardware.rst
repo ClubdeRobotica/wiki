@@ -9,6 +9,9 @@ En esta sección se especifica el Hardware utilizado en el proyecto.
 ----
 == Unidad de control ==
 
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:||width="300"}}||
+
+
 El control del VRTD está a cargo de dos microcontroladores de la familia  [[http://es.wikipedia.org/wiki/Arquitectura_ARM.|ARM]](Advanced RISC Machines), los cuales poseen un núcleo de arquitectura [[http://es.wikipedia.org/wiki/RISC.|RISC]] (Reduced Instruction Set Computer), de 32 bits.
 
 Los microcontroladores utilizados en es este caso son : LPC2124 y LPC1768 cortex-M3 de la firma [[http://es.wikipedia.org/wiki/NXP_Semiconductors|NXP Semicondcutors]]
@@ -44,5 +47,3 @@ Esta es la etapa que gestiona el movimiento de los motores , la misma se basa en
 El circuito se puede observar descargándolo desde aquí 
 
 ----
-
-

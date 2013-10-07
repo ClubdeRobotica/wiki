@@ -47,6 +47,7 @@ Las herramientas utilizadas son :
 ''' Tareas Pendientes '''
 {{{#!wiki caution
 
+* Cargar la batería (no debe disminuir de 12v)
 
 * Conexión Kit ARM 7-Pc (en proceso)
 

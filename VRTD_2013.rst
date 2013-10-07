@@ -9,9 +9,13 @@ En Construcción
 
 <<TableOfContents()>>
 ----
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:vrtd2013.png||width="500"}}||
+
 = Responsables del Proyecto =
 
 La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus integrantes ingrese  [[GruposVRTD| aquí]]
+
+
 
 ----
 == Objetivo ==

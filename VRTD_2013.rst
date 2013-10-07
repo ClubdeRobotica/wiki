@@ -42,23 +42,25 @@ Las herramientas utilizadas son :
 
 ----
 
-== Próxima reunión 21/09/2013 ==
+== Próxima reunión 12/10/2013 ==
 
 ''' Tareas Pendientes '''
 {{{#!wiki caution
 
 
-* Conexión Kit ARM 7-Pc
+* Conexión Kit ARM 7-Pc (en proceso)
 
-* Probar Puente H (Iniciado : 30-08-2013).
+* Revisar 1 canal del Puente H (sólo funciona en un sentido).
 
-* Montaje Placa madre sobre multipropósito.
+* Montaje Placa madre sobre multipropósito (en proceso).
 }}}
 
 '''Tareas Concretadas '''
 
 {{{
 
+ * Montaje del control cableado (05/10/13)
+ 
  * Montaje Kit de ARM 7 (31/08/13).
  
 
@@ -68,6 +70,10 @@ Las herramientas utilizadas son :
 
 ----
 == Histórico de reuniones ==
+
+ ''' * 05/10/2013 ''' --> Montaje del control cableado, prueba de motores, pruebas de programación.
+ 
+ ''' * 28/09/2013 ''' --> Trabajos sobre chasis y pruebas de programación.
 
  ''' * 14/09/2013 ''' --> Revisión puente H, Diseño placa madre, herramientas de programación.
 

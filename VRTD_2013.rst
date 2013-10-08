@@ -26,7 +26,8 @@ El vehículo puede ser manipulado de forma remota para recolectar datos, por eje
 
 Para poder cumplir con el objetivo, la unidad cuenta con sensores de Efecto Hall para poder determinar su posición , sensores de ultrasonido para evitar colisiones con el medio y sensores fotoeléctricos utilizados como encoder para determinar el espacio recorrido.
 
-Para poder procesar las  señales provenientes de los elementos de medición mencionados, se utiliza una [[http://cdr.usla.org.ar/Hardware|unidad de control]] basada en microcontroladores de la familia ARM.
+Para poder procesar las  señales provenientes de los elementos de medición mencionados, se utiliza una [[Hardware#subsection|Unidad de control]]
+basada en microcontroladores de la familia ARM.
 
 ----
 == Hardware ==

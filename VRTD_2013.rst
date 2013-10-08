@@ -24,7 +24,7 @@ Esta versión se trata de una plataforma de adquisición de datos capaz de infor
 
 El vehículo puede ser manipulado de forma remota para recolectar datos, por ejemplo de temperatura, o bien ser utilizado como autómata asignándole algún trabajo , por ejemplo conocer la velocidad del viento a 300 [m] hacia el Oeste.
 
-Para poder cumplir con el objetivo, la unidad cuenta con sensores de Efecto Hall para poder determinar su posición , sensores de ultrasonido para evitar colisiones con el medio y sensores fotoeléctricos utilizados como encoder para determinar el espacio recorrido.
+Para poder cumplir con el objetivo, la unidad cuenta con un bloque [[Hardware#Telemetría|Telemetría]] basado en sensores de Efecto Hall para poder determinar su posición , sensores de ultrasonido para evitar colisiones con el medio y sensores fotoeléctricos utilizados como encoder para determinar el espacio recorrido.
 
 Para poder procesar las  señales provenientes de los elementos de medición mencionados, se utiliza una [[Hardware#Unidad de control|Unidad de control]]
 basada en microcontroladores de la familia ARM.

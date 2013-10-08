@@ -20,7 +20,13 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 ----
 == Objetivo ==
 
+Esta versión se trata de una plataforma de adquisición de datos capaz de informar su posición respecto a la inicial y la cantidad de espacio recorrido en cierto intervalo de tiempo.
 
+El vehículo puede ser manipulado de forma remota para recolectar datos, por ejemplo de temperatura, o bien ser utilizado como autómata asignándole algún trabajo , por ejemplo conocer la velocidad del viento a 300 [m] hacia el Oeste.
+
+Para poder cumplir con el objetivo, la unidad cuenta con sensores de Efecto Hall para poder determinar su posición , sensores de ultrasonido para evitar colisiones con el medio y sensores fotoeléctricos utilizados como encoder para determinar el espacio recorrido.
+
+Para poder procesar las  señales provenientes de los elementos de medición mencionados, se utiliza una central de proceso basada en microcontroladores de la familia ARM.
 
 ----
 == Hardware ==

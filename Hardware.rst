@@ -2,7 +2,7 @@ En esta sección se especifica el Hardware utilizado en el proyecto.
 
 
 
- ==  Diagrama General ==
+==  Diagrama General ==
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:Bloque_trabajo.png||width="500"}}||
 

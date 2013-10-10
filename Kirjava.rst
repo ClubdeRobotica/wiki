@@ -3,7 +3,7 @@
 Desarrollador:
  * [[OchoaDario|OCHOA, Darío Martín E.]]
 
-== Introducción!!!!!! ==
+== Introducción ==
 
 Un Robot Seguidor de Linea (RSL) es un robot que sigue una linea marcada en el piso, pudiendo ser esta blanca sobre fondo negro(nuestro caso) o negra sobre fondo blanco.
 Si bien existen multitud de posibilidades para su fabricación la mayoría posee ciertos elementos comunes:

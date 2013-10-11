@@ -19,5 +19,12 @@ Con esas premisas se decidió por no utilizar microcontrolador para el procesami
 
 Por lo cual se de optó por un nivel intermedio entre control por uC y control analógico, lo que es un control digital, pero con componentes discretos para los cuales no es necesario programación alguna(amplificadores operacionales, compuertas digitales, transistores en su zona de Corte/Saturación).
 
+== Desarrollo ==
+
+=== Sensores ===
+Para censar la linea a seguir se utilizan 2 fototransitores con 2 LEDs infrarojos. Para el acondicionamiento de señal se utiliza un Amplificador Operacional dispuesto como Comparador utilizando una resistencia variable para polarizarlo a fin de poder configurar a Kirjava según la luz del ambiente y la pista.
+
+
+
 ----
 [[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

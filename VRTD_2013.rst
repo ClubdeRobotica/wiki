@@ -71,6 +71,8 @@ Las herramientas utilizadas son :
 
 {{{
 
+ * Puente H (05/10/2013)
+
  * Montaje del control cableado (05/10/13)
  
  * Montaje Kit de ARM 7 (31/08/13).

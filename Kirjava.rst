@@ -39,7 +39,21 @@ Las de salidas de ambos comparadores se conecta a las entradas de la etapa de ''
 
 === Procesamiento de Datos ===
 Esta etapa se encarga de decidir el funcionamiento de los '''actuadores''' segun los valores que vienen desde la etapa de '''sensores'''. Se basa en un circuito combinacional digital con dos entradas(Izquierda y Derecha, salidas de los comparadores) y dos salidas, una para girar hacia la izquierda y la otra para girar a la derecha. 
+==== Funcionamiento ====
+El funcionamiento se basa, como todo circuito digital combinacional, en los distintos estados de las entradas, los cuales explicaremos a continuación para luego plasmarlos en el circuito con compuertas.
 
+ * Mientras las entradas '''Izquierda''' y '''Derecha''' sean '''1''' significa que Kirjava esta alineado con la linea blanca que debe seguir por lo tanto no debería girar hacia ningún lado.
+ * Si '''Izquierda''' es '''0''' y '''Derecha''' es '''1''', significa que Kirjava se salio de la linea blanca por la izquierda, por lo tanto debe girar hacia la '''Derecha'''
+ * Si '''Derecha''' es '''0''' e '''Izquierda''' es '''1'''', significa que Kirjava se salio de la linea blanca por la derecha, por lo tanto debe girar hacia la '''Izquierda'''
+ * Si tanto '''Derecha''' e '''Izquierda''' son '''0''' significa que Kirjava perdió totalmente la linea blanca.
+
+Esto último puede ser un tanto complicado de entender, por lo tanto lo plasmaremos en una '''Tabla de Verdad''' para tratar de entenderlo de otra forma.
+
+|| Izquierda || Derecha || giro hacia Izquierda || Giro hacia la Derecha ||
+||    0      ||    0    ||          0           ||           0           ||
+||    0      ||    1    ||          0           ||           1           ||
+||    1      ||    0    ||          1           ||           0           ||
+||    1      ||    1    ||          0           ||           1           ||
 
 
 ----

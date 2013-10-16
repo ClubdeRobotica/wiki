@@ -54,7 +54,25 @@ Esto último puede ser un tanto complicado de entender, por lo tanto lo plasmare
 ||<:>    0               ||<:>    0                    ||<:>          0              ||<:>           0           ||
 ||<:>    0               ||<:>    1                    ||<:>          0              ||<:>           1           ||
 ||<:>    1               ||<:>    0                    ||<:>          1              ||<:>           0           ||
-||<:>    1               ||<:>    1                    ||<:>          0              ||<:>           1           ||
+||<:>    1               ||<:>    1                    ||<:>          0              ||<:>           0           ||
+
+resumiendo:
+
+ * Giro hacia la Derecha solo debe activarse cuando Izquierda=0 y Derecha=1
+
+ * Giro hacia la Izquierda solo debe activarse cuando Izquierda=1 y Derecha=0
+
+ * En los otros casos tanto Giro hacia la Izquierda como hacia la derecha deben ser 0.
+
+De esta manera se obtienen las Funciones Booleanas para cada una de las salidas, siendo:
+
+'''Giro hacia la Derecha'''   = Izquierda' * Derecha
+
+'''Giro hacia la Izquierda''' = Derecha' * Izquierda
+
+
+
+
 
 
 

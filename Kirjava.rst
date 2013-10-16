@@ -49,6 +49,8 @@ El funcionamiento se basa, como todo circuito digital combinacional, en los dist
 
 Esto último puede ser un tanto complicado de entender, por lo tanto lo plasmaremos en una '''Tabla de Verdad''' para tratar de entenderlo de otra forma.
 
+
+||<-2> '''Entradas''' ||<-2> '''Salidas''' ||
 || Izquierda || Derecha || giro hacia Izquierda || Giro hacia la Derecha ||
 ||    0      ||    0    ||          0           ||           0           ||
 ||    0      ||    1    ||          0           ||           1           ||

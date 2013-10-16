@@ -25,6 +25,9 @@ Por lo cual se de optó por un nivel intermedio entre control por uC y control a
 Para censar la linea a seguir se utilizan 2 fototransitores con 2 LEDs infrarojos. Para el acondicionamiento de señal se utiliza un Amplificador Operacional dispuesto como Comparador utilizando una resistencia variable para polarizarlo a fin de poder configurar a Kirjava según la luz del ambiente y la pista.
 {{attachment:sensores.png||width="600"}}
 
+==== Funcionamiento ====
+El funcionamiento se basa en el trió LED-Fototransistor-Comparador.
+Tanto el Led como el fototransitor se colocan orientados hacia la pista, mientras el haz de luz incida sobre la linea blanca el fototransitor permanecera cerrado, puesto que la luz reflejada exitara la Base cerrando el fototransistor, con lo cual un valor cercano a los 0v llegará al pin v- del comparador(Amplificador Operacional configurado como comparador)
 
 ----
 [[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

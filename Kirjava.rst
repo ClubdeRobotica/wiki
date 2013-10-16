@@ -3,6 +3,7 @@
 Desarrollador:
  * [[OchoaDario|OCHOA, Darío Martín E.]]
 
+<<TableOfContents()>>
 == Introducción ==
 
 Un Robot Seguidor de Linea (RSL) es un robot que sigue una linea marcada en el piso, pudiendo ser esta blanca sobre fondo negro(nuestro caso) o negra sobre fondo blanco.
@@ -34,6 +35,11 @@ Las de salidas de ambos comparadores se conecta a las entradas de la etapa de ''
 (agregar imagen de disposición de LEDs y fototransitores)
 
 '''Nota:'''El valor de referencia que se  pone en el pin v+ de ambos comparadores tiene por objetivo poder adaptar a Kirjava para ambientes con diferentes intensidades de luz y pistas con distintas características reflectivas. Este valor se genera con una resistencia variable dispuesta como divisor de tensión.
+
+
+=== Procesamiento de Datos ===
+Esta etapa se encarga de decidir el funcionamiento de los '''actuadores''' segun los valores que vienen desde la etapa de '''sensores'''. Se basa en un circuito combinacional digital con dos entradas(Izquierda y Derecha, salidas de los comparadores) y dos salidas, una para girar hacia la izquierda y la otra para girar a la derecha. 
+
 
 
 ----

@@ -70,8 +70,11 @@ De esta manera se obtienen las Funciones Booleanas para cada una de las salidas,
 
 '''Giro hacia la Izquierda''' = Derecha' * Izquierda
 
+Conociendo las funciones se puede armar el Circuito, el consta de dos integrados de compuertas:
+ * 4069 Sextuple NOT
+ * 4081 Cuadruple AND 
 
-
+{{attachment:procesamiento.png||width="600"}}
 
 
 

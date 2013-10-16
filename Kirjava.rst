@@ -27,8 +27,11 @@ Para censar la linea a seguir se utilizan 2 fototransitores con 2 LEDs infrarojo
 
 ==== Funcionamiento ====
 El funcionamiento se basa en el trío LED-Fototransistor-Comparador.
-Tanto el Led como el fototransitor se colocan orientados hacia la pista, mientras el haz de luz incida sobre la linea blanca el fototransitor permanecerá cerrado, puesto que la luz reflejada exitara la Base cerrando el fototransistor, con lo cual un valor cercano a los 0v llegará al pin v- del comparador(Amplificador Operacional configurado como comparador. El comparador comparará este valor con el valor de referencia generado por la resistencia variable dando un 1 (en caso que el valor en v- sea menor al valor de referencia) o un 0 (cuando el valor de v- sea mayor al valor de referencia), a la salida.
+Tanto el Led como el fototransitor se colocan orientados hacia la pista, mientras el haz de luz incida sobre la linea blanca el fototransitor permanecerá cerrado, puesto que la luz reflejada exitara la Base cerrando el fototransistor, con lo cual un valor cercano a los 0v llegará al pin v- del comparador(Amplificador Operacional configurado como comparador). El comparador comparará este valor con el valor de referencia generado por la resistencia variable dando a la salida un 1 (en caso que el valor en v- sea menor al valor de referencia) o un 0 (cuando el valor de v- sea mayor al valor de referencia).
 Por otro lado, cuando el haz de luz del LED incida sobre el área negra el fototransistor permanecerá abiero, con lo cual un valor cercano a la tensión de alimentación (9v) llegará al pin v- del comparador, reaccionando este de igual forma que en el caso anterior. (si v- es menor al valor de referencia entonces la salida será un 1, y un 0 en el caso que v- sea mayor al valor de referencia)
+
+'''Nota:'''El valor de referencia que se  pone en el pin v+ de ambos comparadores tiene por objetivo poder adaptar a Kirjava para ambientes con diferentes intensidades de luz y pistas con distintas características reflectivas. Este valor se genera con una resistencia variable dispuesta como divisor de tensión.
+
 
 ----
 [[RSL | Principal RSL]] | [[GruposRSL | Grupos RSL]]

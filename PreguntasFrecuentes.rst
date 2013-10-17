@@ -75,4 +75,4 @@
 
 === ¿El CdR posee un canal IRC? ===
 
-R: Si. Conectándose a la red de FreeNode, se accede al canal #CdR-UTNFRC. (HowTo para mas detalles)
+R: Si. Conectándose a la red de Freenode, se accede al canal #CdR-UTNFRC. (HowTo para mas detalles)

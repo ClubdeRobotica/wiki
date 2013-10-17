@@ -1,4 +1,3 @@
-
 [[PreguntasFrecuentes|Preguntas frecuentes!]]
 
 
@@ -6,3 +5,5 @@
 
 
 [[RedTrabajo|Servidor SVN]]
+
+[[RedTrabajo/canalIRC|¿Cómo conectarse al chat IRC?]]

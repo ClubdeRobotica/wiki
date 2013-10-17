@@ -8,6 +8,7 @@ La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
  * La lista de correo, e-mails de la comisión y encargados de proyectos.
  * El Servidor principal SVN del CdR --(y su [[http://trac.usla.org.ar/cdr/browser/trunk/|mirror]].)--
  * El Servidor del [[LabRemoto|Laboratorio Remoto]] accesible por SSH (en etapa de proyecto!).
+ * El canal IRC
 
 === Servidores del CdR ===
 
@@ -131,6 +132,8 @@ Pónganse en contacto para obtener el nombre de usuario, contraseña y número d
 
 
 En la www se puede encontrara mucha y muy buena información referida a ''subversion'' y ''ssh''. Este tutorial sólo pretende ser una pequeña guía de introducción.
+
+=== canal IRC ===
 
 Éxitos!
 

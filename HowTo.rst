@@ -6,4 +6,4 @@
 
 [[RedTrabajo|Servidor SVN]]
 
-[[RedTrabajo/canalIRC|¿Cómo conectarse al chat IRC?]]
+[[RedTrabajo#canalIRC|¿Cómo conectarse al chat IRC?]]

@@ -71,3 +71,8 @@
    R: Si. Se accede mediante un cliente SVN a la URL: svn://cdrutnfrc.linuxsecured.net/CdR-Principal [[https://cdr.usla.org.ar/RedTrabajo|+info]]
 
    --( También existe la posibilidad de navegar por el repositorio (sólo lectura) por medio de la URL: http://trac.usla.org.ar/svn/cdr/trunk/ )--
+
+
+=== ¿El CdR posee un canal IRC? ===
+
+R: Si. Conectándose a la red de FreeNode, se accede al canal #CdR-UTNFRC. (HowTo para mas detalles)

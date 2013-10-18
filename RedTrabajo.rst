@@ -2,6 +2,8 @@
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:botito_pop_transp_red.png||width=300}} ||
 
 <<TableOfContents()>>
+
+
 La ''Red de Trabajo'' para los miembro del CdR está compuesta por:
 
  * La wiki del CdR.

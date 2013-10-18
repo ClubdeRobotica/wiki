@@ -133,7 +133,34 @@ Pónganse en contacto para obtener el nombre de usuario, contraseña y número d
 
 En la www se puede encontrara mucha y muy buena información referida a ''subversion'' y ''ssh''. Este tutorial sólo pretende ser una pequeña guía de introducción.
 
-=== canal IRC ===
+=== Canal IRC ===
+
+Contamos con un canal IRC, que es una sala de chat la cual utilizamos para abordar los temas relacionados al CdR.
+
+==== ¿Cómo conectarse al canal? ====
+
+Utilizando como ejemplo el software XChat: Para instalarlo es necesario simplemente el comando desde terminal:
+
+{{{
+usr@linux:~> apt-get install xchat
+}}}
+
+ Una vez instalado, ejecutamos XChat y nos saldrá una ventana para ingresar nuestro Nick y Red a la que queremos acceder. Cuya red se llama FreeNode, se selecciona y se clickea en editar donde podran encontrar opciones como por ejemplo de ingreso automatico y canal destino.
+
+ En caso particular el canal literal es: "#CdR-UTNFRC" (sin comillas).
+
+-RED: FreeNode
+
+-CANAL: #CdR-UTNFRC
+
+Otra forma de acceder al canal es desde [[ChatIRC]].-
+
+
+
+-----------------------------------------------------------------------------------
+
+
+
 
 Éxitos!
 

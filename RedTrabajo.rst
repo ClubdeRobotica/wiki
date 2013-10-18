@@ -144,7 +144,7 @@ Contamos con un canal IRC, que es una sala de chat la cual utilizamos para abord
 Utilizando como ejemplo el software XChat: Para instalarlo es necesario simplemente el comando desde terminal:
 
 {{{
-usr@linux:~> apt-get install xchat
+apt-get install xchat
 }}}
 
  Una vez instalado, ejecutamos XChat y nos saldrá una ventana para ingresar nuestro Nick y Red a la que queremos acceder. Cuya red se llama FreeNode, se selecciona y se clickea en editar donde podran encontrar opciones como por ejemplo de ingreso automatico y canal destino.

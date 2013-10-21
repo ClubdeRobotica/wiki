@@ -84,6 +84,10 @@ Conociendo las funciones se puede armar el Circuito, el consta de dos integrados
 
 Esta etapa es simplemente un '''Puente H''' basado en las explicaciones de [[ http://robots-argentina.com.ar/MotorCC_PuenteH.htm/ |Control de motores de CC con Puente H|target="_blank"]]. El interlok no es necesario ya que la '''Etapa de Control''' se encarga de que las señales no se superpongan.
 
+==== Funcionamiento ====
+
+La señal de '''Giro hacia la Derecha''' activa '''Q3''' y '''Q9''' con lo cual el motor gira en una dirección, y la señal de '''Giro hacia la Izquierda''' activa '''Q4''' y '''Q8''' y el motor girará en dirección contraria. 
+
 {{attachment:puenteH.png||width="600"}}
 
 

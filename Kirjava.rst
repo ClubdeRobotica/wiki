@@ -90,6 +90,15 @@ La señal de '''Giro hacia la Derecha''' activa '''Q3''' y '''Q9''' con lo cual 
 
 {{attachment:puenteH.png||width="600"}}
 
+=== Actuadores ===
+Kirjava consta de dos motores para encargarse de sus movimientos. Un motor para encargarse de la tracción y otro motor que se encarga de la dirección.
+
+==== Funcionamiento ====
+ * Motor Tracción: Este motor mueve ambas ruedas de tracción, funciona constantemente. En el futuro se podría aumentar un '''Control de Velocidad por PWM''', aunque este control esta en el esquemático no se implementó en el modelo actual.
+ *Motor de Dirección: Este motor esta acoplado a  un tornillo sin fin el cual mueve un engranaje que esta unido a la rueda que controla la dirección. También tiene un brazo en el que al final se encuentran los sensores.
+El tornillo sin fin hace girar el engranaje en un sentido o en el otro, dependiendo de los transistores que esten activados en ese momento.
+
+{{attachment:tornillosinfin.gif||width="300"}} {{attachment:sistemadireccion.gif||width="200"}} 
 
 
 

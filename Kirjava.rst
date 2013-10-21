@@ -80,6 +80,10 @@ Conociendo las funciones se puede armar el Circuito, el consta de dos integrados
 
 {{attachment:procesamiento.png||width="600"}}
 
+=== Etapa de Potencia ===
+
+Esta etapa es simplemente un '''Puente H''' basado en las explicaciones de [[http://robots-argentina.com.ar/MotorCC_PuenteH.htm/ |Control de motores de CC
+Puente H]]
 
 
 

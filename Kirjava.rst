@@ -14,6 +14,9 @@ Si bien existen multitud de posibilidades para su fabricación la mayoría posee
  * '''Actuadores''': Los actuadores se encargaran de los movimientos necesarios del robot para que este pueda cumplir con su objetivo de seguir la linea marcada. Generalmente, variedad de motores con diferentes agregados mecánicos.
  * '''Fuente de Energía''': Es la fuente de alimentación del RSL, generalmente baterías.
 
+{{attachment:bloques.png||width="400"}}
+
+
 == Objetivos ==
 
 El objetivo de este proyecto es el desarrollo de un RSL sencillo y económico pero aún así con un desempeño lo suficientemente aceptable para las competencias.

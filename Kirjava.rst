@@ -82,8 +82,10 @@ Conociendo las funciones se puede armar el Circuito, el consta de dos integrados
 
 === Etapa de Potencia ===
 
-Esta etapa es simplemente un '''Puente H''' basado en las explicaciones de [[http://robots-argentina.com.ar/MotorCC_PuenteH.htm/ |Control de motores de CC
-Puente H]]
+Esta etapa es simplemente un '''Puente H''' basado en las explicaciones de [[ http://robots-argentina.com.ar/MotorCC_PuenteH.htm/ |Control de motores de CC con Puente H|target="_blank"]]. El interlok no es necesario ya que la '''Etapa de Control''' se encarga de que las señales no se superpongan.
+
+{{attachment:puenteH.png||width="600"}}
+
 
 
 

@@ -68,9 +68,9 @@ Esta configuración fue extraída de [[http://alexkaltsas.wordpress.com/2012/12/
 Vamos a seguir paso a paso el tutorial omitiendo la parte del OpenOCD que es un debugger, aunque nos resultaría de gran ayuda a la hora de hacer un programa, esto nos dio bastantes problemas y todavía no se ha podido hacer andar bien.
 Comenzamos bajando este archivo: [[http://dl.dropbox.com/u/31742622/stellaris.zip|Stelaris.zip]] y lo descomprimimos en '''home/.codeblocks/share/codeblocks/templates/wizard/''' o donde sea que se haya instalado el codeblocks (si no está en esa ruta puede estar en '''/usr/local/share/codeblocks/templates/wizard/''' se necesitan permisos de root para escribir en esa ubicación).
 Luego, dentro de la carpeta stellaris localizamos el archivo '''config.script''' lo abrimos y agregamos:
-
-'''RegisterWizard(wizProject, _T(“stellaris”), _T(“Stellaris Launchpad”), _T(“Embedded Systems”));'''
-
+{{{
+RegisterWizard(wizProject, _T(“stellaris”), _T(“Stellaris Launchpad”), _T(“Embedded Systems”));
+}}}
 Entre las otras lineas similares a esa.
 
 

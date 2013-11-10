@@ -96,14 +96,34 @@ Una vez instalado el paquete, se tendrá las herramientas con denominación arm-
 
 
 == Configuracion del Code::Blocks ==
-Esta configuración fue extraída de [[http://alexkaltsas.wordpress.com/2012/12/19/stellaris-launchpad-codeblocks/|alexkaltsas.wordpress.com]] es un tutorial muy completo paso a paso, pero tiene el inconveniente de estar escrito en griego.
+Esta configuración fue extraída de [[http://alexkaltsas.wordpress.com/2012/12/19/stellaris-launchpad-codeblocks/|alexkaltsas.wordpress.com]] es un tutorial muy completo paso a paso, pero tiene el inconveniente de estar escrito en griego. La única modificacion que se le hizo a esa guia es que tenemos distinta versión del sat, por lo que en las imágenes se va a ver que el prefijo de las herramientas es '''arm-none-eabi-...''' pero para nuestraa version, el prefijo será: '''arm-elf-eabi-...'''
 Vamos a seguir paso a paso el tutorial omitiendo la parte del OpenOCD que es un debugger, aunque nos resultaría de gran ayuda a la hora de hacer un programa, esto nos dio bastantes problemas y todavía no se ha podido hacer andar bien.
 Comenzamos bajando este archivo: [[http://dl.dropbox.com/u/31742622/stellaris.zip|Stelaris.zip]] y lo descomprimimos en '''home/.codeblocks/share/codeblocks/templates/wizard/''' o donde sea que se haya instalado el codeblocks (si no está en esa ruta puede estar en '''/usr/local/share/codeblocks/templates/wizard/''' se necesitan permisos de root para escribir en esa ubicación).
 Luego, dentro de la carpeta stellaris localizamos el archivo '''config.script''' lo abrimos y agregamos:
 {{{
 RegisterWizard(wizProject, _T(“stellaris”), _T(“Stellaris Launchpad”), _T(“Embedded Systems”));
 }}}
-Entre las otras lineas similares a esa.
+Entre las otras lineas similares a esa. Guardamos, y cerramos el archivo.
+
+Ahora abrimos el Code::Blocks y vamos al menú Settings, seleccionamos '''Debuger'''
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/debugger_1.png||width="800"}} ||
+
+Seleccionamos GDB debugger y presionamos el boton que dice '''Create Config''', en el cuadro de texto escribimos '''ARM''' y presionamos Ok. Seleccionamos la opción ARM que acaba de aparecer y completamos como se muestra en la imágen (recorda que en vez de escribir "arm-none-eabi-gdb" se debe escribir "arm-'''elf'''-eabi-gdb"
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/debugger_4.png||width="800"}} ||
+
+Finalmente ok y la ahora vamos al nuevamente al menu '''Settings''' seleccionamos '''Compiler'''
+En select compiler elegimos '''GNU ARM gcc compiler''' apretamos el boton '''Set as Default''' y seleccionamos la pestaña '''Toolchains executables'''
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/gcc_3.png||width="800"}} ||
+En esta pestañana completamos como se muestra en la imágen, recordando que el prfijo para todos es arm-elf-eabi
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/gcc_4.png||width="800"}} ||
+Finalmente nos movemos a la pestaña Other Settings y nos aseguramos de que en Compiler Loggin estñe seleccionada la opción '''Full Command Line'''
+
+Presionamos Ok y vamos ahora al menu '''Tools''' seleccionamos '''Configure Tools''' ahora elegimos '''Add''' y completamos como se muestra en la imágen:
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/tools_4.png||width="800"}} ||
+Lo único que tenemos que tener en cuenta en esto es que en el cuadro Executable, se debe buscar el programa en la carpeta '''/home/<usuario>/stellaris/lm4tools/lm4flash/'''
+
+Una vez configurado, podemos bajar el proyecto blinky desde [[https://www.dropbox.com/s/jhrtnembbjlu97x/blinky.tar.gz|Este link]] descomprimirlo y probar que todo funcione. Para esto intentaremos compilarlo y luego, con la Stellaris Launchpad conectada vamos al menu '''Tools''' y seleccionamos '''LM4Flash''' y vemos que nos grabe el programa.
+
 
 
 ------------

@@ -62,6 +62,38 @@ Bajamos este archivo: [[https://www.dropbox.com/s/7bykk2tar1dt220/SW-EK-LM4F120X
 unzip SW-EK-LM4F120XL-9453.exe -d StellarisWare
 }}}
 
+== SAT (arm-elf-eabi) ==
+Esto está extraido de la wiki de la cátedra de Técnicas Digitales II de la UTN-FRC.
+
+{{{
+    sudo su
+}}}
+Agregar el repositorio al directorio source.list.d 
+{{{
+    echo deb http://sat.debian.org.ar/debian/ unstable main > /etc/apt/sources.list.d/sat.list
+}}}
+Agregar la clave 
+{{{
+    wget -O - http://sat.debian.org.ar/tin@hemera.debian.org.ar.gpg.key | apt-key add -
+}}}
+Luego se actualiza el repositorio y se instala el paquete 
+{{{
+    apt-get update
+    apt-get install sat-linaro
+}}}
+Esta instalación presupone que la distribución es unstable, si el paquete no se puede instalar por no cumplir alguna dependencia, existe la posibilidad de que la distribución corresponda a stable para cambiar se realiza lo siguiente.
+{{{
+echo deb http://sat.debian.org.ar/debian/ stable main > /etc/apt/sources.list.d/sat.list
+}}}
+Esto cambiará el archivo generado en sources.list.d
+
+Ahora se procede nuevamente con
+{{{
+    apt-get update
+    apt-get install sat-linaro
+}}}
+Una vez instalado el paquete, se tendrá las herramientas con denominación arm-elf-eabi- en lugar de arm-elf- como se tenía antes, se debe cambiar los nombres de las mismas en los ejemplos, (donde aparece arm-elf-as se cambia a arm-elf-eabi-as y así con los demás) 
+
 
 == Configuracion del Code::Blocks ==
 Esta configuración fue extraída de [[http://alexkaltsas.wordpress.com/2012/12/19/stellaris-launchpad-codeblocks/|alexkaltsas.wordpress.com]] es un tutorial muy completo paso a paso, pero tiene el inconveniente de estar escrito en griego.

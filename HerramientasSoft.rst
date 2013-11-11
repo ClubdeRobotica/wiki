@@ -63,7 +63,7 @@ unzip SW-EK-LM4F120XL-9453.exe -d StellarisWare
 }}}
 
 == SAT (arm-elf-eabi) ==
-Esto está extraido de la wiki de la cátedra de Técnicas Digitales II de la UTN-FRC.
+Esto está extraido de la [[http://ciii.frc.utn.edu.ar/TecnicasDigitalesII/WebHome|wiki]] de la cátedra de Técnicas Digitales II de la UTN-FRC.
 
 {{{
     sudo su
@@ -124,6 +124,6 @@ Lo único que tenemos que tener en cuenta en esto es que en el cuadro Executable
 
 Una vez configurado, podemos bajar el proyecto blinky desde [[https://www.dropbox.com/s/jhrtnembbjlu97x/blinky.tar.gz|Este link]] descomprimirlo y probar que todo funcione. Para esto intentaremos compilarlo y luego, con la Stellaris Launchpad conectada vamos al menu '''Tools''' y seleccionamos '''LM4Flash''' y vemos que nos grabe el programa.
 
-
+En la [[http://alexkaltsas.wordpress.com/2012/12/19/stellaris-launchpad-codeblocks/|página]] de la cual obtuvimos este tutorial, se puede ver un video donde se explica y se muestra como crear un proyecto desde cero y hacer debug con el openOCD
 
 ------------

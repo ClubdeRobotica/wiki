@@ -48,7 +48,7 @@ Las herramientas utilizadas son :
 
 * [[http://es.wikipedia.org/wiki/Inkscape|Inkscape]] -> Edición de imágenes.
 
-
+* [[HerramientasSoft|Software de Programación]] -> Guía de instalación y Configuracion del Software utilizado en el proyecto
 
 
 ----

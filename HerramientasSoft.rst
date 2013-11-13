@@ -99,7 +99,7 @@ Una vez instalado el paquete, se tendrá las herramientas con denominación arm-
 Esta configuración fue extraída de [[http://alexkaltsas.wordpress.com/2012/12/19/stellaris-launchpad-codeblocks/|alexkaltsas.wordpress.com]] es un tutorial muy completo paso a paso, pero tiene el inconveniente de estar escrito en griego. La única modificacion que se le hizo a esa guia es que tenemos distinta versión del sat, por lo que en las imágenes se va a ver que el prefijo de las herramientas es '''arm-none-eabi-...''' pero para nuestraa version, el prefijo será: '''arm-elf-eabi-...'''
 Vamos a seguir paso a paso el tutorial omitiendo la parte del OpenOCD que es un debugger, aunque nos resultaría de gran ayuda a la hora de hacer un programa, esto nos dio bastantes problemas y todavía no se ha podido hacer andar bien.
 Comenzamos bajando este archivo: [[http://dl.dropbox.com/u/31742622/stellaris.zip|Stelaris.zip]] y lo descomprimimos en '''home/.codeblocks/share/codeblocks/templates/wizard/''' o donde sea que se haya instalado el codeblocks (si no está en esa ruta puede estar en '''/usr/share/codeblocks/templates/wizard/''' se necesitan permisos de root para escribir en esa ubicación).
-Luego, dentro de la carpeta stellaris localizamos el archivo '''config.script''' lo abrimos y agregamos:
+Luego, dentro de la carpeta wizard localizamos el archivo '''config.script''' lo abrimos y agregamos:
 {{{
 RegisterWizard(wizProject,	    _T("stellaris"),    _T("Stellaris Launchpad"),   _T("Embedded Systems"));
 }}}

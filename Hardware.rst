@@ -16,18 +16,15 @@ En esta sección se especifica el Hardware utilizado en el proyecto.
 ||<tablewidth="100%" tablestyle="text-align:center"50%  style="border:medium none; ;text-align:center">{{attachment:stellaris.jpg|Stellaris Launchpad|width="300"}}||<tablewidth="100%" tablestyle="text-align:center"50%  style="border:medium none; ;text-align:center">{{attachment:ARMLPC1768_versionWiki.png|Kit LPC1768|width="300"}}||
 
 
-El control del VRTD está a cargo de dos microcontroladores de la familia  [[http://es.wikipedia.org/wiki/Arquitectura_ARM.|ARM]](Advanced RISC Machines), los cuales poseen un núcleo de arquitectura [[http://es.wikipedia.org/wiki/RISC.|RISC]] (Reduced Instruction Set Computer), de 32 bits.
+El control del VRTD está a cargo de un microcontrolador de la familia  [[http://es.wikipedia.org/wiki/Arquitectura_ARM.|ARM]](Advanced RISC Machines), el cual posee un núcleo de arquitectura [[http://es.wikipedia.org/wiki/RISC.|RISC]] (Reduced Instruction Set Computer), de 32 bits.
 
-Los microcontroladores utilizados en es este caso son : LPC2124 y LPC1768 cortex-M3 de la firma [[http://es.wikipedia.org/wiki/NXP_Semiconductors|NXP Semicondcutors]]
+El microcontrolador utilizado es el LM4F120H5QR con núcleo  cortex-M4 de la firma [[http://es.wikipedia.org/wiki/Texas_Instruments|Texas Instruments]]
 
-* Datasheet [[attachment:lpc2124.pdf]]
+Este micro se encuentra montado sobre la placa de desarrollo [[http://www.ti.com/lit/ug/spmu289c/spmu289c.pdf|Stellaris Launchpad]] la cual posee, entre otras cosas, interfaz ICDI USB , conexión micro USB-B para depuración, conexión micro USB-B para usuario,cristal principal de 16 MHz . 
 
-* Datasheet [[attachment:LPC1768.pdf]]
+Para obtener un control mas preciso sobre la plataforma se decidió utilizar dos de las placas mencionadas para dividir las tareas y generar independencia en los servicios , de esta manera se evita perder el control total del equipo previniendo incidentes por  fallas eventuales. 
 
 
-Para el '''LPC2124''' se utiliza una placa de desarrollo diseñada en la UTN-FRC por la [[http://www.organizaciones.frc.utn.edu.ar/cee/|CEE]]. Esta consiste en una placa con el microcontrolador y sus respectivas I/O + placa programadora.
-
-El '''LPC1768''' esta montado sobre el kit de desarrollo [[http://www.hotmcu.com/lpc1768minidk2-development-board-28-tft-lcd-p-12.html|LPC1768-Mini-DK2]] de la firma THAOYU Electronics.
 ----
 == Telemetría ==
 La telemetría del VRTD  consta de x sensores encargados de obtener datos acerca de orientación,proximidad con objetos y distancia recorrida.Para ello subdividiremos esta sección en 3 bloques (Orientación,Proximidad y Distancia), los cuales constan de diversos tipos de sensores.

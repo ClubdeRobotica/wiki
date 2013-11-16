@@ -1,10 +1,13 @@
-En esta sección se especifica el Hardware utilizado en el proyecto.
+<<TableOfContents()>>
 
+
+
+En esta sección se especifica el Hardware utilizado en el proyecto.
 
 
 ==  Diagrama General ==
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:DiagramaARM.png||width="500"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:left">{{attachment:DiagramaARM.png||width="900"}}||
 
 ----
 == Unidad de control ==
@@ -29,23 +32,39 @@ Para obtener un control mas preciso sobre la plataforma se decidió utilizar dos
 == Telemetría ==
 La telemetría del VRTD  consta de x sensores encargados de obtener datos acerca de orientación,proximidad con objetos y distancia recorrida.Para ello subdividiremos esta sección en 3 bloques (Orientación,Proximidad y Distancia), los cuales constan de diversos tipos de sensores.
 
-==== Orientación ====
+=== Orientación ===
 
 Para la orientación se utilizan sensores de efecto hall, con los cuales, a partir de las mediciones sobre el campo magnético terrestre , podemos conocer hacia donde está el NORTE de la plataforma.
 
 
-==== Proximidad ====
+=== Proximidad ===
 
-Para evitar colisiones con objetos del entorno se utilizan sensores de ultrasonido, a modo de detectores de proximidad; estos trabajan libres de roces mecánicos y  detectan objetos a distancias de hasta 8[m]. El sensor emite un sonido y mide el tiempo que la señal tarda en regresar. Estos reflejan en un objeto, el sensor recibe el eco producido y lo convierte en señales eléctricas, las cuales son adaptadas para su posterior proceso mediante el microcontrolador .
+Para evitar colisiones con objetos del entorno se utilizan sensores de ultrasonido, a modo de detectores de proximidad; estos trabajan libres de roces mecánicos y  detectan objetos a distancias de hasta 4[m]. El sensor emite una onda sonora de alta frecuencia que al reflejar en un objeto, vuelve al sensor en forma de eco. El sensor convierte el tiempo en que tarda en llegar el eco en un pulso de ancho variable, que puede medirse con el microcontrolador para calcular la distancia al objeto.
 
-==== Distancia ====
+=== Distancia ===
 
-Para medir la distancia recorrida tomamos mediciones sobre la cantidad de vueltas que dan los motores mediante sensores ópticos.
+Mediante sensores reflectivos infrarrojos, se contaran las rpm de cada motor para traducirlas en distancia recorrida por el robot.
+
+=== Gestion de Energía ===
+
+Mediante mediciones de corriente entregada por la batería y la tensión a los bornes de la misma, se va a intentar predecir la autonomía de la misma. Este bloque tambien incluye protecciones de corto circuito que desconectan la batería en caso de detectarse una corriente muy elevada y ademas una desconexión automática para el caso en que la tensión de la batería sea inferior a la tensión de descarga completa.
+
+=== Comunicación ===
+
+Todos los datos recolectados por el robot, serán enviados al bloque de control para su procesamiento. Ademas, el bloque de control, tendrá la posibilidad de enviar datos para guiar remotamente al robot.
+
+=== Control ===
+
+El control, será efectuado por un joystick conectado al bloque de control. Esto permitirá guiar remotamente al robot por el camino deseado para tomar mediciones, el robot, debería ser capaz de reproducir este camino en sentido contrario, para volver al punto de partida de manera autónoma.
+
+=== Actuadores ===
+
+El control de los actuadores se realizará por medio de PWM para controlar las velocidades individuales de los motores.
+
+
 ----
 == Potencia ==
 
 Esta es la etapa que gestiona el movimiento de los motores , la misma se basa en una placa de Driver (Puente H) para los motores.
-
-El circuito se puede observar descargándolo desde aquí 
 
 ----

@@ -53,18 +53,13 @@ Las herramientas utilizadas son :
 
 ----
 
-== Próxima reunión 12/10/2013 ==
+== Próxima reunión 23/11/2013 ==
 
 ''' Tareas Pendientes '''
 {{{#!wiki caution
+ * Completar el prototipo de la Brújula.
 
-* Cargar la batería (no debe disminuir de 12v)
-
-* Conexión Kit ARM 7-Pc (en proceso)
-
-*--( Revisar 1 canal del Puente H (sólo funciona en un sentido).)--
-
-* Montaje Placa madre sobre multipropósito (revisar).
+ * Comenzar a programar los bloques del programa.
 }}}
 
 '''Tareas Concretadas '''

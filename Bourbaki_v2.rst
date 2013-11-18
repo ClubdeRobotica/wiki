@@ -5,7 +5,7 @@ En Construcción
 <<TableOfContents()>>
 
 En esta segunda versión, incorporamos un microcontrolador (PIC), que nos permite adoptar una lógica de comportamiento, la cual es desarrollada en el [[https://es.wikipedia.org/wiki/C_(lenguaje_de_programación).|Lenguaje C]]. Dicha lógica se basa en reconocer las señales provenientes de los sensores, clasificarla, y enviar una respuesta a los motores.
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:bourbakibannerref.jpg||width="500"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:bourbakibannerref.png||width="480"}} ||
 
 
 

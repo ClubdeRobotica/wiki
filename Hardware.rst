@@ -7,7 +7,7 @@ En esta sección se especifica el Hardware utilizado en el proyecto.
 
 ==  Diagrama General ==
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:left">{{attachment:DiagramaARM.png||width="800"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:left">{{attachment:DiagramaARM.png||width="790"}}||
 
 ----
 == Unidad de control ==

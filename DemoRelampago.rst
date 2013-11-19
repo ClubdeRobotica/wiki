@@ -2,11 +2,11 @@
 
 == Proyectos: ==
 
-- RSL sobre la pista (está listo)
+- RSL sobre la pista
 
-- Proyecto info II - movil por PPA (está listo)
+- Proyecto info II - movil por PPA
 
-- Proyecto .... - ARM 
+- Proyecto .... - ARM
 
 - Posible proyecto con Arduino
 

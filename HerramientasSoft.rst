@@ -109,7 +109,8 @@ Ahora abrimos el Code::Blocks y vamos al menú Settings, seleccionamos '''Debuge
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/debugger_1.png||width="800"}} ||
 
 Seleccionamos GDB debugger y presionamos el boton que dice '''Create Config''', en el cuadro de texto escribimos '''ARM''' y presionamos Ok. Seleccionamos la opción ARM que acaba de aparecer y completamos como se muestra en la imágen (recorda que en vez de escribir "arm-none-eabi-gdb" se debe escribir "arm-'''elf'''-eabi-gdb"
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/debugger_4.png||width="800"}} ||
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{http://alexkaltsas.files.wordpress.com/2012/12/debuger_4.png||width="800"}} ||
 
 Finalmente ok y la ahora vamos al nuevamente al menu '''Settings''' seleccionamos '''Compiler'''
 En select compiler elegimos '''GNU ARM gcc compiler''' apretamos el boton '''Set as Default''' y seleccionamos la pestaña '''Toolchains executables'''

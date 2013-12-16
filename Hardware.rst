@@ -53,6 +53,13 @@ Mediante mediciones de corriente entregada por la batería y la tensión a los b
 
 Todos los datos recolectados por el robot, serán enviados al bloque de control para su procesamiento. Ademas, el bloque de control, tendrá la posibilidad de enviar datos para guiar remotamente al robot.
 
+
+||<tablewidth="100%" tablestyle="text-align:center "100%  style="border:medium none; ;text-align:left">{{attachment:nrf24l01.jpeg||width="200"}}||
+
+
+
+
+
 === Control ===
 
 El control, será efectuado por un joystick conectado al bloque de control. Esto permitirá guiar remotamente al robot por el camino deseado para tomar mediciones, el robot, debería ser capaz de reproducir este camino en sentido contrario, para volver al punto de partida de manera autónoma.

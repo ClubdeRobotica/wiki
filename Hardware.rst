@@ -57,7 +57,7 @@ Todos los datos recolectados por el robot, serán enviados al bloque de control 
 
 El control, será efectuado por un joystick conectado al bloque de control. Esto permitirá guiar remotamente al robot por el camino deseado para tomar mediciones, el robot, debería ser capaz de reproducir este camino en sentido contrario, para volver al punto de partida de manera autónoma.
 
-||<tablewidth="100%" tablestyle="text-align:center"-100%  style="border:medium none; ;text-align:left">{{attachment:joystick.jpg||width="200"}}||
+||<tablewidth="100%" tablestyle="text-align:center "100%  style="border:medium none; ;text-align:left">{{attachment:joystick.jpg||width="200"}}||
 
 
 === Actuadores ===

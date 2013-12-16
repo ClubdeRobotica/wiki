@@ -37,6 +37,10 @@ La telemetría del VRTD  consta de x sensores encargados de obtener datos acerca
 Para la orientación se utilizan sensores de efecto hall, con los cuales, a partir de las mediciones sobre el campo magnético terrestre , podemos conocer hacia donde está el NORTE de la plataforma.
 
 
+||<tablewidth="100%" tablestyle="text-align:center "100%  style="border:medium none; ;text-align:left">{{attachment:hall.jpg||width="200"}}||
+
+
+
 === Proximidad ===
 
 Para evitar colisiones con objetos del entorno se utilizan sensores de ultrasonido, a modo de detectores de proximidad; estos trabajan libres de roces mecánicos y  detectan objetos a distancias de hasta 4[m]. El sensor emite una onda sonora de alta frecuencia que al reflejar en un objeto, vuelve al sensor en forma de eco. El sensor convierte el tiempo en que tarda en llegar el eco en un pulso de ancho variable, que puede medirse con el microcontrolador para calcular la distancia al objeto.

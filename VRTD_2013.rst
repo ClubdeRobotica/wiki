@@ -80,6 +80,9 @@ Las herramientas utilizadas son :
 ----
 == Histórico de reuniones ==
 
+''' * 14/12/2013 ''' --> Prueba de algoritmo para sensor ultrasónico.
+
+
  ''' * 05/10/2013 ''' --> Montaje del control cableado, prueba de motores, pruebas de programación.
  
  ''' * 28/09/2013 ''' --> Trabajos sobre chasis y pruebas de programación.

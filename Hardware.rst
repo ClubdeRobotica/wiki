@@ -41,6 +41,9 @@ Para la orientación se utilizan sensores de efecto hall, con los cuales, a part
 
 Para evitar colisiones con objetos del entorno se utilizan sensores de ultrasonido, a modo de detectores de proximidad; estos trabajan libres de roces mecánicos y  detectan objetos a distancias de hasta 4[m]. El sensor emite una onda sonora de alta frecuencia que al reflejar en un objeto, vuelve al sensor en forma de eco. El sensor convierte el tiempo en que tarda en llegar el eco en un pulso de ancho variable, que puede medirse con el microcontrolador para calcular la distancia al objeto.
 
+||<tablewidth="100%" tablestyle="text-align:center "100%  style="border:medium none; ;text-align:left">{{attachment:hcsr04.jpg||width="200"}}||
+
+
 === Distancia ===
 
 Mediante sensores reflectivos infrarrojos, se contaran las rpm de cada motor para traducirlas en distancia recorrida por el robot.

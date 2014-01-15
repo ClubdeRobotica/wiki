@@ -57,7 +57,7 @@ sudo service udev restart
 
 == StellarisWare ==
 Este es un archivo ejecutable para windows, pero si se descomprime encontraremos que tiene todas las librerías y ejemplos que nos ayudarán a crear los programas para la stellaris launchpad.
-Bajamos este archivo: [[https://www.dropbox.com/s/7bykk2tar1dt220/SW-EK-LM4F120XL-9453.exe|StelarisWare]] lo copiamos en la carpeta: /home/usuario/ti y lo descomprimimos con:
+Bajamos este archivo: [[https://www.dropbox.com/s/zd9gipucr532ot1/SW-EK-LM4F120XL-9453.exe|StelarisWare]] lo copiamos en la carpeta: /home/usuario/ti y lo descomprimimos con:
 {{{
 unzip SW-EK-LM4F120XL-9453.exe -d StellarisWare
 }}}

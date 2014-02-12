@@ -9,7 +9,7 @@ Tipofrafías: [[attachment:tipografias.pdf]]
 Planilla de seguimiento : [[attachment:Planilla]]
 
 
-''' Detalle de : [[Estado_contable|Gastos]]'''
+''' Detalle de : [[/RemeraCdR/Estado_contable|Gastos]]'''
 
 
 

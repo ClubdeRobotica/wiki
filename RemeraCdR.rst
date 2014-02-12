@@ -9,6 +9,10 @@ Tipofrafías: [[attachment:tipografias.pdf]]
 Planilla de seguimiento : [[attachment:Planilla]]
 
 
+''' Detalle de :[[Estado_contable|Gastos]]'''
+
+
+
 
 Nota: paciencia!
 

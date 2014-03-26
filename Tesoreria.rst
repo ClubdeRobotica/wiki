@@ -9,14 +9,17 @@
 
 '''Tesorería:'''
 
-- Caja
+- Caja '''(Listo)'''
 
-- Diagramas de flujo de fondos
+- Diagramas de flujo de fondos '''(Deadline 26/04/2014 - Software usado [0])'''
 
-- Registros
+- Registros '''(Listo, se lleva una planilla de calculo al dia)'''
 
-- Bonos/recibos
+- Bonos/recibos (Se pueden empezar a repartir)
 
 - Responsables
 
 - Utilización de los fondos
+
+
+[0] Dia - https://wiki.gnome.org/action/show/Apps/Dia?action=show&redirect=Dia

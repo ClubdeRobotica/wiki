@@ -14,7 +14,7 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 {{{#!wiki note
 
-''' Reinicio de actividades: Jueves 09/05/2013 Proyecto [[RSL|RSL]] / Viernes 10/05/2013 [[Intro_Lab-Electr|CBE]]'''
+''' Reinicio de actividades 2014 '''
 
 ''' Jornada de Puertas Abiertas y convocatoria CdR 2013: Jueves 25/04/2013 de 16:05hs a 20hs - UTN-FRC''' [[DemoDeProyectos]]
 

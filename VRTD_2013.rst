@@ -57,6 +57,8 @@ Las herramientas utilizadas son :
 
 == Materias Integradas ==
 
+Para el desarrollo del proyecto hasta ahora se han aplicado las siguientes materias:
+
 * Informática II
 
 * Electrónica Aplicada II

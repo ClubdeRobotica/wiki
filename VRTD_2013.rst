@@ -1,6 +1,6 @@
 {{{#!wiki caution
 
-En Construcción 
+En Desarrollo 
 
 
 
@@ -9,7 +9,7 @@ En Construcción
 
 <<TableOfContents()>>
 ----
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:chasis2013.png||width="300"}}||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center">{{attachment:vrtd.jpg||width="300"}}||
 
 = Responsables del Proyecto =
 
@@ -20,18 +20,18 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 ----
 == Objetivo ==
 
-Esta versión se trata de una plataforma de adquisición de datos capaz de informar su posición respecto a la inicial y la cantidad de espacio recorrido en cierto intervalo de tiempo.
+El objetivo de este proyecto consiste en el desarrollo de un vehículo con tracción diferencial, capaz de moverse por cualquier terreno, informando al controlador sobre el estado del mismo.
 
-El vehículo puede ser manipulado de forma remota para recolectar datos, por ejemplo de temperatura, o bien ser utilizado como autómata asignándole algún trabajo , por ejemplo conocer la velocidad del viento a 300 [m] hacia el Oeste.
+Fase 1: Como primera versión, se desarrollará el hardware mas elemental para que el microntrolador pueda controlar dos motores de corriente continua y todos los sensores necesarios para conocer la posición y el estado del robot. Esto es, se construirá un puente H para el control de los motores y una serie de circuitos para conocer el estado de la batería y la orientación espacial del robot con respecto al norte magnetico de la tierra. Además se agregarán sensores de distancia para evitar que el vehículo sufra choques. Todos los datos recolectados deben ser adaptados y enviados a una PC para ser interpretados por el usuario.
 
-Para poder cumplir con el objetivo, la unidad cuenta con un bloque [[Hardware#Telemetría|Telemetría]] basado en sensores de Efecto Hall para poder determinar su posición , sensores de ultrasonido para evitar colisiones con el medio y sensores fotoeléctricos utilizados como encoder para determinar el espacio recorrido.
+Fase 2: La segunda etapa del proyecto se basará en agregar el hardware necesario para que el robot pueda ir de un punto a otro de manera autonoma, se deberán agregar encoders en las orugas para conocer que distancia han recorrido y además se deberá desarrollar un software que interprete los datos recolectados en la fase 1. Es necesario tambien, implementar un sistema de comunicación inalámbrica para eleminiar todo tipo de cables entre el robot y el controlador.
 
-Para poder procesar las  señales provenientes de los elementos de medición mencionados, se utiliza una [[Hardware#Unidad de control|Unidad de control]]
-basada en microcontroladores de la familia ARM.
+Todos los desarrollos se llevarán adelante utilizando los contenidos vistos en las Materías de segundo, cuarto y quinto año de Ingeniería Electrónica 
 
 ----
 == Hardware ==
 
+El hardware desarrollado hasta ahora consiste en los modulos individuales para el desarrollo de la fase 1
 {{{#!wiki caution
 Descripción del hardware utilizado [[Hardware|Hardware ]]
 
@@ -48,34 +48,56 @@ Las herramientas utilizadas son :
 
 * [[http://es.wikipedia.org/wiki/Inkscape|Inkscape]] -> Edición de imágenes.
 
+* [[http://www.geany.org/|Geany]] -> IDE de para C/C++ y otros lenguajes
+
 * [[HerramientasSoft|Software de Programación]] -> Guía de instalación y Configuracion del Software utilizado en el proyecto
 
 
 ----
 
-== Próxima reunión 23/11/2013 ==
+== Materias Integradas ==
 
-''' Tareas Pendientes '''
-{{{#!wiki caution
- * Completar el prototipo de la Brújula.
+* Informática II
 
- * Comenzar a programar los bloques del programa.
-}}}
+* Electrónica Aplicada II
 
-'''Tareas Concretadas '''
+* Técnicas Digitales II
 
-{{{
+* Medidas Electrónicas I
+
+
+----
+== Tareas Concretadas ==
 
  * Puente H (05/10/2013)
 
  * Montaje del control cableado (05/10/13)
  
- * Montaje Kit de ARM 7 (31/08/13).
+ * Montaje de Stellaris Launchpad (31/01/14)
+
+ * Brújula Electrónica
  
+ * Circuito de control de Batería
 
-}}}
+ * Modulos de Ultrasonido
+
+ * Desarrollo del Firmware de la Fase 1
 
 
+
+== Tareas Pendientes ==
+
+ * Diseño del PCB de los Circitos de la Fase 1
+
+ * Desarrollo del Programa de Visualizacion de datos en la PC
+
+ * Comunicación Inalámbrica
+
+ * Circuito de Encoder Para las Orugas
+
+ * Desarrollo del Sistema de Gestión de Energía
+
+ * Cargador de Batería
 
 ----
 == Histórico de reuniones ==

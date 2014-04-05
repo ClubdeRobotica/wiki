@@ -32,7 +32,7 @@ Para obtener un control mas preciso sobre la plataforma se decidió utilizar dos
 == Telemetría ==
 La telemetría del VRTD  consta de x sensores encargados de obtener datos acerca de orientación,proximidad con objetos y distancia recorrida.Para ello subdividiremos esta sección en 3 bloques (Orientación,Proximidad y Distancia), los cuales constan de diversos tipos de sensores.
 
-=== Orientación ===
+=== Orientación === (En desarrollo)
 
 Para la orientación se utilizan sensores de efecto hall, con los cuales, a partir de las mediciones sobre el campo magnético terrestre , podemos conocer hacia donde está el NORTE de la plataforma.
 
@@ -41,22 +41,22 @@ Para la orientación se utilizan sensores de efecto hall, con los cuales, a part
 
 
 
-=== Proximidad ===
+=== Proximidad === (Completo)
 
 Para evitar colisiones con objetos del entorno se utilizan sensores de ultrasonido, a modo de detectores de proximidad; estos trabajan libres de roces mecánicos y  detectan objetos a distancias de hasta 4[m]. El sensor emite una onda sonora de alta frecuencia que al reflejar en un objeto, vuelve al sensor en forma de eco. El sensor convierte el tiempo en que tarda en llegar el eco en un pulso de ancho variable, que puede medirse con el microcontrolador para calcular la distancia al objeto.
 
 ||<tablewidth="100%" tablestyle="text-align:center "100%  style="border:medium none; ;text-align:left">{{attachment:hcsr04.jpg||width="200"}}||
 
 
-=== Distancia ===
+=== Distancia === (Pendiente)
 
 Mediante sensores reflectivos infrarrojos, se contaran las rpm de cada motor para traducirlas en distancia recorrida por el robot.
 
-=== Gestion de Energía ===
+=== Gestion de Energía === (En desarrollo)
 
 Mediante mediciones de corriente entregada por la batería y la tensión a los bornes de la misma, se va a intentar predecir la autonomía de la misma. Este bloque tambien incluye protecciones de corto circuito que desconectan la batería en caso de detectarse una corriente muy elevada y ademas una desconexión automática para el caso en que la tensión de la batería sea inferior a la tensión de descarga completa.
 
-=== Comunicación ===
+=== Comunicación === (Pendiente)
 
 Todos los datos recolectados por el robot, serán enviados al bloque de control para su procesamiento. Ademas, el bloque de control, tendrá la posibilidad de enviar datos para guiar remotamente al robot.
 
@@ -67,20 +67,20 @@ Todos los datos recolectados por el robot, serán enviados al bloque de control 
 
 
 
-=== Control ===
+=== Control === (Completo)
 
 El control, será efectuado por un joystick conectado al bloque de control. Esto permitirá guiar remotamente al robot por el camino deseado para tomar mediciones, el robot, debería ser capaz de reproducir este camino en sentido contrario, para volver al punto de partida de manera autónoma.
 
 ||<tablewidth="100%" tablestyle="text-align:center "100%  style="border:medium none; ;text-align:left">{{attachment:joystick.jpg||width="200"}}||
 
 
-=== Actuadores ===
+=== Actuadores === (En desarrollo)
 
 El control de los actuadores se realizará por medio de PWM para controlar las velocidades individuales de los motores.
 
 
 ----
-== Potencia ==
+== Potencia == (En desarrollo)
 
 Esta es la etapa que gestiona el movimiento de los motores , la misma se basa en una placa de Driver (Puente H) para los motores.
 

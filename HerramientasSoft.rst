@@ -128,5 +128,5 @@ Una vez configurado, podemos bajar el proyecto blinky desde [[https://www.dropbo
 En la [[http://alexkaltsas.wordpress.com/2012/12/19/stellaris-launchpad-codeblocks/|página]] de la cual obtuvimos este tutorial, se puede ver un video donde se explica y se muestra como crear un proyecto desde cero y hacer debug con el openOCD
 
 ------------
-
-[[http://cdr.usla.org.ar/VRTD_2013|Volver al Proyecto VRTD]]
+----
+[[VRTD_2013|Volver al Inicio]]

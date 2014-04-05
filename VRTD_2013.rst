@@ -18,7 +18,7 @@ La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus i
 
 
 ----
-== Objetivo ==
+= Objetivo =
 
 El objetivo de este proyecto consiste en el desarrollo de un vehículo con tracción diferencial, capaz de moverse por cualquier terreno, informando al controlador sobre el estado del mismo.
 
@@ -28,6 +28,18 @@ Fase 2: La segunda etapa del proyecto se basará en agregar el hardware necesari
 
 Todos los desarrollos se llevarán adelante utilizando los contenidos vistos en las Materías de segundo, cuarto y quinto año de Ingeniería Electrónica 
 
+----
+
+= Estado del Proyecto =
+
+Actualmente en el Proyecto se está completando la Fase 1.
+{{{
+Video en Youtube
+
+https://www.youtube.com/watch?v=OTiEO1wyLkQ
+
+
+}}}
 ----
 == Hardware ==
 

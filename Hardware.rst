@@ -100,4 +100,7 @@ El control de los actuadores se realizará por medio de PWM para controlar las v
 
 Esta es la etapa que gestiona el movimiento de los motores , la misma se basa en una placa de Driver (Puente H) para los motores.
 
+
 ----
+----
+[[VRTD_2013|Volver al Inicio]]

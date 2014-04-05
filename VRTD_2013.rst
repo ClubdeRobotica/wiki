@@ -87,6 +87,7 @@ Para el desarrollo del proyecto hasta ahora se han aplicado las siguientes mater
 
 
 
+----
 == Tareas Pendientes ==
 
  * Diseño del PCB de los Circitos de la Fase 1

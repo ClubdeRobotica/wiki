@@ -119,7 +119,7 @@ Entorno de desarrollo con PikLab y fuentes (preliminar):
 
 SVN para checkout: 
 {{{
-svn co svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk/Proyectos/RSL/Choique/RSL-PIC16F877-C ./CdR_RSL-Choique-SW
+svn co svn://cdrutnfrc.mooo.com/CdR-Principal/trunk/Proyectos/RSL/Choique/RSL-PIC16F877-C ./CdR_RSL-Choique-SW
 }}}
 
 --( Para sólo lectura: )--

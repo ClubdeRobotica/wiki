@@ -9,21 +9,14 @@ En relación directa con la carrera de Ing. Electrónica, el CdR busca introduci
 El CdR también busca integrar a estudiantes de otras especialidades que deseen aprender (o aplicar sus conocimientos) sobre electrónica, software y mecánica, en el área de la robótica.
 
 == ¿Cómo participar? ==
- . En la sección  '''[[Contacto]]''' se puede acceder a los distintos medios de comunicación con los integrantes del CdR. Te esperamos!
- . '' Juntada regular CdR 2013: todos los Jueves de 16 a 18hs - LCE UTN-FRC.''
+ . En la sección  '''[[Contacto]]''' se puede acceder a los distintos medios de comunicación con los integrantes del CdR.
+ . '' Juntada regular CdR 2014: a confirmar! Por lo pronto consultar por correo o por el grupo del face.''
 
 {{{#!wiki note
 
-''' Reinicio de actividades 2014 '''
-
-''' Jornada de Puertas Abiertas y convocatoria CdR 2013: Jueves 25/04/2013 de 16:05hs a 20hs - UTN-FRC''' [[DemoDeProyectos]]
-
-''' Acta resumen actividades CdR 2012''' [[attachment:Acta_Resumen_CdR-2012.pdf]]
-
-''' Reinicio de actividades: Jueves 14/03/2013 16:15hs LCE-Anexo - UTN-FRC''' [[https://listas.usla.org.ar/cgi-bin/mailman/private/cdr/2013-March/001058.html|Minuta de lo hablado]]
-
-''' Sábado 10/11/2012 competencia de robótica en Bahía Blanca.'''
-[[https://listas.usla.org.ar/cgi-bin/mailman/private/cdr/2012-November/001048.html| Éxito para los participantes!!!]]
+''' Reinicio de actividades 2014: Jornadas de Electrónica, martes 08/04/2014, LCE/LTD UTN-FRC '''
 }}}
+
+ . Te esperamos!
 ----
 [[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]] | [[HowTo]]

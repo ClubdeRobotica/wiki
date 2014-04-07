@@ -15,7 +15,7 @@ Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Client
 
 ==== Link a las señales ====
 
---( http://cdrutnfrc.linuxsecured.net/index-cam.html )--
+--( http://cdrutnfrc.mooo.com/index-cam.html )--
 
 *** El servidor del LabRemoto se encuentra offline ***
 

@@ -18,7 +18,7 @@
 = Noticias importantes y actividades =
  * ''El jueves 2 de mayo '''iniciamos las actividades del ciclo 2013'''. Nos reuniremos todos los jueves en el laboratorio central de electrónica, de 16:00hs a 18:15hs. Más adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. ''
 
- * El '''repositorio''' del proyecto está en '''''svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk/Proyectos/RSL''''' ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
+ * El '''repositorio''' del proyecto está en '''''svn://cdrutnfrc.mooo.com/CdR-Principal/trunk/Proyectos/RSL''''' ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
 
  * Recomendamos ver los siguientes [[LinksRecomendadosRSL|links]] y bajar software libre para aprender, experimentar, investigar y realizar proyectos.
 

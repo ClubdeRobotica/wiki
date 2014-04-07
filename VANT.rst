@@ -178,7 +178,7 @@ http://es.wikipedia.org/wiki/MIL-STD-1553
 {{{
 Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
 }}}
-Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. --( Actualmente contamos con una [[http://cdrutnfrc.linuxsecured.net/index-cam.html|WebCam]] y un GPS en línea. Próximamente agregaremos actuadores. )--
+Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. --( Actualmente contamos con una [[http://cdrutnfrc.mooo.com/index-cam.html|WebCam]] y un GPS en línea. Próximamente agregaremos actuadores. )--
 
 
 '''Comunicación con GPS:'''
@@ -196,7 +196,7 @@ https://listas.usla.org.ar/cgi-bin/mailman/listinfo/cdr
 
 '''Servidor SVN del CdR:''' (accediendo a la rama troncal)
 
-svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk
+svn://cdrutnfrc.mooo.com/CdR-Principal/trunk
 
 '''Definiciones lenguaje aeronáutico:'''
 

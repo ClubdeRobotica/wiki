@@ -24,7 +24,7 @@ Se puede acceder a la documentación del CdR utilizando un cliente SVN (como kde
 
 Para bajar una copia del Proyecto CdR completo no hace falta autentificación. Para poder hacer un commit (subir cambios o nuevos archivos) hay que estar registrado con nombre de usuario y contraseña. Estos datos deberán ser solicitados por correo electrónico al [[Contacto|administrador]].
 
-Dirección del servidor para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal
+Dirección del servidor para checkout: svn://cdrutnfrc.mooo.com/CdR-Principal
 
 --(Para navegar por el repositorio (mirror, sólo lectura): http://trac.usla.org.ar/cdr/browser/trunk/ El mismo se encuentra en servicio continuo.)--
 
@@ -53,7 +53,7 @@ usr@linux:~/Proyectos>mkdir CdR
  * Hacer un primer “checkout” del proyecto. Para ello dentro de la carpeta “Proyectos” ejecutar el siguiente comando:
 
 {{{
-usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR
+usr@linux:~/Proyectos>svn checkout svn://cdrutnfrc.mooo.com/CdR-Principal/trunk ./CdR
 }}}
 Así obtenemos nuestra working copy del proyecto y podemos comenzar a trabajar sobre él.
  * Usuarios autentificados pueden hacer “commit” del proyecto (subir su copia local modificada al servidor de versiones) ejecutando el siguiente comando dentro de la carpeta “CdR”:
@@ -66,7 +66,7 @@ El servidor les preguntará por su nombre de usuario y contraseña. No olvidar l
 
 1º Instalar TortoiseSVN[4] y Firefox (versión >= 3.6.10)
 
-2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk y el directorio donde vamos a bajar la copia local (working copy)
+2º Abrir el TortoiseSVN configurar la dirección del repositorio para checkout: svn://cdrutnfrc.mooo.com/CdR-Principal/trunk y el directorio donde vamos a bajar la copia local (working copy)
 
 3º La descarga puede tardar varios minutos (aprox. 30 min. para el primer CO, luego para actualizar o confirmar, los tiempos son mucho menores)
 
@@ -112,7 +112,7 @@ Desde Linux:
  * Instalar y habilitar SSH, configurar el contrafuegos, etc... (para ello pueden consultar con [[http://sluc.org.ar|SLUC]])
  * Desde cualquier consola mediante el comando ''ssh'', por ejemplo:
 {{{
-usr@linux:~>ssh -p puerto usr@cdrutnfrc.linuxsecured.net
+usr@linux:~>ssh -p puerto usr@cdrutnfrc.mooo.com
 }}}
 El servidor les preguntará su ''psw''.
 
@@ -124,7 +124,7 @@ Desde Win$:
 
 2º Ejecutan el programa putty.exe y configuran el número de puerto y la dirección del servidor:
 
-servidor: cdrutnfrc.linuxsecured.net
+servidor: cdrutnfrc.mooo.com
 
 puerto: *(consultar puerto)
 

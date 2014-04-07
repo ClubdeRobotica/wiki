@@ -22,7 +22,7 @@ Para solicitar una membresía en el CdR deben escribir a la [[Contacto|direcció
 
 Servidor SVN: Ejecutando el siguiente comando desde una consola se baja todo el proyecto a la máquina local:
 
-svn co svn://cdrutnfrc.linuxsecured.net/CdR-Principal/trunk ./CdR
+svn co svn://cdrutnfrc.mooo.com/CdR-Principal/trunk ./CdR
 
 --(Una copia de sólo lectura del Proyecto CdR se puede ver en el mirror: http://trac.usla.org.ar/cdr/browser/trunk/)--
 

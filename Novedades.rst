@@ -1,4 +1,6 @@
 ------------------------------------------------------------------------
+---> '''Desde el 06/04/2014 el servidor SVN cambia su URL de http://cdrutnfrc.linuxsecured.net/ a http://cdrutnfrc.mooo.com/''' ''06/04/2014''
+------------------------------------------------------------------------
 ---> '''Desde el 31/08/2011 retornamos a utilizar el viejo servidor SVN svn://cdrutnfrc.homelinux.org/CdR-Principal''' ''31/08/2011''
 ------------------------------------------------------------------------
 ---> '''Desde el 30/07/2011 el servidor http://cdrutnfrc.homelinux.org/ cambia su URL a http://cdrutnfrc.linuxsecured.net/''' ''30/07/2011''

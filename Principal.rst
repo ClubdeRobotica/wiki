@@ -15,6 +15,8 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 {{{#!wiki note
 
 ''' Reinicio de actividades 2014: Jornadas de Electrónica, martes 08/04/2014, LCE/LTD UTN-FRC '''
+
+''' Reuniones Miércoles y Viernes a partir de las 16hs en el lab. anexo de Electrónica '''  
 }}}
 
  . Te esperamos!

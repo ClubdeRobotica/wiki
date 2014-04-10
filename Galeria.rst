@@ -6,15 +6,15 @@
 
 [[PaseoUTN2011|Paseo por la UTN-FRC Abril 2011]]
 
-[[Reunión |Reuniones]]
+[[Reunion |Reuniones]]
 
 [[Demo9Nov2011]]
 
-[[Reunión 04 Mayo 2012 CBE]]
+[[CBE_04_05_2012|Reunión 04 Mayo 2012 CBE]]
 
 
-[[Visita 2° Competencia Nacional de Robótica .UTN-San Francisco ]]
+[[Compe_UTN-SF|Visita 2° Competencia Nacional de Robótica .UTN-San Francisco ]]
 
-[[Botito viajero ]]
+[[Botito_viajero|Botito viajero ]]
 
 [[JUE_2014 | I Jornada Universitaria de Electrónica 2014 ]]

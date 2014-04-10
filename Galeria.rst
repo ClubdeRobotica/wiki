@@ -17,4 +17,4 @@
 
 [[Botito viajero ]]
 
-[[I Jornada Universitaria de Electrónica 2014 ]]
+[[JUE_2014 | I Jornada Universitaria de Electrónica 2014 ]]

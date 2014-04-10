@@ -5,7 +5,7 @@ En Desarrollo
 <<TableOfContents()>>
 
 ----
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;  ;text-align:center"> {{attachment:vrtd.jpg||width="300"}} ||
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;     ;text-align:center"> {{attachment:vrtd.jpg||width="300"}} ||
 
 
 
@@ -96,20 +96,4 @@ Para el desarrollo del proyecto hasta ahora se han aplicado las siguientes mater
 
 ----
 == Histórico de reuniones ==
- . ''' * 14/12/2013 ''' --> Prueba de algoritmo para sensor ultrasónico.
-
- ''' * 30/11/2013 ''' -->
-
- ''' * 23/11/2013 ''' -->
-
- ''' * 05/10/2013 ''' --> Montaje del control cableado, prueba de motores, pruebas de programación.
-
- ''' * 28/09/2013 ''' --> Trabajos sobre chasis y pruebas de programación.
-
- ''' * 14/09/2013 ''' --> Revisión puente H, Diseño placa madre, herramientas de programación.
-
- ''' * 07/09/2013 ''' --> Pruebas puente H, planificación placa madre.
-
- ''' * 25/08/2013 ''' --> Definición y planificación de tareas.
-
- ''' * 31/08/2013 ''' --> Construcción Puente H y Kit ARM 7, planificación de la distribución espacial de los componentes.
+ . ''' * 14/12/2013 ''' --> Prueba de algoritmo para sensor ultrasónico. ''' * 30/11/2013 ''' --> ''' * 23/11/2013 ''' --> ''' * 05/10/2013 ''' --> Montaje del control cableado, prueba de motores, pruebas de programación. ''' * 28/09/2013 ''' --> Trabajos sobre chasis y pruebas de programación. ''' * 14/09/2013 ''' --> Revisión puente H, Diseño placa madre, herramientas de programación. ''' * 07/09/2013 ''' --> Pruebas puente H, planificación placa madre. ''' * 25/08/2013 ''' --> Definición y planificación de tareas. ''' * 31/08/2013 ''' --> Construcción Puente H y Kit ARM 7, planificación de la distribución espacial de los componentes.

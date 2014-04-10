@@ -1,8 +1,10 @@
 I Jornada Universitaria de Electrónica 2014
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:DSC_0159.jpg||width=400}} ||
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:DSC_0159.JPG||width=400}} ||
 
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:DSC_0160||width=400}} ||
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:DSC_0160.JPG||width=400}} ||
 
-||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:DSC_0161||width=400}} ||
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:DSC_0161.JPG||width=400}} ||

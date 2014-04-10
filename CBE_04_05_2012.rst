@@ -1,3 +1,4 @@
+## page was renamed from Reunión 04 Mayo 2012 CBE
 '''Introducción a Kicad y un poco de Diodos'''
 
  

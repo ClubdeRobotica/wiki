@@ -10,13 +10,13 @@ El CdR también busca integrar a estudiantes de otras especialidades que deseen 
 
 == ¿Cómo participar? ==
  . En la sección  '''[[Contacto]]''' se puede acceder a los distintos medios de comunicación con los integrantes del CdR.
- . '' Juntada regular CdR 2014: a confirmar! Por lo pronto consultar por correo o por el grupo del face.''
+ . '' Juntada regular CdR 2014: Miércoles y Viernes a partir de las 16hs en el lab. anexo de Electrónica ''
 
 {{{#!wiki note
 
 ''' Reinicio de actividades 2014: Jornadas de Electrónica, martes 08/04/2014, LCE/LTD UTN-FRC '''
 
-''' Reuniones Miércoles y Viernes a partir de las 16hs en el lab. anexo de Electrónica '''  
+
 }}}
 
  . Te esperamos!

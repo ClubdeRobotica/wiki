@@ -1,7 +1,7 @@
  Visita 2° Competencia Nacional de Robótica .UTN-San Francisco
 
 
-''' Pista de velo cistas '''
+''' Pista de velocistas '''
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:S6300613.JPG||width=450}} ||
 

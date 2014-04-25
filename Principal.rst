@@ -1,4 +1,12 @@
 == CdR UTN-FRC ==
+
+= FLISoL 2014 =
+
+
+Este sábado 26 de Abril estaremos participando del Festival Latinoamericano de Instalación de Software Libre (FLISoL), presentando el CdR.
+
+Mas información http://flisol.info/FLISOL2014/Argentina/cordoba
+
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:botito_pop.png||width="400"}} ||
 
 

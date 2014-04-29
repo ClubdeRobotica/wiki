@@ -3,7 +3,7 @@
 == Tareas pendientes ==
 
  1. Armario:
-  1. Colocar la cerradura y fijar la tapa trasera;
+  1. --(Colocar la cerradura y fijar la tapa trasera)--;
   1. Laquear los estantes y el cajón;
   1. Hacer el diseño y el ploteo para la tapa;
  1. Terminar de configurar las PCs del club en el LTD (hacen falta?);

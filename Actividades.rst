@@ -3,6 +3,10 @@
 [[CicloFormacion|Ciclo de formación]] |
 [[Infraestructura|Trabajos de Infraestructura]]
 
+'''Histórico de Actividades Año 2014:'''
+   1. Jornada Universitaria de Electrónica. [08/04]
+   1. Participación en el Festival Latinoamericano de Instalación de Software Libre. (FLISoL) [26/04]
+
 '''Histórico de Actividades Año 2013:''' (colocar fechas!)
 
    1. Jornada de Puertas Abiertas JPA-CdR UTN-FRC. [25/04]

@@ -34,3 +34,5 @@
  * MatiasOrozco
  * AnaLauraGonzalez
  * MarcoAlRey
+ * MarcoMaza
+ * TinaSamson

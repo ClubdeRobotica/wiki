@@ -3,8 +3,8 @@ se abre la rama VHDL
 Responsables: Guillermo D.Zarate, [[NicolasIgnacio|Ignacio Nicolás]], [[FrancoBecutti|Becutti Franco]]
 
 
-[[Proyectos|VHDL-Proyectos]]
+[[VHDL-Proyectos|Proyectos]]
 
-[[Software|VHDL-Sofware]]
+[[VHDL-Sofware|Software]]
 
-[[Plataformas|VHDL-Plataformas]]
+[[VHDL-Plataformas|Plataformas]]

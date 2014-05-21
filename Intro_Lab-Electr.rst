@@ -67,7 +67,10 @@ El documento ''' fuente_cdr_cbe.pdf ''' contiene la explicación sobre el funcio
 {{{#!wiki note
 Es a modo ilustrativo, la organización de los componentes es creatividad de cada uno .
 }}}
-=== Robot seguidor de luz ===
+
+===Robot seguidor de luz===
+
+[[RSluz|Página Principal RSluz]]
 
 * Esquemático del robot sigue luz : [[attachment:RobotSigueLuz.sch]].
 

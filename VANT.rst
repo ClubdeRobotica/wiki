@@ -2,12 +2,13 @@
 
 Responsable del proyecto: Marco AR <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT org DOT ar)>>
 
-||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant-V1.2.jpg||width="250"}} ||
-
-
-Nueva propuesta de logo:
-
 ||<tablewidth="100%" tablestyle="text-align: center;"100%  style="border: medium none ; text-align: center;"> {{attachment:vant-V2.0.png||width="350"}} ||
+
+{{{#!wiki note
+
+''' Proyecto Final presentado en Expotrónica 2014: ''' [[Folleto-Correccion_AHRS_Fusion_Fensores-Expotronica-2014.pdf]]
+
+}}}
 
 '''Introducción y objetivos:'''
 
@@ -222,7 +223,7 @@ http://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis
 
 '''Agradecimientos:'''
 
-Logo: J.A.S., P.M.C.
+Logo: P.M.C.
 
 '''¿Cómo participar?'''
 

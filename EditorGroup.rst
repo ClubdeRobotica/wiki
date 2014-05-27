@@ -2,6 +2,7 @@
  * TiN
  * claudiojpaz
  * marcoar
+ * MarcoAlRey
  * DiegoGonzalez
  * JuanGonzalez
  * WalterSalinas
@@ -33,7 +34,6 @@
  * FernandoZelaya
  * MatiasOrozco
  * AnaLauraGonzalez
- * MarcoAlRey
  * MarcoMaza
  * TinaSamson
  * Guillermo D.Zarate

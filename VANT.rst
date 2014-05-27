@@ -6,7 +6,7 @@ Responsable del proyecto: Marco AR <<MailTo(marcoar AT SPAMFREE cdr DOT usla DOT
 
 {{{#!wiki note
 
-''' Proyecto Final presentado en Expotrónica 2014: ''' [[Folleto-Correccion_AHRS_Fusion_Fensores-Expotronica-2014.pdf]]
+''' Proyecto Final presentado en Expotrónica 2014: ''' [[attachment:Folleto-Correccion_AHRS_Fusion_Fensores-Expotronica-2014.pdf]]
 
 }}}
 

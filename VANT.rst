@@ -166,7 +166,7 @@ http://es.wikipedia.org/wiki/MIL-STD-1553
 
 -> por debajo de los 300m el vuelo es libre (no interfiere con rutas comerciales)
 
-=== Desarrollos del CdR ===
+=== Desarrollos ===
 
 '''Diagramas de aviónica:'''
 
@@ -177,16 +177,14 @@ http://es.wikipedia.org/wiki/MIL-STD-1553
 
 '''Proyecto [[LabRemoto|Laboratorio Remoto]]:'''
 {{{
-Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> PC Cliente (miembros CdR) <---> Aplicación
+Actuadores+Sensores <---> Server CdR <---> Router <---> INTERNET <---> Router <---> PC Cliente (miembros CdR) <---> Aplicación
 }}}
 Para tener acceso exclusivo a los recursos hay que solicitar una ventana de tiempo. --( Actualmente contamos con una [[http://cdrutnfrc.mooo.com/index-cam.html|WebCam]] y un GPS en línea. Próximamente agregaremos actuadores. )--
 
 
 '''Comunicación con GPS:'''
 
---( Software disponible en el Servidor SVN del CdR (mirror de solo lectura, versión alpha): )--
-
---( http://trac.usla.org.ar/svn/cdr/trunk/Proyectos/VANT/software/ )--
+--( Software disponible en el Servidor SVN del CdR (versión alpha): )--
 
 
 === Links de interés: ===

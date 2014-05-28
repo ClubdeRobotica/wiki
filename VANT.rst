@@ -36,7 +36,7 @@ Vehículo Aéreo no Tripulado. Para entusiastas! Existen en el mercado pequeños
 -> Inversionistas
 }}}
 
-'''Áreas de vacancia en el mercado argentino referente a VATN`s:''' (análisis de mercado)
+'''Áreas de vacancia en el mercado argentino referente a VANT`s:''' (análisis de mercado)
 
 - despegue autónomo
 

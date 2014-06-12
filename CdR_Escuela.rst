@@ -6,7 +6,13 @@
 
 <<TableOfContents()>>
 
-IPEM N°199 Dr. Juan E. Remonda
+== Responsables ==
+
+[[NicolasIgnacio|Nicolás Ignacio]] - [[EzequielMolina|Martín Ezequiel Molina]] - [[HernanPaez|Hernán Paez]]
+
+== Escuela ==
+
+IPEM N°199 - Dr. Juan E. Remonda
 
 == Historial ==
 

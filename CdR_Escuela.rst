@@ -14,7 +14,7 @@ conexión en FLISoL-2014 26/04/2014
 
 primer reunión en la escuela 28/05/2014 articulación del curso
 
-primer visita de la escuela a la Facultad 30/05/2014 exposición del CdR en laboratorios
+primer visita de la escuela a la Facultad 30/05/2014 exposición del CdR en laboratorios [[https://www.facebook.com/media/set/?set=oa.782091978492406&type=1|Imágenes]]
 
 ----
 
@@ -36,4 +36,3 @@ primer visita de la escuela a la Facultad 30/05/2014 exposición del CdR en labo
 === Grupos de trabajo ===
 
 ----
-[[https://www.facebook.com/media/set/?set=oa.782091978492406&type=1|Imágenes]]

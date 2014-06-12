@@ -1,6 +1,8 @@
-/!\ en construccion
+/!\ en construcción
 
 = CdR en la Escuela =
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:CdR-Escuela.jpg||width="500"}} ||
 
 <<TableOfContents()>>
 

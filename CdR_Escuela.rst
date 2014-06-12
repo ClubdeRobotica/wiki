@@ -10,7 +10,7 @@ IPEM N°199 Dr. Juan E. Remonda
 
 == Historial ==
 
-conexión en FLISoL-2014
+conexión en FLISoL-2014 26/04/2014
 
 primer reunión en la escuela 28/05/2014 articulación del curso
 

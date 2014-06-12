@@ -34,3 +34,6 @@ primer visita de la escuela a la Facultad 30/05/2014 exposición del CdR en labo
 [[RSLuz|Robot Seguidor de Luz]]
 
 === Grupos de trabajo ===
+
+----
+[[https://www.facebook.com/media/set/?set=oa.782091978492406&type=1|Imágenes]]

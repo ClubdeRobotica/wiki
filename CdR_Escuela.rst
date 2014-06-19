@@ -29,10 +29,10 @@ primer visita de la escuela a la Facultad 30/05/2014 exposición del CdR en labo
 1°(11/06/2014). Pautas de Seguridad, orden de trabajo - Ley de Ohm, fórmulas, unidades - identificación de componentes, simbología - circuitos, serie, paralelo - cálculos, ejercicios
 
 
-2°(19/06/2014). : ejercicios teóricos y prácticos en protoboard - uso de multímetro - manipulación de componentes electrónicos y herramientas
+2°(19/06/2014). Ejercicios teóricos y prácticos en protoboard - uso de multímetro - manipulación de componentes electrónicos y herramientas
  
 
-3°(25/06/2014). ''' «PRÓXIMA» ''' continuamos trabajando con los prácticos en protoboard y empezamos con el proyecto [[RSLuz|Robot Seguidor de Luz]]
+3°(25/06/2014). ''' «PRÓXIMA» ''': continuamos trabajando con los prácticos en protoboard y empezamos con el proyecto [[RSLuz|Robot Seguidor de Luz]]
 ----
 
 == Proyecto inicial ==

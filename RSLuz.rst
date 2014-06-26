@@ -3,7 +3,9 @@
 = Robot Seguidor de Luz =
 
 <<TableOfContents()>>
-
+----
+[[CdR_Escuela|CdR en la Escuela]]
+-----
 Responsables
 
 [[RSluzGroup|Grupos de trabajo]] 

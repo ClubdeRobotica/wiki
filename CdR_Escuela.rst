@@ -23,7 +23,10 @@ primer reunión en la escuela 28/05/2014 articulación del curso
 primer visita de la escuela a la Facultad 30/05/2014 exposición del CdR en laboratorios [[https://www.facebook.com/media/set/?set=oa.782091978492406&type=1|Imágenes]]
 
 ----
+Ejercicios
 
+
+----
 === Historial de clases ===
 
 1°(11/06/2014). Pautas de Seguridad, orden de trabajo - Ley de Ohm, fórmulas, unidades - identificación de componentes, simbología - circuitos, serie, paralelo - cálculos, ejercicios

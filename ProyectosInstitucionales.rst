@@ -3,6 +3,8 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 ''' Propuestas de proyectos:'''
 
+'''[[RSLuz|Robot Seguidor de Luz]]'''
+
 '''[[RSL|Robot Seguidor de Línea]]'''
 
 '''[[VRTD|Vehículo Robotizado con Tracción Diferencial]]'''

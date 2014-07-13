@@ -6,9 +6,11 @@
 
 }}}
 
-Video demostrativo
+'''Video demostrativo'''
 
 <<YouTube(id=amFIGsXWszw)>>
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:sfusim.bmp||width="400"}} ||
 
 '''Responsables del proyecto'''
 

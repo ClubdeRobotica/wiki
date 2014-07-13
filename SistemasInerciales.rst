@@ -10,7 +10,7 @@
 
 <<YouTube(id=amFIGsXWszw)>>
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
+<<EmbedObject(http://www.youtube.com/watch?v=6YbBmqUnoQM,width=637px,height=392px,play=true,loop=true)>>
 
 '''Responsables del proyecto'''
 

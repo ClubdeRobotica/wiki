@@ -2,7 +2,7 @@
 
 {{{#!wiki note
 
-''' Proyecto presentado en Expotrónica 2014: ''' [[attachment:Folleto-Correccion_AHRS_Fusion_Fensores-Expotronica-2014.pdf]]
+''' Proyecto presentado en Expotrónica 2014, ganador del Premio UIC a los Proyectos Universitarios (feria de prototipos): ''' [[attachment:Folleto-Correccion_AHRS_Fusion_Fensores-Expotronica-2014.pdf]]
 
 }}}
 

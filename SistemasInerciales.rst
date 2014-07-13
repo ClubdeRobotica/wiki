@@ -10,6 +10,8 @@
 
 <<YouTube(id=amFIGsXWszw)>>
 
+[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
+
 '''Responsables del proyecto'''
 
 Ing. Andrés Buraschi

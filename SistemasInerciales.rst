@@ -10,7 +10,9 @@
 
 <<YouTube(id=amFIGsXWszw)>>
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:sfusim.png||width="400"}} ||
+'''Simulación'''
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="550"}} ||
 
 '''Responsables del proyecto'''
 

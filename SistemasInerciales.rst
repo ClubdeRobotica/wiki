@@ -6,11 +6,9 @@
 
 }}}
 
-[[https://www.youtube.com/watch?v=amFIGsXWszw|Video demostrativo]]
+Video demostrativo
 
 <<YouTube(id=amFIGsXWszw)>>
-
-<<EmbedObject(http://www.youtube.com/watch?v=6YbBmqUnoQM,width=637px,height=392px,play=true,loop=true)>>
 
 '''Responsables del proyecto'''
 

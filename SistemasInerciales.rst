@@ -8,7 +8,7 @@
 
 [[embed url=https://www.youtube.com/watch?v=amFIGsXWszw]]
 
-<<EmbedObject(https://www.youtube.com/watch?v=amFIGsXWszw)>>
+<<EmbedObject(https://www.youtube.com/watch?v=amFIGsXWszw [,width=500] [,height=400] )>>
 
 '''Responsables del proyecto'''
 

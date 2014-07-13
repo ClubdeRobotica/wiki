@@ -8,6 +8,8 @@
 
 [[https://www.youtube.com/watch?v=amFIGsXWszw|Video demostrativo]]
 
+<<YouTube(id=2SXKM-dLJV8)>>
+
 '''Responsables del proyecto'''
 
 Ing. Andrés Buraschi

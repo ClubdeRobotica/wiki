@@ -8,7 +8,7 @@
 
 [[https://www.youtube.com/watch?v=amFIGsXWszw|Video demostrativo]]
 
-<<YouTube(id=2SXKM-dLJV8)>>
+<<YouTube(id=amFIGsXWszw)>>
 
 '''Responsables del proyecto'''
 

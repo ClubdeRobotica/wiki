@@ -1,4 +1,4 @@
-== Galería de imágenes ==
+== Fotos ==
 
 [[VisitaCIII|Visita al CIII 6 Set. 2010]]
 

@@ -12,7 +12,7 @@
 
 '''Simulación'''
 
-||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="550"}} ||
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="650"}} ||
 
 '''Responsables del proyecto'''
 

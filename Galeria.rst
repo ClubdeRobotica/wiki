@@ -1,4 +1,4 @@
-== Fotos ==
+== FOTOS ==
 
 [[VisitaCIII|Visita al CIII 6 Set. 2010]]
 
@@ -18,3 +18,16 @@
 [[Botito_viajero|Botito viajero ]]
 
 [[JUE_2014 | I Jornada Universitaria de Electrónica 2014 ]]
+
+
+
+
+== VIDEOS ==
+Club de Robótica 2014
+[[target|https://www.youtube.com/watch?v=oGbPGlIcdD8]].
+
+Robot seguidor de Luz- Prueba
+[[target|https://www.youtube.com/watch?v=abJ_N62LSaA]].
+
+CdR en FliSol 2014
+[[target|https://www.youtube.com/watch?v=Ito2s6K-_cY]].

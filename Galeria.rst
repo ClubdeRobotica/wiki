@@ -12,7 +12,6 @@
 
 [[CBE_04_05_2012|Reunión 04 Mayo 2012 CBE]]
 
-
 [[Compe_UTN-SF|Visita 2° Competencia Nacional de Robótica .UTN-San Francisco ]]
 
 [[Botito_viajero|Botito viajero ]]
@@ -20,14 +19,12 @@
 [[JUE_2014 | I Jornada Universitaria de Electrónica 2014 ]]
 
 
-
-
 == VIDEOS ==
 Club de Robótica 2014
-[[target|https://www.youtube.com/watch?v=oGbPGlIcdD8]].
+<<YouTube(id=oGbPGlIcdD8)>>
 
 Robot seguidor de Luz- Prueba
-[[target|https://www.youtube.com/watch?v=abJ_N62LSaA]].
+<<YouTube(id=abJ_N62LSaA)>>
 
 CdR en FliSol 2014
-[[target|https://www.youtube.com/watch?v=Ito2s6K-_cY]].
+<<YouTube(id=Ito2s6K-_cY)>>

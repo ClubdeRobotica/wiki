@@ -6,6 +6,9 @@
 
 }}}
 
+[[https://picasaweb.google.com/111965233620023947875/Expotronica2014?authkey=Gv1sRgCOXa8O3R3ufpigE|Fotos de la feria]]
+[[https://picasaweb.google.com/111965233620023947875/PFDivulgacion?authkey=Gv1sRgCIf7pNnTn8Ws7wE|Fotos divulgación]]
+
 '''Video demostrativo'''
 
 <<YouTube(id=amFIGsXWszw)>>

@@ -30,7 +30,7 @@ Actualmente en el Proyecto se está completando la Fase 1.
 
 {{{#!wiki caution
 Video en Youtube
-https://www.youtube.com/watch?v=OTiEO1wyLkQ
+<<YouTube(id=OTiEO1wyLkQ)>>
 }}}
 ----
 == Hardware ==

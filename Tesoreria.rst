@@ -11,7 +11,7 @@
 
 - Caja '''(Listo)'''
 
-- Diagramas de flujo de fondos '''(Deadline 26/04/2014 - Software usado [0])'''
+- Diagramas de flujo de fondos '''(Listo) - Software usado [0])'''
 
 - Registros '''(Listo, se lleva una planilla de calculo al dia)'''
 

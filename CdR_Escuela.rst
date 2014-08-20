@@ -12,7 +12,7 @@
 
 == Escuela ==
 
-IPEM N°199 - Dr. Juan E. Ramonda
+IPEM N°199 - Dr. Juan E. Remonda
 
 == Historial ==
 

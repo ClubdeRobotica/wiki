@@ -10,7 +10,7 @@ Responsables
 
 [[RSluzGroup|Grupos de trabajo]] 
 ----
-== Desarrollo en Kicad del Seguidor de Luz versión Escuela ==
+== Desarrollo en Kicad del Seguidor de Luz ==
 
  (deben tener una versión de kicad 2013 en adelante para ciertos archivos)
 
@@ -23,7 +23,9 @@ Instrucciones:
 
 3- Vamos a Archivos/abrir y buscamos el proyecto .pro en la carpeta del adjunto
 
-(*)[[attachment:RSLuzEscuela.zip|RSluz - versión escuela]]
+(*)[[attachment:RSLuzCdR.zip|RSluz]]
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:RSLuzCdR.svg||width="955"}} ||
 
 ----
 

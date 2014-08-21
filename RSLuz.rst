@@ -9,6 +9,23 @@
 Responsables
 
 [[RSluzGroup|Grupos de trabajo]] 
+----
+== Desarrollo en Kicad del Seguidor de Luz versión Escuela ==
+
+ (deben tener una versión de kicad 2013 en adelante para ciertos archivos)
+
+
+Instrucciones:
+
+1- Descomprimimos el archivo adjunto(*)
+
+2- Abrimos KiCad
+
+3- Vamos a Archivos/abrir y buscamos el proyecto .pro en la carpeta del adjunto
+
+(*)[[attachment:RSLuzEscuela.zip|RSluz - versión escuela]]
+
+----
 
 === lista de componentes ===
 ||<rowbgcolor="#6495ED">'''Resistencias [Ohm]''' ||||<style="text-align:center">'''Transistores''' ||||<style="text-align:center">'''Otros''' ||

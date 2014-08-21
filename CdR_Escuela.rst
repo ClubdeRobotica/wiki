@@ -56,6 +56,8 @@ Instrucciones:
 
 (*)[[attachment:RSLuzEscuela.zip|RSluz - versión escuela]]
 
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:RSLuzESC.svg||width="955"}} ||
+
 ----
 
 [[RSLuz|Robot Seguidor de Luz]]

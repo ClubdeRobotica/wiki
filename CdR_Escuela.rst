@@ -35,7 +35,17 @@ Ejercicios
 2°(19/06/2014). Ejercicios teóricos y prácticos en protoboard - uso de multímetro - manipulación de componentes electrónicos y herramientas
  
 
-3°(25/06/2014). ''' «PRÓXIMA» ''': continuamos trabajando con los prácticos en protoboard y empezamos con el proyecto [[RSLuz|Robot Seguidor de Luz]]
+3°(25/06/2014). continuamos trabajando con los prácticos en protoboard y empezamos con el proyecto [[RSLuz|Robot Seguidor de Luz]]
+
+4° (07/06/2014)Presentacion del RSluz - Esquema del circuito - funcionamiento
+
+5° (14/08/2014)Ensayos en Protoboard del circuito del RSLuz - minitutorial de KiCad
+
+6° (26/08/2014)Creacion del PCB - soldado de componentes
+
+7° (25/06/2014)''' «PRÓXIMA» ''' Construcción del Movil - Ensayos del Robot
+
+
 ----
 
 == Proyecto inicial ==

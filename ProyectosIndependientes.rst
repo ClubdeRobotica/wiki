@@ -23,6 +23,7 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 [[VSANT|Proyecto Acua(ro)Bot (VSANT)]]: Jorge Montaño
 
+[[KitARM|Proyecto Kit de Desarrollo ARM Cortex-M3]]: Pablo Cayuela
 
 == ¿Cómo participar? ==
 

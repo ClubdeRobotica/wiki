@@ -1,1 +1,1 @@
-Escribe acerca de vilardo aquí :::::: se rompioo el autito xq le conecte el cargador de bateria y se esploto los motores entonces  lo agarre lo tire a la basura  integrantes facundo,sebastian.ezequiel.conca 
+Escribe acerca de vilardo aquí :::::: se rompioo el autito xq le conecte el cargador de bateria y se esploto los motores entonces  lo agarre lo tire a la basura 

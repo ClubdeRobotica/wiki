@@ -9,6 +9,10 @@
 Responsables
 
 [[RSluzGroup|Grupos de trabajo]] 
+
+[[glökiwatz|Florian]]
+
+
 ----
 == Desarrollo en Kicad del Seguidor de Luz ==
 

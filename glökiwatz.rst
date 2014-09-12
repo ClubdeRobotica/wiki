@@ -2,4 +2,4 @@ Responsable Florian
 
 
 SEGUIDOR DE LUZ
-{{attachm}}
+{{attachment:pcb_glökiwatz.pdf}}

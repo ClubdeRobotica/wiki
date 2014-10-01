@@ -17,6 +17,10 @@
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="650"}} ||
 
+'''Antecedentes'''
+
+[[http://www.fitc.unc.edu.ar/Eventos.html#Proyecto2005 | Concurso de Proyectos ITC 2005]]
+
 '''Responsables del proyecto'''
 
 Ing. Andrés Buraschi <<MailTo(andres DOT buraschi AT SPAMFREE gmail DOT com)>>

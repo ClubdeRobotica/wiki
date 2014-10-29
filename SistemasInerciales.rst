@@ -26,7 +26,7 @@ Se trata de un sistema de referencia de actitud y rumbo (AHRS por sus siglas en 
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:isr-gui_1.png||width="650"}} ||
 
-'''Simulación''' (fusión de aceleración sensada:a/calculada:ac)
+'''Simulación (datos sintéticos):''' fusión de aceleración sensada (a) con la calculada (ac)
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="650"}} ||
 

@@ -1,4 +1,8 @@
-== Corrección de AHRS usando fusión de sensores ==
+== Sistema de Navegación INS/GPS para un Vehículo Aéreo no Tripulado Controlado ==
+
+Se trata de un sistema de referencia de actitud y rumbo (AHRS por sus siglas en inglés). Entrega como salida un vector de variables de estado correspondientes a la actitud del vehículo (posición angular), su rumbo (respecto del norte), y su posición GPS (LLT + PPS para sincronismo). Está inspirado fuertemente en sistemas de alta disponibilidad para vuelo (redundancia, simplicidad, robustez, etc.). El sistema de información implementa actualmente un filtro MARG. El objetivo del AHRS es servir de fuente de información para que un vehículo aéreo no tripulado pueda volar de forma autónoma -no es un controlador, es sólo un sensor-. También tiene aplicación en otras áreas como: robótica, rehabilitación, automovilismo, industria naval, construcción, etc.
+
+=== Título original (proyecto final de grado): "Corrección de AHRS usando fusión de sensores" ===
 
 {{{#!wiki note
 

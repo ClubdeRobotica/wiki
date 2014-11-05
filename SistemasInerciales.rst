@@ -21,6 +21,10 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 <<YouTube(id=SHOHCvFu0cs)>>
 <<YouTube(id=HtqoTNLiiGI)>>
 
+'''Sistema INS/GPS completo'''
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Sistema-INS-GPS.jpg||width="650"}} ||
+
 
 '''HMI'''
 

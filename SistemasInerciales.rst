@@ -40,7 +40,7 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 
 '''Tecnologías involucradas'''
 
-PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, Octave, GNUPlot, GNU/Linux
+PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, Octave, GNUPlot, OpenGL, GNU/Linux
 
 '''Antecedentes'''
 

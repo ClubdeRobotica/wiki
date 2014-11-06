@@ -38,6 +38,10 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="650"}} ||
 
+'''Tecnologías involucradas'''
+
+PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, GNU/Linux
+
 '''Antecedentes'''
 
 [[http://www.fitc.unc.edu.ar/Eventos.html#Proyecto2005 | Concurso de Proyectos ITC 2005]]

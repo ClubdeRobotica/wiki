@@ -30,6 +30,10 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:isr-gui_1.png||width="650"}} ||
 
+'''Trimble GPS Studio''' Una tarde con buena visibilidad
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:campillo3.png||width="650"}} ||
+
 '''Simulación (datos sintéticos):''' fusión de aceleración sensada (a) con la calculada (ac)
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:sfusim.png||width="650"}} ||

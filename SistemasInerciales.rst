@@ -24,7 +24,9 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 '''Videos demostrativos'''
 
 <<YouTube(id=amFIGsXWszw)>>
+
 <<YouTube(id=SHOHCvFu0cs)>>
+
 <<YouTube(id=HtqoTNLiiGI)>>
 
 '''Sistema INS/GPS completo'''

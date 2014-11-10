@@ -10,6 +10,12 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 
 }}}
 
+{{{#!wiki note
+
+''' Proyecto enviado al concurso Innovar 2014, finalista en la categoría de Proyectos Universitarios, se expondrá en Tecnópolis entre los días 11 y 13 de Noviebre: ''' [[attachment:AHRS-AB-MAR_Flyer-Tecnopolis.pdf]]
+
+}}}
+
 '''Divulgación'''
 
 [[https://picasaweb.google.com/111965233620023947875/Expotronica2014?authkey=Gv1sRgCOXa8O3R3ufpigE|Premio en Expotrónica 2014]]

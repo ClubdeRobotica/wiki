@@ -65,7 +65,7 @@ PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, Octave, GNUPlot, OpenGL, Blender,
 
 '''Agradecimientos'''
 
-Al Departamento de Ingeniería Electrónica, CIII, LCE, y a todos los docentes, compañeros, colegas, amigos y familiares que apoyan el proyecto.
+Al Departamento de Ingeniería Electrónica, LCE, CIII, CdR, y a todos los docentes, compañeros, colegas, amigos y familiares que apoyan el proyecto.
 
 '''Responsables del proyecto'''
 

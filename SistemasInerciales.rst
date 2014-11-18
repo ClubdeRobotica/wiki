@@ -19,6 +19,7 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 '''Divulgación'''
 
 [[https://picasaweb.google.com/111965233620023947875/Expotronica2014?authkey=Gv1sRgCOXa8O3R3ufpigE|Premio en Expotrónica 2014]]
+[[https://plus.google.com/u/0/photos/111965233620023947875/albums/6081647573569717905?authkey=CJbnsdvimPqYnAE|Premio INNOVAR 2014]]
 [[https://picasaweb.google.com/111965233620023947875/PFDivulgacion?authkey=Gv1sRgCIf7pNnTn8Ws7wE|Demo LCE UTN-FRC]]
 
 '''Videos demostrativos'''

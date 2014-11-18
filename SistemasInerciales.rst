@@ -55,7 +55,6 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 
 <<YouTube(id=7VWxRLxSwqs)>>
 
-
 '''Tecnologías involucradas'''
 
 PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, Octave, GNUPlot, OpenGL, Blender, GNU/Linux
@@ -63,6 +62,10 @@ PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, Octave, GNUPlot, OpenGL, Blender,
 '''Antecedentes'''
 
 [[http://www.fitc.unc.edu.ar/Eventos.html#Proyecto2005 | Concurso de Proyectos ITC 2005]]
+
+'''Agradecimientos'''
+
+Al Departamento de Ingeniería Electrónica, CIII, LCE, y a todos los docentes, compañeros, colegas, amigos y familiares que apoyan el proyecto.
 
 '''Responsables del proyecto'''
 

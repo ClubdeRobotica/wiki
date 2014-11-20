@@ -61,7 +61,7 @@ PicLAB/SDCC, QT, KiCAD, Jenkins, Achievo, SVN, Octave, GNUPlot, OpenGL, Blender,
 
 '''Antecedentes'''
 
-[[http://www.fitc.unc.edu.ar/Eventos.html#Proyecto2005 | Concurso de Proyectos ITC 2005]]
+[[http://www.fitc.unc.edu.ar/Eventos.html#Proyecto2005 | Concurso de Proyectos ITC/Intel 2005]]
 
 '''Agradecimientos'''
 

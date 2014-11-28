@@ -1,4 +1,3 @@
-
 = CdR en la Escuela =
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:CdR-Escuela.jpg||width="500"}} ||
@@ -54,7 +53,9 @@ Ejercicios
 
 6° (26/08/2014)Creacion del PCB - soldado de componentes
 
-7° (25/06/2014)''' «PRÓXIMA» ''' Construcción del Movil - Ensayos del Robot
+7° (//) Construcción del Móvil - Ensayos del Robot
+
+8° (//) Cierre
 
 
 ----

@@ -10,7 +10,7 @@ Responsables
 
 [[RSluzGroup|Grupos de trabajo]] 
 
-[[glökiwatz|glökiwatz]]
+
 
 
 ----

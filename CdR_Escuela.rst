@@ -14,6 +14,18 @@
 
 IPEM N°199 - Dr. Juan E. Remonda
 
+----
+
+=== Grupos de trabajo ===
+
+[[DivisionZ|DivisionZ]]
+
+[[vilardo|vilardo]]
+
+[[f1|f1]]
+
+----
+
 == Historial ==
 
 conexión en [[http://flisol.info/FLISOL2014/Argentina/Cordoba|FLISoL-2014]] 26/04/2014
@@ -68,16 +80,9 @@ Instrucciones:
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:RSLuzESC.svg||width="955"}} ||
 
+
 ----
 
 [[RSLuz|Robot Seguidor de Luz]]
-
-=== Grupos de trabajo ===
-
-[[DivisionZ|DivisionZ]]
-
-[[vilardo|vilardo]]
-
-[[f1|f1]]
 
 ----

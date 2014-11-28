@@ -1,4 +1,3 @@
-/!\ en construcción
 
 = CdR en la Escuela =
 

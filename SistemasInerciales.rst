@@ -55,9 +55,9 @@ Se trata de un sistema de navegación inercial (INS) con soporte de GPS, y refer
 
 <<YouTube(id=7VWxRLxSwqs)>>
 
-'''Demostrador tecnológico (2012)'''
+'''El laboratorio!'''
 
-||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:LabNav.png||width="650"}} ||
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:LabNav.png||width="450"}} ||
 
 '''Tecnologías involucradas'''
 

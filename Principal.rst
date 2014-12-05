@@ -15,6 +15,8 @@
 
 {{{#!wiki note
 
+''' Hoy Viernes 05 de Diciembre, el CdR en Villa María!!! '''
+
 ''' Reinicio de actividades 2014: Jornadas de Electrónica, martes 08/04/2014, LCE/LTD UTN-FRC '''
 
 ''' Juntada regular CdR 2014: Miércoles y Viernes a partir de las 16hs en el lab. anexo de Electrónica '''

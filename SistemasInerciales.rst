@@ -1,12 +1,12 @@
-= Sistema de Navegación INS/GPS y AHRS para Vehículos Aéreos no Tripulados Controlados =
+== Sistema de Navegación INS/GPS y AHRS para Vehículos Aéreos no Tripulados Controlados ==
 
-== Introducción, motivación y objetivo. ==
+=== Introducción, motivación y objetivo. ===
 El proyecto fue concebido como una fuente de información confiable para un sistema de navegación autónoma, basada en fusión de sensores. Motiva la concepción de este nuevo producto el haber detectado un área de vacancia en la industria nacional relacionada al desarrollo de vehículos aéreos no tripulados (UAV por sus siglas en inglés) alineada a nuestras pasiones e intereses. Busca generar un avance en materia de soberanía tecnológica nacional en relación a sistemas inerciales aplicados a navegación en atmósfera.
 
-== Alcance. ==
+=== Alcance. ===
 El proyecto abarca un sistema de navegación inercial (INS) con soporte del sistema de geoposicionamiento global (GPS), y referencia de actitud y rumbo (AHRS). Entrega como salida un vector de variables de estado correspondientes a la actitud del vehículo (orientación en el marco de referencia de navegación), su rumbo (con respecto al norte magnético), y su posición GPS (LLH, tiempo y PPS para sincronismo), más una serie de datos acerca de la salud del sistema (tensiones y temperaturas). Está inspirado fuertemente en sistemas de alta disponibilidad para vuelo (redundancia, simplicidad, robustez), y fue destinado principalmente a pequeñas aeronaves. El sistema implementa actualmente un filtro MARG. El objetivo del sistema es servir de fuente de información para un Autopiloto permitiendo que el vehículo aéreo no tripulado pueda volar de forma autónoma. Así mismo sirve de fuente de información para una Pantalla Multi Función (MFD) en aviones tripulados. También tiene aplicación en otras áreas como: robótica, rehabilitación de pacientes con dificultades motrices, automovilismo, industria naval, aviación civil, construcción, agricultura de precisión, y la industria ferroviaria.
 
-== Título original (proyecto final de grado): "Corrección de AHRS usando fusión de sensores" ==
+=== Título original (proyecto final de grado): "Corrección de AHRS usando fusión de sensores" ===
 
 {{{#!wiki note
 

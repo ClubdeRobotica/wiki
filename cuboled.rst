@@ -41,9 +41,3 @@ distintas funciones descriptas en VHDL. La configuracion se realiza en una FPGA 
 == Demo ==
 
 <<YouTube(id=uZXlh5CuTjQ)>>
-
-[[VHDL-Proyectos|Proyectos]]
-
-[[VHDL-Sofware|Software]]
-
-[[VHDL-Plataformas|Plataformas]]

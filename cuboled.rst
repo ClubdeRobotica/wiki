@@ -55,5 +55,4 @@ Disponemos de 6 funciones:
 
 
 == Demo ==
-
-<<YouTube(id=uZXlh5CuTjQ)>>
+||<tablewidth="100%" tablestyle="text-align:center"> <<YouTube(id=uZXlh5CuTjQ)>>||

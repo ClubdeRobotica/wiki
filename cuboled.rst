@@ -25,7 +25,11 @@ competitivo.
 El Cubo de LED, de dimensiones 6x6x6, será el medio gráfico donde expresaremos visualmente
 distintas funciones descriptas en VHDL. La configuracion se realiza en una FPGA Nexys 2
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:generalinforme.JPG||width="500"}} ||
+
+== Esquema general ==
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:esquemacuboxinforme.jpg||width="600"}} ||
+
 
 == Etapa de control ==
 
@@ -52,6 +56,8 @@ Disponemos de 6 funciones:
  * Cubo con Variación de tamaño: va cambiando sus dimensiones mientras se desplaza a distintas esquinas.-
 
  * UTN: graficamos las iniciales UTN, en un barrido de profundidad.-
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:generalinforme.JPG||width="500"}} ||
 
 
 == Demo ==

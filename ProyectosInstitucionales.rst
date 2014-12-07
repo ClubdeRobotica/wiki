@@ -9,6 +9,10 @@ Los ''Proyectos Institucionales'' son parte del camino de iniciación de los mie
 
 '''[[VRTD|Vehículo Robotizado con Tracción Diferencial]]'''
 
+''' VHDL '''
+
+'''[[VHDL| Descripción de Hardware VHSIC ]]'''
+
 ''' Ideas:'''
 
 '''[[BancoDatos|Banco de Datos]]'''

@@ -36,7 +36,7 @@
  * AnaLauraGonzalez
  * MarcoMaza
  * TinaSamson
- * Guillermo D.Zarate
+ * GuillermoD.Zarate
  * AndresBuraschi
  * FlorianHeitmann
  * IPEM199Institucional

@@ -77,9 +77,7 @@ Instrucciones:
 3- Vamos a Archivos/abrir y buscamos el proyecto .pro en la carpeta del adjunto
 
 (*)[[attachment:RSLuzEscuela.zip|RSluz - versión escuela]]
-
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:RSLuzESC.svg||width="955"}} ||
-
 == Demo ==
 ||<tablewidth="100%" tablestyle="text-align:center"> <<YouTube(id=j5OG23Ar_RM)>>||
 ----

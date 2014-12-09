@@ -15,7 +15,7 @@
 
 {{{#!wiki note
 
-''' Hoy Viernes 05 de Diciembre, el CdR en Villa María!!! '''
+''' Viernes 05 de Diciembre, el CdR en Villa María!!! '''
 
 ''' Reinicio de actividades 2014: Jornadas de Electrónica, martes 08/04/2014, LCE/LTD UTN-FRC '''
 

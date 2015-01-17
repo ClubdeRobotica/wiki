@@ -9,4 +9,8 @@ En Construcción
 
 == Responsables del proyecto ==
 
+ * [[EzequielMolina|Ezequiel Molina]]
+
+ * [[HernanPaez| Hernán Paez ]]          
+
 === Objetivo ===

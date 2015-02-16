@@ -17,3 +17,12 @@ En Construcción
  * [[HernanPaez| Hernán Paez ]]          
 
 === Objetivo ===
+
+
+
+== Chasis ==
+
+
+
+== Hardware ==
+

@@ -1,9 +1,9 @@
-=== EN CONSTRUCCION ===
+== 1º Encuentro de Robotica de Villa Maria ==
 
-
-==1º Encuentro de Robotica de Villa Maria== 
 
 El Club de Robotica, fue invitado al primer encuentro de Robotica Educativa, realizado en Villa Maria, Cordoba el dia 05-12-2014.
+
+
 
 En resumen, el objetivo de este encuentro fue :
 
@@ -17,4 +17,4 @@ Fue una buena experiencia, pudimos observar lo importante que es la robótica co
 
 El CdR en este encuentro, expuso un robot llamado VRTD (Vehiculo Robotizado con Traccion Diferencial). En el evento hubo intercambio de informacion entre los asistentes, tanto tecnica, como de aplicaciones alternativas para nuestra plataforma.
 
-Tambien contamos nuestra experiencia en la realizacion de un taller de robotica con el colegio IPEM N°199 Dr. J.E. Remonda. Y del Curso Basico de electronica, dictado en nuestra facultad. 
+Tambien contamos nuestra experiencia en la realizacion de un taller de robotica con el colegio IPEM N°199 Dr. J.E. Remonda. Y del Curso Basico de electronica, dictado en nuestra facultad.

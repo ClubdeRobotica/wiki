@@ -19,7 +19,9 @@ En Construcción
 
 = Introducción y objetivos de la competencia =
 ----
+''' Definición del Combate '''
 
+Los combates consisten en 3 asaltos de 3 minutos (c/u), como máximo. La finalización del asalto será por haberse cumplido el tiempo máximo de 3 minutos o por la obtención de un punto Yuhkoh por cualquiera de los participantes. El asalto no terminara cuando el punto Yuhkoh se obtenga por acumulaciones de violaciones.
 
 
 ''' Prueba de Homologación '''

@@ -25,3 +25,8 @@ En Construcción
 
 = Consideraciones Previas =
 ----
+
+
+
+= Grupos =
+ * ''[[GruposSumo|Grupos de Trabajo Sumo]] para el desarrollo de robots sumo ! ''

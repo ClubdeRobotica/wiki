@@ -1,6 +1,6 @@
-/!\ '''EN DESARROLLO '''
-
 = Robot Seguidor de Linea '' Kirjava '' =
+prueba
+
 Desarrollador:
 
  * [[OchoaDario|OCHOA, Darío Martín E.]]

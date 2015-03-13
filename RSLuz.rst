@@ -1,23 +1,19 @@
 /!\ EN CONSTRUCCIÓN
 
 = Robot Seguidor de Luz =
-
 <<TableOfContents()>>
+
 ----
 [[CdR_Escuela|CdR en la Escuela]]
+
 -----
 Responsables
 
-[[RSluzGroup|Grupos de trabajo]] 
-
-
-
+[[RSluzGroup|Grupos de trabajo]]
 
 ----
 == Desarrollo en Kicad del Seguidor de Luz ==
-
- (deben tener una versión de kicad 2013 en adelante para ciertos archivos)
-
+ . (deben tener una versión de KiCAD 2013 en adelante para ciertos archivos)
 
 Instrucciones:
 
@@ -28,8 +24,10 @@ Instrucciones:
 3- Vamos a Archivos/abrir y buscamos el proyecto .pro en la carpeta del adjunto
 
 (*)[[attachment:RSLuzCdR.zip|RSluz]]
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;  ;text-align:center">{{attachment:RobotSigueLuzCdR.svg|RobotSigueLuzCdR.svg|width="955",title=""}} ||
 
-||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none; ;text-align:center"> {{attachment:RobotSigueLuzCdR.svg||width="955"}} ||
+
+
 
 ----
 

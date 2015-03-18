@@ -33,3 +33,5 @@ Tambien contamos nuestra experiencia en la realizacion de un taller de robotica 
 
 
 ||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:cdr_vm.jpg||width=500}} ||
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:encuentro.jpg||width=500}} ||

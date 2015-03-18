@@ -27,3 +27,9 @@ Fue una buena experiencia, pudimos observar lo importante que es la robótica co
 El CdR en este encuentro, expuso el [[VRTD]] (Vehiculo Robotizado con Traccion Diferencial). En el evento hubo intercambio de informacion entre los asistentes, tanto tecnica, como de aplicaciones alternativas para nuestra plataforma.
 
 Tambien contamos nuestra experiencia en la realizacion de un taller de robotica con el colegio IPEM N°199 Dr. J.E. Remonda. Y del Curso Basico de electronica, dictado en nuestra facultad.
+
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:grupal.jpg||width=750}} ||
+
+
+||<tablewidth="100%" tablealign="center":100% style="border: medium none;"> {{attachment:cdr_vm.jpg||width=500}} ||

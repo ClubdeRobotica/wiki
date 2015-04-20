@@ -10,7 +10,7 @@
 
 {{{#!wiki note
 
-''' Reinicio de actividades 2015. Reunión general: miércoles 18/03, 17hs, Cantina UTN-FRC, edif. central, 2do piso. '''
+''' Horarios 2015. Reuniones: Lunes y Miércoles a partir 18hs, Laboratorio Central de Electronica anexo (LCE Anexo), Edif Central, Planta baja. '''
 }}}
  . Te esperamos!
 

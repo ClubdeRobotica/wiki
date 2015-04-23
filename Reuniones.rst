@@ -2,11 +2,10 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
 == Reuniones semanales 2015 ==
 
+ 
+ Proyectos [[RSL]] y [[SUMO]]
 
-
-=== Dónde/Cuándo: ===
-
- 1. Laboratorio Central de Electrónica (Anexo) / Todos los '''Lunes''' desde las 16:00hs hasta las 20:00hs y '''Miércoles''' desde las 16:00hs hasta las 18:00hs- Proyectos [[RSL]] y [[SUMO]]
+ Laboratorio Central de Electrónica (Anexo) / Todos los '''Lunes''' desde las 16:00hs hasta las 20:00hs y '''Miércoles''' desde las 16:00hs hasta las 18:00hs
 
 
 

@@ -8,9 +8,11 @@
  . En la sección  '''[[Contacto]]''' se puede acceder a los distintos medios de comunicación con los integrantes del CdR.
  .
 
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;     ;text-align:center"> {{attachment:flisol.png||width="50"}} ||
+
 {{{#!wiki note
 
-''' Horarios 2015. Reuniones: Lunes y Miércoles a partir 18hs, Laboratorio Central de Electronica anexo (LCE Anexo), Edif Central, Planta baja. '''
+''' Horarios 2015. Reuniones: Lunes y Miércoles a partir 16hs, Laboratorio Central de Electronica anexo (LCE Anexo), Edif Central, Planta baja. '''
 }}}
  . Te esperamos!
 

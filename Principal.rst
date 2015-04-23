@@ -18,7 +18,7 @@
 ''' Horarios 2015. Reuniones: Lunes y Miércoles a partir 16hs, Laboratorio Central de Electronica anexo (LCE Anexo), Edif Central, Planta baja. '''
 }}}
 
-[[http://flisol.info/FLISOL2015/Argentina/Cordoba.|+Info FLISOL 2015]]
+[[http://flisol.info/FLISOL2015/Argentina/Cordoba|+Info FLISOL 2015]]
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;     ;text-align:center"> {{attachment:flisol.png||width="1150"}} ||
  . Te esperamos!

@@ -23,7 +23,8 @@
 [[http://flisol.info/FLISOL2015/Argentina/Cordoba|+Info FLISOL 2015]]
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;     ;text-align:center"> {{attachment:flisol.png||width="1150"}} ||
- . Te esperamos!
+ 
+ ''' Te esperamos! '''
 
 ----
 [[Bienvenida|Palabras de bienvenida]] | [[EstructuraOrganica|Estructura Orgánica]] | [[Miembros|Hacerse Miembro]] | [[Reuniones]] | [[RedTrabajo|Red de Trabajo]] | [[Actividades]] | [[Novedades]] | [[Aportes]] | [[Galeria|Galería de imágenes]] | [[Contacto]] | HowTo

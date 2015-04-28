@@ -2,3 +2,6 @@
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:flisol2015.png||width="500"}} ||
+
+
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:cdrescuela.jpg||width="200"}} ||

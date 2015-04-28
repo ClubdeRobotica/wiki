@@ -19,6 +19,12 @@
 [[JUE_2014 | I Jornada Universitaria de Electrónica 2014 ]]
 
 
+[[Flisol2015 |Flisol 2015]]
+
+
+
+
+
 == VIDEOS ==
 Club de Robótica 2014
 <<YouTube(id=oGbPGlIcdD8)>>

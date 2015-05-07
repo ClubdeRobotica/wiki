@@ -37,8 +37,7 @@ A nivel académico, existen competencias a nivel nacional y mundial en las que p
  * '''''Pista''': la pista consiste en una linea de 2,5±0,3  cm de ancho de color blanco sobre un fondo negro ''
 
  * '''''Curvas''': 10 cm antes y despues de cada curva, hay dos marcas de blancas que pueden ser usadas para que el robot se prepare para doblar. El circuito contará con curvas de un radio de curvatura mínimo de 30cm con una tolerancia del ±10% y todas tendrán un ángulo de peralte nulo.''
- * ''La superficie del circuito podrá contar con irregularidades, las mismas en caso de ser 
-elevaciones tendrán una pendiente máxima de 20 grados.  ''
+ * '''''Elevaciones''': La superficie del circuito podrá contar con irregularidades, las mismas en caso de ser elevaciones tendrán una pendiente máxima de 20 grados.  ''
 
 '' {{http://cdr.usla.org.ar/RSLHard?action=AttachFile&do=get&target=disenio.jpg}} ''
 

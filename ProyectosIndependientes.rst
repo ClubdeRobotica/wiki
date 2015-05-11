@@ -7,6 +7,10 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 === En la incubadora ===
 
+[[Impresora3D|Impresora 3D]]: Gonzalo B
+
+[[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco AR
+
 [[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco AR
 
 === Patrocinados por el CdR ===

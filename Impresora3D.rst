@@ -3,7 +3,7 @@
 Responsables:
 - Gonzalo Blas
 - Valentín Basel
-- Marco alvarez Reyna
+- Marco Alvarez Reyna
 
 Colaboradores:
 - Patricio Marrone

@@ -14,7 +14,6 @@
 
 === SVN ===
 {{{#!wiki note
-Working Copy Root Path: /home/marcoar/Proyectos/CdR-Principal
 
 URL: svn://cdrutnfrc.mooo.com/CdR-Principal/trunk/Proyectos/Impresora3D
 

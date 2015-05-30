@@ -2,7 +2,8 @@
 
 Éste miércoles 6 de Junio a las 16:30hs es el lanzamiento del Taller de Programación orientada a Robótica que brindará el CdR en el LTD UTN-FRC. Este primer encuentro será a modo de charla informativa e introducción al taller.
 
-El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y UNC. 
+El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y UNC. Tiene como objetivo enseñar las bases de la programación orientada a la robótica. Elaborado para ingresantes al CdR, alumnos de escuelas secundarias, y estudiantes universitarios que no posean conocimientos de programación y/o electrónica, y estén interesados en la robótica.
+ 
 
 === Información sobre el taller ===
 {{{#!wiki note
@@ -19,7 +20,12 @@ El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y
 
 }}}
 
-El taller tiene como objetivo enseñar las bases de la programación orientada a la robótica. Elaborado para ingresantes al CdR, alumnos de escuelas secundarias, y estudiantes universitarios que no posean conocimientos de programación y/o electrónica, y estén interesados en la robótica.
+
+=== Inscripción ===
+
+Para la inscripción mandar un correo a: Club de Robótica UTN-FRC <clubrobotica.utnfrc@gmail.com> on los siguientes datos:
+
+Nombre y apellido; DNI; Podes asistir con notebook? Qué formación tienen? Conocimientos de programación y elecctrónica?
 
 
 === El contenido de este taller será ===
@@ -33,13 +39,6 @@ El taller tiene como objetivo enseñar las bases de la programación orientada a
 - Prácticas sobre hardware dedicado.
 
 Al final del taller se realizará un trabajo práctico en dónde cada participante programará un robot seguidor de línea.
-
-
-=== Inscripción ===
-
-Para la inscripción mandar un correo a: Club de Robótica UTN-FRC <clubrobotica.utnfrc@gmail.com> on los siguientes datos:
-
-Nombre y apellido; DNI; Podes asistir con notebook? Qué formación tienen? Conocimientos de programación y elecctrónica?
 
 
 === Material que se utilizará en le taller ===

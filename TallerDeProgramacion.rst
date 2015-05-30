@@ -4,7 +4,7 @@
 
 El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y UNC. 
 
-=== Información sobre el taller: ===
+=== Información sobre el taller ===
 {{{#!wiki note
 
 - Inicio: ''' Miércoles 6 de Junio '''
@@ -22,7 +22,7 @@ El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y
 El taller tiene como objetivo enseñar las bases de la programación orientada a la robótica. Elaborado para ingresantes al CdR, alumnos de escuelas secundarias, y estudiantes universitarios que no posean conocimientos de programación y/o electrónica, y estén interesados en la robótica.
 
 
-=== El contenido de este taller será: ===
+=== El contenido de este taller será ===
 
 - Una breve introducción a electrónica;
 
@@ -34,12 +34,15 @@ El taller tiene como objetivo enseñar las bases de la programación orientada a
 
 Al final del taller se realizará un trabajo práctico en dónde cada participante programará un robot seguidor de línea.
 
+
+=== Inscripción ===
+
 Para la inscripción mandar un correo a: Club de Robótica UTN-FRC <clubrobotica.utnfrc@gmail.com> on los siguientes datos:
 
 Nombre y apellido; DNI; Podes asistir con notebook? Qué formación tienen? Conocimientos de programación y elecctrónica?
 
 
-=== Material que se utilizará en le taller: ===
+=== Material que se utilizará en le taller ===
 
 - Un apunte sobre electrónica básica;
 
@@ -52,7 +55,7 @@ Nombre y apellido; DNI; Podes asistir con notebook? Qué formación tienen? Cono
 * El LTD dispondrá de computadoras para realizar los prácticos. Igualmente pueden asistir con su propia notebook.
 
 
-=== Colaboradores: ===
+=== Colaboradores ===
 Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arreguéz, Patricio Marrone, Dario Martin, Luigi Vázquez, Marco Al Rey
 
 

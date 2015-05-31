@@ -55,7 +55,7 @@ Al final del taller se realizará un trabajo práctico en dónde cada participan
 
 
 === Colaboradores ===
-Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arreguéz, Patricio Marrone, Dario Martin, Luigi Vázquez, Marco Al Rey
+Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arreguéz, Patricio Marrone, Marco Maza, Dario Martin, Luigi Vázquez, Marco Al Rey
 
 
 === Folleto para difusión ===

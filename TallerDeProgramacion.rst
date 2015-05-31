@@ -25,29 +25,29 @@ El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y
 
 Para la inscripción mandar un correo a: Club de Robótica UTN-FRC <clubrobotica.utnfrc@gmail.com> on los siguientes datos:
 
-Nombre y apellido; DNI; Podes asistir con notebook? Qué formación tienen? Conocimientos de programación y elecctrónica?
+Nombre y apellido. DNI. Podes asistir con notebook? Qué formación tienen? Conocimientos de programación y elecctrónica?
 
 
 === El contenido de este taller será ===
 
-- Una breve introducción a electrónica;
+- Una breve introducción a electrónica.
 
-- Una introducción a la programación;
+- Una introducción a la programación.
 
-- Sintaxis básica del lenguaje C;
+- Sintaxis básica del lenguaje C.
 
 - Prácticas sobre hardware dedicado.
 
 Al final del taller se realizará un trabajo práctico en dónde cada participante programará un robot seguidor de línea.
 
 
-=== Material que se utilizará en le taller ===
+=== Material que se utilizará en el taller ===
 
-- Un apunte sobre electrónica básica;
+- Un apunte sobre electrónica básica.
 
-- Un apunte sobre programación y lenguaje C;
+- Un apunte sobre programación y lenguaje C.
 
-- Una placa electrónica micro controlada para ensayar los prácticos;
+- Una placa electrónica micro controlada para ensayar los prácticos.
 
 - Se utilizará un IDE para programar el micro controlador, estará disponible en el LTD (llevar un pen drive).
 

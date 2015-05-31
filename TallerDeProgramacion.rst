@@ -16,7 +16,7 @@ El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y
 
 - Día y horario: Miércoles de 16:30hs a 18:30hs (se extiende hasta las 19:30 para consulta).
 
-- El taller es libre y gratuito. Los participantes sólo deberán abonar el costo de los apuntes y la placa para ensayos (pueden adquirir una por grupo).
+- El taller es libre y gratuito. Los participantes sólo deberán abonar el costo de los apuntes si los quieren en versión impresa, y la placa para ensayos (pueden adquirir una por grupo).
 
 }}}
 

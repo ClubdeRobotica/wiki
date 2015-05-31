@@ -58,7 +58,7 @@ Al final del taller se realizará un trabajo práctico en dónde cada participan
 Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arreguéz, Patricio Marrone, Dario Martin, Luigi Vázquez, Marco Al Rey
 
 
-== Folleto para difusión ==
+=== Folleto para difusión ===
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:folleto2A4.jpg||width="500"}} ||

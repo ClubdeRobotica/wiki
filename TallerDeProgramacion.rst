@@ -62,3 +62,6 @@ Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arr
 
 
 ||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:folleto2A4.jpg||width="500"}} ||
+
+
+[[https://www.dropbox.com/s/5h0b93vhsso6r7g/folleto2A4.pdf?dl=0|Descarga (pdf)]]

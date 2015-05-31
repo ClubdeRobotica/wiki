@@ -1,6 +1,6 @@
 == Taller de Programación orientada a Robótica ==
 
-Éste miércoles 3 de Junio a las 16:30hs es el lanzamiento del Taller de Programación orientada a Robótica que brindará el CdR en el LTD UTN-FRC. Este primer encuentro será a modo de charla informativa e introducción al taller.
+Éste miércoles 3 de Junio a las 16:30hs es el lanzamiento del Taller de Programación orientada a Robótica que brindará el CdR en el LTD (Laboratorio de Tecnicas Digitales) de la UTN-FRC. Este primer encuentro será a modo de charla informativa e introducción al taller.
 
 El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y UNC. Tiene como objetivo enseñar las bases de la programación orientada a la robótica. Elaborado para ingresantes al CdR, alumnos de escuelas secundarias, y estudiantes universitarios que no posean conocimientos de programación y/o electrónica, y estén interesados en la robótica.
  
@@ -55,7 +55,7 @@ Al final del taller se realizará un trabajo práctico en dónde cada participan
 
 
 === Colaboradores ===
-Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arreguéz, Patricio Marrone, Marco Maza, Dario Martin, Luigi Vázquez, Marco Al Rey
+Gonzalo Blas, Tina Brigitte Samson, Cristian David Cavenio, Joaquín Eduardo Arreguéz, Patricio Marrone, Marco Maza, Dario Martin, Luigi Vazquez, Marco Al Rey
 
 
 === Folleto para difusión ===

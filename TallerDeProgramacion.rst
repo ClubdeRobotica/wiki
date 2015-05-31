@@ -23,7 +23,7 @@ El taller fue organizado y diseñado por estudiantes voluntarios de la UTN-FRC y
 
 === Inscripción ===
 
-Para la inscripción mandar un correo a: Club de Robótica UTN-FRC <clubrobotica.utnfrc@gmail.com> con los siguientes datos:
+Para la inscripción mandar un correo a: Club de Robótica UTN-FRC <clubrobotica.utnfrc@gmail.com>, indicando en el asunto taller de programación, con los siguientes datos:
 
 Nombre y apellido. DNI. Podes asistir con notebook? Qué formación tienen? Conocimientos de programación y electrónica?
 

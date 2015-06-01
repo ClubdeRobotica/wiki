@@ -14,9 +14,6 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
 
 
-== Próximas reuniones (notables): ==
+== Próximas reuniones: ==
 
-
-
-
-''' Minutas de la reunión en el SVN'''
+(planificación)

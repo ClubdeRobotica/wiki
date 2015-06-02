@@ -4,7 +4,7 @@
 [[Infraestructura|Trabajos de Infraestructura]]
 
 
-'''Histórico de Actividades Año 2014:'''
+'''Histórico de Actividades Año 2015:'''
    1. 2da Jornada Universitaria de Electrónica. [22/04]
    1. Participación en el 11° Festival Latinoamericano de Instalación de Software Libre. (FLISoL) [25/04]
 

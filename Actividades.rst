@@ -3,9 +3,14 @@
 [[CicloFormacion|Ciclo de formación]] |
 [[Infraestructura|Trabajos de Infraestructura]]
 
+
+'''Histórico de Actividades Año 2014:'''
+   1. 2da Jornada Universitaria de Electrónica. [22/04]
+   1. Participación en el 11° Festival Latinoamericano de Instalación de Software Libre. (FLISoL) [25/04]
+
 '''Histórico de Actividades Año 2014:'''
    1. Jornada Universitaria de Electrónica. [08/04]
-   1. Participación en el Festival Latinoamericano de Instalación de Software Libre. (FLISoL) [26/04]
+   1. Participación en el 10° Festival Latinoamericano de Instalación de Software Libre. (FLISoL) [26/04]
 
 '''Histórico de Actividades Año 2013:''' (colocar fechas!)
 

@@ -12,7 +12,7 @@ Como parte del ciclo de formación continua de los miembros del CdR tenemos plan
    1. Participación en el SFD/iFest 2010
    1. Charlas de Divulgación Tecnológica: motores cc, puente h, pwm, fuentes conmutadas, sistemas energéticos, micro controladores PIC, modelos matemáticos de robots.
 
-'''En marcha:'''
+'''Realizados:'''
 
     [[Intro_Lab-Electr|CBE]]
 

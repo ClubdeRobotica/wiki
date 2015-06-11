@@ -5,3 +5,4 @@ Otro aspecto importante es el cambio en los motores y la tensi√≥n de alimentaci√
 
 
 == Diagrama ilustrativo ==
+||<tablewidth="100%" tablestyle="text-align:center"100%  style="border:medium none;   ;text-align:center"> {{attachment:esquema.png||width="480"}} ||

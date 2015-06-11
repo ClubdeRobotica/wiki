@@ -2,3 +2,6 @@ En esta nueva versión buscamos reducir el tamaño del robot modificando aspecto
 Otro aspecto importante es el cambio en los motores y la tensión de alimentación, en esta versión utilizaremos motorreductores  de tamaño muy reducido cuya tensión es de 6V, obteniendo de esta manera una reducción de tamaño y peso muy importante. 
 
 == Diferencias con la versión anterior ==
+
+
+== Diagrama ilustrativo ==

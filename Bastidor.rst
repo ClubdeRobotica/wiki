@@ -1,4 +1,4 @@
-== Sistema de montaje para equipos de aviónica: bastidor con gabinetes y filtros mecánicos ==
+== Sistema de montaje para equipos de aviónica: bastidor con gabinetes y filtros mecánicos para aeronáutica experimental ==
 
 '''CAD (parcial)'''
 

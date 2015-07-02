@@ -20,12 +20,12 @@
 
 '''Filtro mecánico Aleación#1'''
 
-||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN2978.JPG||width="650"}} ||
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN2978.JPG||width="450"}} ||
 
 
 '''Filtro mecánico Aleación#2'''
 
-||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN3013.JPG||width="650"}} ||
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN3013.JPG||width="450"}} ||
 
 
 

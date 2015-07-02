@@ -1,12 +1,14 @@
 == Sistema de montaje para equipos de aviónica: bastidor con gabinetes y filtros mecánicos para aeronáutica experimental ==
 
+=== Diseño ===
+
 '''CAD (parcial)'''
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:ScreenShot001.jpg||width="650"}} ||
 
-'''Ensayo de vibraciones'''
+=== Ensayos ===
 
-'''Video simulación'''
+'''Video simulación vibraciones'''
 
 <<YouTube(id=xOnfgbdYvhs)>>
 

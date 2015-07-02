@@ -6,7 +6,11 @@
 
 '''Ensayo de vibraciones'''
 
+'''Video simulación'''
+
 <<YouTube(id=xOnfgbdYvhs)>>
+
+'''Curvas de deformación (normalizadas)'''
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Solo_Gab_CDR5.png||width="650"}} ||
 

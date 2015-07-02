@@ -16,6 +16,17 @@
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Solo_Gab_CDR5.png||width="650"}} ||
 
+=== Prototipos ===
+
+'''Filtro mecánico Aleación#1'''
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN2978.JPG||width="650"}} ||
+
+
+'''Filtro mecánico Aleación#2'''
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN3013.JPG||width="650"}} ||
+
 
 
 '''Responsables del proyecto'''

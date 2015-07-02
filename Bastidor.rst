@@ -4,9 +4,13 @@
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:ScreenShot001.jpg||width="650"}} ||
 
-'''Video demostrativo'''
+'''Ensayo de vibraciones'''
 
 <<YouTube(id=xOnfgbdYvhs)>>
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Solo_Gab_CDR5.png||width="650"}} ||
+
+
 
 '''Responsables del proyecto'''
 

@@ -8,7 +8,7 @@
 
 <<YouTube(id=Um7cPBrje3A)>>
 
-'''Aviónica'''
+'''Aviónica'''(parcial)
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN2981.JPG||width="450"}} ||
 

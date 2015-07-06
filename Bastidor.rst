@@ -28,6 +28,10 @@
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN3013.JPG||width="450"}} ||
 
 
+'''Proyecto padre'''
+
+http://cdr.usla.org.ar/SistemasInerciales
+
 
 '''Responsables del proyecto'''
 

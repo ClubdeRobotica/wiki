@@ -2,7 +2,7 @@
 
 === Diseño ===
 
-'''CAD (parcial)'''
+'''CAD'''(parcial)
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:ScreenShot001.jpg||width="650"}} ||
 

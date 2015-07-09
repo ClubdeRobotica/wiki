@@ -8,9 +8,9 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
  Laboratorio Central de Electrónica (Anexo) / Todos los '''Lunes''' desde las 16:00hs hasta las 20:00hs y '''Miércoles''' desde las 16:00hs hasta las 18:00hs
 
-''' Ciclo de formación: '''
+''' Ciclo de formación: [[TallerDeProgramacion|Taller de Programación]]'''
 
-Laboratorio de Técnicas Digitales / Miércoles de 16:30hs a 18:30hs [[http://cdr.usla.org.ar/TallerDeProgramacion|Taller de Programación]]!!!
+ Laboratorio de Técnicas Digitales / Miércoles de 16:30hs a 18:30hs
 
 }}}
 

@@ -4,11 +4,13 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
 
  {{{#!wiki note
 
-
-
- Proyectos [[RSL]] y [[SUMO]]
+''' Proyectos: [[RSL]] y [[SUMO]] '''
 
  Laboratorio Central de Electrónica (Anexo) / Todos los '''Lunes''' desde las 16:00hs hasta las 20:00hs y '''Miércoles''' desde las 16:00hs hasta las 18:00hs
+
+''' Ciclo de formación: '''
+
+Laboratorio de Técnicas Digitales / Miércoles de 16:30hs a 18:30hs [[http://cdr.usla.org.ar/TallerDeProgramacion|Taller de Programación]]!!!
 
 }}}
 

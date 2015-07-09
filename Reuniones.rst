@@ -13,9 +13,3 @@ Minutas de reuniones CdR: [[MinutasReuniones2010|año 2010]] -> [[MinutasReunion
  Laboratorio de Técnicas Digitales / Miércoles de 16:30hs a 18:30hs
 
 }}}
-
-
-
-== Próximas reuniones: ==
-
-(planificación)

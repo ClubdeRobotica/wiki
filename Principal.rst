@@ -9,7 +9,7 @@
 ''' Ciclo de formación: '''
 Miércoles 3 de Junio lanzamiento del [[http://cdr.usla.org.ar/TallerDeProgramacion|Taller de Programación]]!!!
 
-''' Horarios 2015 ''' 
+''' Proyectos: ''' 
 Lunes y Miércoles a partir 16hs. Laboratorio Central de Electrónica Anexo (LCE Anexo: proyectos) y Laboratorio de Técnicas Digitales (LTD: talleres), Edif. Central, Planta Baja (confirmar las reuniones con los responsables de las actividades)
 
 Mas información en la sección [[Reuniones]].

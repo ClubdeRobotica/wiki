@@ -63,11 +63,11 @@ Charla informativa e introducción al taller.
 3ra Clase-Taller: 17/06/2015
 4ra Clase-Taller: 24/06/2015
 * Semana del 29/06/15 al 20/07/15 Examenes y Receso de invierno.
-5ra Clase-Taller: 29/07/2015
-6ra Clase-Taller: 05/08/2015
-7ra Clase-Taller: 12/08/2015
+5ra Clase-Taller: 05/08/2015
+6ra Clase-Taller: 12/08/2015
+7ra Clase-Taller: 19/08/2015
 Integración de los prácticos en un TP Final: RSL.
-8va a 10ma Clase-Taller: 12/08/2015;  19/08/2015;  26/08/2015;
+8va a 10ma Clase-Taller: 26/08/2015;  02/09/2015; 09/09/2015;
 Para terminar el TP Final: RSL.
 
 

@@ -7,7 +7,10 @@
 == Novedades ==
 {{{#!wiki note
 ''' Ciclo de formación: '''
-Miércoles 3 de Junio lanzamiento del [[http://cdr.usla.org.ar/TallerDeProgramacion|Taller de Programación]]!!! Reinicio de actividades: Miércoles 5 de Agosto.
+
+SE PASA EL REINICIO DEL TALLER DE PROGRAMACIÓN AL MIÉRCOLES 12/08 POR EL PARO DE TRANSPORTE
+
+Miércoles 3 de Junio lanzamiento del [[http://cdr.usla.org.ar/TallerDeProgramacion|Taller de Programación]]!!! Reinicio de actividades: Miércoles 12 de Agosto.
 
 ''' Proyectos: ''' 
 Lunes y Miércoles a partir 16hs. Laboratorio Central de Electrónica Anexo (LCE Anexo: proyectos) y Laboratorio de Técnicas Digitales (LTD: talleres), Edif. Central, Planta Baja (confirmar las reuniones con los responsables de las actividades)

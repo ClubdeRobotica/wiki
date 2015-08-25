@@ -29,7 +29,7 @@
 
 '''Bastidor'''
 
-||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Bastidor.JPG||width="450"}} ||
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:BastidorR.JPG||width="450"}} ||
 
 '''Gabinetes'''
 

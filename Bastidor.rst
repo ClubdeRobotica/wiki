@@ -27,6 +27,14 @@
 
 ||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:DSCN3013.JPG||width="450"}} ||
 
+'''Bastidor'''
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Bastidor.JPG||width="450"}} ||
+
+'''Gabinetes'''
+
+||<tablewidth="100%" tablestyle="text-align: left"100%  style="border:medium none; ;text-align: left"> {{attachment:Gabinetes.JPG||width="450"}} ||
+
 
 '''Proyecto padre'''
 

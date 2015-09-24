@@ -96,6 +96,9 @@ El tornillo sin fin hace girar el engranaje en un sentido o en el otro, dependie
 
 {{attachment:tornillosinfin.gif||width="300"}} {{attachment:sistemadireccion.gif||width="200"}}
 
+=== Video ===
+Se puede apreciar las distintas etapas del proyecto.
+Cabe aclarar que es un proyecto todavía en desarrollo.
 
 <<YouTube(id=qPFiN070zsg)>>
 

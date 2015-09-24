@@ -101,6 +101,6 @@ Se puede apreciar las distintas etapas del proyecto.
 Cabe aclarar que es un proyecto todavía en desarrollo.
 
 <<YouTube(id=qPFiN070zsg)>>
-
+(créditos de la edición del video para Laura. Muchas Gracias)
 ----
 [[RSL|Principal RSL]] | [[GruposRSL|Grupos RSL]]

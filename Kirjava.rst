@@ -97,7 +97,7 @@ El tornillo sin fin hace girar el engranaje en un sentido o en el otro, dependie
 {{attachment:tornillosinfin.gif||width="300"}} {{attachment:sistemadireccion.gif||width="200"}}
 
 
-<<YouTube(id=uZXlh5CuTjQ)>>
+<<YouTube(id=qPFiN070zsg)>>
 
 ----
 [[RSL|Principal RSL]] | [[GruposRSL|Grupos RSL]]

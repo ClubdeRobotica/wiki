@@ -7,6 +7,9 @@ Los ''Proyectos Independientes'' pueden ser propuestos, elegidos, iniciados y ll
 
 === En la incubadora ===
 
+
+[[SAP-NV | Sistema de alerta para personas no videntes]]: Luis Vazquez, Ezequiel Molina
+
 [[Impresora3D|Impresora 3D]]: Gonzalo B
 
 [[VANT|Vehículo Aéreo no Tripulado (VANT)]]: Marco AR

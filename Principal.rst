@@ -8,10 +8,10 @@
 {{{#!wiki note
 ''' Actividades 2016 '''
 
-Reuniones los dias Jueves de 16 a 18hs en el LCE-A
+Reuniones los días Jueves de 16 a 18hs en el LCE-A
 
 
-Mas información en la sección [[Reuniones]].
+
 }}}
 
 == ¿Cómo participar? ==

@@ -8,7 +8,7 @@
 {{{#!wiki note
 ''' Actividades 2016 '''
 
-Reuniones los días Jueves de 16 a 18hs en el LCE-A
+Reuniones los días Jueves de 16 a 18hs en el Laboratorio Central de Electrónica Anexo
 
 
 

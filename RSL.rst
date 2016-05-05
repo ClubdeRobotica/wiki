@@ -4,7 +4,12 @@
 
 <<TableOfContents()>>
 
-= Responsables =
+
+
+= Año 2015 = 
+
+
+== Responsables ==
 '''''Responsables del proyecto''' ''
 
  * [[NicolasIgnacio|Nicolás Ignacio]]
@@ -12,17 +17,14 @@
 
  . Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]]. ''
 
-= Grupos =
+== Grupos ==
  * ''[[GruposRSL|Grupos de Trabajo]] para el desarrollo de los RSL velocistas! ''
 
-= Noticias importantes y actividades =
- * ''El jueves 2 de mayo '''iniciamos las actividades del ciclo 2013'''. Nos reuniremos todos los jueves en el laboratorio central de electrónica, de 16:00hs a 18:15hs. Más adelante según los horarios disponibles, tal vez nos empecemos a juntar dos veces por semana. ''
 
- * El '''repositorio''' del proyecto está en '''''svn://cdrutnfrc.mooo.com/CdR-Principal/trunk/Proyectos/RSL''''' ante cualquier duda, en el link http://cdr.usla.org.ar/RedTrabajo se explica paso a paso como conectarse/trabajar con el repo.
-
+=== Interes general ===
  * Recomendamos ver los siguientes [[LinksRecomendadosRSL|links]] y bajar software libre para aprender, experimentar, investigar y realizar proyectos.
 
-= Introducción y objetivos =
+=== Introducción y objetivos ===
 ----
 Los RSL son robots que se caracterizan por seguir líneas trazadas en el piso. Son muy usados en la industria donde se requieren robots que se muevan por lugares bien definidos y de forma repetida. Estos agilizan el transporte de material de un lugar a otro dentro de una fábrica o lugar de almacenamiento tipo stock. Son muy rápidos y se caracterizan por la precisión y por su rigurosidad en seguir el camino trazado por la línea previamente definida, son programables, y trabajando varios en conjunto, se comunican entre sí para no colisionar en los momentos que comparten el trazado. Hoy en día el depósito/extracción de cajas/objetos se ve completamente automatizado por estos sistemas móviles, que reciben constantemente información de los paquetes que existen en stock y los requeridos por la gente, que generalemente hace los pedidos cómodamente desde sus casas vía web.
 

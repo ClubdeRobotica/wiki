@@ -25,6 +25,6 @@
 
  * '''De uso general'''
 
- . Procesador de texto, planilla de cálculo, diagramas de flujo, etc. http://www.openoffice.org/
+ . Procesador de texto, planilla de cálculo, diagramas de flujo, etc. http://www.libreoffice.org/
 
  . Para acceder al servidor y poder bajar la data del club http://tortoisesvn.net/

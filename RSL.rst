@@ -7,7 +7,6 @@
 '' ''
 
 = 2016 =
-----
 '' ''
  
  . Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]]. ''
@@ -43,7 +42,8 @@ A nivel académico, existen competencias a nivel nacional y mundial en las que p
 = Estado del Proyecto =
 ----
 
-==2016==
+== 2016 ==
+'' ''
 
 Se diseñará un chasis universal para producción en serie, ademas de un PCB universal.
 

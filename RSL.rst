@@ -6,18 +6,10 @@
 
 '' ''
 
-= 2015 =
+= 2016 =
 ----
 '' ''
  
-
-
-== Responsables ==
-'''''Responsables del proyecto''' ''
-
- * [[NicolasIgnacio|Nicolás Ignacio]]
- * [[HernanPaez|Hernán Paez]]
-
  . Los  que estén interesados en formar parte del proyecto, envien mail a la lista de correo del CdR, solicitando ser incluidos en la lista de mails donde informamos noticias y respondemos consultas: ''[[ListaGrupoRSL|Lista del Grupo RSL]]. ''
 
 == Grupos ==
@@ -50,6 +42,16 @@ A nivel académico, existen competencias a nivel nacional y mundial en las que p
 
 = Estado del Proyecto =
 ----
+
+==2016==
+
+Se diseñará un chasis universal para producción en serie, ademas de un PCB universal.
+
+
+
+
+=== Histórico ===
+
 '' En el año 2012 el proyecto se dividió en dos ramas, una que siguió la linea del 2011 gobernada por un microcontrolador PIC y apareció un nuevo circuito implementado por el grupo [[Kirjava]] apareciendo como una versión evolucionada del [[RSL analógico]] que se desarrolló en 2010.La misma está construida completamente con componentes discretos. Actualmente se siguen desarrollando las dos versiones. ''
 
 ''Las distintas versiones se pueden ver en las páginas de cada [[GruposRSL|Grupo de Desarrollo]] y en el repositorio del proyecto. ''

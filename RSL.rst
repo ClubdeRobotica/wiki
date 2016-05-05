@@ -70,7 +70,3 @@ Se diseñará un chasis universal para producción en serie, ademas de un PCB un
 
 ----
 '' ''
-
-= Desarrollo con Arduino =
-----
-'' ''

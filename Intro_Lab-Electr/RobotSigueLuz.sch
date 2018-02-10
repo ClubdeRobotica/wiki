@@ -1,0 +1,240 @@
+EESchema Schematic File Version 2  date sáb 31 ago 2013 01:42:00 ART
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 43  0
+EELAYER END
+$Descr A4 11700 8267
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "31 aug 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4000 4900 4000 4800
+Connection ~ 3750 4800
+Connection ~ 3800 2700
+Wire Wire Line
+	3800 2550 3800 2700
+Connection ~ 4700 2700
+Wire Wire Line
+	3550 2700 6350 2700
+Connection ~ 4000 4800
+Wire Wire Line
+	3350 2700 3350 4800
+Wire Wire Line
+	4000 4100 4000 4300
+Wire Wire Line
+	4700 4800 4700 3700
+Connection ~ 4000 2700
+Wire Wire Line
+	4700 2700 4700 2850
+Wire Wire Line
+	4700 3050 4700 3300
+Wire Wire Line
+	4150 4550 4150 4300
+Wire Wire Line
+	4150 4300 4000 4300
+Wire Wire Line
+	4000 3250 4000 3600
+Wire Wire Line
+	4400 3500 4000 3500
+Connection ~ 4000 3500
+Connection ~ 5650 3500
+Wire Wire Line
+	6050 3500 5650 3500
+Wire Wire Line
+	5650 3600 5650 3250
+Wire Wire Line
+	5800 4300 5650 4300
+Wire Wire Line
+	5800 4300 5800 4550
+Wire Wire Line
+	6350 3050 6350 3300
+Wire Wire Line
+	5650 2750 5650 2700
+Wire Wire Line
+	6350 2700 6350 2850
+Connection ~ 5650 2700
+Wire Wire Line
+	6350 3700 6350 4800
+Wire Wire Line
+	5650 4300 5650 4100
+Connection ~ 5650 4800
+Wire Wire Line
+	6350 4800 3350 4800
+Connection ~ 4700 4800
+Connection ~ 3750 4800
+Wire Wire Line
+	4000 2750 4000 2600
+Wire Wire Line
+	3750 5000 3750 4800
+$Comp
+L PWR_FLAG #FLG01
+U 1 1 522167DA
+P 4000 2600
+F 0 "#FLG01" H 4000 2870 30  0001 C CNN
+F 1 "PWR_FLAG" H 4000 2830 30  0000 C CNN
+	1    4000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L PWR_FLAG #FLG02
+U 1 1 522167BA
+P 4000 4900
+F 0 "#FLG02" H 4000 5170 30  0001 C CNN
+F 1 "PWR_FLAG" H 4000 5130 30  0000 C CNN
+	1    4000 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 5221679D
+P 3750 5000
+F 0 "#PWR03" H 3750 5000 30  0001 C CNN
+F 1 "GND" H 3750 4930 30  0001 C CNN
+	1    3750 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR04
+U 1 1 5221678C
+P 3800 2550
+F 0 "#PWR04" H 3800 2650 30  0001 C CNN
+F 1 "VCC" H 3800 2650 30  0000 C CNN
+	1    3800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_2 P3
+U 1 1 522166B2
+P 6700 2950
+F 0 "P3" V 6650 2950 40  0000 C CNN
+F 1 "Motor 2" V 6750 2950 40  0000 C CNN
+	1    6700 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R3
+U 1 1 522166B1
+P 5650 3000
+F 0 "R3" V 5730 3000 50  0000 C CNN
+F 1 "LDR" V 5650 3000 50  0000 C CNN
+	1    5650 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R4
+U 1 1 522166B0
+P 5650 3850
+F 0 "R4" V 5730 3850 50  0000 C CNN
+F 1 "470" V 5650 3850 50  0000 C CNN
+	1    5650 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L POT RV2
+U 1 1 522166AF
+P 5650 4550
+F 0 "RV2" H 5650 4450 50  0000 C CNN
+F 1 "25k" H 5650 4550 50  0000 C CNN
+	1    5650 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L NPN Q2
+U 1 1 522166AE
+P 6250 3500
+F 0 "Q2" H 6250 3350 50  0000 R CNN
+F 1 "NPN" H 6250 3650 50  0000 R CNN
+	1    6250 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L NPN Q1
+U 1 1 52216600
+P 4600 3500
+F 0 "Q1" H 4600 3350 50  0000 R CNN
+F 1 "NPN" H 4600 3650 50  0000 R CNN
+	1    4600 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L POT RV1
+U 1 1 522165E3
+P 4000 4550
+F 0 "RV1" H 4000 4450 50  0000 C CNN
+F 1 "25k" H 4000 4550 50  0000 C CNN
+	1    4000 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L R R2
+U 1 1 522165DC
+P 4000 3850
+F 0 "R2" V 4080 3850 50  0000 C CNN
+F 1 "470" V 4000 3850 50  0000 C CNN
+	1    4000 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R1
+U 1 1 522165D5
+P 4000 3000
+F 0 "R1" V 4080 3000 50  0000 C CNN
+F 1 "LDR" V 4000 3000 50  0000 C CNN
+	1    4000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_2 P2
+U 1 1 522165AB
+P 5050 2950
+F 0 "P2" V 5000 2950 40  0000 C CNN
+F 1 "Motor 1" V 5100 2950 40  0000 C CNN
+	1    5050 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_2 P1
+U 1 1 522165A2
+P 3450 2350
+F 0 "P1" V 3400 2350 40  0000 C CNN
+F 1 "CONN_2" V 3500 2350 40  0000 C CNN
+	1    3450 2350
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC

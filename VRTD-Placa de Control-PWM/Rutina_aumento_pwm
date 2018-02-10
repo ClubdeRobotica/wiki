@@ -1,0 +1,58 @@
+// Rutina de trabajo para aumentar el pwm en 10%
+// Datos a ingresar W,A,S,D
+// Rutina para W : Debe aumentar en 10% el duty osea de 0 a 100%, por lo tanto son 10 veces
+int duty=0;
+main(){
+	char sel;
+
+sel=getc(); //leo el puerto
+
+switch (sel){
+	case 'w':
+		duty++;
+		sduty(); // hago el cambio del duty cycle
+		if (duty >= 10 ){
+		printf("El ciclo de trabajo esta al 100%, no se puede aumentar mas");
+		duty=10;
+		}
+		break;
+	case 's': 
+	duty--;
+	if (duty <=0){
+	printf("El ciclo de trabajo esta al 0%, no se puede disminuir mas");
+	break;
+}
+}
+
+} //fin main
+void sduty (){                    // ADAPTAR A PARTIR DEL 10% - DEPENDIENDO DE LA FRECUENCIA DE TRABAJO
+switch(duty){ 
+	case 0: //duty 0%
+	CCPR1L=0b00000000;
+	CCP1CON=0b00001100;;
+	break;
+	case 1: //duty 10%
+	break;
+	case 2: //duty 20%
+	break;
+	case 3: //duty 30%
+	break;
+	case 4: //duty 40%
+	break;
+	case 5: //duty 50%
+	break;
+	case 6: //duty 60%
+	break;
+	case 7: //duty 70%
+	break;
+	case 8: //duty 80%
+	break;
+	case 9: //duty 90%
+	break;
+	case 10: //duty 100%
+	break;
+
+}
+}
+// Armar una funcion sduty (switch duty) la cual me cambia el ciclo de trabajo
+// que reciba como dato el valor de duty

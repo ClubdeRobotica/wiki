@@ -1,0 +1,12 @@
+Placa Pic V1.0
+
+Tiene un capacitor filtro 47uF en el conector VCC-GND (deberia ser electrolitico, pero puse uno comun por no saber el footprint, espero para cambiarlo)
+
+--
+
+Falta definir: 
+
+*Exactamente que conectores se van a usar, ahora estan unos similares a los que se usa en la fuente del Ing Cagnolo (SIL-100)
+
+*Que footprint de capacitor electrolitico iria?
+

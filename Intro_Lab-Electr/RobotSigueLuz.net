@@ -1,0 +1,79 @@
+# EESchema Netlist Version 1.1 created  sáb 31 ago 2013 00:53:39 ART
+(
+ ( /522165A2 SIL-2 P1 CONN_2
+  ( 1 GND )
+  ( 2 VCC )
+ )
+ ( /522165AB SIL-2 P2 Motor_1
+  ( 1 VCC )
+  ( 2 N-000004 )
+ )
+ ( /522166B2 SIL-2 P3 Motor_2
+  ( 1 VCC )
+  ( 2 N-000007 )
+ )
+ ( /52216600 TO220_VERT Q1 NPN
+  ( 1 GND )
+  ( 2 N-000005 )
+  ( 3 N-000004 )
+ )
+ ( /522166AE TO220_VERT Q2 NPN
+  ( 1 GND )
+  ( 2 N-000008 )
+  ( 3 N-000007 )
+ )
+ ( /522165D5 R3-LARGE_PADS R1 LDR
+  ( 1 VCC )
+  ( 2 N-000005 )
+ )
+ ( /522165DC R3-LARGE_PADS R2 470
+  ( 1 N-000005 )
+  ( 2 N-000003 )
+ )
+ ( /522166B1 R3-LARGE_PADS R3 LDR
+  ( 1 VCC )
+  ( 2 N-000008 )
+ )
+ ( /522166B0 R3-LARGE_PADS R4 470
+  ( 1 N-000008 )
+  ( 2 N-000001 )
+ )
+ ( /522165E3 RV2 RV1 25k
+  ( 1 N-000003 )
+  ( 2 N-000003 )
+  ( 3 GND )
+ )
+ ( /522166AF RV2 RV2 25k
+  ( 1 N-000001 )
+  ( 2 N-000001 )
+  ( 3 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}

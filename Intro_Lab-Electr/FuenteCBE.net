@@ -1,0 +1,217 @@
+# EESchema Netlist Version 1.1 created  vie 16 ago 2013 00:10:30 ART
+(
+ ( /4C91023B CP36V C5 4700uF
+  ( 1 N-000002 )
+  ( 2 VDD )
+ )
+ ( /4C92A515 C1V7 C16 100uF
+  ( 1 N-000006 )
+  ( 2 VDD )
+ )
+ ( /4C92A52C C2 C17 100nF
+  ( 1 N-000006 )
+  ( 2 VDD )
+ )
+ ( /4C92E608 C2 C19 100nF
+  ( 1 N-000013 )
+  ( 2 VDD )
+ )
+ ( /4C92E82F C2 C20 100nF
+  ( 1 N-000013 )
+  ( 2 VDD )
+ )
+ ( /4C92E832 C1V5 C21 22uF
+  ( 1 N-000013 )
+  ( 2 VDD )
+ )
+ ( /4C92E8D7 C2 C22 100nF
+  ( 1 N-000011 )
+  ( 2 VDD )
+ )
+ ( /4C92E9D6 C2 C23 100nF
+  ( 1 N-000011 )
+  ( 2 VDD )
+ )
+ ( /4C92E9D7 C1V5 C24 22uF
+  ( 1 N-000011 )
+  ( 2 VDD )
+ )
+ ( /4C92EA2B C2 C25 100nF
+  ( 1 N-000003 )
+  ( 2 VDD )
+ )
+ ( /4C90F637 bornier4 D1 1000V_x_6A
+  ( 1 VDD )
+  ( 2 N-000007 )
+  ( 3 N-000002 )
+  ( 4 N-000008 )
+ )
+ ( /4C92E645 LEDV D3 LED
+  ( 1 N-000013 )
+  ( 2 N-000005 )
+ )
+ ( /4C92E8D8 LEDV D4 LED
+  ( 1 N-000011 )
+  ( 2 N-000012 )
+ )
+ ( /4C92EA2C LEDV D5 LED
+  ( 1 N-000003 )
+  ( 2 N-000010 )
+ )
+ ( /520D37DC FUSE5-20 F1 FUSE
+  ( 1 N-000002 )
+  ( 2 N-000001 )
+ )
+ ( /5193B9BA bornier2 P1 Secundario_transformador
+  ( 1 N-000007 )
+  ( 2 N-000008 )
+ )
+ ( /4C92E673 SIL-2 P3 12V
+  ( 1 N-000013 )
+  ( 2 VDD )
+ )
+ ( /4C92E8D9 SIL-2 P4 9V
+  ( 1 N-000011 )
+  ( 2 VDD )
+ )
+ ( /4C92EA2D SIL-2 P5 5V
+  ( 1 N-000003 )
+  ( 2 VDD )
+ )
+ ( /4C92A551 R7 R8 4.7x2w
+  ( 1 N-000006 )
+  ( 2 N-000009 )
+ )
+ ( /4C92E6AA R4 R9 2K2
+  ( 1 VDD )
+  ( 2 N-000005 )
+ )
+ ( /4C92E8DA R4 R10 2K2
+  ( 1 VDD )
+  ( 2 N-000012 )
+ )
+ ( /4C92EA2E R4 R11 2K2
+  ( 1 VDD )
+  ( 2 N-000010 )
+ )
+ ( /4C92EE11 SW_SPDT SW1 salidas_fijas
+  ( 1 N-000009 )
+  ( 2 N-000001 )
+ )
+ ( /502E992E LM78XXV U2 7812
+  ( GND VDD )
+  ( VI N-000006 )
+  ( VO N-000013 )
+ )
+ ( /502E9957 LM78XXV U3 7809
+  ( GND VDD )
+  ( VI N-000013 )
+  ( VO N-000011 )
+ )
+ ( /502E9988 LM78XXV U4 7805
+  ( GND VDD )
+  ( VI N-000011 )
+  ( VO N-000003 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C5
+ CP*
+ SM*
+$endlist
+$component C16
+ CP*
+ SM*
+$endlist
+$component C17
+ SM*
+ C?
+ C1-1
+$endlist
+$component C19
+ SM*
+ C?
+ C1-1
+$endlist
+$component C20
+ SM*
+ C?
+ C1-1
+$endlist
+$component C21
+ CP*
+ SM*
+$endlist
+$component C22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C23
+ SM*
+ C?
+ C1-1
+$endlist
+$component C24
+ CP*
+ SM*
+$endlist
+$component C25
+ SM*
+ C?
+ C1-1
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}

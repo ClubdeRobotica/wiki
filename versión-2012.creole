@@ -1,0 +1,105 @@
+
+
+= Responsables del Proyecto =
+La versión 2013 estará a cargo de dos grupos de trabajo , para conocer a sus integrantes ingrese  [[GruposVRTD|aquí]]
+
+----
+= Objetivo =
+El objetivo de este proyecto consiste en el desarrollo de un vehículo con tracción diferencial, capaz de moverse por cualquier terreno, informando al controlador sobre el estado del mismo.
+
+Fase 1: Como primera versión, se desarrollará el hardware mas elemental para que el microntrolador pueda controlar dos motores de corriente continua y todos los sensores necesarios para conocer la posición y el estado del robot. Esto es, se construirá un puente H para el control de los motores y una serie de circuitos para conocer el estado de la batería y la orientación espacial del robot con respecto al norte magnetico de la tierra. Además se agregarán sensores de distancia para evitar que el vehículo sufra choques. Todos los datos recolectados deben ser adaptados y enviados a una PC para ser interpretados por el usuario.
+
+Fase 2: La segunda etapa del proyecto se basará en agregar el hardware necesario para que el robot pueda ir de un punto a otro de manera autonoma, se deberán agregar encoders en las orugas para conocer que distancia han recorrido y además se deberá desarrollar un software que interprete los datos recolectados en la fase 1. Es necesario tambien, implementar un sistema de comunicación inalámbrica para eleminiar todo tipo de cables entre el robot y el controlador.
+
+Todos los desarrollos se llevarán adelante utilizando los contenidos vistos en las Materías de segundo, cuarto y quinto año de Ingeniería Electrónica
+
+----
+= Estado del Proyecto =
+Actualmente en el Proyecto se está completando la Fase 1.
+
+{{{#!wiki caution
+Video en Youtube
+<<YouTube(id=OTiEO1wyLkQ)>>
+}}}
+----
+== Hardware ==
+El hardware desarrollado hasta ahora consiste en los modulos individuales para el desarrollo de la fase 1
+
+{{{#!wiki caution
+Descripción del hardware utilizado [[Hardware|Hardware ]]
+}}}
+----
+== Software de desarrollo ==
+Este proyecto apoya y promueve el uso de [[http://es.wikipedia.org/wiki/Software_libre|Software Libre]], por lo tanto, las herramientas utilizadas para su desarrollo concuerdan con dicha filosofía.
+
+Las herramientas utilizadas son :
+
+ *
+ [[http://es.wikipedia.org/wiki/KiCad|Kicad]] -> Diseño de circuitos.
+
+
+ *
+ [[http://es.wikipedia.org/wiki/Inkscape|Inkscape]] -> Edición de imágenes.
+
+
+ *
+ [[http://www.geany.org/|Geany]] -> IDE de para C/C++ y otros lenguajes
+
+
+ *
+ [[HerramientasSoft|Software de Programación]] -> Guía de instalación y Configuracion del Software utilizado en el proyecto
+
+
+----
+== Materias Integradas ==
+Para el desarrollo del proyecto hasta ahora se han aplicado las siguientes materias:
+
+ * Informática II
+
+ * Electrónica Aplicada II
+
+ * Técnicas Digitales II
+
+ * Medidas Electrónicas I
+
+----
+== Tareas Concretadas ==
+ * Puente H (05/10/2013)
+
+ * Montaje del control cableado (05/10/13)
+
+ * Montaje de Stellaris Launchpad (31/01/14)
+
+ * Brújula Electrónica
+
+ * Circuito de control de Batería
+
+ * Modulos de Ultrasonido
+
+ * Desarrollo del Firmware de la Fase 1
+
+----
+== Tareas Pendientes ==
+ * Diseño del PCB de los Circitos de la Fase 1
+
+ * Desarrollo del Programa de Visualizacion de datos en la PC
+
+ * Comunicación Inalámbrica
+
+ * Circuito de Encoder Para las Orugas
+
+ * Desarrollo del Sistema de Gestión de Energía
+
+ * Cargador de Batería
+
+----
+== Histórico de reuniones ==
+
+    
+** * 14/12/2013 ** --> Prueba de algoritmo para sensor ultrasónico. 
+** * 30/11/2013 ** --> 
+** * 23/11/2013 ** --> 
+** * 05/10/2013 ** --> Montaje del control cableado, prueba de motores, pruebas de programación. ** * 28/09/2013 ** --> Trabajos sobre chasis y pruebas de programación. 
+** * 14/09/2013 ** --> Revisión puente H, Diseño placa madre, herramientas de programación. ** * 07/09/2013 ** --> Pruebas puente H, planificación placa madre. 
+** * 25/08/2013 ** --> Definición y planificación de tareas. 
+** * 31/08/2013 ** --> Construcción Puente H y Kit ARM 7, planificación de la distribución espacial de los componentes.

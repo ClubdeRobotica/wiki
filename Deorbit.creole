@@ -1,0 +1,39 @@
+> Pagina en desarrollo
+
+== Introducción
+
+En este trabajo se presenta un sistema de desorbitación, mecánicamente sencillo y escalable para ser acoplado a microsatélites. El sistema permite aumentar el área de drag del satélite por medio de una vela de área rectangular capaz de expandirse en una proporción de 4:1.
+Para el diseño se utilizó como referencia un satélite hexagonal con una diagonal de 0.8m y una masa de 50kg, obteniendo una desorbitación completa al transcurrir 9 años desde la activación del dispositivo.
+
+|d|
+|Fig. 1|
+
+== Deorbit Device
+El dispositivo propuesto consiste de cuatro brazos telescópicos, conformado cada uno de ellos por tres cilindros huecos de aluminio. Alrededor de cada uno de estos brazos, se colocará un arrollamiento de cobre, por el que se hará circular una corriente para empujar, con la ayuda de imanes, los cilindros interiores hacia afuera. Entre estos brazos, se coloca una membrana que será la encargada de incrementar el área efectiva de drag. 
+
+|d||s|
+||Fig. 2||
+
+En la Fig. 2 se muestra el dispositivo ya acoplado a un microsatélite. Para este caso particular, se utilizó un satélite de 70 cm de lado, cuyo área inicial es menor a 0.5m2, logrando un área final de 7.29m2 que hará caer al satélite en unos 9 años como se mostró en la figura 1.
+
+||||
+|(a)|(b)|(c)|
+||Fig. 3||
+
+== Deployment Mechanism
+||
+|Fig. 4|
+En la figura 5 se muestra el proceso de despliegue. En un primer momento, se hace circular por el devanado de cobre un pulso de corriente Ia, en sentido perpendicular al papel (la (x) indica que la corriente entra al papel y el (·) indica que la corriente sale) como se muestra en la Fig. 4a, esta corriente generará en el interior del solenoide un campo magnético representado por las flechas rojas. La polaridad opuesta del imán A, empuja el tubo interior hacia la derecha, en el sentido de la flecha verde, este proceso se repite varias veces, hasta que el cilindro interior haga tope con el final del cilindro intermedio. La polaridad del imán B mantendrá al tubo intermedio fijo en su posición.
+Una vez completado el paso anterior, se invierte el sentido de la corriente Ia, como se puede ver en la Fig. 4b, en este caso, el sentido del campo magnético también se invierte, por lo que ahora el imán B reacciona a él, moviendo el cilindro intermedio hacia la derecha, hasta hacer tope al final del cilindro exterior.
+
+||||
+|Step (a)||Step (b)|
+||Fig. 5||
+
+== Control
+El control del dispositivo puede dividirse en dos etapas: en la primera cuando el satélite esté operativo, el dispositivo permanece en modo dormido y en una segunda etapa el dispositivo despierta y se activa.
+Cuando el satélite permanece operativo es necesario asegurarse que el dispositivo permanezca en estado de reposo, por lo que se utilizará una señal de control, proveniente del mismo satélite, para desactivar el mecanismo cada cierto tiempo.
+Al final de la vida útil del satélite, no será necesario que el satélite active el dispositivo, pues la ausencia de la señal de control durante un periodo mayor a 24 hs, hará que el dispositivo se active por sí solo.
+En la primer etapa, para mantener el dispositivo apagado, utilizaremos un contador electrónico construido con flip-flop que contará hasta 16, la señal de Clock para este contador, proviene de la transición entre la noche y el día, es decir, por cada amanecer el contador se incrementa en uno. Considerando que un satélite en la órbita LEO demora aproximadamente 90 minutos en dar una vuelta alrededor de la tierra, este contador demoraría 24 horas en completar una cuenta. Adicionalmente, el contador cuenta con una señal de Reset que deberá ser enviada por el satélite cada un tiempo menor a 24 hs.
+La segunda etapa, se inicia cuando el satélite se vuelve no cooperativo, bajo estas condiciones no existirá la señal de Reset, pero el contador seguirá recibiendo la señal de Clock cada 90 minutos y transcurridas las 24 horas luego del último pulso de Reset, el dispositivo se activará.
+Para mover el dispositivo es necesario contar con una fuente capaz de entregar una gran cantidad de corriente, es por esto que se decidió generar una serie de pulsos de alta intensidad por medio de un banco de capacitores. La energía necesaria para que el sistema funcione, puede provenir de los paneles solares del propio satélite o se puede colocar una batería extra que se cargará durante la vida útil del satélite.
